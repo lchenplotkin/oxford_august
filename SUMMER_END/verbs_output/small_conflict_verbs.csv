@@ -1,0 +1,11 @@
+headword,strong_forms,weak_forms,unclear_forms,strong_count,weak_count,unclear_count,classification
+biginnen,begonne(1); bigonne(12),,bigon(1),13,0,1,small_conflict
+comen,come(36); comen(17); ycomen(4); icomen(1); ycome(3),,com(2),61,0,2,small_conflict
+drauen,ydrawe(5); drawe(2),,draw(1),7,0,1,small_conflict
+forlesen,forlore(1),,forlorn(1),1,0,1,small_conflict
+gon,gane(1),,goon(26); go(4); gon(7); agon(1),1,0,38,small_conflict
+knouen,knowen(9); knowe(4),,know(1),13,0,1,small_conflict
+sheren,yshore(1),,shorn(1),1,0,1,small_conflict
+slen,slawen(1); slawe(6); slaine(1); yslawe(1),,slain(49); yslain(5),9,0,54,small_conflict
+stelen,stole(3),,stoln(2),3,0,2,small_conflict
+sweren,swore(1); yswore(1),,sworn(16); ysworn(5),2,0,21,small_conflict

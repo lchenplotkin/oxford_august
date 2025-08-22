@@ -1,0 +1,47 @@
+Oxford vs Riverside Comparison Analysis - Complete
+==================================================
+
+Comparison Summary:
+weak_no_e_all: Oxford=39, Riverside=28, Both=50
+weak_no_e_strict: Oxford=28, Riverside=29, Both=40
+plural_no_e_all: Oxford=5, Riverside=7, Both=18
+plural_no_e_strict: Oxford=3, Riverside=1, Both=2
+strong_with_e_all: Oxford=82, Riverside=26, Both=1281
+strong_with_e_strict: Oxford=17, Riverside=17, Both=516
+strong_with_e_all_filtered: Oxford=397, Riverside=19, Both=390
+strong_with_e_strict_filtered: Oxford=110, Riverside=12, Both=202
+
+Files generated in this directory:
+- comparison_summary.csv - Overall comparison statistics
+- comparison_summary.docx - Detailed comparison summary document
+- both_weak_plural_exceptions.docx - Weak & plural exceptions in both texts
+- both_strong_exceptions.docx - Strong form exceptions in both texts
+- oxford_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Oxford
+- oxford_only_strong_exceptions.docx - Strong form exceptions only in Oxford
+- riverside_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Riverside
+- riverside_only_strong_exceptions.docx - Strong form exceptions only in Riverside
+- oxford_only_weak_no_e_all.csv - Exceptions found only in Oxford
+- riverside_only_weak_no_e_all.csv - Exceptions found only in Riverside
+- both_texts_weak_no_e_all.csv - Exceptions found in both texts
+- oxford_only_weak_no_e_strict.csv - Exceptions found only in Oxford
+- riverside_only_weak_no_e_strict.csv - Exceptions found only in Riverside
+- both_texts_weak_no_e_strict.csv - Exceptions found in both texts
+- oxford_only_plural_no_e_all.csv - Exceptions found only in Oxford
+- riverside_only_plural_no_e_all.csv - Exceptions found only in Riverside
+- both_texts_plural_no_e_all.csv - Exceptions found in both texts
+- oxford_only_plural_no_e_strict.csv - Exceptions found only in Oxford
+- riverside_only_plural_no_e_strict.csv - Exceptions found only in Riverside
+- both_texts_plural_no_e_strict.csv - Exceptions found in both texts
+- oxford_only_strong_with_e_all.csv - Exceptions found only in Oxford
+- riverside_only_strong_with_e_all.csv - Exceptions found only in Riverside
+- both_texts_strong_with_e_all.csv - Exceptions found in both texts
+- oxford_only_strong_with_e_strict.csv - Exceptions found only in Oxford
+- riverside_only_strong_with_e_strict.csv - Exceptions found only in Riverside
+- both_texts_strong_with_e_strict.csv - Exceptions found in both texts
+- oxford_only_strong_with_e_all_filtered.csv - Exceptions found only in Oxford
+- riverside_only_strong_with_e_all_filtered.csv - Exceptions found only in Riverside
+- both_texts_strong_with_e_all_filtered.csv - Exceptions found in both texts
+- oxford_only_strong_with_e_strict_filtered.csv - Exceptions found only in Oxford
+- riverside_only_strong_with_e_strict_filtered.csv - Exceptions found only in Riverside
+- both_texts_strong_with_e_strict_filtered.csv - Exceptions found in both texts
+- comparison_analysis_log.txt - This log file

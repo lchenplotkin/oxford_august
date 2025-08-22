@@ -1,0 +1,34 @@
+Strong vs Weak Verb Classification Summary
+Using Vowel Changes for Preterite Classification
+==================================================
+
+Classification Rules:
+1. Past Participle:
+   - Strong: ends in -en or -e
+   - Weak: ends in -t or -d
+   - Unclear: other endings
+2. Preterite:
+   - Strong: root vowel differs from infinitive
+   - Weak: ends in -t, -d, -te, or -de
+   - Unclear: no vowel change and doesn't end in dental
+3. Verbs in the known strong list are automatically classified as strong
+
+Total verbs analyzed: 717
+Strong verbs: 133
+  - Known strong verbs: 64
+  - Newly identified strong verbs: 69
+Weak verbs: 499
+Verbs needing review: 85
+
+Total occurrences:
+  Strong verb forms: 11642
+  Weak verb forms: 4701
+  Unclear verb forms: 6869
+  Total: 23212
+
+Files generated:
+- strong_verbs.csv: Verbs classified as strong
+- weak_verbs.csv: Verbs classified as weak
+- verbs_to_clarify.csv: Verbs that need further review
+- verb_forms_simple.csv: Simple summary of all verb forms
+- verb_classification_summary.txt: This summary file

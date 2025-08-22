@@ -1,0 +1,18 @@
+headword,strong_forms,weak_forms,unclear_forms,strong_count,weak_count,unclear_count,classification
+bisetten,besette(1),beset(3); biset(7),,1,10,0,conflict
+bitiden,bitidde(1),bitid(2); betid(3),,1,5,0,conflict
+casten,casten(1),ycast(1); cast(1),,1,2,0,conflict
+connen,ykoude(1),coud(1),,1,1,0,conflict
+drenchen,dreinte(1),drent(1); dreint(2),,1,3,0,conflict
+faren,faren(3); fare(6); yfare(2),ferd(2),,11,2,0,conflict
+finden,founden(8); founde(21),fond(1); found(1),,29,2,0,conflict
+haven,hadde(1),had(21),,1,21,0,conflict
+heren,herde(2),herd(65),,2,65,0,conflict
+iseien,ysaide(1),ysaid(1); said(1),,1,2,0,conflict
+iwerken,ywroghte(1),ywrought(5); ywroght(2),,1,7,0,conflict
+kissen,kiste(1),kist(1),,1,1,0,conflict
+paien,paide(1),payed(2); ypaied(2); paid(2); paied(2); ypayed(1),,1,9,0,conflict
+speden,spedde(1),sped(3),,1,3,0,conflict
+tellen,tolde(4); ytolde(1),told(48); tald(1),,5,49,0,conflict
+wepen,wepen(1); wopen(2),wept(2),,3,2,0,conflict
+werken,wroughte(1),wrought(6); wroght(11),,1,17,0,conflict
