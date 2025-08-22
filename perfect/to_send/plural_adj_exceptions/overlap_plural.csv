@@ -1,0 +1,3 @@
+headword,word,line_number,filename,context,is_elided,is_final,text_type,oxford_context,riverside_context
+proud,proud,The Monk's Tale 2167,data/oxford_txts/MkT_oxford.txt,"This king of kinges proud was and elaat,°",False,False,BOTH,"This king of kinges proud was and elaat,°",This kyng of kynges proud was and elaat
+god,good,House of Fame 1616,data/oxford_txts/HF_oxford.txt,Good werkes shal yow noght availe°,False,False,BOTH,Good werkes shal yow noght availe°,Good werkes shal yow noght availle

@@ -1,0 +1,22 @@
+Chaucer OXFORD Adjective Declension Analysis - Complete
+==================================================
+
+Total adjectives found: 798
+Monosyllabic adjectives found: 247
+Always -e adjectives found: 95
+
+Files generated in this directory:
+- oxford_weak_no_e_all_instances.csv - All weak declension forms without -e
+- oxford_weak_no_e_strict_instances.csv - Strict weak declension exceptions
+- oxford_plural_no_e_all_instances.csv - All plural forms without -e
+- oxford_plural_no_e_strict_instances.csv - Strict plural exceptions
+- oxford_strong_with_e_all_instances.csv - All strong forms with -e
+- oxford_strong_with_e_strict_instances.csv - Strict strong form exceptions
+- oxford_strong_with_e_all_filtered_instances.csv - Strong forms with -e (filtered)
+- oxford_strong_with_e_strict_filtered_instances.csv - Strict strong exceptions (filtered)
+- oxford_summary_statistics.csv - Overall counts
+- oxford_monosyllabic_adjectives.csv - Monosyllabic adjectives found
+- oxford_always_e_adjectives.csv - Adjectives that always end in -e
+- oxford_analysis_summary.docx - Summary statistics document
+- oxford_declension_exceptions.docx - Detailed exception examples
+- oxford_analysis_log.txt - This log file

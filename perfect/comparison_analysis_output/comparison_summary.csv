@@ -1,0 +1,9 @@
+Category,Oxford Only,Riverside Only,Both Texts
+weak_no_e_all,39,28,50
+weak_no_e_strict,28,29,40
+plural_no_e_all,5,7,18
+plural_no_e_strict,3,1,2
+strong_with_e_all,82,26,1281
+strong_with_e_strict,17,17,516
+strong_with_e_all_filtered,397,19,390
+strong_with_e_strict_filtered,110,12,202

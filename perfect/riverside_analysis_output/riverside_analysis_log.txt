@@ -1,0 +1,22 @@
+Chaucer RIVERSIDE Adjective Declension Analysis - Complete
+==================================================
+
+Total adjectives found: 798
+Monosyllabic adjectives found: 247
+Always -e adjectives found: 98
+
+Files generated in this directory:
+- riverside_weak_no_e_all_instances.csv - All weak declension forms without -e
+- riverside_weak_no_e_strict_instances.csv - Strict weak declension exceptions
+- riverside_plural_no_e_all_instances.csv - All plural forms without -e
+- riverside_plural_no_e_strict_instances.csv - Strict plural exceptions
+- riverside_strong_with_e_all_instances.csv - All strong forms with -e
+- riverside_strong_with_e_strict_instances.csv - Strict strong form exceptions
+- riverside_strong_with_e_all_filtered_instances.csv - Strong forms with -e (filtered)
+- riverside_strong_with_e_strict_filtered_instances.csv - Strict strong exceptions (filtered)
+- riverside_summary_statistics.csv - Overall counts
+- riverside_monosyllabic_adjectives.csv - Monosyllabic adjectives found
+- riverside_always_e_adjectives.csv - Adjectives that always end in -e
+- riverside_analysis_summary.docx - Summary statistics document
+- riverside_declension_exceptions.docx - Detailed exception examples
+- riverside_analysis_log.txt - This log file
