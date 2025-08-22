@@ -1,32 +1,47 @@
 headword,word,line_number,filename,context,is_elided,is_final,text_type
-long,longe,Book of the Duchess 20,data/riverside_cats/BD_riv.cat,Nat longe tyme to endure,False,False,RIVERSIDE
-olde,olde,Book of the Duchess 53,data/riverside_cats/BD_riv.cat,That clerkes had in olde tyme,False,False,RIVERSIDE
-long,longe,Book of the Duchess 79,data/riverside_cats/BD_riv.cat,Hom for it was a longe terme,False,False,RIVERSIDE
-wel,wele,Book of the Duchess 82,data/riverside_cats/BD_riv.cat,It was not wele he dwelte so,False,False,RIVERSIDE
-swete,swete,Book of the Duchess 108,data/riverside_cats/BD_riv.cat,A mercy swete lady dere,False,False,RIVERSIDE
-pure,pure,Book of the Duchess 259,data/riverside_cats/BD_riv.cat,I wol do peynte with pure gold,False,False,RIVERSIDE
-glad,glade,Book of the Duchess 338,data/riverside_cats/BD_riv.cat,With many glade gilde stremes,False,False,RIVERSIDE
-cler,clere,Book of the Duchess 340,data/riverside_cats/BD_riv.cat,Blew bryght clere was the ayr,False,False,RIVERSIDE
-smothe,smothe,Book of the Duchess 394,data/riverside_cats/BD_riv.cat,And leyde al smothe doun hys heres,False,False,RIVERSIDE
-grene,grene,Book of the Duchess 398,data/riverside_cats/BD_riv.cat,Doun by a floury grene wente,False,False,RIVERSIDE
-huge,huge,Book of the Duchess 447,data/riverside_cats/BD_riv.cat,To an ook an huge tree,False,False,RIVERSIDE
-pure,pure,Book of the Duchess 490,data/riverside_cats/BD_riv.cat,The blood was fled for pure drede,False,False,RIVERSIDE
-god,goode,Book of the Duchess 560,data/riverside_cats/BD_riv.cat,Graunt mercy goode frend quod he,False,False,RIVERSIDE
-noble,noble,Book of the Duchess 834,data/riverside_cats/BD_riv.cat,So noble port and meyntenaunce,False,False,RIVERSIDE
-god,goode,Book of the Duchess 860,data/riverside_cats/BD_riv.cat,Debonaire goode glade and sadde,False,False,RIVERSIDE
-sobre,sobre,Book of the Duchess 880,data/riverside_cats/BD_riv.cat,She nas to sobre ne to glad,False,False,RIVERSIDE
-god,goode,Book of the Duchess 891,data/riverside_cats/BD_riv.cat,But goode folk over al other,False,False,RIVERSIDE
-softe,softe,Book of the Duchess 919,data/riverside_cats/BD_riv.cat,And which a goodly softe speche,False,False,RIVERSIDE
-god,goode,Book of the Duchess 948,data/riverside_cats/BD_riv.cat,And goode faire White she het,False,False,RIVERSIDE
-fair,faire,Book of the Duchess 948,data/riverside_cats/BD_riv.cat,And goode faire White she het,False,False,RIVERSIDE
-muche,moche,Book of the Duchess 986,data/riverside_cats/BD_riv.cat,Had as moche debonairte,False,False,RIVERSIDE
-long,longe,Book of the Duchess 1148,data/riverside_cats/BD_riv.cat,Noght longe tyme leve hyt wel,False,False,RIVERSIDE
-ofte,ofte,Book of the Duchess 1158,data/riverside_cats/BD_riv.cat,And ofte tyme I song hem loude,False,False,RIVERSIDE
-muche,moche,Book of the Duchess 1197,data/riverside_cats/BD_riv.cat,So moche beaute trewely,False,False,RIVERSIDE
-pure,pure,Book of the Duchess 1209,data/riverside_cats/BD_riv.cat,In my tale for pure fere,False,False,RIVERSIDE
-pure,pure,Book of the Duchess 1212,data/riverside_cats/BD_riv.cat,Softe and quakynge for pure drede,False,False,RIVERSIDE
-pure,pure,Book of the Duchess 1251,data/riverside_cats/BD_riv.cat,For pure fere but stal away,False,False,RIVERSIDE
-riche,ryche,Book of the Duchess 1319,data/riverside_cats/BD_riv.cat,Be Seynt Johan on a ryche hil,False,False,RIVERSIDE
+tender,tendre,The Prioress' Tale 524,data/riverside_cats/PrT_riv.cat,For he so yong and tendre was of age,False,False,RIVERSIDE
+prive,privee,The Prioress' Tale 568,data/riverside_cats/PrT_riv.cat,That in an aleye hadde a privee place,False,False,RIVERSIDE
+ded,dede,Troilus and Criseyde; Book II 52,data/riverside_cats/TC2_riv.cat,Ben quike agayn that wynter dede made,False,False,RIVERSIDE
+dere,deere,Troilus and Criseyde; Book II 122,data/riverside_cats/TC2_riv.cat,Now uncle deere quod she telle it us,False,False,RIVERSIDE
+fremed,fremde,Troilus and Criseyde; Book II 248,data/riverside_cats/TC2_riv.cat,Lat be to me youre fremde manere speche,False,False,RIVERSIDE
+lef,leve,Troilus and Criseyde; Book II 251,data/riverside_cats/TC2_riv.cat,And seyde Gladly leve nece dere,False,False,RIVERSIDE
+wise,wise,Troilus and Criseyde; Book II 317,data/riverside_cats/TC2_riv.cat,The goode wise worthi fresshe and free,False,False,RIVERSIDE
+long,longe,Troilus and Criseyde; Book II 507,data/riverside_cats/TC2_riv.cat,This other day naught gon ful longe while,False,False,RIVERSIDE
+juste,juste,Troilus and Criseyde; Book II 527,data/riverside_cats/TC2_riv.cat,Ledest the fyn by juste purveiaunce,False,False,RIVERSIDE
+dere,dere,Troilus and Criseyde; Book II 591,data/riverside_cats/TC2_riv.cat,O mercy dere nece anon quod he,False,False,RIVERSIDE
+noble,noble,Troilus and Criseyde; Book II 647,data/riverside_cats/TC2_riv.cat,That to byholde it was a noble game,False,False,RIVERSIDE
+long,longe,Troilus and Criseyde; Book II 722,data/riverside_cats/TC2_riv.cat,And ek I knowe of longe tyme agon,False,False,RIVERSIDE
+juste,juste,Troilus and Criseyde; Book II 727,data/riverside_cats/TC2_riv.cat,That he may make avaunt by juste cause,False,False,RIVERSIDE
+ofte,ofte,Troilus and Criseyde; Book II 765,data/riverside_cats/TC2_riv.cat,In March that chaungeth ofte tyme his face,False,False,RIVERSIDE
+nice,nice,Troilus and Criseyde; Book II 780,data/riverside_cats/TC2_riv.cat,For evere som mystrust or nice strif,False,False,RIVERSIDE
+ofte,ofte,Troilus and Criseyde; Book II 792,data/riverside_cats/TC2_riv.cat,How ofte tyme hath it yknowen be,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book II 828,data/riverside_cats/TC2_riv.cat,Ben humble subgit trewe in myn entente,False,False,RIVERSIDE
+kinde,kynde,Troilus and Criseyde; Book II 970,data/riverside_cats/TC2_riv.cat,And spreden on hire kynde cours by rowe,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book II 1069,data/riverside_cats/TC2_riv.cat,And in ful humble wise as in his speche,False,False,RIVERSIDE
+god,goode,Troilus and Criseyde; Book II 1203,data/riverside_cats/TC2_riv.cat,Now goode nece be it nevere so lite,False,False,RIVERSIDE
+nice,nyce,Troilus and Criseyde; Book II 1286,data/riverside_cats/TC2_riv.cat,Lat be youre nyce shame and youre folie,False,False,RIVERSIDE
+gret,grete,Troilus and Criseyde; Book II 1403,data/riverside_cats/TC2_riv.cat,Which hadde his lord and grete frend ben ay,False,False,RIVERSIDE
+sobre,sobre,Troilus and Criseyde; Book II 1592,data/riverside_cats/TC2_riv.cat,For which with sobre cheere hire herte lough,False,False,RIVERSIDE
+straunge,straunge,Troilus and Criseyde; Book II 1660,data/riverside_cats/TC2_riv.cat,And ek for she is straunge he wol forbere,False,False,RIVERSIDE
+softe,softe,Troilus and Criseyde; Book II 1667,data/riverside_cats/TC2_riv.cat,Eleyne in al hire goodly softe wyse,False,False,RIVERSIDE
+fair,faire,Troilus and Criseyde; Book II 1670,data/riverside_cats/TC2_riv.cat,Now faire brother beth al hool I preye,False,False,RIVERSIDE
+lef,leeve,The Summoner's Tale 1751,data/riverside_cats/SumT_riv.cat,A dagon of youre blanket leeve dame,False,False,RIVERSIDE
+dere,deere,The Summoner's Tale 1752,data/riverside_cats/SumT_riv.cat,Oure suster deere lo Heere I write youre name,False,False,RIVERSIDE
+gret,grete,The Summoner's Tale 1813,data/riverside_cats/SumT_riv.cat,But of youre grete goodnesse by youre leve,False,False,RIVERSIDE
+softe,softe,The Summoner's Tale 1840,data/riverside_cats/SumT_riv.cat,And of youre softe breed nat but a shyvere,False,False,RIVERSIDE
+sobre,sobre,The Summoner's Tale 1902,data/riverside_cats/SumT_riv.cat,But they be sobre that for the peple preye,False,False,RIVERSIDE
+humble,humble,The Summoner's Tale 1936,data/riverside_cats/SumT_riv.cat,But we that humble been and chaast and poore,False,False,RIVERSIDE
+chaste,chaste,The Summoner's Tale 1940,data/riverside_cats/SumT_riv.cat,Of charitable and chaste bisy freres,False,False,RIVERSIDE
+ouen,owene,The Summoner's Tale 1977,data/riverside_cats/SumT_riv.cat,And for to buylden Cristes owene chirche,False,False,RIVERSIDE
+muche,muche,The Summoner's Tale 2011,data/riverside_cats/SumT_riv.cat,I koude of ire seye so muche sorwe,False,False,RIVERSIDE
+povre,povre,The Summoner's Tale 2076,data/riverside_cats/SumT_riv.cat,But if it be unto a povre man,False,False,RIVERSIDE
+povre,povre,The Summoner's Tale 2077,data/riverside_cats/SumT_riv.cat,To a povre man men sholde his vices telle,False,False,RIVERSIDE
+lef,leeve,The Summoner's Tale 2089,data/riverside_cats/SumT_riv.cat,Now Thomas leeve brother lef thyn ire,False,False,RIVERSIDE
+wilde,wilde,The Summoner's Tale 2160,data/riverside_cats/SumT_riv.cat,He looked as it were a wilde boor,False,False,RIVERSIDE
+proud,proude,The Summoner's Tale 2227,data/riverside_cats/SumT_riv.cat,O nyce proude cherl I shrewe his face,False,False,RIVERSIDE
+hard,harde,The Summoner's Tale 2228,data/riverside_cats/SumT_riv.cat,Lo sires quod the lord with harde grace,False,False,RIVERSIDE
+noble,noble,The Summoner's Tale 2265,data/riverside_cats/SumT_riv.cat,Youre noble confessour there God hym save,False,False,RIVERSIDE
+neue,newe,The Summoner's Tale 2293,data/riverside_cats/SumT_riv.cat,And Jankyn hath ywonne a newe gowne,False,False,RIVERSIDE
 grene,grene,The Clerk's Tale 120,data/riverside_cats/ClT_riv.cat,And thogh youre grene youthe floure as yit,False,False,RIVERSIDE
 heigh,hye,The Clerk's Tale 135,data/riverside_cats/ClT_riv.cat,And taak a wyf for hye Goddes sake,False,False,RIVERSIDE
 straunge,straunge,The Clerk's Tale 138,data/riverside_cats/ClT_riv.cat,And that a straunge successour sholde take,False,False,RIVERSIDE
@@ -66,62 +81,6 @@ povre,povre,The Clerk's Tale 1043,data/riverside_cats/ClT_riv.cat,As koude a pov
 dere,dere,The Clerk's Tale 1056,data/riverside_cats/ClT_riv.cat,Now knowe I dere wyf thy stedfastnesse,False,False,RIVERSIDE
 deinte,deyntee,The Clerk's Tale 1112,data/riverside_cats/ClT_riv.cat,That it was deyntee for to seen the cheere,False,False,RIVERSIDE
 riche,riche,The Clerk's Tale 1118,data/riverside_cats/ClT_riv.cat,With a coroune of many a riche stoon,False,False,RIVERSIDE
-dere,deere,The Canon's Yeoman's Tale 795,data/riverside_cats/CYT_riv.cat,And othere swiche deere ynough a leek,False,False,RIVERSIDE
-nice,nyce,The Canon's Yeoman's Tale 842,data/riverside_cats/CYT_riv.cat,In lernyng of this elvysshe nyce loore,False,False,RIVERSIDE
-ofte,ofte,The Canon's Yeoman's Tale 1031,data/riverside_cats/CYT_riv.cat,And this chanoun hym thanked ofte sithe,False,False,RIVERSIDE
-olde,olde,The Canon's Yeoman's Tale 1067,data/riverside_cats/CYT_riv.cat,Stynketh as witnessen thise olde wyse,False,False,RIVERSIDE
-holwe,holwe,The Canon's Yeoman's Tale 1265,data/riverside_cats/CYT_riv.cat,An holwe stikke taak kep and be war,False,False,RIVERSIDE
-god,goode,The Canon's Yeoman's Tale 1295,data/riverside_cats/CYT_riv.cat,Now goode sire go forth thy wey and hy the,False,False,RIVERSIDE
-humble,humble,The Franklin's Tale 758,data/riverside_cats/FranT_riv.cat,Sire I wol be youre humble trewe wyf,False,False,RIVERSIDE
-treu,trewe,The Franklin's Tale 758,data/riverside_cats/FranT_riv.cat,Sire I wol be youre humble trewe wyf,False,False,RIVERSIDE
-humble,humble,The Franklin's Tale 791,data/riverside_cats/FranT_riv.cat,Heere may men seen an humble wys accord,False,False,RIVERSIDE
-yong,yonge,The Franklin's Tale 956,data/riverside_cats/FranT_riv.cat,Ther yonge folk kepen hir observaunces,False,False,RIVERSIDE
-derk,dirke,The Franklin's Tale 1074,data/riverside_cats/FranT_riv.cat,Into hir owene dirke regioun,False,False,RIVERSIDE
-long,longe,The Franklin's Tale 1081,data/riverside_cats/FranT_riv.cat,And longe tyme he lay forth in a traunce,False,False,RIVERSIDE
-ded,dede,The Franklin's Tale 1181,data/riverside_cats/FranT_riv.cat,And he answerde hym that they dede were,False,False,RIVERSIDE
-wilde,wilde,The Franklin's Tale 1190,data/riverside_cats/FranT_riv.cat,Forestes parkes ful of wilde deer,False,False,RIVERSIDE
-wilde,wilde,The Franklin's Tale 1195,data/riverside_cats/FranT_riv.cat,He saugh whan voyded were thise wilde deer,False,False,RIVERSIDE
-double,double,The Franklin's Tale 1252,data/riverside_cats/FranT_riv.cat,Janus sit by the fyr with double berd,False,False,RIVERSIDE
-humble,humble,The Franklin's Tale 1309,data/riverside_cats/FranT_riv.cat,With dredful herte and with ful humble cheere,False,False,RIVERSIDE
-noble,noble,The Franklin's Tale 1364,data/riverside_cats/FranT_riv.cat,Hath ther nat many a noble wyf er this,False,False,RIVERSIDE
-treu,trewe,The Franklin's Tale 1555,data/riverside_cats/FranT_riv.cat,And she was to hym trewe for everemoore,False,False,RIVERSIDE
-lef,leeve,The Franklin's Tale 1607,data/riverside_cats/FranT_riv.cat,This philosophre answerde Leeve brother,False,False,RIVERSIDE
-glad,glade,The Friar's Tale 1348,data/riverside_cats/FriT_riv.cat,And they were glade for to fille his purs,False,False,RIVERSIDE
-dere,deere,The Friar's Tale 1395,data/riverside_cats/FriT_riv.cat,Depardieux quod this yeman deere broother,False,False,RIVERSIDE
-softe,softe,The Friar's Tale 1412,data/riverside_cats/FriT_riv.cat,This yeman hym answerde in softe speche,False,False,RIVERSIDE
-dere,deere,The Friar's Tale 1424,data/riverside_cats/FriT_riv.cat,Now by my trouthe brother deere seyde he,False,False,RIVERSIDE
-lef,leeve,The Friar's Tale 1444,data/riverside_cats/FriT_riv.cat,But leeve brother tel me thanne thy name,False,False,RIVERSIDE
-lef,leeve,The Friar's Tale 1474,data/riverside_cats/FriT_riv.cat,Ful many a cause leeve sire somonour,False,False,RIVERSIDE
-treu,trewe,The Friar's Tale 1529,data/riverside_cats/FriT_riv.cat,For to be trewe brother in this cas,False,False,RIVERSIDE
-muche,muche,The Friar's Tale 1546,data/riverside_cats/FriT_riv.cat,So muche wo as I have with yow tholed,False,False,RIVERSIDE
-dere,deere,The Friar's Tale 1567,data/riverside_cats/FriT_riv.cat,Heere may ye se myn owene deere brother,False,False,RIVERSIDE
-olde,olde,The Friar's Tale 1582,data/riverside_cats/FriT_riv.cat,Com out quod he thou olde virytrate,False,False,RIVERSIDE
-swete,sweete,The Friar's Tale 1585,data/riverside_cats/FriT_riv.cat,God save you sire what is youre sweete wille,False,False,RIVERSIDE
-povre,povre,The Friar's Tale 1609,data/riverside_cats/FriT_riv.cat,Kithe youre almesse on me povre wrecche,False,False,RIVERSIDE
-ofte,ofte,The General Prologue 52,data/riverside_cats/GP_riv.cat,Ful ofte tyme he hadde the bord bigonne,False,False,RIVERSIDE
-god,goode,The General Prologue 74,data/riverside_cats/GP_riv.cat,His hors were goode but he was nat gay,False,False,RIVERSIDE
-tender,tendre,The General Prologue 150,data/riverside_cats/GP_riv.cat,And al was conscience and tendre herte,False,False,RIVERSIDE
-deinte,deyntee,The General Prologue 168,data/riverside_cats/GP_riv.cat,Ful many a deyntee hors hadde he in stable,False,False,RIVERSIDE
-noble,noble,The General Prologue 214,data/riverside_cats/GP_riv.cat,Unto his ordre he was a noble post,False,False,RIVERSIDE
-double,double,The General Prologue 262,data/riverside_cats/GP_riv.cat,Of double worstede was his semycope,False,False,RIVERSIDE
-lene,leene,The General Prologue 287,data/riverside_cats/GP_riv.cat,As leene was his hors as is a rake,False,False,RIVERSIDE
-simple,symple,The General Prologue 319,data/riverside_cats/GP_riv.cat,Al was fee symple to hym in effect,False,False,RIVERSIDE
-medle,medlee,The General Prologue 328,data/riverside_cats/GP_riv.cat,He rood but hoomly in a medlee cote,False,False,RIVERSIDE
-ouen,owene,The General Prologue 336,data/riverside_cats/GP_riv.cat,For he was Epicurus owene sone,False,False,RIVERSIDE
-ofte,ofte,The General Prologue 356,data/riverside_cats/GP_riv.cat,Ful ofte tyme he was knyght of the shire,False,False,RIVERSIDE
-nice,nyce,The General Prologue 398,data/riverside_cats/GP_riv.cat,Of nyce conscience took he no keep,False,False,RIVERSIDE
-neue,newe,The General Prologue 428,data/riverside_cats/GP_riv.cat,Hir frendshipe nas nat newe to bigynne,False,False,RIVERSIDE
-straunge,straunge,The General Prologue 464,data/riverside_cats/GP_riv.cat,She hadde passed many a straunge strem,False,False,RIVERSIDE
-povre,povre,The General Prologue 478,data/riverside_cats/GP_riv.cat,And was a povre PERSOUN OF A TOUN,False,False,RIVERSIDE
-riche,riche,The General Prologue 479,data/riverside_cats/GP_riv.cat,But riche he was of hooly thoght and werk,False,False,RIVERSIDE
-clene,clene,The General Prologue 504,data/riverside_cats/GP_riv.cat,A shiten shepherde and a clene sheep,False,False,RIVERSIDE
-treu,trewe,The General Prologue 531,data/riverside_cats/GP_riv.cat,A trewe swynkere and a good was he,False,False,RIVERSIDE
-povre,povre,The General Prologue 537,data/riverside_cats/GP_riv.cat,For Cristes sake for every povre wight,False,False,RIVERSIDE
-thikke,thikke,The General Prologue 549,data/riverside_cats/GP_riv.cat,He was shortsholdred brood a thikke knarre,False,False,RIVERSIDE
-long,longe,The General Prologue 591,data/riverside_cats/GP_riv.cat,Ful longe were his legges and ful lene,False,False,RIVERSIDE
-povre,povre,The General Prologue 702,data/riverside_cats/GP_riv.cat,A povre person dwellynge upon lond,False,False,RIVERSIDE
-large,large,The General Prologue 753,data/riverside_cats/GP_riv.cat,A large man he was with eyen stepe,False,False,RIVERSIDE
-long,longe,The General Prologue 784,data/riverside_cats/GP_riv.cat,Oure conseil was nat longe for to seche,False,False,RIVERSIDE
 propre,propre,House of Fame 43,data/riverside_cats/HF_riv.cat,Or yf the soule of propre kynde,False,False,RIVERSIDE
 queinte,queynte,House of Fame 126,data/riverside_cats/HF_riv.cat,And queynte maner of figures,False,False,RIVERSIDE
 olde,olde,House of Fame 127,data/riverside_cats/HF_riv.cat,Of olde werk then I saugh ever,False,False,RIVERSIDE
@@ -157,6 +116,150 @@ god,goode,House of Fame 1854,data/riverside_cats/HF_riv.cat,As goode folk han fo
 grene,grene,House of Fame 1947,data/riverside_cats/HF_riv.cat,In somer whan they grene been,False,False,RIVERSIDE
 neue,newe,House of Fame 2045,data/riverside_cats/HF_riv.cat,A newe tydynge prively,False,False,RIVERSIDE
 whit,white,House of Fame 2116,data/riverside_cats/HF_riv.cat,As doth the faire white mone,False,False,RIVERSIDE
+salt,salte,Troilus and Criseyde; Book III 8,data/riverside_cats/TC3_riv.cat,In hevene and helle in erthe and salte see,False,False,RIVERSIDE
+grene,grene,Troilus and Criseyde; Book III 10,data/riverside_cats/TC3_riv.cat,As man brid best fissh herbe and grene tree,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 69,data/riverside_cats/TC3_riv.cat,Ye swete herte Allas I may nought rise,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 98,data/riverside_cats/TC3_riv.cat,Was twyes Mercy mercy swete herte,False,False,RIVERSIDE
+fresh,fresshe,Troilus and Criseyde; Book III 128,data/riverside_cats/TC3_riv.cat,Quod Troilus O goodly fresshe free,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book III 141,data/riverside_cats/TC3_riv.cat,And I to ben youre verray humble trewe,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 147,data/riverside_cats/TC3_riv.cat,Lo this mene I myn owen swete herte,False,False,RIVERSIDE
+dere,deere,Troilus and Criseyde; Book III 176,data/riverside_cats/TC3_riv.cat,And shortly deere herte and al my knyght,False,False,RIVERSIDE
+sobre,sobre,Troilus and Criseyde; Book III 237,data/riverside_cats/TC3_riv.cat,And gan to speken in a sobre wyse,False,False,RIVERSIDE
+god,goode,Troilus and Criseyde; Book III 264,data/riverside_cats/TC3_riv.cat,But goode brother do now as the oughte,False,False,RIVERSIDE
+secre,secree,Troilus and Criseyde; Book III 286,data/riverside_cats/TC3_riv.cat,To holden secree swich an heigh matere,False,False,RIVERSIDE
+wise,wise,Troilus and Criseyde; Book III 327,data/riverside_cats/TC3_riv.cat,For wel woot I in wise folk that vice,False,False,RIVERSIDE
+lef,leve,Troilus and Criseyde; Book III 330,data/riverside_cats/TC3_riv.cat,But now to purpos leve brother deere,False,False,RIVERSIDE
+treu,trewe,Troilus and Criseyde; Book III 333,data/riverside_cats/TC3_riv.cat,For at thi day thow shalt me trewe fynde,False,False,RIVERSIDE
+ded,dede,Troilus and Criseyde; Book III 352,data/riverside_cats/TC3_riv.cat,That han in wynter dede ben and dreye,False,False,RIVERSIDE
+god,goode,Troilus and Criseyde; Book III 631,data/riverside_cats/TC3_riv.cat,But goode nece if I myghte evere plese,False,False,RIVERSIDE
+muche,muche,Troilus and Criseyde; Book III 638,data/riverside_cats/TC3_riv.cat,Criseyde which that koude as muche good,False,False,RIVERSIDE
+huge,huge,Troilus and Criseyde; Book III 656,data/riverside_cats/TC3_riv.cat,And seyde Lord this is an huge rayn,False,False,RIVERSIDE
+sobre,sobre,Troilus and Criseyde; Book III 747,data/riverside_cats/TC3_riv.cat,And Pandarus with a ful sobre cheere,False,False,RIVERSIDE
+dere,deere,Troilus and Criseyde; Book III 774,data/riverside_cats/TC3_riv.cat,And hym hire lief and deere herte calle,False,False,RIVERSIDE
+prive,pryve,Troilus and Criseyde; Book III 787,data/riverside_cats/TC3_riv.cat,Is thorugh a goter by a pryve wente,False,False,RIVERSIDE
+prime,prime,Troilus and Criseyde; Book III 919,data/riverside_cats/TC3_riv.cat,And ek so like a sooth at prime face,False,False,RIVERSIDE
+god,goode,Troilus and Criseyde; Book III 975,data/riverside_cats/TC3_riv.cat,Now doth hym sitte goode nece deere,False,False,RIVERSIDE
+gret,grete,Troilus and Criseyde; Book III 992,data/riverside_cats/TC3_riv.cat,Youre grete trouthe and servise every day,False,False,RIVERSIDE
+ofte,ofte,Troilus and Criseyde; Book III 1129,data/riverside_cats/TC3_riv.cat,And al foryaf and ofte tyme hym keste,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 1173,data/riverside_cats/TC3_riv.cat,Have mercy swete herte myn Criseyde,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 1183,data/riverside_cats/TC3_riv.cat,Foryeve it me myn owene swete herte,False,False,RIVERSIDE
+bitter,bittre,Troilus and Criseyde; Book III 1215,data/riverside_cats/TC3_riv.cat,Ful bittre drynke and for to han gladnesse,False,False,RIVERSIDE
+juste,juste,Troilus and Criseyde; Book III 1227,data/riverside_cats/TC3_riv.cat,As she that juste cause hadde hym to triste,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book III 1278,data/riverside_cats/TC3_riv.cat,Myn herte swete how I yow myght plese,False,False,RIVERSIDE
+fresh,fresshe,Troilus and Criseyde; Book III 1296,data/riverside_cats/TC3_riv.cat,For certes fresshe wommanliche wif,False,False,RIVERSIDE
+foul,foule,Troilus and Criseyde; Book III 1321,data/riverside_cats/TC3_riv.cat,Awey thow foule daunger and thow feere,False,False,RIVERSIDE
+neue,newe,Troilus and Criseyde; Book III 1404,data/riverside_cats/TC3_riv.cat,And fallen in a newe joye anoon,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book III 1487,data/riverside_cats/TC3_riv.cat,That I youre humble servant and youre knyght,False,False,RIVERSIDE
+treu,trewe,Troilus and Criseyde; Book III 1648,data/riverside_cats/TC3_riv.cat,And seyde Frend as I am trewe knyght,False,False,RIVERSIDE
+neue,newe,Troilus and Criseyde; Book III 1654,data/riverside_cats/TC3_riv.cat,But now I feele a newe qualitee,False,False,RIVERSIDE
+ofte,ofte,The Physician's Tale 62,data/riverside_cats/PhyT_riv.cat,She hath ful ofte tyme syk hire feyned,False,False,RIVERSIDE
+olde,olde,The Physician's Tale 72,data/riverside_cats/PhyT_riv.cat,And ye maistresses in youre olde lyf,False,False,RIVERSIDE
+secre,secree,The Physician's Tale 143,data/riverside_cats/PhyT_riv.cat,In secree wise and made hym to ensure,False,False,RIVERSIDE
+povre,povre,The Physician's Tale 179,data/riverside_cats/PhyT_riv.cat,Sheweth youre povre servant Claudius,False,False,RIVERSIDE
+dere,deere,The Physician's Tale 231,data/riverside_cats/PhyT_riv.cat,O mercy deere fader quod this mayde,False,False,RIVERSIDE
+god,goode,The Physician's Tale 235,data/riverside_cats/PhyT_riv.cat,And seyde Goode fader shal I dye,False,False,RIVERSIDE
+dere,deere,The Physician's Tale 237,data/riverside_cats/PhyT_riv.cat,No certes deere doghter myn quod he,False,False,RIVERSIDE
+prive,pryvee,The Physician's Tale 281,data/riverside_cats/PhyT_riv.cat,Of wikked lyf though it so pryvee be,False,False,RIVERSIDE
+dere,deere,The Canon's Yeoman's Tale 795,data/riverside_cats/CYT_riv.cat,And othere swiche deere ynough a leek,False,False,RIVERSIDE
+nice,nyce,The Canon's Yeoman's Tale 842,data/riverside_cats/CYT_riv.cat,In lernyng of this elvysshe nyce loore,False,False,RIVERSIDE
+ofte,ofte,The Canon's Yeoman's Tale 1031,data/riverside_cats/CYT_riv.cat,And this chanoun hym thanked ofte sithe,False,False,RIVERSIDE
+olde,olde,The Canon's Yeoman's Tale 1067,data/riverside_cats/CYT_riv.cat,Stynketh as witnessen thise olde wyse,False,False,RIVERSIDE
+holwe,holwe,The Canon's Yeoman's Tale 1265,data/riverside_cats/CYT_riv.cat,An holwe stikke taak kep and be war,False,False,RIVERSIDE
+god,goode,The Canon's Yeoman's Tale 1295,data/riverside_cats/CYT_riv.cat,Now goode sire go forth thy wey and hy the,False,False,RIVERSIDE
+noble,noble,The Second Nun's Tale 121,data/riverside_cats/SNT_riv.cat,Was comen of Romayns and of noble kynde,False,False,RIVERSIDE
+clene,clene,The Second Nun's Tale 159,data/riverside_cats/SNT_riv.cat,And if that ye in clene love me gye,False,False,RIVERSIDE
+sote,soote,The Second Nun's Tale 229,data/riverside_cats/SNT_riv.cat,Ne lese hir soote savour trusteth me,False,False,RIVERSIDE
+lef,leeve,The Second Nun's Tale 257,data/riverside_cats/SNT_riv.cat,So shaltow seen hem leeve brother deere,False,False,RIVERSIDE
+fair,faire,The Second Nun's Tale 293,data/riverside_cats/SNT_riv.cat,Seyde this blisful faire mayde deere,False,False,RIVERSIDE
+clene,clene,The Second Nun's Tale 300,data/riverside_cats/SNT_riv.cat,And make thee clene so that thou mowe biholde,False,False,RIVERSIDE
+dere,deere,The Second Nun's Tale 321,data/riverside_cats/SNT_riv.cat,This lyf to lese myn owene deere brother,False,False,RIVERSIDE
+humble,humble,The Second Nun's Tale 397,data/riverside_cats/SNT_riv.cat,With humble herte and sad devocioun,False,False,RIVERSIDE
+fair,faire,The Second Nun's Tale 461,data/riverside_cats/SNT_riv.cat,At which the hooly blisful faire mayde,False,False,RIVERSIDE
+noble,noble,The Second Nun's Tale 552,data/riverside_cats/SNT_riv.cat,In which into this day in noble wyse,False,False,RIVERSIDE
+long,longe,Book of the Duchess 20,data/riverside_cats/BD_riv.cat,Nat longe tyme to endure,False,False,RIVERSIDE
+olde,olde,Book of the Duchess 53,data/riverside_cats/BD_riv.cat,That clerkes had in olde tyme,False,False,RIVERSIDE
+long,longe,Book of the Duchess 79,data/riverside_cats/BD_riv.cat,Hom for it was a longe terme,False,False,RIVERSIDE
+wel,wele,Book of the Duchess 82,data/riverside_cats/BD_riv.cat,It was not wele he dwelte so,False,False,RIVERSIDE
+swete,swete,Book of the Duchess 108,data/riverside_cats/BD_riv.cat,A mercy swete lady dere,False,False,RIVERSIDE
+pure,pure,Book of the Duchess 259,data/riverside_cats/BD_riv.cat,I wol do peynte with pure gold,False,False,RIVERSIDE
+glad,glade,Book of the Duchess 338,data/riverside_cats/BD_riv.cat,With many glade gilde stremes,False,False,RIVERSIDE
+cler,clere,Book of the Duchess 340,data/riverside_cats/BD_riv.cat,Blew bryght clere was the ayr,False,False,RIVERSIDE
+smothe,smothe,Book of the Duchess 394,data/riverside_cats/BD_riv.cat,And leyde al smothe doun hys heres,False,False,RIVERSIDE
+grene,grene,Book of the Duchess 398,data/riverside_cats/BD_riv.cat,Doun by a floury grene wente,False,False,RIVERSIDE
+huge,huge,Book of the Duchess 447,data/riverside_cats/BD_riv.cat,To an ook an huge tree,False,False,RIVERSIDE
+pure,pure,Book of the Duchess 490,data/riverside_cats/BD_riv.cat,The blood was fled for pure drede,False,False,RIVERSIDE
+god,goode,Book of the Duchess 560,data/riverside_cats/BD_riv.cat,Graunt mercy goode frend quod he,False,False,RIVERSIDE
+noble,noble,Book of the Duchess 834,data/riverside_cats/BD_riv.cat,So noble port and meyntenaunce,False,False,RIVERSIDE
+god,goode,Book of the Duchess 860,data/riverside_cats/BD_riv.cat,Debonaire goode glade and sadde,False,False,RIVERSIDE
+sobre,sobre,Book of the Duchess 880,data/riverside_cats/BD_riv.cat,She nas to sobre ne to glad,False,False,RIVERSIDE
+god,goode,Book of the Duchess 891,data/riverside_cats/BD_riv.cat,But goode folk over al other,False,False,RIVERSIDE
+softe,softe,Book of the Duchess 919,data/riverside_cats/BD_riv.cat,And which a goodly softe speche,False,False,RIVERSIDE
+god,goode,Book of the Duchess 948,data/riverside_cats/BD_riv.cat,And goode faire White she het,False,False,RIVERSIDE
+fair,faire,Book of the Duchess 948,data/riverside_cats/BD_riv.cat,And goode faire White she het,False,False,RIVERSIDE
+muche,moche,Book of the Duchess 986,data/riverside_cats/BD_riv.cat,Had as moche debonairte,False,False,RIVERSIDE
+long,longe,Book of the Duchess 1148,data/riverside_cats/BD_riv.cat,Noght longe tyme leve hyt wel,False,False,RIVERSIDE
+ofte,ofte,Book of the Duchess 1158,data/riverside_cats/BD_riv.cat,And ofte tyme I song hem loude,False,False,RIVERSIDE
+muche,moche,Book of the Duchess 1197,data/riverside_cats/BD_riv.cat,So moche beaute trewely,False,False,RIVERSIDE
+pure,pure,Book of the Duchess 1209,data/riverside_cats/BD_riv.cat,In my tale for pure fere,False,False,RIVERSIDE
+pure,pure,Book of the Duchess 1212,data/riverside_cats/BD_riv.cat,Softe and quakynge for pure drede,False,False,RIVERSIDE
+pure,pure,Book of the Duchess 1251,data/riverside_cats/BD_riv.cat,For pure fere but stal away,False,False,RIVERSIDE
+riche,ryche,Book of the Duchess 1319,data/riverside_cats/BD_riv.cat,Be Seynt Johan on a ryche hil,False,False,RIVERSIDE
+ouen,owne,Troilus and Criseyde; Book I 51,data/riverside_cats/TC1_riv.cat,As though I were hire owne brother dere,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book I 124,data/riverside_cats/TC1_riv.cat,And she hym thonked with ful humble chere,False,False,RIVERSIDE
+neue,newe,Troilus and Criseyde; Book I 157,data/riverside_cats/TC1_riv.cat,With newe grene of lusty Veer the pryme,False,False,RIVERSIDE
+sote,swote,Troilus and Criseyde; Book I 158,data/riverside_cats/TC1_riv.cat,And swote smellen floures white and rede,False,False,RIVERSIDE
+blind,blynde,Troilus and Criseyde; Book I 202,data/riverside_cats/TC1_riv.cat,O veray fooles nyce and blynde be ye,False,False,RIVERSIDE
+proud,proude,Troilus and Criseyde; Book I 225,data/riverside_cats/TC1_riv.cat,So ferde it by this fierse and proude knyght,False,False,RIVERSIDE
+wise,wise,Troilus and Criseyde; Book I 233,data/riverside_cats/TC1_riv.cat,Ye wise proude and worthi folkes alle,False,False,RIVERSIDE
+bitter,bittre,Troilus and Criseyde; Book I 385,data/riverside_cats/TC1_riv.cat,Yelt bittre fruyt though swete seed be sowe,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book I 385,data/riverside_cats/TC1_riv.cat,Yelt bittre fruyt though swete seed be sowe,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book I 433,data/riverside_cats/TC1_riv.cat,Into hire hond and with ful humble chere,False,False,RIVERSIDE
+dere,dere,Troilus and Criseyde; Book I 535,data/riverside_cats/TC1_riv.cat,O mercy dere herte and help me from,False,False,RIVERSIDE
+long,longe,Troilus and Criseyde; Book I 718,data/riverside_cats/TC1_riv.cat,As I best kan gon sithen longe while,False,False,RIVERSIDE
+dere,deere,Troilus and Criseyde; Book I 810,data/riverside_cats/TC1_riv.cat,What many a man hath love ful deere ybought,False,False,RIVERSIDE
+blaunk,blaunche,Troilus and Criseyde; Book I 916,data/riverside_cats/TC1_riv.cat,And som thow seydest hadde a blaunche fevere,False,False,RIVERSIDE
+ofte,ofte,Troilus and Criseyde; Book I 920,data/riverside_cats/TC1_riv.cat,And som han feyned ofte tyme and told,False,False,RIVERSIDE
+fre,fre,Troilus and Criseyde; Book I 958,data/riverside_cats/TC1_riv.cat,Be lusty fre persevere in thy servyse,False,False,RIVERSIDE
+wise,wyse,Troilus and Criseyde; Book I 976,data/riverside_cats/TC1_riv.cat,For this have I herd seyd of wyse lered,False,False,RIVERSIDE
+sobre,sobre,Troilus and Criseyde; Book I 1013,data/riverside_cats/TC1_riv.cat,With sobre chere although his herte pleyde,False,False,RIVERSIDE
+ded,dede,Troilus and Criseyde; Book I 1083,data/riverside_cats/TC1_riv.cat,Dede were his japes and his cruelte,False,False,RIVERSIDE
+ouen,owene,The Wife of Bath's Prologue 68,data/riverside_cats/WBPro_riv.cat,He putte it in oure owene juggement,False,False,RIVERSIDE
+propre,propre,The Wife of Bath's Prologue 103,data/riverside_cats/WBPro_riv.cat,And everich hath of God a propre yifte,False,False,RIVERSIDE
+noble,noble,The Wife of Bath's Prologue 165,data/riverside_cats/WBPro_riv.cat,Ye been a noble prechour in this cas,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Prologue 235,data/riverside_cats/WBPro_riv.cat,Sire olde kaynard is this thyn array,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Prologue 242,data/riverside_cats/WBPro_riv.cat,Sire olde lecchour lat thy japes be,False,False,RIVERSIDE
+povre,povre,The Wife of Bath's Prologue 249,data/riverside_cats/WBPro_riv.cat,To wedde a povre womman for costage,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Prologue 291,data/riverside_cats/WBPro_riv.cat,Til they be wedded olde dotard shrewe,False,False,RIVERSIDE
+fair,faire,The Wife of Bath's Prologue 296,data/riverside_cats/WBPro_riv.cat,And clepe me faire dame in every place,False,False,RIVERSIDE
+treu,trewe,The Wife of Bath's Prologue 320,data/riverside_cats/WBPro_riv.cat,I knowe yow for a trewe wyf dame Alys,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Prologue 331,data/riverside_cats/WBPro_riv.cat,For certeyn olde dotard by youre leve,False,False,RIVERSIDE
+wilde,wilde,The Wife of Bath's Prologue 373,data/riverside_cats/WBPro_riv.cat,Thou liknest it also to wilde fyr,False,False,RIVERSIDE
+swete,sweete,The Wife of Bath's Prologue 385,data/riverside_cats/WBPro_riv.cat,Ful giltelees by Goddes sweete pyne,False,False,RIVERSIDE
+god,goode,The Wife of Bath's Prologue 431,data/riverside_cats/WBPro_riv.cat,Thanne wolde I seye Goode lief taak keep,False,False,RIVERSIDE
+swete,sweete,The Wife of Bath's Prologue 435,data/riverside_cats/WBPro_riv.cat,And han a sweete spiced conscience,False,False,RIVERSIDE
+ouen,owene,The Wife of Bath's Prologue 449,data/riverside_cats/WBPro_riv.cat,But I wol kepe it for youre owene tooth,False,False,RIVERSIDE
+swete,sweete,The Wife of Bath's Prologue 459,data/riverside_cats/WBPro_riv.cat,Whan I had dronke a draughte of sweete wyn,False,False,RIVERSIDE
+queinte,queynte,The Wife of Bath's Prologue 516,data/riverside_cats/WBPro_riv.cat,In this matere a queynte fantasye,False,False,RIVERSIDE
+dere,deere,The Wife of Bath's Prologue 522,data/riverside_cats/WBPro_riv.cat,Greet prees at market maketh deere ware,False,False,RIVERSIDE
+prive,privee,The Wife of Bath's Prologue 620,data/riverside_cats/WBPro_riv.cat,And also in another privee place,False,False,RIVERSIDE
+povre,poore,The Wife of Bath's Prologue 626,data/riverside_cats/WBPro_riv.cat,How poore he was ne eek of what degree,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Prologue 642,data/riverside_cats/WBPro_riv.cat,And me of olde Romayn geestes teche,False,False,RIVERSIDE
+fals,false,The Wife of Bath's Prologue 800,data/riverside_cats/WBPro_riv.cat,O hastow slayn me false theef I seyde,False,False,RIVERSIDE
+dere,deere,The Wife of Bath's Prologue 804,data/riverside_cats/WBPro_riv.cat,And seyde Deere suster Alisoun,False,False,RIVERSIDE
+treu,trewe,The Wife of Bath's Prologue 819,data/riverside_cats/WBPro_riv.cat,And that he seyde Myn owene trewe wyf,False,False,RIVERSIDE
+noble,noble,The Reeve's Tale 3942,data/riverside_cats/RvT_riv.cat,A wyf he hadde ycomen of noble kyn,False,False,RIVERSIDE
+propre,propre,The Reeve's Tale 3972,data/riverside_cats/RvT_riv.cat,In cradel it lay and was a propre page,False,False,RIVERSIDE
+straunge,straunge,The Reeve's Tale 3980,data/riverside_cats/RvT_riv.cat,And straunge he made it of hir mariage,False,False,RIVERSIDE
+yong,yonge,The Reeve's Tale 4002,data/riverside_cats/RvT_riv.cat,Thanne were ther yonge povre scolers two,False,False,RIVERSIDE
+pale,pale,The Reeve's Tale 4150,data/riverside_cats/RvT_riv.cat,Ful pale he was for dronken and nat reed,False,False,RIVERSIDE
+wilde,wilde,The Reeve's Tale 4172,data/riverside_cats/RvT_riv.cat,A wilde fyr upon thair bodyes falle,False,False,RIVERSIDE
+swete,sweete,The Reeve's Tale 4236,data/riverside_cats/RvT_riv.cat,And seyde Fare weel Malyne sweete wight,False,False,RIVERSIDE
+dere,deere,The Reeve's Tale 4240,data/riverside_cats/RvT_riv.cat,Now deere lemman quod she go far weel,False,False,RIVERSIDE
+god,goode,The Reeve's Tale 4247,data/riverside_cats/RvT_riv.cat,And goode lemman God thee save and kepe,False,False,RIVERSIDE
+noble,noble,The Reeve's Tale 4263,data/riverside_cats/RvT_riv.cat,For Cristes saule and heer a noble game,False,False,RIVERSIDE
+fals,false,The Reeve's Tale 4268,data/riverside_cats/RvT_riv.cat,Ye false harlot quod the millere hast,False,False,RIVERSIDE
+fals,false,The Reeve's Tale 4269,data/riverside_cats/RvT_riv.cat,A false traitour False clerk quod he,False,False,RIVERSIDE
+lite,lite,The Reeve's Tale 4283,data/riverside_cats/RvT_riv.cat,For she was falle aslepe a lite wight,False,False,RIVERSIDE
 riche,riche,The Knight's Tale 864,data/riverside_cats/KnT_riv.cat,Ful many a riche contree hadde he wonne,False,False,RIVERSIDE
 large,large,The Knight's Tale 886,data/riverside_cats/KnT_riv.cat,I have God woot a large feeld to ere,False,False,RIVERSIDE
 weik,wayke,The Knight's Tale 887,data/riverside_cats/KnT_riv.cat,And wayke been the oxen in my plough,False,False,RIVERSIDE
@@ -199,63 +302,33 @@ grene,grene,The Knight's Tale 2935,data/riverside_cats/KnT_riv.cat,And thanne wi
 huge,huge,The Knight's Tale 2951,data/riverside_cats/KnT_riv.cat,Ne how the Grekes with an huge route,False,False,RIVERSIDE
 ouen,owene,The Knight's Tale 3077,data/riverside_cats/KnT_riv.cat,That gentil Palamon youre owene knyght,False,False,RIVERSIDE
 povre,povre,The Knight's Tale 3085,data/riverside_cats/KnT_riv.cat,And though he were a povre bacheler,False,False,RIVERSIDE
-noble,noble,The Manciple's Tale 111,data/riverside_cats/MancT_riv.cat,And many another noble worthy dede,False,False,RIVERSIDE
-tender,tendre,The Manciple's Tale 176,data/riverside_cats/MancT_riv.cat,And tendre flessh and make his couche of silk,False,False,RIVERSIDE
-treu,trewe,The Manciple's Tale 192,data/riverside_cats/MancT_riv.cat,Ne never so trewe ne so debonaire,False,False,RIVERSIDE
-povre,povre,The Manciple's Tale 215,data/riverside_cats/MancT_riv.cat,And a povre wenche oother than this,False,False,RIVERSIDE
-povre,povre,The Manciple's Tale 219,data/riverside_cats/MancT_riv.cat,And for that oother is a povre womman,False,False,RIVERSIDE
-dere,deere,The Manciple's Tale 221,data/riverside_cats/MancT_riv.cat,And God it woot myn owene deere brother,False,False,RIVERSIDE
-fals,false,The Manciple's Tale 295,data/riverside_cats/MancT_riv.cat,Now shaltow false theef thy song forgon,False,False,RIVERSIDE
-swete,sweete,The Manciple's Tale 300,data/riverside_cats/MancT_riv.cat,Ne nevere sweete noyse shul ye make,False,False,RIVERSIDE
-muche,muche,The Manciple's Tale 325,data/riverside_cats/MancT_riv.cat,My sone ful ofte for to muche speche,False,False,RIVERSIDE
-treu,trewe,The Merchant's Tale 1298,data/riverside_cats/MerT_riv.cat,A trewe servant dooth moore diligence,False,False,RIVERSIDE
-treu,trewe,The Merchant's Tale 1302,data/riverside_cats/MerT_riv.cat,Thy verray freendes or a trewe knave,False,False,RIVERSIDE
-povre,povre,The Merchant's Tale 1342,data/riverside_cats/MerT_riv.cat,If he be povre she helpeth hym to swynke,False,False,RIVERSIDE
-humble,humble,The Merchant's Tale 1376,data/riverside_cats/MerT_riv.cat,As seith Senek above an humble wyf,False,False,RIVERSIDE
-straunge,straunge,The Merchant's Tale 1440,data/riverside_cats/MerT_riv.cat,In straunge hand and this I telle yow alle,False,False,RIVERSIDE
-heigh,heighe,The Merchant's Tale 1482,data/riverside_cats/MerT_riv.cat,That yow ne liketh for youre heighe prudence,False,False,RIVERSIDE
-dere,deere,The Merchant's Tale 1488,data/riverside_cats/MerT_riv.cat,Myn owene deere brother and my lord,False,False,RIVERSIDE
-ouen,owene,The Merchant's Tale 1490,data/riverside_cats/MerT_riv.cat,I holde youre owene conseil is the beste,False,False,RIVERSIDE
-badde,badde,The Merchant's Tale 1593,data/riverside_cats/MerT_riv.cat,And somme were riche and hadden badde name,False,False,RIVERSIDE
-sengle,sengle,The Merchant's Tale 1667,data/riverside_cats/MerT_riv.cat,Wel ofte rather than a sengle man,False,False,RIVERSIDE
-long,longe,The Merchant's Tale 1696,data/riverside_cats/MerT_riv.cat,I trowe it were to longe yow to tarie,False,False,RIVERSIDE
-tender,tendre,The Merchant's Tale 1738,data/riverside_cats/MerT_riv.cat,Whan tendre youthe hath wedded stoupyng age,False,False,RIVERSIDE
-fals,false,The Merchant's Tale 1785,data/riverside_cats/MerT_riv.cat,O servant traytour false hoomly hewe,False,False,RIVERSIDE
-fresh,fresshe,The Merchant's Tale 1882,data/riverside_cats/MerT_riv.cat,Unto his faire fresshe lady May,False,False,RIVERSIDE
-secre,secree,The Merchant's Tale 1937,data/riverside_cats/MerT_riv.cat,In secree wise his purs and eek his bille,False,False,RIVERSIDE
-fair,faire,The Merchant's Tale 1955,data/riverside_cats/MerT_riv.cat,Who studieth now but faire fresshe May,False,False,RIVERSIDE
-ofte,ofte,The Merchant's Tale 2038,data/riverside_cats/MerT_riv.cat,Ful ofte tyme he Pluto and his queene,False,False,RIVERSIDE
-olde,olde,The Merchant's Tale 2149,data/riverside_cats/MerT_riv.cat,Swiche olde lewed wordes used he,False,False,RIVERSIDE
-treu,trewe,The Merchant's Tale 2164,data/riverside_cats/MerT_riv.cat,Than thee offende trewe deere wyf,False,False,RIVERSIDE
-dere,deere,The Merchant's Tale 2164,data/riverside_cats/MerT_riv.cat,Than thee offende trewe deere wyf,False,False,RIVERSIDE
-wilde,wylde,The Merchant's Tale 2252,data/riverside_cats/MerT_riv.cat,A wylde fyr and corrupt pestilence,False,False,RIVERSIDE
-blind,blynde,The Merchant's Tale 2259,data/riverside_cats/MerT_riv.cat,Unto this olde blynde worthy knyght,False,False,RIVERSIDE
-treu,trewe,The Merchant's Tale 2281,data/riverside_cats/MerT_riv.cat,Wommen ful trewe ful goode and vertuous,False,False,RIVERSIDE
-treu,trewe,The Merchant's Tale 2285,data/riverside_cats/MerT_riv.cat,Of many a verray trewe wyf also,False,False,RIVERSIDE
-rude,rude,The Merchant's Tale 2351,data/riverside_cats/MerT_riv.cat,I kan nat glose I am a rude man,False,False,RIVERSIDE
-store,stoore,The Merchant's Tale 2367,data/riverside_cats/MerT_riv.cat,O stronge lady stoore what dostow,False,False,RIVERSIDE
-god,goode,The Merchant's Tale 2387,data/riverside_cats/MerT_riv.cat,Ye maze maze goode sire quod she,False,False,RIVERSIDE
-riche,riche,The Miller's Tale 3188,data/riverside_cats/MilT_riv.cat,A riche gnof that gestes heeld to bord,False,False,RIVERSIDE
-povre,poure,The Miller's Tale 3190,data/riverside_cats/MilT_riv.cat,With hym ther was dwellynge a poure scoler,False,False,RIVERSIDE
-derne,deerne,The Miller's Tale 3200,data/riverside_cats/MilT_riv.cat,Of deerne love he koude and of solas,False,False,RIVERSIDE
-mek,meke,The Miller's Tale 3202,data/riverside_cats/MilT_riv.cat,And lyk a mayden meke for to see,False,False,RIVERSIDE
-derne,deerne,The Miller's Tale 3278,data/riverside_cats/MilT_riv.cat,For deerne love of thee lemman I spille,False,False,RIVERSIDE
-dere,deere,The Miller's Tale 3361,data/riverside_cats/MilT_riv.cat,Now deere lady if thy wille be,False,False,RIVERSIDE
-large,large,The Miller's Tale 3497,data/riverside_cats/MilT_riv.cat,And broghte of myghty ale a large quart,False,False,RIVERSIDE
-ouen,owene,The Miller's Tale 3588,data/riverside_cats/MilT_riv.cat,For it is Goddes owene heeste deere,False,False,RIVERSIDE
-dere,deere,The Miller's Tale 3610,data/riverside_cats/MilT_riv.cat,Go deere spouse and help to save oure lyf,False,False,RIVERSIDE
-treu,trewe,The Miller's Tale 3715,data/riverside_cats/MilT_riv.cat,That trewe love was evere so yvel biset,False,False,RIVERSIDE
-swete,sweete,The Miller's Tale 3726,data/riverside_cats/MilT_riv.cat,Lemman thy grace and sweete bryd thyn oore,False,False,RIVERSIDE
-softe,softe,The Miller's Tale 3760,data/riverside_cats/MilT_riv.cat,A softe paas he wente over the strete,False,False,RIVERSIDE
-swete,sweete,The Miller's Tale 3767,data/riverside_cats/MilT_riv.cat,What Absolon for Cristes sweete tree,False,False,RIVERSIDE
-treu,trewe,The Miller's Tale 3781,data/riverside_cats/MilT_riv.cat,Thou sholdest have as I am trewe smyth,False,False,RIVERSIDE
-swete,sweete,The Miller's Tale 3805,data/riverside_cats/MilT_riv.cat,Spek sweete bryd I noot nat where thou art,False,False,RIVERSIDE
-ouen,owene,The Monk's Tale 2008,data/riverside_cats/MkT_riv.cat,With Goddes owene fynger wroght was he,False,False,RIVERSIDE
-secre,secree,The Monk's Tale 2093,data/riverside_cats/MkT_riv.cat,Of swich thyng as they wolde han secree fayn,False,False,RIVERSIDE
-blithe,blithe,The Monk's Tale 2192,data/riverside_cats/MkT_riv.cat,Upon a tyme and bad hem blithe bee,False,False,RIVERSIDE
-wilde,wilde,The Monk's Tale 2257,data/riverside_cats/MkT_riv.cat,And many a wilde hertes blood she shedde,False,False,RIVERSIDE
-wilde,wilde,The Monk's Tale 2263,data/riverside_cats/MkT_riv.cat,She dorste wilde beestes dennes seke,False,False,RIVERSIDE
-large,large,The Monk's Tale 2299,data/riverside_cats/MkT_riv.cat,And wys therwith and large with mesure,False,False,RIVERSIDE
+glad,glade,The Friar's Tale 1348,data/riverside_cats/FriT_riv.cat,And they were glade for to fille his purs,False,False,RIVERSIDE
+dere,deere,The Friar's Tale 1395,data/riverside_cats/FriT_riv.cat,Depardieux quod this yeman deere broother,False,False,RIVERSIDE
+softe,softe,The Friar's Tale 1412,data/riverside_cats/FriT_riv.cat,This yeman hym answerde in softe speche,False,False,RIVERSIDE
+dere,deere,The Friar's Tale 1424,data/riverside_cats/FriT_riv.cat,Now by my trouthe brother deere seyde he,False,False,RIVERSIDE
+lef,leeve,The Friar's Tale 1444,data/riverside_cats/FriT_riv.cat,But leeve brother tel me thanne thy name,False,False,RIVERSIDE
+lef,leeve,The Friar's Tale 1474,data/riverside_cats/FriT_riv.cat,Ful many a cause leeve sire somonour,False,False,RIVERSIDE
+treu,trewe,The Friar's Tale 1529,data/riverside_cats/FriT_riv.cat,For to be trewe brother in this cas,False,False,RIVERSIDE
+muche,muche,The Friar's Tale 1546,data/riverside_cats/FriT_riv.cat,So muche wo as I have with yow tholed,False,False,RIVERSIDE
+dere,deere,The Friar's Tale 1567,data/riverside_cats/FriT_riv.cat,Heere may ye se myn owene deere brother,False,False,RIVERSIDE
+olde,olde,The Friar's Tale 1582,data/riverside_cats/FriT_riv.cat,Com out quod he thou olde virytrate,False,False,RIVERSIDE
+swete,sweete,The Friar's Tale 1585,data/riverside_cats/FriT_riv.cat,God save you sire what is youre sweete wille,False,False,RIVERSIDE
+povre,povre,The Friar's Tale 1609,data/riverside_cats/FriT_riv.cat,Kithe youre almesse on me povre wrecche,False,False,RIVERSIDE
+grene,grene,Parliament of Fowls 184,data/riverside_cats/PF_riv.cat,Upon a ryver in a grene mede,False,False,RIVERSIDE
+neue,newe,Parliament of Fowls 250,data/riverside_cats/PF_riv.cat,Of newe flaume and wel espyed I thenne,False,False,RIVERSIDE
+prive,prive,Parliament of Fowls 260,data/riverside_cats/PF_riv.cat,And in a prive corner in disport,False,False,RIVERSIDE
+secre,secre,Parliament of Fowls 395,data/riverside_cats/PF_riv.cat,The wyse and worthi secre trewe as stel,False,False,RIVERSIDE
+red,rede,Parliament of Fowls 442,data/riverside_cats/PF_riv.cat,Ryght as the freshe rede rose newe,False,False,RIVERSIDE
+long,longe,Parliament of Fowls 661,data/riverside_cats/PF_riv.cat,A yer is nat so longe to endure,False,False,RIVERSIDE
+hot,hoote,The Squire's Tale 51,data/riverside_cats/SqT_riv.cat,In Aries the colerik hoote signe,False,False,RIVERSIDE
+deinte,deynte,The Squire's Tale 70,data/riverside_cats/SqT_riv.cat,Ther is som mete that is ful deynte holde,False,False,RIVERSIDE
+fremed,fremde,The Squire's Tale 429,data/riverside_cats/SqT_riv.cat,Of fremde land and everemoore as she stood,False,False,RIVERSIDE
+long,longe,The Squire's Tale 444,data/riverside_cats/SqT_riv.cat,A longe whil to wayten hire she stood,False,False,RIVERSIDE
+humble,humble,The Squire's Tale 507,data/riverside_cats/SqT_riv.cat,It was so wrapped under humble cheere,False,False,RIVERSIDE
+treu,trewe,The Squire's Tale 537,data/riverside_cats/SqT_riv.cat,A trewe wight and a theef thenken nat oon,False,False,RIVERSIDE
+muche,muche,The Squire's Tale 586,data/riverside_cats/SqT_riv.cat,That he had felt as muche harm as I,False,False,RIVERSIDE
+propre,propre,The Squire's Tale 610,data/riverside_cats/SqT_riv.cat,Men loven of propre kynde newefangelnesse,False,False,RIVERSIDE
+propre,propre,The Squire's Tale 619,data/riverside_cats/SqT_riv.cat,And loven novelries of propre kynde,False,False,RIVERSIDE
 povre,povre,The Nun's Priest's Tale 2821,data/riverside_cats/NPT_riv.cat,A povre wydwe somdeel stape in age,False,False,RIVERSIDE
 narwe,narwe,The Nun's Priest's Tale 2822,data/riverside_cats/NPT_riv.cat,Was whilom dwellyng in a narwe cotage,False,False,RIVERSIDE
 simple,symple,The Nun's Priest's Tale 2826,data/riverside_cats/NPT_riv.cat,In pacience ladde a ful symple lyf,False,False,RIVERSIDE
@@ -271,193 +344,17 @@ fals,false,The Nun's Priest's Tale 3228,data/riverside_cats/NPT_riv.cat,False di
 simple,symple,The Nun's Priest's Tale 3245,data/riverside_cats/NPT_riv.cat,Nedely clepe I symple necessitee,False,False,RIVERSIDE
 fre,free,The Nun's Priest's Tale 3246,data/riverside_cats/NPT_riv.cat,Or elles if free choys be graunted me,False,False,RIVERSIDE
 dere,deere,The Nun's Priest's Tale 3347,data/riverside_cats/NPT_riv.cat,O Gaufred deere maister soverayn,False,False,RIVERSIDE
-yong,yonge,The Pardoner's Tale 464,data/riverside_cats/PardT_riv.cat,Of yonge folk that haunteden folye,False,False,RIVERSIDE
-deinte,deyntee,The Pardoner's Tale 520,data/riverside_cats/PardT_riv.cat,To gete a glotoun deyntee mete and drynke,False,False,RIVERSIDE
-heigh,heighe,The Pardoner's Tale 640,data/riverside_cats/PardT_riv.cat,Of heighe Goddes heestes honurable,False,False,RIVERSIDE
-prive,privee,The Pardoner's Tale 675,data/riverside_cats/PardT_riv.cat,Ther cam a privee theef men clepeth Deeth,False,False,RIVERSIDE
-povre,povre,The Pardoner's Tale 713,data/riverside_cats/PardT_riv.cat,An oold man and a povre with hem mette,False,False,RIVERSIDE
-long,longe,The Pardoner's Tale 726,data/riverside_cats/PardT_riv.cat,As longe tyme as it is Goddes wille,False,False,RIVERSIDE
-lef,leeve,The Pardoner's Tale 731,data/riverside_cats/PardT_riv.cat,And seye Leeve mooder leet me in,False,False,RIVERSIDE
-long,longe,The Pardoner's Tale 735,data/riverside_cats/PardT_riv.cat,That in my chambre longe tyme hath be,False,False,RIVERSIDE
-yong,yonge,The Pardoner's Tale 759,data/riverside_cats/PardT_riv.cat,To sleen us yonge folk thou false theef,False,False,RIVERSIDE
-fals,false,The Pardoner's Tale 759,data/riverside_cats/PardT_riv.cat,To sleen us yonge folk thou false theef,False,False,RIVERSIDE
-ouen,owene,The Pardoner's Tale 790,data/riverside_cats/PardT_riv.cat,And for oure owene tresor doon us honge,False,False,RIVERSIDE
-ouen,owene,The Pardoner's Tale 834,data/riverside_cats/PardT_riv.cat,And pleye at dees right at oure owene wille,False,False,RIVERSIDE
-clene,clene,The Pardoner's Tale 873,data/riverside_cats/PardT_riv.cat,The thridde he kepte clene for his drynke,False,False,RIVERSIDE
-grene,grene,Parliament of Fowls 184,data/riverside_cats/PF_riv.cat,Upon a ryver in a grene mede,False,False,RIVERSIDE
-neue,newe,Parliament of Fowls 250,data/riverside_cats/PF_riv.cat,Of newe flaume and wel espyed I thenne,False,False,RIVERSIDE
-prive,prive,Parliament of Fowls 260,data/riverside_cats/PF_riv.cat,And in a prive corner in disport,False,False,RIVERSIDE
-secre,secre,Parliament of Fowls 395,data/riverside_cats/PF_riv.cat,The wyse and worthi secre trewe as stel,False,False,RIVERSIDE
-red,rede,Parliament of Fowls 442,data/riverside_cats/PF_riv.cat,Ryght as the freshe rede rose newe,False,False,RIVERSIDE
-long,longe,Parliament of Fowls 661,data/riverside_cats/PF_riv.cat,A yer is nat so longe to endure,False,False,RIVERSIDE
-ofte,ofte,The Physician's Tale 62,data/riverside_cats/PhyT_riv.cat,She hath ful ofte tyme syk hire feyned,False,False,RIVERSIDE
-olde,olde,The Physician's Tale 72,data/riverside_cats/PhyT_riv.cat,And ye maistresses in youre olde lyf,False,False,RIVERSIDE
-secre,secree,The Physician's Tale 143,data/riverside_cats/PhyT_riv.cat,In secree wise and made hym to ensure,False,False,RIVERSIDE
-povre,povre,The Physician's Tale 179,data/riverside_cats/PhyT_riv.cat,Sheweth youre povre servant Claudius,False,False,RIVERSIDE
-dere,deere,The Physician's Tale 231,data/riverside_cats/PhyT_riv.cat,O mercy deere fader quod this mayde,False,False,RIVERSIDE
-god,goode,The Physician's Tale 235,data/riverside_cats/PhyT_riv.cat,And seyde Goode fader shal I dye,False,False,RIVERSIDE
-dere,deere,The Physician's Tale 237,data/riverside_cats/PhyT_riv.cat,No certes deere doghter myn quod he,False,False,RIVERSIDE
-prive,pryvee,The Physician's Tale 281,data/riverside_cats/PhyT_riv.cat,Of wikked lyf though it so pryvee be,False,False,RIVERSIDE
-tender,tendre,The Prioress' Tale 524,data/riverside_cats/PrT_riv.cat,For he so yong and tendre was of age,False,False,RIVERSIDE
-prive,privee,The Prioress' Tale 568,data/riverside_cats/PrT_riv.cat,That in an aleye hadde a privee place,False,False,RIVERSIDE
-noble,noble,The Reeve's Tale 3942,data/riverside_cats/RvT_riv.cat,A wyf he hadde ycomen of noble kyn,False,False,RIVERSIDE
-propre,propre,The Reeve's Tale 3972,data/riverside_cats/RvT_riv.cat,In cradel it lay and was a propre page,False,False,RIVERSIDE
-straunge,straunge,The Reeve's Tale 3980,data/riverside_cats/RvT_riv.cat,And straunge he made it of hir mariage,False,False,RIVERSIDE
-yong,yonge,The Reeve's Tale 4002,data/riverside_cats/RvT_riv.cat,Thanne were ther yonge povre scolers two,False,False,RIVERSIDE
-pale,pale,The Reeve's Tale 4150,data/riverside_cats/RvT_riv.cat,Ful pale he was for dronken and nat reed,False,False,RIVERSIDE
-wilde,wilde,The Reeve's Tale 4172,data/riverside_cats/RvT_riv.cat,A wilde fyr upon thair bodyes falle,False,False,RIVERSIDE
-swete,sweete,The Reeve's Tale 4236,data/riverside_cats/RvT_riv.cat,And seyde Fare weel Malyne sweete wight,False,False,RIVERSIDE
-dere,deere,The Reeve's Tale 4240,data/riverside_cats/RvT_riv.cat,Now deere lemman quod she go far weel,False,False,RIVERSIDE
-god,goode,The Reeve's Tale 4247,data/riverside_cats/RvT_riv.cat,And goode lemman God thee save and kepe,False,False,RIVERSIDE
-noble,noble,The Reeve's Tale 4263,data/riverside_cats/RvT_riv.cat,For Cristes saule and heer a noble game,False,False,RIVERSIDE
-fals,false,The Reeve's Tale 4268,data/riverside_cats/RvT_riv.cat,Ye false harlot quod the millere hast,False,False,RIVERSIDE
-fals,false,The Reeve's Tale 4269,data/riverside_cats/RvT_riv.cat,A false traitour False clerk quod he,False,False,RIVERSIDE
-lite,lite,The Reeve's Tale 4283,data/riverside_cats/RvT_riv.cat,For she was falle aslepe a lite wight,False,False,RIVERSIDE
-riche,riche,The Shipman's Tale 2,data/riverside_cats/ShipT_riv.cat,That riche was for which men helde hym wys,False,False,RIVERSIDE
-fre,free,The Shipman's Tale 43,data/riverside_cats/ShipT_riv.cat,Free was daun John and manly of dispence,False,False,RIVERSIDE
-dere,deere,The Shipman's Tale 69,data/riverside_cats/ShipT_riv.cat,Oure deere cosyn ful of curteisye,False,False,RIVERSIDE
-riche,riche,The Shipman's Tale 84,data/riverside_cats/ShipT_riv.cat,Ful riche was his tresor and his hord,False,False,RIVERSIDE
-maide,mayde,The Shipman's Tale 95,data/riverside_cats/ShipT_riv.cat,A mayde child cam in hire compaignye,False,False,RIVERSIDE
-dere,deere,The Shipman's Tale 106,data/riverside_cats/ShipT_riv.cat,But deere nece why be ye so pale,False,False,RIVERSIDE
-god,goode,The Shipman's Tale 107,data/riverside_cats/ShipT_riv.cat,I trowe certes that oure goode man,False,False,RIVERSIDE
-long,longe,The Shipman's Tale 216,data/riverside_cats/ShipT_riv.cat,How longe tyme wol ye rekene and caste,False,False,RIVERSIDE
-straunge,strange,The Shipman's Tale 263,data/riverside_cats/ShipT_riv.cat,Bitwix us two nedeth no strange fare,False,False,RIVERSIDE
-bel,beele,The Shipman's Tale 409,data/riverside_cats/ShipT_riv.cat,For cosynage and eek for beele cheere,False,False,RIVERSIDE
-noble,noble,The Second Nun's Tale 121,data/riverside_cats/SNT_riv.cat,Was comen of Romayns and of noble kynde,False,False,RIVERSIDE
-clene,clene,The Second Nun's Tale 159,data/riverside_cats/SNT_riv.cat,And if that ye in clene love me gye,False,False,RIVERSIDE
-sote,soote,The Second Nun's Tale 229,data/riverside_cats/SNT_riv.cat,Ne lese hir soote savour trusteth me,False,False,RIVERSIDE
-lef,leeve,The Second Nun's Tale 257,data/riverside_cats/SNT_riv.cat,So shaltow seen hem leeve brother deere,False,False,RIVERSIDE
-fair,faire,The Second Nun's Tale 293,data/riverside_cats/SNT_riv.cat,Seyde this blisful faire mayde deere,False,False,RIVERSIDE
-clene,clene,The Second Nun's Tale 300,data/riverside_cats/SNT_riv.cat,And make thee clene so that thou mowe biholde,False,False,RIVERSIDE
-dere,deere,The Second Nun's Tale 321,data/riverside_cats/SNT_riv.cat,This lyf to lese myn owene deere brother,False,False,RIVERSIDE
-humble,humble,The Second Nun's Tale 397,data/riverside_cats/SNT_riv.cat,With humble herte and sad devocioun,False,False,RIVERSIDE
-fair,faire,The Second Nun's Tale 461,data/riverside_cats/SNT_riv.cat,At which the hooly blisful faire mayde,False,False,RIVERSIDE
-noble,noble,The Second Nun's Tale 552,data/riverside_cats/SNT_riv.cat,In which into this day in noble wyse,False,False,RIVERSIDE
-hot,hoote,The Squire's Tale 51,data/riverside_cats/SqT_riv.cat,In Aries the colerik hoote signe,False,False,RIVERSIDE
-deinte,deynte,The Squire's Tale 70,data/riverside_cats/SqT_riv.cat,Ther is som mete that is ful deynte holde,False,False,RIVERSIDE
-fremed,fremde,The Squire's Tale 429,data/riverside_cats/SqT_riv.cat,Of fremde land and everemoore as she stood,False,False,RIVERSIDE
-long,longe,The Squire's Tale 444,data/riverside_cats/SqT_riv.cat,A longe whil to wayten hire she stood,False,False,RIVERSIDE
-humble,humble,The Squire's Tale 507,data/riverside_cats/SqT_riv.cat,It was so wrapped under humble cheere,False,False,RIVERSIDE
-treu,trewe,The Squire's Tale 537,data/riverside_cats/SqT_riv.cat,A trewe wight and a theef thenken nat oon,False,False,RIVERSIDE
-muche,muche,The Squire's Tale 586,data/riverside_cats/SqT_riv.cat,That he had felt as muche harm as I,False,False,RIVERSIDE
-propre,propre,The Squire's Tale 610,data/riverside_cats/SqT_riv.cat,Men loven of propre kynde newefangelnesse,False,False,RIVERSIDE
-propre,propre,The Squire's Tale 619,data/riverside_cats/SqT_riv.cat,And loven novelries of propre kynde,False,False,RIVERSIDE
-lef,leeve,The Summoner's Tale 1751,data/riverside_cats/SumT_riv.cat,A dagon of youre blanket leeve dame,False,False,RIVERSIDE
-dere,deere,The Summoner's Tale 1752,data/riverside_cats/SumT_riv.cat,Oure suster deere lo Heere I write youre name,False,False,RIVERSIDE
-gret,grete,The Summoner's Tale 1813,data/riverside_cats/SumT_riv.cat,But of youre grete goodnesse by youre leve,False,False,RIVERSIDE
-softe,softe,The Summoner's Tale 1840,data/riverside_cats/SumT_riv.cat,And of youre softe breed nat but a shyvere,False,False,RIVERSIDE
-sobre,sobre,The Summoner's Tale 1902,data/riverside_cats/SumT_riv.cat,But they be sobre that for the peple preye,False,False,RIVERSIDE
-humble,humble,The Summoner's Tale 1936,data/riverside_cats/SumT_riv.cat,But we that humble been and chaast and poore,False,False,RIVERSIDE
-chaste,chaste,The Summoner's Tale 1940,data/riverside_cats/SumT_riv.cat,Of charitable and chaste bisy freres,False,False,RIVERSIDE
-ouen,owene,The Summoner's Tale 1977,data/riverside_cats/SumT_riv.cat,And for to buylden Cristes owene chirche,False,False,RIVERSIDE
-muche,muche,The Summoner's Tale 2011,data/riverside_cats/SumT_riv.cat,I koude of ire seye so muche sorwe,False,False,RIVERSIDE
-povre,povre,The Summoner's Tale 2076,data/riverside_cats/SumT_riv.cat,But if it be unto a povre man,False,False,RIVERSIDE
-povre,povre,The Summoner's Tale 2077,data/riverside_cats/SumT_riv.cat,To a povre man men sholde his vices telle,False,False,RIVERSIDE
-lef,leeve,The Summoner's Tale 2089,data/riverside_cats/SumT_riv.cat,Now Thomas leeve brother lef thyn ire,False,False,RIVERSIDE
-wilde,wilde,The Summoner's Tale 2160,data/riverside_cats/SumT_riv.cat,He looked as it were a wilde boor,False,False,RIVERSIDE
-proud,proude,The Summoner's Tale 2227,data/riverside_cats/SumT_riv.cat,O nyce proude cherl I shrewe his face,False,False,RIVERSIDE
-hard,harde,The Summoner's Tale 2228,data/riverside_cats/SumT_riv.cat,Lo sires quod the lord with harde grace,False,False,RIVERSIDE
-noble,noble,The Summoner's Tale 2265,data/riverside_cats/SumT_riv.cat,Youre noble confessour there God hym save,False,False,RIVERSIDE
-neue,newe,The Summoner's Tale 2293,data/riverside_cats/SumT_riv.cat,And Jankyn hath ywonne a newe gowne,False,False,RIVERSIDE
-ouen,owne,Troilus and Criseyde; Book I 51,data/riverside_cats/TC1_riv.cat,As though I were hire owne brother dere,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book I 124,data/riverside_cats/TC1_riv.cat,And she hym thonked with ful humble chere,False,False,RIVERSIDE
-neue,newe,Troilus and Criseyde; Book I 157,data/riverside_cats/TC1_riv.cat,With newe grene of lusty Veer the pryme,False,False,RIVERSIDE
-sote,swote,Troilus and Criseyde; Book I 158,data/riverside_cats/TC1_riv.cat,And swote smellen floures white and rede,False,False,RIVERSIDE
-blind,blynde,Troilus and Criseyde; Book I 202,data/riverside_cats/TC1_riv.cat,O veray fooles nyce and blynde be ye,False,False,RIVERSIDE
-proud,proude,Troilus and Criseyde; Book I 225,data/riverside_cats/TC1_riv.cat,So ferde it by this fierse and proude knyght,False,False,RIVERSIDE
-wise,wise,Troilus and Criseyde; Book I 233,data/riverside_cats/TC1_riv.cat,Ye wise proude and worthi folkes alle,False,False,RIVERSIDE
-bitter,bittre,Troilus and Criseyde; Book I 385,data/riverside_cats/TC1_riv.cat,Yelt bittre fruyt though swete seed be sowe,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book I 385,data/riverside_cats/TC1_riv.cat,Yelt bittre fruyt though swete seed be sowe,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book I 433,data/riverside_cats/TC1_riv.cat,Into hire hond and with ful humble chere,False,False,RIVERSIDE
-dere,dere,Troilus and Criseyde; Book I 535,data/riverside_cats/TC1_riv.cat,O mercy dere herte and help me from,False,False,RIVERSIDE
-long,longe,Troilus and Criseyde; Book I 718,data/riverside_cats/TC1_riv.cat,As I best kan gon sithen longe while,False,False,RIVERSIDE
-dere,deere,Troilus and Criseyde; Book I 810,data/riverside_cats/TC1_riv.cat,What many a man hath love ful deere ybought,False,False,RIVERSIDE
-blaunk,blaunche,Troilus and Criseyde; Book I 916,data/riverside_cats/TC1_riv.cat,And som thow seydest hadde a blaunche fevere,False,False,RIVERSIDE
-ofte,ofte,Troilus and Criseyde; Book I 920,data/riverside_cats/TC1_riv.cat,And som han feyned ofte tyme and told,False,False,RIVERSIDE
-fre,fre,Troilus and Criseyde; Book I 958,data/riverside_cats/TC1_riv.cat,Be lusty fre persevere in thy servyse,False,False,RIVERSIDE
-wise,wyse,Troilus and Criseyde; Book I 976,data/riverside_cats/TC1_riv.cat,For this have I herd seyd of wyse lered,False,False,RIVERSIDE
-sobre,sobre,Troilus and Criseyde; Book I 1013,data/riverside_cats/TC1_riv.cat,With sobre chere although his herte pleyde,False,False,RIVERSIDE
-ded,dede,Troilus and Criseyde; Book I 1083,data/riverside_cats/TC1_riv.cat,Dede were his japes and his cruelte,False,False,RIVERSIDE
-ded,dede,Troilus and Criseyde; Book II 52,data/riverside_cats/TC2_riv.cat,Ben quike agayn that wynter dede made,False,False,RIVERSIDE
-dere,deere,Troilus and Criseyde; Book II 122,data/riverside_cats/TC2_riv.cat,Now uncle deere quod she telle it us,False,False,RIVERSIDE
-fremed,fremde,Troilus and Criseyde; Book II 248,data/riverside_cats/TC2_riv.cat,Lat be to me youre fremde manere speche,False,False,RIVERSIDE
-lef,leve,Troilus and Criseyde; Book II 251,data/riverside_cats/TC2_riv.cat,And seyde Gladly leve nece dere,False,False,RIVERSIDE
-wise,wise,Troilus and Criseyde; Book II 317,data/riverside_cats/TC2_riv.cat,The goode wise worthi fresshe and free,False,False,RIVERSIDE
-long,longe,Troilus and Criseyde; Book II 507,data/riverside_cats/TC2_riv.cat,This other day naught gon ful longe while,False,False,RIVERSIDE
-juste,juste,Troilus and Criseyde; Book II 527,data/riverside_cats/TC2_riv.cat,Ledest the fyn by juste purveiaunce,False,False,RIVERSIDE
-dere,dere,Troilus and Criseyde; Book II 591,data/riverside_cats/TC2_riv.cat,O mercy dere nece anon quod he,False,False,RIVERSIDE
-noble,noble,Troilus and Criseyde; Book II 647,data/riverside_cats/TC2_riv.cat,That to byholde it was a noble game,False,False,RIVERSIDE
-long,longe,Troilus and Criseyde; Book II 722,data/riverside_cats/TC2_riv.cat,And ek I knowe of longe tyme agon,False,False,RIVERSIDE
-juste,juste,Troilus and Criseyde; Book II 727,data/riverside_cats/TC2_riv.cat,That he may make avaunt by juste cause,False,False,RIVERSIDE
-ofte,ofte,Troilus and Criseyde; Book II 765,data/riverside_cats/TC2_riv.cat,In March that chaungeth ofte tyme his face,False,False,RIVERSIDE
-nice,nice,Troilus and Criseyde; Book II 780,data/riverside_cats/TC2_riv.cat,For evere som mystrust or nice strif,False,False,RIVERSIDE
-ofte,ofte,Troilus and Criseyde; Book II 792,data/riverside_cats/TC2_riv.cat,How ofte tyme hath it yknowen be,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book II 828,data/riverside_cats/TC2_riv.cat,Ben humble subgit trewe in myn entente,False,False,RIVERSIDE
-kinde,kynde,Troilus and Criseyde; Book II 970,data/riverside_cats/TC2_riv.cat,And spreden on hire kynde cours by rowe,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book II 1069,data/riverside_cats/TC2_riv.cat,And in ful humble wise as in his speche,False,False,RIVERSIDE
-god,goode,Troilus and Criseyde; Book II 1203,data/riverside_cats/TC2_riv.cat,Now goode nece be it nevere so lite,False,False,RIVERSIDE
-nice,nyce,Troilus and Criseyde; Book II 1286,data/riverside_cats/TC2_riv.cat,Lat be youre nyce shame and youre folie,False,False,RIVERSIDE
-gret,grete,Troilus and Criseyde; Book II 1403,data/riverside_cats/TC2_riv.cat,Which hadde his lord and grete frend ben ay,False,False,RIVERSIDE
-sobre,sobre,Troilus and Criseyde; Book II 1592,data/riverside_cats/TC2_riv.cat,For which with sobre cheere hire herte lough,False,False,RIVERSIDE
-straunge,straunge,Troilus and Criseyde; Book II 1660,data/riverside_cats/TC2_riv.cat,And ek for she is straunge he wol forbere,False,False,RIVERSIDE
-softe,softe,Troilus and Criseyde; Book II 1667,data/riverside_cats/TC2_riv.cat,Eleyne in al hire goodly softe wyse,False,False,RIVERSIDE
-fair,faire,Troilus and Criseyde; Book II 1670,data/riverside_cats/TC2_riv.cat,Now faire brother beth al hool I preye,False,False,RIVERSIDE
-salt,salte,Troilus and Criseyde; Book III 8,data/riverside_cats/TC3_riv.cat,In hevene and helle in erthe and salte see,False,False,RIVERSIDE
-grene,grene,Troilus and Criseyde; Book III 10,data/riverside_cats/TC3_riv.cat,As man brid best fissh herbe and grene tree,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 69,data/riverside_cats/TC3_riv.cat,Ye swete herte Allas I may nought rise,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 98,data/riverside_cats/TC3_riv.cat,Was twyes Mercy mercy swete herte,False,False,RIVERSIDE
-fresh,fresshe,Troilus and Criseyde; Book III 128,data/riverside_cats/TC3_riv.cat,Quod Troilus O goodly fresshe free,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book III 141,data/riverside_cats/TC3_riv.cat,And I to ben youre verray humble trewe,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 147,data/riverside_cats/TC3_riv.cat,Lo this mene I myn owen swete herte,False,False,RIVERSIDE
-dere,deere,Troilus and Criseyde; Book III 176,data/riverside_cats/TC3_riv.cat,And shortly deere herte and al my knyght,False,False,RIVERSIDE
-sobre,sobre,Troilus and Criseyde; Book III 237,data/riverside_cats/TC3_riv.cat,And gan to speken in a sobre wyse,False,False,RIVERSIDE
-god,goode,Troilus and Criseyde; Book III 264,data/riverside_cats/TC3_riv.cat,But goode brother do now as the oughte,False,False,RIVERSIDE
-secre,secree,Troilus and Criseyde; Book III 286,data/riverside_cats/TC3_riv.cat,To holden secree swich an heigh matere,False,False,RIVERSIDE
-wise,wise,Troilus and Criseyde; Book III 327,data/riverside_cats/TC3_riv.cat,For wel woot I in wise folk that vice,False,False,RIVERSIDE
-lef,leve,Troilus and Criseyde; Book III 330,data/riverside_cats/TC3_riv.cat,But now to purpos leve brother deere,False,False,RIVERSIDE
-treu,trewe,Troilus and Criseyde; Book III 333,data/riverside_cats/TC3_riv.cat,For at thi day thow shalt me trewe fynde,False,False,RIVERSIDE
-ded,dede,Troilus and Criseyde; Book III 352,data/riverside_cats/TC3_riv.cat,That han in wynter dede ben and dreye,False,False,RIVERSIDE
-god,goode,Troilus and Criseyde; Book III 631,data/riverside_cats/TC3_riv.cat,But goode nece if I myghte evere plese,False,False,RIVERSIDE
-muche,muche,Troilus and Criseyde; Book III 638,data/riverside_cats/TC3_riv.cat,Criseyde which that koude as muche good,False,False,RIVERSIDE
-huge,huge,Troilus and Criseyde; Book III 656,data/riverside_cats/TC3_riv.cat,And seyde Lord this is an huge rayn,False,False,RIVERSIDE
-sobre,sobre,Troilus and Criseyde; Book III 747,data/riverside_cats/TC3_riv.cat,And Pandarus with a ful sobre cheere,False,False,RIVERSIDE
-dere,deere,Troilus and Criseyde; Book III 774,data/riverside_cats/TC3_riv.cat,And hym hire lief and deere herte calle,False,False,RIVERSIDE
-prive,pryve,Troilus and Criseyde; Book III 787,data/riverside_cats/TC3_riv.cat,Is thorugh a goter by a pryve wente,False,False,RIVERSIDE
-prime,prime,Troilus and Criseyde; Book III 919,data/riverside_cats/TC3_riv.cat,And ek so like a sooth at prime face,False,False,RIVERSIDE
-god,goode,Troilus and Criseyde; Book III 975,data/riverside_cats/TC3_riv.cat,Now doth hym sitte goode nece deere,False,False,RIVERSIDE
-gret,grete,Troilus and Criseyde; Book III 992,data/riverside_cats/TC3_riv.cat,Youre grete trouthe and servise every day,False,False,RIVERSIDE
-ofte,ofte,Troilus and Criseyde; Book III 1129,data/riverside_cats/TC3_riv.cat,And al foryaf and ofte tyme hym keste,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 1173,data/riverside_cats/TC3_riv.cat,Have mercy swete herte myn Criseyde,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 1183,data/riverside_cats/TC3_riv.cat,Foryeve it me myn owene swete herte,False,False,RIVERSIDE
-bitter,bittre,Troilus and Criseyde; Book III 1215,data/riverside_cats/TC3_riv.cat,Ful bittre drynke and for to han gladnesse,False,False,RIVERSIDE
-juste,juste,Troilus and Criseyde; Book III 1227,data/riverside_cats/TC3_riv.cat,As she that juste cause hadde hym to triste,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book III 1278,data/riverside_cats/TC3_riv.cat,Myn herte swete how I yow myght plese,False,False,RIVERSIDE
-fresh,fresshe,Troilus and Criseyde; Book III 1296,data/riverside_cats/TC3_riv.cat,For certes fresshe wommanliche wif,False,False,RIVERSIDE
-foul,foule,Troilus and Criseyde; Book III 1321,data/riverside_cats/TC3_riv.cat,Awey thow foule daunger and thow feere,False,False,RIVERSIDE
-neue,newe,Troilus and Criseyde; Book III 1404,data/riverside_cats/TC3_riv.cat,And fallen in a newe joye anoon,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book III 1487,data/riverside_cats/TC3_riv.cat,That I youre humble servant and youre knyght,False,False,RIVERSIDE
-treu,trewe,Troilus and Criseyde; Book III 1648,data/riverside_cats/TC3_riv.cat,And seyde Frend as I am trewe knyght,False,False,RIVERSIDE
-neue,newe,Troilus and Criseyde; Book III 1654,data/riverside_cats/TC3_riv.cat,But now I feele a newe qualitee,False,False,RIVERSIDE
-dere,deere,Troilus and Criseyde; Book IV 405,data/riverside_cats/TC4_riv.cat,Forthi be glad myn owen deere brother,False,False,RIVERSIDE
-neue,newe,Troilus and Criseyde; Book IV 416,data/riverside_cats/TC4_riv.cat,And upon newe cas lith newe avys,False,False,RIVERSIDE
-lef,leeve,Troilus and Criseyde; Book IV 458,data/riverside_cats/TC4_riv.cat,It lith nat in my power leeve brother,False,False,RIVERSIDE
-nice,nyce,Troilus and Criseyde; Book IV 536,data/riverside_cats/TC4_riv.cat,Now is nat this a nyce vanitee,False,False,RIVERSIDE
-blak,blake,Troilus and Criseyde; Book IV 779,data/riverside_cats/TC4_riv.cat,Shul blake ben in tokenyng herte swete,False,False,RIVERSIDE
-tender,tendre,Troilus and Criseyde; Book IV 795,data/riverside_cats/TC4_riv.cat,How shal youre tendre herte this sustene,False,False,RIVERSIDE
-secre,secree,Troilus and Criseyde; Book IV 810,data/riverside_cats/TC4_riv.cat,Unto Criseyde in a ful secree wise,False,False,RIVERSIDE
-purpure,purpre,Troilus and Criseyde; Book IV 869,data/riverside_cats/TC4_riv.cat,Aboute hire eyen two a purpre ryng,False,False,RIVERSIDE
-lef,leeve,Troilus and Criseyde; Book IV 926,data/riverside_cats/TC4_riv.cat,And nought encresse leeve nece swete,False,False,RIVERSIDE
-fre,fre,Troilus and Criseyde; Book IV 971,data/riverside_cats/TC4_riv.cat,But that fre chois is yeven us everychon,False,False,RIVERSIDE
-smothe,smothe,Troilus and Criseyde; Book IV 996,data/riverside_cats/TC4_riv.cat,That han hire top ful heighe and smothe yshore,False,False,RIVERSIDE
-fre,fre,Troilus and Criseyde; Book IV 1059,data/riverside_cats/TC4_riv.cat,For to destruye oure fre chois every del,False,False,RIVERSIDE
-bitter,bittre,Troilus and Criseyde; Book IV 1136,data/riverside_cats/TC4_riv.cat,As bittre weren out of teris kynde,False,False,RIVERSIDE
-ofte,ofte,Troilus and Criseyde; Book IV 1161,data/riverside_cats/TC4_riv.cat,But ofte tyme hire colde mowth he kiste,False,False,RIVERSIDE
-huge,huge,Troilus and Criseyde; Book IV 1387,data/riverside_cats/TC4_riv.cat,And that shal ben an huge quantite,False,False,RIVERSIDE
-treu,trewe,Troilus and Criseyde; Book IV 1417,data/riverside_cats/TC4_riv.cat,And that hire herte trewe was and kynde,False,False,RIVERSIDE
-treu,trewe,Troilus and Criseyde; Book IV 1439,data/riverside_cats/TC4_riv.cat,That of hire heste he myghte hire trewe fynde,False,False,RIVERSIDE
-swete,swete,Troilus and Criseyde; Book IV 1449,data/riverside_cats/TC4_riv.cat,Dwelle rather here myn owen swete herte,False,False,RIVERSIDE
-humble,humble,Troilus and Criseyde; Book IV 1499,data/riverside_cats/TC4_riv.cat,For which with humble trewe and pitous herte,False,False,RIVERSIDE
-bar,bare,Troilus and Criseyde; Book IV 1522,data/riverside_cats/TC4_riv.cat,That though we comen in oure bare sherte,False,False,RIVERSIDE
+grene,grene,The Wife of Bath's Tale 861,data/riverside_cats/WBT_riv.cat,Daunced ful ofte in many a grene mede,False,False,RIVERSIDE
+olde,olde,The Wife of Bath's Tale 1004,data/riverside_cats/WBT_riv.cat,Thise olde folk kan muchel thyng quod she,False,False,RIVERSIDE
+noble,noble,The Wife of Bath's Tale 1026,data/riverside_cats/WBT_riv.cat,Ful many a noble wyf and many a mayde,False,False,RIVERSIDE
+neue,newe,The Wife of Bath's Tale 1060,data/riverside_cats/WBT_riv.cat,For Goddes love as chees a newe requeste,False,False,RIVERSIDE
+muche,muche,The Wife of Bath's Tale 1079,data/riverside_cats/WBT_riv.cat,Ther nas but hevynesse and muche sorwe,False,False,RIVERSIDE
+straunge,strange,The Wife of Bath's Tale 1161,data/riverside_cats/WBT_riv.cat,Which is a strange thyng to thy persone,False,False,RIVERSIDE
+lef,leeve,The Wife of Bath's Tale 1171,data/riverside_cats/WBT_riv.cat,And therfore leeve housbonde I thus conclude,False,False,RIVERSIDE
+povre,povre,The Wife of Bath's Tale 1187,data/riverside_cats/WBT_riv.cat,He that coveiteth is a povre wight,False,False,RIVERSIDE
+treu,trewe,The Wife of Bath's Tale 1221,data/riverside_cats/WBT_riv.cat,And be to yow a trewe humble wyf,False,False,RIVERSIDE
+humble,humble,The Wife of Bath's Tale 1221,data/riverside_cats/WBT_riv.cat,And be to yow a trewe humble wyf,False,False,RIVERSIDE
+wise,wise,The Wife of Bath's Tale 1231,data/riverside_cats/WBT_riv.cat,I put me in youre wise governance,False,False,RIVERSIDE
 swete,swete,Troilus and Criseyde; Book V 63,data/riverside_cats/TC5_riv.cat,Whan she forgoth hire owen swete herte,False,False,RIVERSIDE
 huge,huge,Troilus and Criseyde; Book V 65,data/riverside_cats/TC5_riv.cat,With hauk on honde and with an huge route,False,False,RIVERSIDE
 fresh,fresshe,Troilus and Criseyde; Book V 244,data/riverside_cats/TC5_riv.cat,Shal ben youre fresshe wommanliche face,False,False,RIVERSIDE
@@ -494,41 +391,144 @@ swete,swete,Troilus and Criseyde; Book V 1344,data/riverside_cats/TC5_riv.cat,Fo
 dere,deere,Troilus and Criseyde; Book V 1401,data/riverside_cats/TC5_riv.cat,Iwis myne owene deere herte trewe,False,False,RIVERSIDE
 fair,faire,Troilus and Criseyde; Book V 1412,data/riverside_cats/TC5_riv.cat,And fareth wel goodly faire fresshe may,False,False,RIVERSIDE
 fresh,fresshe,Troilus and Criseyde; Book V 1412,data/riverside_cats/TC5_riv.cat,And fareth wel goodly faire fresshe may,False,False,RIVERSIDE
+ouen,owene,The Monk's Tale 2008,data/riverside_cats/MkT_riv.cat,With Goddes owene fynger wroght was he,False,False,RIVERSIDE
+secre,secree,The Monk's Tale 2093,data/riverside_cats/MkT_riv.cat,Of swich thyng as they wolde han secree fayn,False,False,RIVERSIDE
+blithe,blithe,The Monk's Tale 2192,data/riverside_cats/MkT_riv.cat,Upon a tyme and bad hem blithe bee,False,False,RIVERSIDE
+wilde,wilde,The Monk's Tale 2257,data/riverside_cats/MkT_riv.cat,And many a wilde hertes blood she shedde,False,False,RIVERSIDE
+wilde,wilde,The Monk's Tale 2263,data/riverside_cats/MkT_riv.cat,She dorste wilde beestes dennes seke,False,False,RIVERSIDE
+large,large,The Monk's Tale 2299,data/riverside_cats/MkT_riv.cat,And wys therwith and large with mesure,False,False,RIVERSIDE
+dere,deere,Troilus and Criseyde; Book IV 405,data/riverside_cats/TC4_riv.cat,Forthi be glad myn owen deere brother,False,False,RIVERSIDE
+neue,newe,Troilus and Criseyde; Book IV 416,data/riverside_cats/TC4_riv.cat,And upon newe cas lith newe avys,False,False,RIVERSIDE
+lef,leeve,Troilus and Criseyde; Book IV 458,data/riverside_cats/TC4_riv.cat,It lith nat in my power leeve brother,False,False,RIVERSIDE
+nice,nyce,Troilus and Criseyde; Book IV 536,data/riverside_cats/TC4_riv.cat,Now is nat this a nyce vanitee,False,False,RIVERSIDE
+blak,blake,Troilus and Criseyde; Book IV 779,data/riverside_cats/TC4_riv.cat,Shul blake ben in tokenyng herte swete,False,False,RIVERSIDE
+tender,tendre,Troilus and Criseyde; Book IV 795,data/riverside_cats/TC4_riv.cat,How shal youre tendre herte this sustene,False,False,RIVERSIDE
+secre,secree,Troilus and Criseyde; Book IV 810,data/riverside_cats/TC4_riv.cat,Unto Criseyde in a ful secree wise,False,False,RIVERSIDE
+purpure,purpre,Troilus and Criseyde; Book IV 869,data/riverside_cats/TC4_riv.cat,Aboute hire eyen two a purpre ryng,False,False,RIVERSIDE
+lef,leeve,Troilus and Criseyde; Book IV 926,data/riverside_cats/TC4_riv.cat,And nought encresse leeve nece swete,False,False,RIVERSIDE
+fre,fre,Troilus and Criseyde; Book IV 971,data/riverside_cats/TC4_riv.cat,But that fre chois is yeven us everychon,False,False,RIVERSIDE
+smothe,smothe,Troilus and Criseyde; Book IV 996,data/riverside_cats/TC4_riv.cat,That han hire top ful heighe and smothe yshore,False,False,RIVERSIDE
+fre,fre,Troilus and Criseyde; Book IV 1059,data/riverside_cats/TC4_riv.cat,For to destruye oure fre chois every del,False,False,RIVERSIDE
+bitter,bittre,Troilus and Criseyde; Book IV 1136,data/riverside_cats/TC4_riv.cat,As bittre weren out of teris kynde,False,False,RIVERSIDE
+ofte,ofte,Troilus and Criseyde; Book IV 1161,data/riverside_cats/TC4_riv.cat,But ofte tyme hire colde mowth he kiste,False,False,RIVERSIDE
+huge,huge,Troilus and Criseyde; Book IV 1387,data/riverside_cats/TC4_riv.cat,And that shal ben an huge quantite,False,False,RIVERSIDE
+treu,trewe,Troilus and Criseyde; Book IV 1417,data/riverside_cats/TC4_riv.cat,And that hire herte trewe was and kynde,False,False,RIVERSIDE
+treu,trewe,Troilus and Criseyde; Book IV 1439,data/riverside_cats/TC4_riv.cat,That of hire heste he myghte hire trewe fynde,False,False,RIVERSIDE
+swete,swete,Troilus and Criseyde; Book IV 1449,data/riverside_cats/TC4_riv.cat,Dwelle rather here myn owen swete herte,False,False,RIVERSIDE
+humble,humble,Troilus and Criseyde; Book IV 1499,data/riverside_cats/TC4_riv.cat,For which with humble trewe and pitous herte,False,False,RIVERSIDE
+bar,bare,Troilus and Criseyde; Book IV 1522,data/riverside_cats/TC4_riv.cat,That though we comen in oure bare sherte,False,False,RIVERSIDE
+ofte,ofte,The General Prologue 52,data/riverside_cats/GP_riv.cat,Ful ofte tyme he hadde the bord bigonne,False,False,RIVERSIDE
+god,goode,The General Prologue 74,data/riverside_cats/GP_riv.cat,His hors were goode but he was nat gay,False,False,RIVERSIDE
+tender,tendre,The General Prologue 150,data/riverside_cats/GP_riv.cat,And al was conscience and tendre herte,False,False,RIVERSIDE
+deinte,deyntee,The General Prologue 168,data/riverside_cats/GP_riv.cat,Ful many a deyntee hors hadde he in stable,False,False,RIVERSIDE
+noble,noble,The General Prologue 214,data/riverside_cats/GP_riv.cat,Unto his ordre he was a noble post,False,False,RIVERSIDE
+double,double,The General Prologue 262,data/riverside_cats/GP_riv.cat,Of double worstede was his semycope,False,False,RIVERSIDE
+lene,leene,The General Prologue 287,data/riverside_cats/GP_riv.cat,As leene was his hors as is a rake,False,False,RIVERSIDE
+simple,symple,The General Prologue 319,data/riverside_cats/GP_riv.cat,Al was fee symple to hym in effect,False,False,RIVERSIDE
+medle,medlee,The General Prologue 328,data/riverside_cats/GP_riv.cat,He rood but hoomly in a medlee cote,False,False,RIVERSIDE
+ouen,owene,The General Prologue 336,data/riverside_cats/GP_riv.cat,For he was Epicurus owene sone,False,False,RIVERSIDE
+ofte,ofte,The General Prologue 356,data/riverside_cats/GP_riv.cat,Ful ofte tyme he was knyght of the shire,False,False,RIVERSIDE
+nice,nyce,The General Prologue 398,data/riverside_cats/GP_riv.cat,Of nyce conscience took he no keep,False,False,RIVERSIDE
+neue,newe,The General Prologue 428,data/riverside_cats/GP_riv.cat,Hir frendshipe nas nat newe to bigynne,False,False,RIVERSIDE
+straunge,straunge,The General Prologue 464,data/riverside_cats/GP_riv.cat,She hadde passed many a straunge strem,False,False,RIVERSIDE
+povre,povre,The General Prologue 478,data/riverside_cats/GP_riv.cat,And was a povre PERSOUN OF A TOUN,False,False,RIVERSIDE
+riche,riche,The General Prologue 479,data/riverside_cats/GP_riv.cat,But riche he was of hooly thoght and werk,False,False,RIVERSIDE
+clene,clene,The General Prologue 504,data/riverside_cats/GP_riv.cat,A shiten shepherde and a clene sheep,False,False,RIVERSIDE
+treu,trewe,The General Prologue 531,data/riverside_cats/GP_riv.cat,A trewe swynkere and a good was he,False,False,RIVERSIDE
+povre,povre,The General Prologue 537,data/riverside_cats/GP_riv.cat,For Cristes sake for every povre wight,False,False,RIVERSIDE
+thikke,thikke,The General Prologue 549,data/riverside_cats/GP_riv.cat,He was shortsholdred brood a thikke knarre,False,False,RIVERSIDE
+long,longe,The General Prologue 591,data/riverside_cats/GP_riv.cat,Ful longe were his legges and ful lene,False,False,RIVERSIDE
+povre,povre,The General Prologue 702,data/riverside_cats/GP_riv.cat,A povre person dwellynge upon lond,False,False,RIVERSIDE
+large,large,The General Prologue 753,data/riverside_cats/GP_riv.cat,A large man he was with eyen stepe,False,False,RIVERSIDE
+long,longe,The General Prologue 784,data/riverside_cats/GP_riv.cat,Oure conseil was nat longe for to seche,False,False,RIVERSIDE
+riche,riche,The Miller's Tale 3188,data/riverside_cats/MilT_riv.cat,A riche gnof that gestes heeld to bord,False,False,RIVERSIDE
+povre,poure,The Miller's Tale 3190,data/riverside_cats/MilT_riv.cat,With hym ther was dwellynge a poure scoler,False,False,RIVERSIDE
+derne,deerne,The Miller's Tale 3200,data/riverside_cats/MilT_riv.cat,Of deerne love he koude and of solas,False,False,RIVERSIDE
+mek,meke,The Miller's Tale 3202,data/riverside_cats/MilT_riv.cat,And lyk a mayden meke for to see,False,False,RIVERSIDE
+derne,deerne,The Miller's Tale 3278,data/riverside_cats/MilT_riv.cat,For deerne love of thee lemman I spille,False,False,RIVERSIDE
+dere,deere,The Miller's Tale 3361,data/riverside_cats/MilT_riv.cat,Now deere lady if thy wille be,False,False,RIVERSIDE
+large,large,The Miller's Tale 3497,data/riverside_cats/MilT_riv.cat,And broghte of myghty ale a large quart,False,False,RIVERSIDE
+ouen,owene,The Miller's Tale 3588,data/riverside_cats/MilT_riv.cat,For it is Goddes owene heeste deere,False,False,RIVERSIDE
+dere,deere,The Miller's Tale 3610,data/riverside_cats/MilT_riv.cat,Go deere spouse and help to save oure lyf,False,False,RIVERSIDE
+treu,trewe,The Miller's Tale 3715,data/riverside_cats/MilT_riv.cat,That trewe love was evere so yvel biset,False,False,RIVERSIDE
+swete,sweete,The Miller's Tale 3726,data/riverside_cats/MilT_riv.cat,Lemman thy grace and sweete bryd thyn oore,False,False,RIVERSIDE
+softe,softe,The Miller's Tale 3760,data/riverside_cats/MilT_riv.cat,A softe paas he wente over the strete,False,False,RIVERSIDE
+swete,sweete,The Miller's Tale 3767,data/riverside_cats/MilT_riv.cat,What Absolon for Cristes sweete tree,False,False,RIVERSIDE
+treu,trewe,The Miller's Tale 3781,data/riverside_cats/MilT_riv.cat,Thou sholdest have as I am trewe smyth,False,False,RIVERSIDE
+swete,sweete,The Miller's Tale 3805,data/riverside_cats/MilT_riv.cat,Spek sweete bryd I noot nat where thou art,False,False,RIVERSIDE
+noble,noble,The Manciple's Tale 111,data/riverside_cats/MancT_riv.cat,And many another noble worthy dede,False,False,RIVERSIDE
+tender,tendre,The Manciple's Tale 176,data/riverside_cats/MancT_riv.cat,And tendre flessh and make his couche of silk,False,False,RIVERSIDE
+treu,trewe,The Manciple's Tale 192,data/riverside_cats/MancT_riv.cat,Ne never so trewe ne so debonaire,False,False,RIVERSIDE
+povre,povre,The Manciple's Tale 215,data/riverside_cats/MancT_riv.cat,And a povre wenche oother than this,False,False,RIVERSIDE
+povre,povre,The Manciple's Tale 219,data/riverside_cats/MancT_riv.cat,And for that oother is a povre womman,False,False,RIVERSIDE
+dere,deere,The Manciple's Tale 221,data/riverside_cats/MancT_riv.cat,And God it woot myn owene deere brother,False,False,RIVERSIDE
+fals,false,The Manciple's Tale 295,data/riverside_cats/MancT_riv.cat,Now shaltow false theef thy song forgon,False,False,RIVERSIDE
+swete,sweete,The Manciple's Tale 300,data/riverside_cats/MancT_riv.cat,Ne nevere sweete noyse shul ye make,False,False,RIVERSIDE
+muche,muche,The Manciple's Tale 325,data/riverside_cats/MancT_riv.cat,My sone ful ofte for to muche speche,False,False,RIVERSIDE
+yong,yonge,The Pardoner's Tale 464,data/riverside_cats/PardT_riv.cat,Of yonge folk that haunteden folye,False,False,RIVERSIDE
+deinte,deyntee,The Pardoner's Tale 520,data/riverside_cats/PardT_riv.cat,To gete a glotoun deyntee mete and drynke,False,False,RIVERSIDE
+heigh,heighe,The Pardoner's Tale 640,data/riverside_cats/PardT_riv.cat,Of heighe Goddes heestes honurable,False,False,RIVERSIDE
+prive,privee,The Pardoner's Tale 675,data/riverside_cats/PardT_riv.cat,Ther cam a privee theef men clepeth Deeth,False,False,RIVERSIDE
+povre,povre,The Pardoner's Tale 713,data/riverside_cats/PardT_riv.cat,An oold man and a povre with hem mette,False,False,RIVERSIDE
+long,longe,The Pardoner's Tale 726,data/riverside_cats/PardT_riv.cat,As longe tyme as it is Goddes wille,False,False,RIVERSIDE
+lef,leeve,The Pardoner's Tale 731,data/riverside_cats/PardT_riv.cat,And seye Leeve mooder leet me in,False,False,RIVERSIDE
+long,longe,The Pardoner's Tale 735,data/riverside_cats/PardT_riv.cat,That in my chambre longe tyme hath be,False,False,RIVERSIDE
+yong,yonge,The Pardoner's Tale 759,data/riverside_cats/PardT_riv.cat,To sleen us yonge folk thou false theef,False,False,RIVERSIDE
+fals,false,The Pardoner's Tale 759,data/riverside_cats/PardT_riv.cat,To sleen us yonge folk thou false theef,False,False,RIVERSIDE
+ouen,owene,The Pardoner's Tale 790,data/riverside_cats/PardT_riv.cat,And for oure owene tresor doon us honge,False,False,RIVERSIDE
+ouen,owene,The Pardoner's Tale 834,data/riverside_cats/PardT_riv.cat,And pleye at dees right at oure owene wille,False,False,RIVERSIDE
+clene,clene,The Pardoner's Tale 873,data/riverside_cats/PardT_riv.cat,The thridde he kepte clene for his drynke,False,False,RIVERSIDE
+riche,riche,The Shipman's Tale 2,data/riverside_cats/ShipT_riv.cat,That riche was for which men helde hym wys,False,False,RIVERSIDE
+fre,free,The Shipman's Tale 43,data/riverside_cats/ShipT_riv.cat,Free was daun John and manly of dispence,False,False,RIVERSIDE
+dere,deere,The Shipman's Tale 69,data/riverside_cats/ShipT_riv.cat,Oure deere cosyn ful of curteisye,False,False,RIVERSIDE
+riche,riche,The Shipman's Tale 84,data/riverside_cats/ShipT_riv.cat,Ful riche was his tresor and his hord,False,False,RIVERSIDE
+maide,mayde,The Shipman's Tale 95,data/riverside_cats/ShipT_riv.cat,A mayde child cam in hire compaignye,False,False,RIVERSIDE
+dere,deere,The Shipman's Tale 106,data/riverside_cats/ShipT_riv.cat,But deere nece why be ye so pale,False,False,RIVERSIDE
+god,goode,The Shipman's Tale 107,data/riverside_cats/ShipT_riv.cat,I trowe certes that oure goode man,False,False,RIVERSIDE
+long,longe,The Shipman's Tale 216,data/riverside_cats/ShipT_riv.cat,How longe tyme wol ye rekene and caste,False,False,RIVERSIDE
+straunge,strange,The Shipman's Tale 263,data/riverside_cats/ShipT_riv.cat,Bitwix us two nedeth no strange fare,False,False,RIVERSIDE
+bel,beele,The Shipman's Tale 409,data/riverside_cats/ShipT_riv.cat,For cosynage and eek for beele cheere,False,False,RIVERSIDE
+treu,trewe,The Merchant's Tale 1298,data/riverside_cats/MerT_riv.cat,A trewe servant dooth moore diligence,False,False,RIVERSIDE
+treu,trewe,The Merchant's Tale 1302,data/riverside_cats/MerT_riv.cat,Thy verray freendes or a trewe knave,False,False,RIVERSIDE
+povre,povre,The Merchant's Tale 1342,data/riverside_cats/MerT_riv.cat,If he be povre she helpeth hym to swynke,False,False,RIVERSIDE
+humble,humble,The Merchant's Tale 1376,data/riverside_cats/MerT_riv.cat,As seith Senek above an humble wyf,False,False,RIVERSIDE
+straunge,straunge,The Merchant's Tale 1440,data/riverside_cats/MerT_riv.cat,In straunge hand and this I telle yow alle,False,False,RIVERSIDE
+heigh,heighe,The Merchant's Tale 1482,data/riverside_cats/MerT_riv.cat,That yow ne liketh for youre heighe prudence,False,False,RIVERSIDE
+dere,deere,The Merchant's Tale 1488,data/riverside_cats/MerT_riv.cat,Myn owene deere brother and my lord,False,False,RIVERSIDE
+ouen,owene,The Merchant's Tale 1490,data/riverside_cats/MerT_riv.cat,I holde youre owene conseil is the beste,False,False,RIVERSIDE
+badde,badde,The Merchant's Tale 1593,data/riverside_cats/MerT_riv.cat,And somme were riche and hadden badde name,False,False,RIVERSIDE
+sengle,sengle,The Merchant's Tale 1667,data/riverside_cats/MerT_riv.cat,Wel ofte rather than a sengle man,False,False,RIVERSIDE
+long,longe,The Merchant's Tale 1696,data/riverside_cats/MerT_riv.cat,I trowe it were to longe yow to tarie,False,False,RIVERSIDE
+tender,tendre,The Merchant's Tale 1738,data/riverside_cats/MerT_riv.cat,Whan tendre youthe hath wedded stoupyng age,False,False,RIVERSIDE
+fals,false,The Merchant's Tale 1785,data/riverside_cats/MerT_riv.cat,O servant traytour false hoomly hewe,False,False,RIVERSIDE
+fresh,fresshe,The Merchant's Tale 1882,data/riverside_cats/MerT_riv.cat,Unto his faire fresshe lady May,False,False,RIVERSIDE
+secre,secree,The Merchant's Tale 1937,data/riverside_cats/MerT_riv.cat,In secree wise his purs and eek his bille,False,False,RIVERSIDE
+fair,faire,The Merchant's Tale 1955,data/riverside_cats/MerT_riv.cat,Who studieth now but faire fresshe May,False,False,RIVERSIDE
+ofte,ofte,The Merchant's Tale 2038,data/riverside_cats/MerT_riv.cat,Ful ofte tyme he Pluto and his queene,False,False,RIVERSIDE
+olde,olde,The Merchant's Tale 2149,data/riverside_cats/MerT_riv.cat,Swiche olde lewed wordes used he,False,False,RIVERSIDE
+treu,trewe,The Merchant's Tale 2164,data/riverside_cats/MerT_riv.cat,Than thee offende trewe deere wyf,False,False,RIVERSIDE
+dere,deere,The Merchant's Tale 2164,data/riverside_cats/MerT_riv.cat,Than thee offende trewe deere wyf,False,False,RIVERSIDE
+wilde,wylde,The Merchant's Tale 2252,data/riverside_cats/MerT_riv.cat,A wylde fyr and corrupt pestilence,False,False,RIVERSIDE
+blind,blynde,The Merchant's Tale 2259,data/riverside_cats/MerT_riv.cat,Unto this olde blynde worthy knyght,False,False,RIVERSIDE
+treu,trewe,The Merchant's Tale 2281,data/riverside_cats/MerT_riv.cat,Wommen ful trewe ful goode and vertuous,False,False,RIVERSIDE
+treu,trewe,The Merchant's Tale 2285,data/riverside_cats/MerT_riv.cat,Of many a verray trewe wyf also,False,False,RIVERSIDE
+rude,rude,The Merchant's Tale 2351,data/riverside_cats/MerT_riv.cat,I kan nat glose I am a rude man,False,False,RIVERSIDE
+store,stoore,The Merchant's Tale 2367,data/riverside_cats/MerT_riv.cat,O stronge lady stoore what dostow,False,False,RIVERSIDE
+god,goode,The Merchant's Tale 2387,data/riverside_cats/MerT_riv.cat,Ye maze maze goode sire quod she,False,False,RIVERSIDE
+humble,humble,The Franklin's Tale 758,data/riverside_cats/FranT_riv.cat,Sire I wol be youre humble trewe wyf,False,False,RIVERSIDE
+treu,trewe,The Franklin's Tale 758,data/riverside_cats/FranT_riv.cat,Sire I wol be youre humble trewe wyf,False,False,RIVERSIDE
+humble,humble,The Franklin's Tale 791,data/riverside_cats/FranT_riv.cat,Heere may men seen an humble wys accord,False,False,RIVERSIDE
+yong,yonge,The Franklin's Tale 956,data/riverside_cats/FranT_riv.cat,Ther yonge folk kepen hir observaunces,False,False,RIVERSIDE
+derk,dirke,The Franklin's Tale 1074,data/riverside_cats/FranT_riv.cat,Into hir owene dirke regioun,False,False,RIVERSIDE
+long,longe,The Franklin's Tale 1081,data/riverside_cats/FranT_riv.cat,And longe tyme he lay forth in a traunce,False,False,RIVERSIDE
+ded,dede,The Franklin's Tale 1181,data/riverside_cats/FranT_riv.cat,And he answerde hym that they dede were,False,False,RIVERSIDE
+wilde,wilde,The Franklin's Tale 1190,data/riverside_cats/FranT_riv.cat,Forestes parkes ful of wilde deer,False,False,RIVERSIDE
+wilde,wilde,The Franklin's Tale 1195,data/riverside_cats/FranT_riv.cat,He saugh whan voyded were thise wilde deer,False,False,RIVERSIDE
+double,double,The Franklin's Tale 1252,data/riverside_cats/FranT_riv.cat,Janus sit by the fyr with double berd,False,False,RIVERSIDE
+humble,humble,The Franklin's Tale 1309,data/riverside_cats/FranT_riv.cat,With dredful herte and with ful humble cheere,False,False,RIVERSIDE
+noble,noble,The Franklin's Tale 1364,data/riverside_cats/FranT_riv.cat,Hath ther nat many a noble wyf er this,False,False,RIVERSIDE
+treu,trewe,The Franklin's Tale 1555,data/riverside_cats/FranT_riv.cat,And she was to hym trewe for everemoore,False,False,RIVERSIDE
+lef,leeve,The Franklin's Tale 1607,data/riverside_cats/FranT_riv.cat,This philosophre answerde Leeve brother,False,False,RIVERSIDE
 wilde,wilde,Sir Thopas 736,data/riverside_cats/Thop_riv.cat,He koude hunte at wilde deer,False,False,RIVERSIDE
 wilde,wilde,Sir Thopas 755,data/riverside_cats/Thop_riv.cat,Therinne is many a wilde best,False,False,RIVERSIDE
 prive,pryve,Sir Thopas 801,data/riverside_cats/Thop_riv.cat,That he foond in a pryve woon,False,False,RIVERSIDE
-ouen,owene,The Wife of Bath's Prologue 68,data/riverside_cats/WBPro_riv.cat,He putte it in oure owene juggement,False,False,RIVERSIDE
-propre,propre,The Wife of Bath's Prologue 103,data/riverside_cats/WBPro_riv.cat,And everich hath of God a propre yifte,False,False,RIVERSIDE
-noble,noble,The Wife of Bath's Prologue 165,data/riverside_cats/WBPro_riv.cat,Ye been a noble prechour in this cas,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Prologue 235,data/riverside_cats/WBPro_riv.cat,Sire olde kaynard is this thyn array,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Prologue 242,data/riverside_cats/WBPro_riv.cat,Sire olde lecchour lat thy japes be,False,False,RIVERSIDE
-povre,povre,The Wife of Bath's Prologue 249,data/riverside_cats/WBPro_riv.cat,To wedde a povre womman for costage,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Prologue 291,data/riverside_cats/WBPro_riv.cat,Til they be wedded olde dotard shrewe,False,False,RIVERSIDE
-fair,faire,The Wife of Bath's Prologue 296,data/riverside_cats/WBPro_riv.cat,And clepe me faire dame in every place,False,False,RIVERSIDE
-treu,trewe,The Wife of Bath's Prologue 320,data/riverside_cats/WBPro_riv.cat,I knowe yow for a trewe wyf dame Alys,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Prologue 331,data/riverside_cats/WBPro_riv.cat,For certeyn olde dotard by youre leve,False,False,RIVERSIDE
-wilde,wilde,The Wife of Bath's Prologue 373,data/riverside_cats/WBPro_riv.cat,Thou liknest it also to wilde fyr,False,False,RIVERSIDE
-swete,sweete,The Wife of Bath's Prologue 385,data/riverside_cats/WBPro_riv.cat,Ful giltelees by Goddes sweete pyne,False,False,RIVERSIDE
-god,goode,The Wife of Bath's Prologue 431,data/riverside_cats/WBPro_riv.cat,Thanne wolde I seye Goode lief taak keep,False,False,RIVERSIDE
-swete,sweete,The Wife of Bath's Prologue 435,data/riverside_cats/WBPro_riv.cat,And han a sweete spiced conscience,False,False,RIVERSIDE
-ouen,owene,The Wife of Bath's Prologue 449,data/riverside_cats/WBPro_riv.cat,But I wol kepe it for youre owene tooth,False,False,RIVERSIDE
-swete,sweete,The Wife of Bath's Prologue 459,data/riverside_cats/WBPro_riv.cat,Whan I had dronke a draughte of sweete wyn,False,False,RIVERSIDE
-queinte,queynte,The Wife of Bath's Prologue 516,data/riverside_cats/WBPro_riv.cat,In this matere a queynte fantasye,False,False,RIVERSIDE
-dere,deere,The Wife of Bath's Prologue 522,data/riverside_cats/WBPro_riv.cat,Greet prees at market maketh deere ware,False,False,RIVERSIDE
-prive,privee,The Wife of Bath's Prologue 620,data/riverside_cats/WBPro_riv.cat,And also in another privee place,False,False,RIVERSIDE
-povre,poore,The Wife of Bath's Prologue 626,data/riverside_cats/WBPro_riv.cat,How poore he was ne eek of what degree,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Prologue 642,data/riverside_cats/WBPro_riv.cat,And me of olde Romayn geestes teche,False,False,RIVERSIDE
-fals,false,The Wife of Bath's Prologue 800,data/riverside_cats/WBPro_riv.cat,O hastow slayn me false theef I seyde,False,False,RIVERSIDE
-dere,deere,The Wife of Bath's Prologue 804,data/riverside_cats/WBPro_riv.cat,And seyde Deere suster Alisoun,False,False,RIVERSIDE
-treu,trewe,The Wife of Bath's Prologue 819,data/riverside_cats/WBPro_riv.cat,And that he seyde Myn owene trewe wyf,False,False,RIVERSIDE
-grene,grene,The Wife of Bath's Tale 861,data/riverside_cats/WBT_riv.cat,Daunced ful ofte in many a grene mede,False,False,RIVERSIDE
-olde,olde,The Wife of Bath's Tale 1004,data/riverside_cats/WBT_riv.cat,Thise olde folk kan muchel thyng quod she,False,False,RIVERSIDE
-noble,noble,The Wife of Bath's Tale 1026,data/riverside_cats/WBT_riv.cat,Ful many a noble wyf and many a mayde,False,False,RIVERSIDE
-neue,newe,The Wife of Bath's Tale 1060,data/riverside_cats/WBT_riv.cat,For Goddes love as chees a newe requeste,False,False,RIVERSIDE
-muche,muche,The Wife of Bath's Tale 1079,data/riverside_cats/WBT_riv.cat,Ther nas but hevynesse and muche sorwe,False,False,RIVERSIDE
-straunge,strange,The Wife of Bath's Tale 1161,data/riverside_cats/WBT_riv.cat,Which is a strange thyng to thy persone,False,False,RIVERSIDE
-lef,leeve,The Wife of Bath's Tale 1171,data/riverside_cats/WBT_riv.cat,And therfore leeve housbonde I thus conclude,False,False,RIVERSIDE
-povre,povre,The Wife of Bath's Tale 1187,data/riverside_cats/WBT_riv.cat,He that coveiteth is a povre wight,False,False,RIVERSIDE
-treu,trewe,The Wife of Bath's Tale 1221,data/riverside_cats/WBT_riv.cat,And be to yow a trewe humble wyf,False,False,RIVERSIDE
-humble,humble,The Wife of Bath's Tale 1221,data/riverside_cats/WBT_riv.cat,And be to yow a trewe humble wyf,False,False,RIVERSIDE
-wise,wise,The Wife of Bath's Tale 1231,data/riverside_cats/WBT_riv.cat,I put me in youre wise governance,False,False,RIVERSIDE

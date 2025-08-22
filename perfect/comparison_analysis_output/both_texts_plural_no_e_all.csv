@@ -1,19 +1,19 @@
 headword,word,line_number,filename,context,is_elided,is_final,text_type,oxford_context,riverside_context
-long,long,The Monk's Tale 2160,data/oxford_txts/MkT_oxford.txt,"Sixty cubites° long, and seven in brede,°",True,False,BOTH,"Sixty cubites° long, and seven in brede,°",Sixty cubites long and sevene in brede
-prest,prest,Troilus and Criseyde; Book V 800,data/oxford_txts/TC5_oxford.txt,Was in his nedes prest and corageous;,True,False,BOTH,Was in his nedes prest and corageous;,Was in his nedes prest and corageous
-tough,tough,Troilus and Criseyde; Book II 1025,data/oxford_txts/TC2_oxford.txt,As make it with thise argumentes tough;,False,True,BOTH,As make it with thise argumentes tough;,As make it with thise argumentes tough
-ful,ful,Troilus and Criseyde; Book III 1381,data/oxford_txts/TC3_oxford.txt,"Tho bisy wrecches, ful of wo and drede!",True,False,BOTH,"Tho bisy wrecches, ful of wo and drede!",Tho besy wrecches ful of wo and drede
-god,good,House of Fame 1616,data/oxford_txts/HF_oxford.txt,Good werkes shal yow noght availe°,False,False,BOTH,Good werkes shal yow noght availe°,Good werkes shal yow noght availle
-fresh,fresh,The Merchant's Tale 2235,data/oxford_txts/MerT_oxford.txt,"Upon a bench of turves,° fresh and grene",True,False,BOTH,"Upon a bench of turves,° fresh and grene",Upon a bench of turves fressh and grene
-ful,ful,The Clerk's Tale 1183,data/oxford_txts/ClT_oxford.txt,"O noble wives, ful of heigh prudence",True,False,BOTH,"O noble wives, ful of heigh prudence",O noble wyves ful of heigh prudence
 broun,broun,Sir Thopas 733,data/oxford_txts/Thop_oxford.txt,Of Brugges were his hosen° broun,False,True,BOTH,Of Brugges were his hosen° broun,Of Brugges were his hosen broun
-worth,worth,The Wife of Bath's Prologue 708,data/oxford_txts/WBPro_oxford.txt,"Of Venus werkes worth his olde sho,°",True,False,BOTH,"Of Venus werkes worth his olde sho,°",Of Venus werkes worth his olde sho
+tough,tough,Troilus and Criseyde; Book II 1025,data/oxford_txts/TC2_oxford.txt,As make it with thise argumentes tough;,False,True,BOTH,As make it with thise argumentes tough;,As make it with thise argumentes tough
+god,good,House of Fame 1616,data/oxford_txts/HF_oxford.txt,Good werkes shal yow noght availe°,False,False,BOTH,Good werkes shal yow noght availe°,Good werkes shal yow noght availle
 ful,ful,The Franklin's Tale 1368,data/oxford_txts/FranT_oxford.txt,"Whan thritty tiraunts, ful of cursednesse",True,False,BOTH,"Whan thritty tiraunts, ful of cursednesse",Whan thritty tirauntz ful of cursednesse
-ful,ful,House of Fame 1396,data/oxford_txts/HF_oxford.txt,"Of songes, ful of armonie,°",True,False,BOTH,"Of songes, ful of armonie,°",Of songes ful of armonye
-ful,ful,The Franklin's Tale 1375,data/oxford_txts/FranT_oxford.txt,"For which thise woful maidens, ful of drede",True,False,BOTH,"For which thise woful maidens, ful of drede",For which thise woful maydens ful of drede
-ful,ful,Troilus and Criseyde; Book IV 1486,data/oxford_txts/TC4_oxford.txt,"Among the Grekes, ful of worthinesse",True,False,BOTH,"Among the Grekes, ful of worthinesse",Among the Grekis ful of worthynesse
-ful,ful,The Franklin's Tale 1190,data/oxford_txts/FranT_oxford.txt,"Forestes, parkes° ful of wilde deer;",True,False,BOTH,"Forestes, parkes° ful of wilde deer;",Forestes parkes ful of wilde deer
-ful,ful,The Miller's Tale 3237,data/oxford_txts/MilT_oxford.txt,"Upon hir lendes,° ful of many a gore.°",True,False,BOTH,"Upon hir lendes,° ful of many a gore.°",Upon hir lendes ful of many a goore
-ful,ful,The Second Nun's Tale 403,data/oxford_txts/SNT_oxford.txt,With angels ful of cleernesse and of light,True,False,BOTH,With angels ful of cleernesse and of light,With aungels ful of cleernesse and of light
 proud,proud,The Monk's Tale 2167,data/oxford_txts/MkT_oxford.txt,"This king of kinges proud was and elaat,°",False,False,BOTH,"This king of kinges proud was and elaat,°",This kyng of kynges proud was and elaat
+ful,ful,Troilus and Criseyde; Book IV 1486,data/oxford_txts/TC4_oxford.txt,"Among the Grekes, ful of worthinesse",True,False,BOTH,"Among the Grekes, ful of worthinesse",Among the Grekis ful of worthynesse
+fresh,fresh,The Merchant's Tale 2235,data/oxford_txts/MerT_oxford.txt,"Upon a bench of turves,° fresh and grene",True,False,BOTH,"Upon a bench of turves,° fresh and grene",Upon a bench of turves fressh and grene
+ful,ful,Troilus and Criseyde; Book III 1381,data/oxford_txts/TC3_oxford.txt,"Tho bisy wrecches, ful of wo and drede!",True,False,BOTH,"Tho bisy wrecches, ful of wo and drede!",Tho besy wrecches ful of wo and drede
+ful,ful,The Miller's Tale 3237,data/oxford_txts/MilT_oxford.txt,"Upon hir lendes,° ful of many a gore.°",True,False,BOTH,"Upon hir lendes,° ful of many a gore.°",Upon hir lendes ful of many a goore
+worth,worth,The Wife of Bath's Prologue 708,data/oxford_txts/WBPro_oxford.txt,"Of Venus werkes worth his olde sho,°",True,False,BOTH,"Of Venus werkes worth his olde sho,°",Of Venus werkes worth his olde sho
+prest,prest,Troilus and Criseyde; Book V 800,data/oxford_txts/TC5_oxford.txt,Was in his nedes prest and corageous;,True,False,BOTH,Was in his nedes prest and corageous;,Was in his nedes prest and corageous
+ful,ful,The Franklin's Tale 1190,data/oxford_txts/FranT_oxford.txt,"Forestes, parkes° ful of wilde deer;",True,False,BOTH,"Forestes, parkes° ful of wilde deer;",Forestes parkes ful of wilde deer
+ful,ful,The Second Nun's Tale 403,data/oxford_txts/SNT_oxford.txt,With angels ful of cleernesse and of light,True,False,BOTH,With angels ful of cleernesse and of light,With aungels ful of cleernesse and of light
+long,long,The Monk's Tale 2160,data/oxford_txts/MkT_oxford.txt,"Sixty cubites° long, and seven in brede,°",True,False,BOTH,"Sixty cubites° long, and seven in brede,°",Sixty cubites long and sevene in brede
+ful,ful,The Franklin's Tale 1375,data/oxford_txts/FranT_oxford.txt,"For which thise woful maidens, ful of drede",True,False,BOTH,"For which thise woful maidens, ful of drede",For which thise woful maydens ful of drede
+ful,ful,The Clerk's Tale 1183,data/oxford_txts/ClT_oxford.txt,"O noble wives, ful of heigh prudence",True,False,BOTH,"O noble wives, ful of heigh prudence",O noble wyves ful of heigh prudence
+ful,ful,House of Fame 1396,data/oxford_txts/HF_oxford.txt,"Of songes, ful of armonie,°",True,False,BOTH,"Of songes, ful of armonie,°",Of songes ful of armonye
 stark,stark,The Merchant's Tale 1458,data/oxford_txts/MerT_oxford.txt,I fele my limes° stark° and suffisaunt,True,False,BOTH,I fele my limes° stark° and suffisaunt,I feele my lymes stark and suffisaunt

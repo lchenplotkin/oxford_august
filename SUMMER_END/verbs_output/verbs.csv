@@ -1,80 +1,80 @@
 headword,forms,following_rules,violating_rules,total,compliance_pct
 abaishen,['abaist'],3,0,3,100.0
-abiden,"['abidest', 'abideth', 'abide', 'biden', 'abode', 'abit', 'abiden', 'abood']",49,0,49,100.0
-abien,"['abegge', 'abeie', 'abie', 'aboght', 'abyen', 'aboughte']",8,0,8,100.0
+abiden,"['abideth', 'abood', 'abode', 'abide', 'abidest', 'biden', 'abit', 'abiden']",49,0,49,100.0
+abien,"['abegge', 'abie', 'aboughte', 'abyen', 'aboght', 'abeie']",8,0,8,100.0
 abreggen,"['abregge', 'abrigge']",6,0,6,100.0
 abrochen,['abroche'],1,0,1,100.0
 accepten,"['accepted', 'accepteth']",4,0,4,100.0
 accomplisshen,['accomplice'],1,0,1,100.0
-accorden,"['acordeth', 'accordeth', 'acorde', 'accorde', 'acorded', 'accorded']",17,0,17,100.0
+accorden,"['acorde', 'acordeth', 'accorded', 'accordeth', 'accorde', 'acorded']",17,0,17,100.0
 accounten,['acounted'],1,0,1,100.0
-accusen,"['accused', 'acused', 'accuse', 'accusen']",4,0,4,100.0
-acheven,"['acheved', 'acheveth']",3,0,3,100.0
-acursen,"['acursed', 'acurse', 'acorse']",4,0,4,100.0
+accusen,"['accuse', 'accusen', 'acused', 'accused']",4,0,4,100.0
+acheven,"['acheveth', 'acheved']",3,0,3,100.0
+acursen,"['acurse', 'acorse', 'acursed']",4,0,4,100.0
 adden,['added'],1,0,1,100.0
 adournen,['adorneth'],1,0,1,100.0
 adreden,"['adrad', 'adred']",5,0,5,100.0
-affermen,"['afferme', 'affermeth', 'affirmed']",3,0,3,100.0
+affermen,"['affirmed', 'afferme', 'affermeth']",3,0,3,100.0
 affilen,['affile'],2,0,2,100.0
 afrighten,['afright'],1,0,1,100.0
-agasten,"['agast', 'agaste']",21,0,21,100.0
+agasten,"['agaste', 'agast']",21,0,21,100.0
 agilten,"['agilt', 'agilte']",4,0,4,100.0
-agon,"['agon', 'ago', 'agoon']",25,0,25,100.0
+agon,"['agoon', 'ago', 'agon']",25,0,25,100.0
 agreen,"['agree', 'agren']",3,0,3,100.0
-agreven,"['ygreved', 'agreved']",3,0,3,100.0
+agreven,"['agreved', 'ygreved']",3,0,3,100.0
 agrisen,"['agrise', 'agroos']",5,0,5,100.0
 aken,['ake'],3,0,3,100.0
 aking,['akinge'],1,0,1,100.0
-allien,"['allie', 'allied', 'allien']",5,0,5,100.0
+allien,"['allie', 'allien', 'allied']",5,0,5,100.0
 alosen,['alose'],1,0,1,100.0
 alteren,['altered'],1,0,1,100.0
 amaien,['amaied'],2,0,2,100.0
 amalgaming,['amalgaming'],0,1,1,0.0
-amenden,"['amended', 'amend', 'amende', 'amenden']",27,0,27,100.0
+amenden,"['amenden', 'amended', 'amend', 'amende']",27,0,27,100.0
 ameven,['ameved'],1,0,1,100.0
 amounten,['amounteth'],2,0,2,100.0
 anhongen,"['anhanged', 'anhonged', 'anhange']",5,0,5,100.0
 annexen,['annexed'],2,0,2,100.0
-anoien,"['anoyeth', 'anoyed', 'anoie', 'anoyen']",5,0,5,100.0
-answeren,"['answer', 'answered', 'answerede', 'answerde', 'answerd', 'answereth', 'answere']",106,1,107,99.07
+anoien,"['anoie', 'anoyed', 'anoyen', 'anoyeth']",5,0,5,100.0
+answeren,"['answerde', 'answere', 'answer', 'answerd', 'answereth', 'answerede', 'answered']",106,1,107,99.07
 answering,['answering'],0,3,3,0.0
 apaien,"['apaid', 'apaied']",10,0,10,100.0
-apallen,"['apalled', 'appalled']",2,0,2,100.0
+apallen,"['appalled', 'apalled']",2,0,2,100.0
 apeiren,"['apeired', 'apeire']",2,0,2,100.0
 apiken,['apiked'],1,0,1,100.0
 appareillen,['apparail'],0,1,1,0.0
 appareilling,['apparaillinge'],1,0,1,100.0
-apperceiven,"['aperceiveth', 'aperceive', 'aparceive']",3,0,3,100.0
-appesen,"['apesed', 'apeisen', 'apese']",6,0,6,100.0
-appointen,"['apointeden', 'apointed']",3,0,3,100.0
+apperceiven,"['aparceive', 'aperceive', 'aperceiveth']",3,0,3,100.0
+appesen,"['apese', 'apeisen', 'apesed']",6,0,6,100.0
+appointen,"['apointed', 'apointeden']",3,0,3,100.0
 apposen,['apposed'],1,0,1,100.0
-approchen,"['aprochen', 'approcheth', 'aproche', 'approche']",7,0,7,100.0
-aqueinten,"['aqueinte', 'aqueinted']",2,0,2,100.0
+approchen,"['approcheth', 'aprochen', 'aproche', 'approche']",7,0,7,100.0
+aqueinten,"['aqueinted', 'aqueinte']",2,0,2,100.0
 aquiten,['acquite'],2,0,2,100.0
 aracen,['arace'],4,0,4,100.0
 aresten,"['areste', 'aresten']",2,0,2,100.0
 aretten,['aretted'],1,0,1,100.0
-arguen,"['argued', 'arguwe', 'argue']",3,0,3,100.0
+arguen,"['argued', 'argue', 'arguwe']",3,0,3,100.0
 argumenten,['argumented'],1,0,1,100.0
 arisen,"['arise', 'arisen', 'aroos', 'ariseth']",20,0,20,100.0
 arising,['arising'],0,1,1,0.0
 ariven,"['arrived', 'arriven', 'arived']",3,0,3,100.0
 armen,"['armed', 'armen', 'armeth']",5,0,5,100.0
 arming,['arminge'],1,0,1,100.0
-arraien,"['arayed', 'arraye', 'araied', 'arrayed', 'arraieth', 'arraied']",13,0,13,100.0
+arraien,"['arayed', 'arraied', 'arraieth', 'arrayed', 'arraye', 'araied']",13,0,13,100.0
 arten,['arten'],1,0,1,100.0
-asken,"['axeth', 'asken', 'axen', 'asketh', 'ax', 'asked', 'aske', 'axe', 'axest', 'axed']",47,1,48,97.92
-askinge,"['axing', 'asking', 'askinge', 'axinge']",2,2,4,50.0
-aslaken,"['aslaked', 'aslake']",2,0,2,100.0
-aspien,"['spie', 'espyen', 'aspyede', 'aspied', 'espyed', 'aspien', 'espied', 'espien', 'espie', 'aspide', 'aspie', 'espide']",49,0,49,100.0
-assaien,"['assayed', 'assaye', 'assayen', 'assaie', 'assaied']",15,0,15,100.0
-assaillen,"['assailed', 'assailleth', 'assailled']",4,0,4,100.0
+asken,"['asked', 'asken', 'axen', 'axeth', 'asketh', 'axest', 'aske', 'axe', 'ax', 'axed']",47,1,48,97.92
+askinge,"['axing', 'asking', 'axinge', 'askinge']",2,2,4,50.0
+aslaken,"['aslake', 'aslaked']",2,0,2,100.0
+aspien,"['spie', 'aspied', 'aspide', 'espide', 'aspie', 'aspien', 'espien', 'espie', 'espyen', 'espied', 'espyed', 'aspyede']",49,0,49,100.0
+assaien,"['assayen', 'assaye', 'assaied', 'assaie', 'assayed']",15,0,15,100.0
+assaillen,"['assailled', 'assailed', 'assailleth']",4,0,4,100.0
 assegen,"['assegeden', 'asseged']",2,0,2,100.0
-assenten,"['assente', 'assented', 'assenten', 'assentedest', 'assenteden']",27,0,27,100.0
+assenten,"['assented', 'assenten', 'assenteden', 'assentedest', 'assente']",27,0,27,100.0
 assignen,['assigne'],1,0,1,100.0
-assoilen,"['assoile', 'assoilen', 'assoille']",3,0,3,100.0
+assoilen,"['assoille', 'assoilen', 'assoile']",3,0,3,100.0
 assoiling,['assoilling'],0,1,1,0.0
-assuren,"['assureth', 'assuren', 'assure', 'assured']",10,0,10,100.0
+assuren,"['assured', 'assuren', 'assureth', 'assure']",10,0,10,100.0
 asswagen,"['aswage', 'asswage']",3,0,3,100.0
 asterten,"['asterte', 'astert']",6,1,7,85.71
 astonen,['astoned'],1,0,1,100.0
@@ -83,85 +83,85 @@ at-reden,['atrede'],1,0,1,100.0
 at-rennen,['atrenne'],1,0,1,100.0
 athinken,['athinken'],1,0,1,100.0
 atteinen,['atteine'],3,0,3,100.0
-auntren,"['auntred', 'auntre']",2,0,2,100.0
-availen,"['availleth', 'availeth', 'availe', 'availle']",19,0,19,100.0
+auntren,"['auntre', 'auntred']",2,0,2,100.0
+availen,"['availle', 'availleth', 'availeth', 'availe']",19,0,19,100.0
 avalen,['avale'],1,0,1,100.0
 avauncen,['avaunce'],6,0,6,100.0
 avaunten,"['avaunte', 'avante']",4,0,4,100.0
-avisen,"['avised', 'avis', 'aviseth', 'avise']",21,0,21,100.0
+avisen,"['avise', 'aviseth', 'avised', 'avis']",21,0,21,100.0
 awaiten,['awaiteth'],2,0,2,100.0
-awaken,"['awaked', 'awaken', 'awake', 'awook', 'awaketh']",13,0,13,100.0
+awaken,"['awake', 'awaken', 'awook', 'awaked', 'awaketh']",13,0,13,100.0
 awarden,['awarde'],1,0,1,100.0
-awreken,"['awroken', 'awreke']",2,0,2,100.0
+awreken,"['awreke', 'awroken']",2,0,2,100.0
 ba,"['pa', 'ba']",2,0,2,100.0
 baiten,['baiteth'],1,0,1,100.0
 baken,['bake'],2,0,2,100.0
 banishen,['banished'],1,0,1,100.0
 baptisen,['baptise'],1,0,1,100.0
-bathen,"['bathen', 'bathed', 'bathe', 'ybathed']",8,0,8,100.0
+bathen,"['bathed', 'bathen', 'bathe', 'ybathed']",8,0,8,100.0
 bedden,['ybedded'],1,0,1,100.0
 bedding,['beddinge'],1,0,1,100.0
 beden,"['bedeth', 'bede', 'bode']",5,0,5,100.0
-beggen,"['begge', 'beggeth']",2,0,2,100.0
+beggen,"['beggeth', 'begge']",2,0,2,100.0
 being,['being'],0,1,1,0.0
 bekken,['bekked'],1,0,1,100.0
-ben,"['art', 'weren', 'ar', 'was', 'wer', 'is', 'ben', 'be', 'been', 'am', 'arn', 'wern', 'were', 'are']",5775,17,5792,99.71
+ben,"['were', 'wer', 'are', 'ar', 'be', 'was', 'arn', 'am', 'been', 'ben', 'is', 'art', 'wern', 'weren']",5775,17,5792,99.71
 bering,"['beringe', 'bering']",2,1,3,66.67
 bibben,['bibbed'],1,0,1,100.0
-bicomen,"['bicome', 'becam', 'bicomth', 'bicom', 'bicam', 'bicomen', 'become']",13,0,13,100.0
-bidden,"['biddest', 'bad', 'bade', 'bit', 'bede', 'biddeth', 'bid', 'bidde']",72,2,74,97.3
+bicomen,"['bicomen', 'bicam', 'becam', 'become', 'bicom', 'bicomth', 'bicome']",13,0,13,100.0
+bidden,"['bade', 'bit', 'bidde', 'bad', 'biddest', 'bede', 'biddeth', 'bid']",72,2,74,97.3
 biddinge,['bidding'],0,2,2,0.0
-biden,"['bood', 'bide', 'abide']",8,0,8,100.0
-bien,"['boght', 'boghte', 'byeth', 'bought', 'yboght', 'ybought', 'beye', 'beie', 'bye', 'bie', 'boughten', 'byen']",20,1,21,95.24
-bifallen,"['befel', 'bifel', 'bifalleth', 'bifelle', 'befalle', 'befill', 'bifalle']",39,0,39,100.0
+biden,"['bood', 'abide', 'bide']",8,0,8,100.0
+bien,"['boght', 'boughten', 'byeth', 'bye', 'bought', 'bie', 'beie', 'beye', 'boghte', 'yboght', 'byen', 'ybought']",20,1,21,95.24
+bifallen,"['befalle', 'bifalle', 'bifel', 'bifelle', 'befill', 'bifalleth', 'befel']",39,0,39,100.0
 bifallinge,"['bifalling', 'bifallinge']",1,1,2,50.0
-bigilen,"['bigile', 'bigiled', 'begile']",20,0,20,100.0
-biginnen,"['biginnen', 'began', 'biginne', 'bigin', 'begonne', 'bigan', 'beginne', 'bigonne', 'biginneth', 'bigon']",104,3,107,97.2
-biginninge,"['biginning', 'beginning']",0,2,2,0.0
-bigon,"['begoon', 'bigoon', 'bigon']",9,0,9,100.0
-biholden,"['bihelden', 'beholde', 'beheld', 'biholden', 'bihelde', 'behelde', 'biholde', 'biheld', 'behold']",58,1,59,98.31
-bihoten,"['behette', 'bihighten', 'behoteth', 'bihote', 'bihete', 'bihighte', 'bihight']",13,0,13,100.0
+bigilen,"['bigiled', 'bigile', 'begile']",20,0,20,100.0
+biginnen,"['biginneth', 'biginne', 'biginnen', 'bigon', 'beginne', 'bigin', 'bigan', 'begonne', 'began', 'bigonne']",104,3,107,97.2
+biginninge,"['beginning', 'biginning']",0,2,2,0.0
+bigon,"['bigon', 'bigoon', 'begoon']",9,0,9,100.0
+biholden,"['behold', 'bihelde', 'biheld', 'bihelden', 'beheld', 'biholden', 'beholde', 'biholde', 'behelde']",58,1,59,98.31
+bihoten,"['bihight', 'bihote', 'behoteth', 'bihighten', 'behette', 'bihighte', 'bihete']",13,0,13,100.0
 bihoven,['bihoveth'],8,0,8,100.0
 biinge,['byinge'],1,0,1,100.0
 bijapen,['bijaped'],4,0,4,100.0
 biknouen,"['biknewe', 'biknowe']",2,0,2,100.0
-bilden,"['buildeth', 'bulte', 'builde', 'bilt', 'builden', 'bilden']",6,0,6,100.0
+bilden,"['bilden', 'buildeth', 'builde', 'builden', 'bilt', 'bulte']",6,0,6,100.0
 bildinge,['buildinge'],1,0,1,100.0
 bilongen,['bilongeth'],1,0,1,100.0
-binden,"['bond', 'ybounden', 'ybounde', 'binde', 'bounde', 'bounden']",32,0,32,100.0
+binden,"['ybounde', 'ybounden', 'bounden', 'bounde', 'bond', 'binde']",32,0,32,100.0
 bindinge,['binding'],0,1,1,0.0
 biquethen,['biquethe'],2,0,2,100.0
 bireinen,['bireined'],1,0,1,100.0
-bireven,"['bireve', 'berafte', 'biraft', 'bireved', 'birafte', 'bireveth']",21,0,21,100.0
-birien,"['bury', 'burie', 'berie', 'yburied', 'buried']",5,2,7,71.43
-bisechen,"['besoughten', 'biseke', 'beseche', 'bisecheth', 'besechen', 'biseche', 'bisoght', 'biseken', 'beseke', 'bisoughte']",40,1,41,97.56
-bisegen,"['bisegede', 'biseged']",4,0,4,100.0
+bireven,"['berafte', 'bireve', 'bireveth', 'bireved', 'birafte', 'biraft']",21,0,21,100.0
+birien,"['burie', 'yburied', 'buried', 'berie', 'bury']",5,2,7,71.43
+bisechen,"['bisoughte', 'biseche', 'biseke', 'beseke', 'bisoght', 'besoughten', 'besechen', 'bisecheth', 'beseche', 'biseken']",40,1,41,97.56
+bisegen,"['biseged', 'bisegede']",4,0,4,100.0
 bisen,['besein'],1,0,1,100.0
-bisetten,"['beset', 'biset', 'bisette', 'besette']",15,1,16,93.75
+bisetten,"['beset', 'besette', 'biset', 'bisette']",15,1,16,93.75
 bishetten,['bishet'],1,0,1,100.0
 bishreuen,['bishrewe'],1,0,1,100.0
-bisien,"['bisie', 'bisied', 'bisieth', 'besied']",3,1,4,75.0
-bistouen,"['bistowed', 'bistowe', 'bistow']",5,1,6,83.33
+bisien,"['besied', 'bisieth', 'bisied', 'bisie']",3,1,4,75.0
+bistouen,"['bistow', 'bistowed', 'bistowe']",5,1,6,83.33
 bistriden,['bistrood'],1,0,1,100.0
-bitaken,"['bitake', 'bitook']",5,0,5,100.0
-bithinken,"['bethinke', 'bithinke', 'bithoght', 'bethenke', 'bithinken', 'bethoghte', 'bithoughte']",10,0,10,100.0
-bitiden,"['bitiden', 'bitit', 'bitide', 'betid', 'bitid', 'bitidde']",30,0,30,100.0
+bitaken,"['bitook', 'bitake']",5,0,5,100.0
+bithinken,"['bithinken', 'bethenke', 'bethinke', 'bethoghte', 'bithoght', 'bithoughte', 'bithinke']",10,0,10,100.0
+bitiden,"['bitit', 'bitid', 'bitidde', 'bitide', 'betid', 'bitiden']",30,0,30,100.0
 bitoknen,['bitokeneth'],1,0,1,100.0
-bitraien,"['betrayed', 'bitrayen', 'bitrayed']",5,0,5,100.0
+bitraien,"['bitrayen', 'bitrayed', 'betrayed']",5,0,5,100.0
 bitraishen,"['betraised', 'bitraiseth']",2,0,2,100.0
 bitrenden,['bitrent'],1,0,1,100.0
-biwailen,"['biwailled', 'biwaile', 'bewaile', 'biwaille', 'bewailed']",7,0,7,100.0
+biwailen,"['bewaile', 'bewailed', 'biwailled', 'biwaille', 'biwaile']",7,0,7,100.0
 biwaren,['biwared'],1,0,1,100.0
 biwepen,['biwepe'],1,0,1,100.0
-biwreien,"['biwreyed', 'biwreie', 'biwrien', 'biwreid', 'biwreye']",13,0,13,100.0
+biwreien,"['biwreie', 'biwrien', 'biwreye', 'biwreid', 'biwreyed']",13,0,13,100.0
 biyeten,['bigeten'],1,0,1,100.0
 blaken,['blaked'],1,0,1,100.0
-blamen,"['blameth', 'blame', 'blamed', 'blamen']",13,1,14,92.86
+blamen,"['blameth', 'blamed', 'blamen', 'blame']",13,1,14,92.86
 blasfemen,['blasphemed'],1,0,1,100.0
 blasten,['blaste'],1,0,1,100.0
-bleden,"['blede', 'bledde']",11,0,11,100.0
+bleden,"['bledde', 'blede']",11,0,11,100.0
 blenchen,['bleinte'],2,0,2,100.0
-blessen,"['yblessed', 'blessed', 'blessen', 'bless', 'blesse']",23,0,23,100.0
+blessen,"['yblessed', 'blessed', 'bless', 'blessen', 'blesse']",23,0,23,100.0
 blessinge,['blessing'],0,1,1,0.0
 blinnen,['blinne'],2,0,2,100.0
 blonderen,['blondreth'],1,0,1,100.0
@@ -169,232 +169,232 @@ blosmen,['blosmeth'],1,0,1,100.0
 boillen,['boil'],0,1,1,0.0
 bolden,['bolde'],1,0,1,100.0
 bomblen,['bombleth'],1,0,1,100.0
-borwen,"['borwed', 'borwe']",6,0,6,100.0
-breken,"['brak', 'breke', 'broke', 'breek', 'breketh', 'broken']",28,1,29,96.55
-brennen,"['brent', 'brenne', 'brennen', 'brende', 'brente', 'ybrent', 'brinne', 'brendest', 'brenneth', 'ybrend']",46,0,46,100.0
+borwen,"['borwe', 'borwed']",6,0,6,100.0
+breken,"['breketh', 'breke', 'broken', 'breek', 'broke', 'brak']",28,1,29,96.55
+brennen,"['brent', 'brinne', 'brende', 'brenneth', 'brennen', 'brente', 'brenne', 'brendest', 'ybrent', 'ybrend']",46,0,46,100.0
 brenninge,['brenninge'],2,0,2,100.0
-bresten,"['brosten', 'braste', 'broste', 'brast', 'bresten', 'breste', 'brest']",23,0,23,100.0
+bresten,"['brest', 'brast', 'broste', 'breste', 'braste', 'bresten', 'brosten']",23,0,23,100.0
 bresting,['bresting'],0,1,1,0.0
 briben,['bribe'],1,0,1,100.0
 bridelen,['bridled'],1,0,1,100.0
-bringen,"['bringen', 'bringes', 'bringeth', 'broghtest', 'broughte', 'ybrought', 'broghten', 'brought', 'ybroght', 'broght', 'bringe', 'bring', 'broghte']",145,3,148,97.97
+bringen,"['ybroght', 'bringeth', 'broght', 'ybrought', 'bringes', 'bringen', 'bring', 'broghten', 'broghte', 'brought', 'broughte', 'broghtest', 'bringe']",145,3,148,97.97
 brouding,['browding'],0,1,1,0.0
 brouken,"['brouke', 'broken']",4,0,4,100.0
 burnen,['borneth'],1,0,1,100.0
-cacchen,"['kecche', 'cacche', 'ycaught', 'caughte', 'caught']",48,1,49,97.96
+cacchen,"['caughte', 'cacche', 'ycaught', 'kecche', 'caught']",48,1,49,97.96
 cakeling,['cakelinge'],1,0,1,100.0
 calculen,['calculed'],1,0,1,100.0
 calculing,['calculinge'],2,0,2,100.0
-callen,"['ycalled', 'called', 'calle', 'callen']",58,0,58,100.0
+callen,"['ycalled', 'callen', 'called', 'calle']",58,0,58,100.0
 capen,['cape'],2,0,2,100.0
 caren,['care'],3,0,3,100.0
-carien,"['carien', 'caryeden', 'caried', 'ycaried', 'carie', 'carieden']",17,0,17,100.0
+carien,"['caried', 'ycaried', 'carieden', 'caryeden', 'carie', 'carien']",17,0,17,100.0
 cariing,['caryinge'],1,0,1,100.0
 carolen,['carole'],1,0,1,100.0
 caroling,['caroling'],0,1,1,0.0
-casten,"['casteth', 'ycast', 'cast', 'casten', 'caste']",80,1,81,98.77
+casten,"['ycast', 'caste', 'cast', 'casteth', 'casten']",80,1,81,98.77
 cerclen,['cerclen'],1,0,1,100.0
-cesen,"['cesse', 'cessed', 'cesseth', 'cese']",15,0,15,100.0
-chacen,"['chaced', 'chace', 'chaceth']",6,1,7,85.71
-chalengen,"['chalange', 'chalenge']",2,0,2,100.0
+cesen,"['cesse', 'cese', 'cesseth', 'cessed']",15,0,15,100.0
+chacen,"['chaced', 'chaceth', 'chace']",6,1,7,85.71
+chalengen,"['chalenge', 'chalange']",2,0,2,100.0
 chalenginge,['chalanging'],0,1,1,0.0
-chargen,"['charged', 'charge', 'chargeth']",9,0,9,100.0
+chargen,"['chargeth', 'charged', 'charge']",9,0,9,100.0
 chasten,['chasted'],1,0,1,100.0
 chastisen,['chastised'],1,0,1,100.0
 chastisinge,['chastisinge'],1,0,1,100.0
-chaungen,"['ychaunged', 'chaunged', 'chaungeth', 'chaunge', 'changed', 'changen', 'chaungen']",33,0,33,100.0
-chaunginge,"['chaunging', 'chaunginge']",2,2,4,50.0
+chaungen,"['chaungeth', 'ychaunged', 'changed', 'chaungen', 'chaunge', 'changen', 'chaunged']",33,0,33,100.0
+chaunginge,"['chaunginge', 'chaunging']",2,2,4,50.0
 chepen,['chepe'],1,0,1,100.0
-cherishen,"['cherisse', 'cherisseth', 'cherice', 'chericen']",5,0,5,100.0
-chesen,"['ches', 'chose', 'chees', 'chese', 'chosen']",31,1,32,96.88
+cherishen,"['cherisse', 'cherice', 'cherisseth', 'chericen']",5,0,5,100.0
+chesen,"['chosen', 'chees', 'chese', 'ches', 'chose']",31,1,32,96.88
 chesinge,['chesinge'],1,0,1,100.0
 cheven,['cheve'],1,0,1,100.0
-chiden,"['chidest', 'chit', 'chidde', 'chide']",14,0,14,100.0
+chiden,"['chit', 'chide', 'chidest', 'chidde']",14,0,14,100.0
 chirken,['chirketh'],1,0,1,100.0
 chirkinge,['chirking'],0,1,1,0.0
 chiteringe,['chiteringe'],1,0,1,100.0
 chukken,['chukketh'],1,0,1,100.0
 cimenting,['cementing'],0,1,1,0.0
-claimen,"['claim', 'claime', 'claimeth']",3,2,5,60.0
-clappen,"['clapt', 'clappeth', 'clapte']",4,0,4,100.0
+claimen,"['claime', 'claim', 'claimeth']",3,2,5,60.0
+clappen,"['clapte', 'clapt', 'clappeth']",4,0,4,100.0
 clapping,['clapping'],0,1,1,0.0
 clariouning,['clarioninge'],1,0,1,100.0
 clateren,"['clateren', 'clatereden']",2,0,2,100.0
 clatering,['clateringe'],3,0,3,100.0
-clauen,"['clawen', 'yclawed', 'clew', 'clawe']",4,0,4,100.0
+clauen,"['clawen', 'yclawed', 'clawe', 'clew']",4,0,4,100.0
 clensen,['clense'],1,0,1,100.0
-clepen,"['clepe', 'ycleped', 'clepeth', 'cleped', 'clep', 'clepen', 'clepid']",61,2,63,96.83
+clepen,"['clep', 'clepid', 'cleped', 'clepe', 'clepen', 'ycleped', 'clepeth']",61,2,63,96.83
 cleren,['clere'],3,0,3,100.0
-climben,"['clamb', 'climbe', 'clomb', 'clamben', 'climben', 'clomben']",12,0,12,100.0
+climben,"['clomben', 'clamben', 'climben', 'climbe', 'clamb', 'clomb']",12,0,12,100.0
 clinken,['clinke'],1,0,1,100.0
 closen,"['clos', 'close']",1,1,2,50.0
-clothen,"['clothe', 'cladden', 'cladde', 'cledde', 'clothed', 'clothen', 'clad', 'yclad', 'yclothed']",22,0,22,100.0
+clothen,"['clothen', 'clothed', 'cladde', 'clothe', 'cladden', 'yclad', 'clad', 'yclothed', 'cledde']",22,0,22,100.0
 clothing,['clothing'],0,9,9,0.0
 coien,['coye'],1,0,1,100.0
 colden,['colde'],5,0,5,100.0
 colouren,['coloured'],1,0,1,100.0
-comen,"['ycome', 'com', 'comth', 'icomen', 'ycomen', 'cometh', 'come', 'comest', 'comen', 'came', 'cam']",368,19,387,95.09
-comforten,"['conforte', 'conforteth', 'conforten', 'comforte', 'conforted']",10,0,10,100.0
-cominge,"['cominge', 'coming']",6,7,13,46.15
-commaunden,"['comanded', 'comaunden', 'comandeth', 'comanden', 'comaundeth', 'comaunded', 'comande', 'comaunde']",23,1,24,95.83
-commenden,"['comende', 'commenden', 'commendeden', 'commended', 'commendeth', 'commende']",6,0,6,100.0
-commeven,"['commeve', 'comeveden']",2,0,2,100.0
+comen,"['ycomen', 'cometh', 'icomen', 'come', 'com', 'came', 'comth', 'comen', 'ycome', 'cam', 'comest']",368,19,387,95.09
+comforten,"['conforten', 'conforte', 'conforted', 'conforteth', 'comforte']",10,0,10,100.0
+cominge,"['coming', 'cominge']",6,7,13,46.15
+commaunden,"['comaunden', 'comaunded', 'comande', 'comaundeth', 'comanden', 'comanded', 'comaunde', 'comandeth']",23,1,24,95.83
+commenden,"['commenden', 'commended', 'commende', 'commendeden', 'commendeth', 'comende']",6,0,6,100.0
+commeven,"['comeveden', 'commeve']",2,0,2,100.0
 committen,['committeth'],1,0,1,100.0
 communen,['commune'],1,0,1,100.0
 compassinge,['compassing'],0,1,1,0.0
-compleinen,"['compleine', 'compleined', 'compleinen', 'complaine', 'compleinedest']",22,0,22,100.0
-compleininge,"['compleininge', 'compleining']",2,1,3,66.67
+compleinen,"['compleinen', 'compleined', 'complaine', 'compleinedest', 'compleine']",22,0,22,100.0
+compleininge,"['compleining', 'compleininge']",2,1,3,66.67
 completen,['complet'],1,0,1,100.0
 comporten,['comporte'],1,0,1,100.0
 comprehenden,['comprehende'],3,0,3,100.0
 conceiven,['conceived'],1,0,1,100.0
-concluden,"['conclude', 'concluded', 'concluden']",11,0,11,100.0
-condescenden,"['condescended', 'condescende']",2,0,2,100.0
-confermen,"['confirme', 'conferme', 'confermed']",3,0,3,100.0
+concluden,"['concluden', 'conclude', 'concluded']",11,0,11,100.0
+condescenden,"['condescende', 'condescended']",2,0,2,100.0
+confermen,"['conferme', 'confermed', 'confirme']",3,0,3,100.0
 confessen,['confessen'],1,0,1,100.0
 confounden,"['confounded', 'confounde']",2,0,2,100.0
 congeien,['congeyen'],1,0,1,100.0
 conjuren,['conjure'],2,0,2,100.0
-connen,"['cunne', 'can', 'couthe', 'conne', 'couth', 'kan', 'coude', 'ykoude', 'coudest', 'konne', 'canst', 'coud', 'kon', 'con']",473,30,503,94.04
-conninge,"['conninge', 'conning', 'konning', 'kunninge', 'cunning']",3,10,13,23.08
+connen,"['can', 'coudest', 'couthe', 'coud', 'konne', 'cunne', 'canst', 'couth', 'con', 'ykoude', 'coude', 'kan', 'conne', 'kon']",473,30,503,94.04
+conninge,"['kunninge', 'conninge', 'konning', 'cunning', 'conning']",3,10,13,23.08
 conqueren,['conquered'],1,1,2,50.0
 consecraten,['consecrat'],1,0,1,100.0
 consenten,"['consente', 'consenteth']",5,0,5,100.0
 conserven,"['conserved', 'conserve']",5,0,5,100.0
-consideren,"['considered', 'considereth', 'considere']",8,0,8,100.0
-constreinen,"['constreine', 'constreineth', 'constreined']",7,0,7,100.0
+consideren,"['considere', 'considered', 'considereth']",8,0,8,100.0
+constreinen,"['constreineth', 'constreine', 'constreined']",7,0,7,100.0
 construen,['construe'],1,0,1,100.0
 consumen,['consume'],1,0,1,100.0
 continuen,['continue'],1,0,1,100.0
 contrarien,"['contraried', 'contrarie']",2,1,3,66.67
-conveien,"['conveyed', 'conveied']",2,0,2,100.0
+conveien,"['conveied', 'conveyed']",2,0,2,100.0
 converten,"['converte', 'converted']",6,0,6,100.0
 correcten,"['corrected', 'correcten']",3,0,3,100.0
-corrupten,"['corrupt', 'corrupteth']",2,0,2,100.0
-costen,"['cost', 'coste']",6,0,6,100.0
+corrupten,"['corrupteth', 'corrupt']",2,0,2,100.0
+costen,"['coste', 'cost']",6,0,6,100.0
 couchen,"['couche', 'couchen', 'couched']",7,0,7,100.0
-coughen,"['coughen', 'coghe', 'cogheth']",3,0,3,100.0
-counseilen,"['counseilled', 'counsaillen', 'consaille', 'counseilest', 'counseile', 'conseille', 'counseil']",8,0,8,100.0
-counten,"['count', 'counte', 'counted']",3,0,3,100.0
-countrefeten,"['countrefeteth', 'countrefeted', 'countrefete', 'counterfete', 'contrefete']",13,0,13,100.0
+coughen,"['cogheth', 'coghe', 'coughen']",3,0,3,100.0
+counseilen,"['conseille', 'counseile', 'counseilest', 'consaille', 'counsaillen', 'counseil', 'counseilled']",8,0,8,100.0
+counten,"['counte', 'count', 'counted']",3,0,3,100.0
+countrefeten,"['countrefete', 'contrefete', 'countrefeted', 'countrefeteth', 'counterfete']",13,0,13,100.0
 countrepeisen,['countrepeise'],2,0,2,100.0
 coveiten,['coveiteth'],4,0,4,100.0
 craken,['craketh'],2,0,2,100.0
 crasen,['crased'],1,0,1,100.0
 craven,['crave'],2,0,2,100.0
-creauncen,"['creaunce', 'creaunced', 'creaunceth']",3,0,3,100.0
-crepen,"['crepe', 'creep', 'crepte', 'crepen', 'crepeth', 'cropen']",18,0,18,100.0
-crien,"['cryeth', 'crien', 'crieth', 'criden', 'cried', 'criede', 'crye', 'cryen', 'cride', 'crie']",91,0,91,100.0
+creauncen,"['creaunceth', 'creaunced', 'creaunce']",3,0,3,100.0
+crepen,"['cropen', 'crepen', 'crepeth', 'creep', 'crepe', 'crepte']",18,0,18,100.0
+crien,"['cride', 'cryen', 'criden', 'cryeth', 'crie', 'crien', 'crieth', 'cried', 'criede', 'crye']",91,0,91,100.0
 criing,"['cryinge', 'crying']",1,2,3,33.33
 cristnen,"['cristened', 'cristned']",2,1,3,66.67
 crouen,"['crew', 'crowe', 'ycrowe']",7,0,7,100.0
 crouinge,['crowing'],0,2,2,0.0
-cursen,"['cursen', 'curseth', 'curse', 'corse']",8,0,8,100.0
+cursen,"['curseth', 'cursen', 'corse', 'curse']",8,0,8,100.0
 cursing,['cursing'],0,2,2,0.0
 dampnen,['dampned'],9,0,9,100.0
 daren,['dare'],1,0,1,100.0
 daswen,['daswed'],1,0,1,100.0
-dauen,"['daweth', 'dawe', 'dawed']",4,0,4,100.0
+dauen,"['dawed', 'daweth', 'dawe']",4,0,4,100.0
 dauinge,['dawing'],0,1,1,0.0
-dauncen,"['dauncen', 'daunce', 'daunced', 'daunceth']",23,1,24,95.83
+dauncen,"['daunceth', 'daunce', 'dauncen', 'daunced']",23,1,24,95.83
 dauninge,['daweninge'],2,0,2,100.0
-daunten,"['daunteth', 'dauntest']",3,0,3,100.0
-deceiven,"['deceivest', 'deceived', 'deceive']",9,0,9,100.0
+daunten,"['dauntest', 'daunteth']",3,0,3,100.0
+deceiven,"['deceived', 'deceive', 'deceivest']",9,0,9,100.0
 declamen,['declamed'],0,1,1,0.0
-declaren,"['declared', 'declaren', 'declare']",11,0,11,100.0
+declaren,"['declared', 'declare', 'declaren']",11,0,11,100.0
 deden,['dede'],1,0,1,100.0
 defacen,"['deface', 'defaced']",5,0,5,100.0
 defamen,"['diffame', 'defame']",2,0,2,100.0
-defenden,"['defenden', 'defende', 'defendeth', 'defended']",6,0,6,100.0
-defoulen,"['defouled', 'defoulen']",5,0,5,100.0
+defenden,"['defende', 'defended', 'defendeth', 'defenden']",6,0,6,100.0
+defoulen,"['defoulen', 'defouled']",5,0,5,100.0
 deien,"['diyd', 'dyed']",2,0,2,100.0
-delen,"['dele', 'delte', 'delen', 'deled']",4,0,4,100.0
-deliberen,"['deliberen', 'delibered']",2,0,2,100.0
-deliten,"['delited', 'deliteth', 'delite', 'deliten']",6,1,7,85.71
-deliveren,"['delivereth', 'deliveren', 'deliver', 'delivere', 'delivered']",11,1,12,91.67
+delen,"['deled', 'dele', 'delte', 'delen']",4,0,4,100.0
+deliberen,"['delibered', 'deliberen']",2,0,2,100.0
+deliten,"['deliteth', 'delite', 'delited', 'deliten']",6,1,7,85.71
+deliveren,"['delivered', 'deliveren', 'delivere', 'delivereth', 'deliver']",11,1,12,91.67
 delven,"['dolven', 'delve']",3,0,3,100.0
 demeinen,['demeine'],1,0,1,100.0
-demen,"['deem', 'demed', 'demeth', 'demen', 'demest', 'deme', 'demede']",31,1,32,96.88
-departen,"['depart', 'departe', 'departed', 'departen']",31,0,31,100.0
+demen,"['demen', 'demed', 'demeth', 'deme', 'demest', 'demede', 'deem']",31,1,32,96.88
+departen,"['departe', 'departen', 'depart', 'departed']",31,0,31,100.0
 departinge,['departinge'],1,0,1,100.0
 depeinten,"['depeint', 'depeinted']",6,0,6,100.0
 depriven,['deprive'],1,0,1,100.0
 dereinen,['darreine'],4,0,4,100.0
 deren,['dere'],4,0,4,100.0
-deriven,"['deriveth', 'derived']",2,0,2,100.0
-descenden,"['descenden', 'descendeth', 'descended', 'descende']",14,0,14,100.0
-descriven,"['discreven', 'discriven', 'discrived', 'discrive', 'descrive', 'descriven']",14,0,14,100.0
+deriven,"['derived', 'deriveth']",2,0,2,100.0
+descenden,"['descendeth', 'descende', 'descenden', 'descended']",14,0,14,100.0
+descriven,"['discrived', 'descriven', 'discriven', 'discrive', 'discreven', 'descrive']",14,0,14,100.0
 deserven,"['deservedest', 'deserved', 'deserve']",25,0,25,100.0
-desiren,"['desirest', 'desireth', 'desiren', 'desired', 'desire']",42,0,42,100.0
+desiren,"['desire', 'desired', 'desirest', 'desiren', 'desireth']",42,0,42,100.0
 desiringe,['desiring'],0,1,1,0.0
 despeiren,['despeired'],4,0,4,100.0
-despisen,"['despise', 'despisest', 'dispise']",9,0,9,100.0
+despisen,"['despise', 'dispise', 'despisest']",9,0,9,100.0
 despoilen,['dispoilen'],1,0,1,100.0
-destroien,"['destroyeth', 'destroyen', 'destroyed', 'destroye']",14,0,14,100.0
-determinen,"['determinen', 'determine']",2,0,2,100.0
-devisen,"['devise', 'devisest', 'devisen', 'deviseth']",75,0,75,100.0
+destroien,"['destroye', 'destroyeth', 'destroyen', 'destroyed']",14,0,14,100.0
+determinen,"['determine', 'determinen']",2,0,2,100.0
+devisen,"['deviseth', 'devisest', 'devise', 'devisen']",75,0,75,100.0
 devisinge,['devising'],0,1,1,0.0
 devouren,"['devoure', 'devoured']",4,0,4,100.0
 dichen,['dike'],1,0,1,100.0
-dien,"['deied', 'deidest', 'deith', 'deide', 'die', 'dien', 'deiden', 'dyeth', 'dide', 'died', 'dyen', 'deid', 'dieth', 'deye', 'deie', 'deyen', 'dey', 'dye']",177,0,177,100.0
-diffinen,"['diffinen', 'define', 'diffine', 'deffine']",5,0,5,100.0
-dighten,"['dighte', 'ydight', 'dight']",8,0,8,100.0
+dien,"['deied', 'deyen', 'deiden', 'dide', 'deid', 'deide', 'deie', 'deidest', 'dey', 'dien', 'deye', 'dyen', 'died', 'dye', 'deith', 'dyeth', 'die', 'dieth']",177,0,177,100.0
+diffinen,"['diffine', 'deffine', 'diffinen', 'define']",5,0,5,100.0
+dighten,"['dighte', 'dight', 'ydight']",8,0,8,100.0
 diinge,['deyinge'],1,0,1,100.0
 discernen,"['discerne', 'descerne']",4,0,4,100.0
 discomfiting,['disconfitinge'],1,0,1,100.0
 discomforten,['disconforten'],1,0,1,100.0
-discoveren,"['discovere', 'discoveren', 'discure', 'discovered', 'discover']",4,1,5,80.0
+discoveren,"['discovered', 'discover', 'discoveren', 'discure', 'discovere']",4,1,5,80.0
 discussen,['discussed'],1,0,1,100.0
 disdeinen,['disdeine'],1,0,1,100.0
-disesen,"['disese', 'disesen', 'disesed']",3,0,3,100.0
-disfiguren,"['disfigure', 'disfigured']",3,0,3,100.0
+disesen,"['disesed', 'disese', 'disesen']",3,0,3,100.0
+disfiguren,"['disfigured', 'disfigure']",3,0,3,100.0
 disgisen,['disgised'],1,0,1,100.0
 disobeien,['disobeye'],1,0,1,100.0
-disparagen,"['disparage', 'disparaged']",2,0,2,100.0
-dispenden,"['despende', 'despended', 'dispende']",6,0,6,100.0
+disparagen,"['disparaged', 'disparage']",2,0,2,100.0
+dispenden,"['despende', 'dispende', 'despended']",6,0,6,100.0
 displaien,['desplayeth'],1,0,1,100.0
-displesen,"['displese', 'displeseth', 'displesed']",11,0,11,100.0
-disponen,"['dispone', 'desponeth']",2,0,2,100.0
-disporten,"['disporte', 'disporten', 'desporte']",8,0,8,100.0
+displesen,"['displesed', 'displese', 'displeseth']",11,0,11,100.0
+disponen,"['desponeth', 'dispone']",2,0,2,100.0
+disporten,"['desporte', 'disporte', 'disporten']",8,0,8,100.0
 disposen,['disposed'],5,0,5,100.0
 disputen,"['disputed', 'dispute']",2,0,2,100.0
 disseveren,['dissever'],0,1,1,0.0
-dissimulen,"['dissimuleth', 'dissimulen']",3,0,3,100.0
+dissimulen,"['dissimulen', 'dissimuleth']",3,0,3,100.0
 dissimulinge,['dissimulinge'],1,0,1,100.0
 distillen,['distille'],1,0,1,100.0
-distourben,"['distourben', 'distorben', 'distourbe']",5,0,5,100.0
-distreinen,"['destrained', 'distreine', 'destreine', 'distreineth', 'destreineth']",6,0,6,100.0
+distourben,"['distorben', 'distourben', 'distourbe']",5,0,5,100.0
+distreinen,"['destreine', 'distreineth', 'destreineth', 'distreine', 'destrained']",6,0,6,100.0
 distroublen,['destroubled'],1,0,1,100.0
 disturnen,['disturne'],1,0,1,100.0
 diversen,['diverseth'],1,0,1,100.0
 dividen,"['divided', 'divide']",2,0,2,100.0
-divinen,"['divinen', 'devine', 'divine']",10,0,10,100.0
+divinen,"['divine', 'devine', 'divinen']",10,0,10,100.0
 divininge,['divininge'],1,0,1,100.0
-doinge,"['doinge', 'doing']",3,1,4,75.0
+doinge,"['doing', 'doinge']",3,1,4,75.0
 dokken,['dokked'],1,0,1,100.0
 doten,['dote'],1,0,1,100.0
 doublen,['doubleth'],1,0,1,100.0
-drauen,"['drawen', 'drough', 'drawe', 'drow', 'ydrawe', 'draw']",35,0,35,100.0
+drauen,"['ydrawe', 'drow', 'drawe', 'drawen', 'drough', 'draw']",35,0,35,100.0
 drecchen,"['drecche', 'drecched']",4,0,4,100.0
 drecchinge,['drecching'],0,1,1,0.0
-dreden,"['dreden', 'dredden', 'dredde', 'dradde', 'drat', 'drede', 'dredeth']",37,0,37,100.0
-drenchen,"['dreint', 'drent', 'drenche', 'drenchen', 'dreinte']",14,0,14,100.0
+dreden,"['dredden', 'dredeth', 'dreden', 'drede', 'drat', 'dredde', 'dradde']",37,0,37,100.0
+drenchen,"['dreinte', 'drent', 'dreint', 'drenche', 'drenchen']",14,0,14,100.0
 drenchinge,['drenching'],0,1,1,0.0
-dressen,"['dressede', 'dresse', 'ydressed', 'dressed']",19,0,19,100.0
-drinken,"['drinketh', 'drank', 'drinke', 'dronk', 'dronke', 'drinken', 'dronken']",44,0,44,100.0
-driven,"['driven', 'driveth', 'drive', 'droof', 'drifth']",37,0,37,100.0
+dressen,"['dresse', 'dressede', 'dressed', 'ydressed']",19,0,19,100.0
+drinken,"['drinken', 'dronken', 'dronk', 'drinke', 'drinketh', 'drank', 'dronke']",44,0,44,100.0
+driven,"['driveth', 'drifth', 'droof', 'drive', 'driven']",37,0,37,100.0
 droupen,['drouped'],0,1,1,0.0
 druggen,['drugge'],1,0,1,100.0
-dullen,"['dulle', 'dullen', 'dulleth']",3,0,3,100.0
-duren,"['duren', 'dure']",13,0,13,100.0
-durren,"['dorst', 'dorste', 'durst', 'dur', 'dar', 'durste', 'darst']",120,3,123,97.56
+dullen,"['dullen', 'dulleth', 'dulle']",3,0,3,100.0
+duren,"['dure', 'duren']",13,0,13,100.0
+durren,"['dorst', 'dur', 'darst', 'durst', 'dorste', 'durste', 'dar']",120,3,123,97.56
 durring,['durring'],0,1,1,0.0
 dusken,['dusked'],1,0,1,100.0
-dwellen,"['dwelt', 'dwelten', 'dwelleth', 'dwelte', 'dwellen', 'dwelle', 'dwelled']",79,0,79,100.0
-dwellinge,"['dwelling', 'dwellinge']",1,5,6,16.67
+dwellen,"['dwellen', 'dwelleth', 'dwelte', 'dwelt', 'dwelten', 'dwelled', 'dwelle']",79,0,79,100.0
+dwellinge,"['dwellinge', 'dwelling']",1,5,6,16.67
 ebben,['ebben'],1,0,1,100.0
-eilen,"['eile', 'eiled', 'eileth', 'aileth']",13,0,13,100.0
-eken,"['eche', 'eched']",5,0,5,100.0
+eilen,"['eileth', 'eile', 'aileth', 'eiled']",13,0,13,100.0
+eken,"['eched', 'eche']",5,0,5,100.0
 embosen,['embosed'],1,0,1,100.0
 embracen,"['embrace', 'embraceth']",7,0,7,100.0
 embrouden,['embrouded'],1,0,1,100.0
@@ -402,142 +402,142 @@ empeiren,['empeire'],1,0,1,100.0
 emplastren,['emplastre'],1,0,1,100.0
 empoisounen,['empoisoned'],1,0,1,100.0
 empoisouning,['empoisoning'],0,2,2,0.0
-emprenten,"['emprented', 'enprented']",3,0,3,100.0
+emprenten,"['enprented', 'emprented']",3,0,3,100.0
 emprenting,['emprenting'],0,1,1,0.0
 empten,"['empten', 'empte']",2,0,2,100.0
-enchaunten,"['enchaunten', 'enchanted']",2,0,2,100.0
-enclinen,"['encline', 'enclined']",5,0,5,100.0
+enchaunten,"['enchanted', 'enchaunten']",2,0,2,100.0
+enclinen,"['enclined', 'encline']",5,0,5,100.0
 enclining,['enclining'],0,1,1,0.0
-enclosen,"['enclosed', 'enclosen']",3,0,3,100.0
+enclosen,"['enclosen', 'enclosed']",3,0,3,100.0
 encombren,['encombred'],1,0,1,100.0
 encorporing,['encorporing'],0,1,1,0.0
-encresen,"['encresse', 'encresen', 'encreseth', 'encressen', 'encreesseth', 'encresed', 'encressed', 'encrese']",16,0,16,100.0
-enden,"['ended', 'ende', 'endeth']",10,0,10,100.0
+encresen,"['encreseth', 'encressed', 'encresse', 'encreesseth', 'encressen', 'encresed', 'encrese', 'encresen']",16,0,16,100.0
+enden,"['ended', 'endeth', 'ende']",10,0,10,100.0
 endinge,['ending'],0,2,2,0.0
 enditen,"['enditeth', 'endite']",21,0,21,100.0
-enduren,"['enduren', 'endure', 'endured', 'endurest']",44,0,44,100.0
+enduren,"['endure', 'endured', 'endurest', 'enduren']",44,0,44,100.0
 enforcen,['enforce'],2,0,2,100.0
 enfourmen,['enformed'],1,0,1,100.0
 engendren,"['engendred', 'engendreth', 'engendren']",7,0,7,100.0
 enginen,['engined'],1,0,1,100.0
 enhabiten,['enhabit'],1,0,1,100.0
-enhauncen,"['enhauncen', 'enhaunced']",2,0,2,100.0
+enhauncen,"['enhaunced', 'enhauncen']",2,0,2,100.0
 enhorten,['enhorte'],1,0,1,100.0
 enluting,['enluting'],0,1,1,0.0
 enointen,['anoint'],1,0,1,100.0
 enqueren,"['enqueren', 'enquere']",4,0,4,100.0
 enselen,['enseled'],1,0,1,100.0
-ensuren,"['ensuren', 'ensure']",2,0,2,100.0
-entenden,"['entended', 'entende', 'entendeth']",12,0,12,100.0
+ensuren,"['ensure', 'ensuren']",2,0,2,100.0
+entenden,"['entende', 'entendeth', 'entended']",12,0,12,100.0
 enterchaungen,"['entrechaunged', 'entrechaungeden']",2,0,2,100.0
 entercomunen,['entrecomunen'],1,0,1,100.0
 entermeten,['entermeten'],1,0,1,100.0
 enterparten,['entreparten'],1,0,1,100.0
-entren,"['entre', 'entren', 'entred']",5,0,5,100.0
+entren,"['entred', 'entren', 'entre']",5,0,5,100.0
 entriken,['entriketh'],1,0,1,100.0
 entringe,['entring'],0,1,1,0.0
 entunen,['entune'],1,0,1,100.0
-envenimen,"['envenimed', 'envenime']",3,0,3,100.0
+envenimen,"['envenime', 'envenimed']",3,0,3,100.0
 enveniming,['enveniminge'],1,0,1,100.0
 envolupen,['envoluped'],1,0,1,100.0
-escapen,"['escape', 'escapeth', 'escaped', 'escapen']",9,0,9,100.0
-escheuen,"['eschuwe', 'eschue', 'eschewed']",5,0,5,100.0
-esen,"['esen', 'ese', 'esed']",12,0,12,100.0
+escapen,"['escape', 'escaped', 'escapen', 'escapeth']",9,0,9,100.0
+escheuen,"['eschewed', 'eschuwe', 'eschue']",5,0,5,100.0
+esen,"['ese', 'esed', 'esen']",12,0,12,100.0
 esing,['esing'],0,1,1,0.0
-eten,"['eet', 'eten', 'eteth', 'ete']",26,0,26,100.0
+eten,"['eteth', 'eet', 'eten', 'ete']",26,0,26,100.0
 exciten,"['excited', 'exciteth']",2,0,2,100.0
-excusen,"['excused', 'excuse', 'excusen']",12,0,12,100.0
+excusen,"['excused', 'excusen', 'excuse']",12,0,12,100.0
 executen,['execut'],1,0,1,100.0
 exercisen,"['excercise', 'exercise']",2,0,2,100.0
 expellen,['expelle'],1,0,1,100.0
-expounen,"['expounde', 'expouned', 'expounden', 'expoune']",7,0,7,100.0
-expressen,"['expressed', 'expresse']",6,0,6,100.0
-failen,"['failled', 'failed', 'faile', 'fail', 'faille', 'faillen', 'failen', 'faileth']",27,1,28,96.43
+expounen,"['expouned', 'expounde', 'expoune', 'expounden']",7,0,7,100.0
+expressen,"['expresse', 'expressed']",6,0,6,100.0
+failen,"['faile', 'failled', 'failen', 'failed', 'fail', 'faille', 'faillen', 'faileth']",27,1,28,96.43
 failinge,['failing'],0,1,1,0.0
-fallen,"['fil', 'fallest', 'fellen', 'fal', 'falle', 'fallen', 'fel', 'falles', 'yfalle', 'fill', 'fille', 'fillen', 'falleth', 'yfallen', 'felle']",173,1,174,99.43
-fallinge,"['fallinge', 'falling']",1,4,5,20.0
-falsen,"['falsen', 'falsed']",5,0,5,100.0
-faren,"['fares', 'ferde', 'yfare', 'ferden', 'farest', 'far', 'ferd', 'fare', 'fareth', 'faren']",82,2,84,97.62
+fallen,"['fil', 'fel', 'fillen', 'fill', 'fille', 'falleth', 'yfalle', 'fallest', 'yfallen', 'felle', 'fal', 'falles', 'fallen', 'fellen', 'falle']",173,1,174,99.43
+fallinge,"['falling', 'fallinge']",1,4,5,20.0
+falsen,"['falsed', 'falsen']",5,0,5,100.0
+faren,"['fareth', 'farest', 'fare', 'fares', 'ferde', 'yfare', 'far', 'ferd', 'ferden', 'faren']",82,2,84,97.62
 farsen,['farsed'],1,0,1,100.0
 fastnen,['festne'],1,0,1,100.0
 fatten,['fatte'],1,0,1,100.0
-fecchen,"['fecchen', 'fecche']",12,0,12,100.0
+fecchen,"['fecche', 'fecchen']",12,0,12,100.0
 fecching,['fecching'],0,1,1,0.0
 feden,"['fed', 'fede', 'fedde']",7,0,7,100.0
 feffen,['feffed'],1,0,1,100.0
-feinen,"['feineth', 'feinest', 'feined', 'yfeined', 'feine']",18,0,18,100.0
+feinen,"['feineth', 'yfeined', 'feine', 'feined', 'feinest']",18,0,18,100.0
 feining,['feining'],0,2,2,0.0
 feinten,"['faint', 'feinte']",2,1,3,66.67
 feinting,['feinting'],0,1,1,0.0
 fellen,"['feld', 'felle']",2,0,2,100.0
 ferting,['farting'],0,1,1,0.0
-festen,"['feste', 'festeth']",2,0,2,100.0
+festen,"['festeth', 'feste']",2,0,2,100.0
 festinge,['festeyinge'],1,0,1,100.0
-feteren,"['fettred', 'fetered']",2,0,2,100.0
-fetten,"['fette', 'fet', 'yfet']",15,0,15,100.0
-fighten,"['foghte', 'foghten', 'fight', 'foughte', 'foughten', 'fighten', 'faught', 'fighte']",22,0,22,100.0
+feteren,"['fetered', 'fettred']",2,0,2,100.0
+fetten,"['fet', 'fette', 'yfet']",15,0,15,100.0
+fighten,"['fighte', 'faught', 'fighten', 'foughten', 'fight', 'foghte', 'foghten', 'foughte']",22,0,22,100.0
 fillen,"['filled', 'fille']",2,0,2,100.0
-finden,"['find', 'fint', 'finds', 'founden', 'fonde', 'finden', 'found', 'finde', 'founde', 'fond']",206,2,208,99.04
+finden,"['finde', 'founden', 'fond', 'finds', 'founde', 'fint', 'finden', 'fonde', 'find', 'found']",206,2,208,99.04
 finding,['finding'],0,1,1,0.0
-fishen,"['fisshed', 'fisshe', 'fisshen']",5,0,5,100.0
+fishen,"['fisshed', 'fisshen', 'fisshe']",5,0,5,100.0
 flatering,['flateringe'],1,0,1,100.0
 fleming,['fleminge'],1,0,1,100.0
-flien,"['flowen', 'flough', 'flen', 'fleen', 'fleeth', 'flee', 'fley', 'fleigh']",27,0,27,100.0
+flien,"['flowen', 'fleen', 'flough', 'flen', 'fley', 'fleeth', 'fleigh', 'flee']",27,0,27,100.0
 flouen,['flowen'],1,0,1,100.0
-foinen,"['foinen', 'foineth', 'foine']",3,0,3,100.0
-folwen,"['folwe', 'folwede', 'folewed', 'yfolowed', 'folwen', 'folweth', 'folwed']",24,1,25,96.0
-fonden,"['fonde', 'fond']",10,1,11,90.91
-forbeden,"['forbedeth', 'forbode', 'forbed', 'forbet', 'forbede', 'forbad']",28,0,28,100.0
-forberen,"['forbar', 'forbere']",4,0,4,100.0
+foinen,"['foinen', 'foine', 'foineth']",3,0,3,100.0
+folwen,"['folwede', 'folwe', 'folweth', 'folwen', 'yfolowed', 'folwed', 'folewed']",24,1,25,96.0
+fonden,"['fond', 'fonde']",10,1,11,90.91
+forbeden,"['forbet', 'forbode', 'forbed', 'forbad', 'forbedeth', 'forbede']",28,0,28,100.0
+forberen,"['forbere', 'forbar']",4,0,4,100.0
 forcutten,['forcutteth'],1,0,1,100.0
-fordon,"['fordo', 'fordoon']",4,1,5,80.0
+fordon,"['fordoon', 'fordo']",4,1,5,80.0
 fore-bisnen,['forbise'],1,0,1,100.0
 fore-seing,['forseinge'],1,0,1,100.0
 fore-witen,"['forwoot', 'forwot']",3,0,3,100.0
 fore-witing,['forwiting'],0,1,1,0.0
-forgen,"['forge', 'forgeth']",4,0,4,100.0
-forgon,"['forgoon', 'foryede', 'forgon', 'forgo', 'forgoth']",6,8,14,42.86
+forgen,"['forgeth', 'forge']",4,0,4,100.0
+forgon,"['forgon', 'forgo', 'forgoon', 'foryede', 'forgoth']",6,8,14,42.86
 forkerven,['forkerveth'],1,0,1,100.0
 forlesen,"['forlorn', 'forlore']",2,0,2,100.0
 forleten,['forlete'],2,0,2,100.0
-formen,"['forme', 'formed', 'yformed']",8,0,8,100.0
-forsaken,"['forsaken', 'forsake', 'forsook']",13,0,13,100.0
+formen,"['forme', 'yformed', 'formed']",8,0,8,100.0
+forsaken,"['forsaken', 'forsook', 'forsake']",13,0,13,100.0
 forshapen,['forshapen'],1,0,1,100.0
 forsweren,['forswor'],1,0,1,100.0
-forswering,"['forsweringe', 'forswering']",1,1,2,50.0
+forswering,"['forswering', 'forsweringe']",1,1,2,50.0
 forthinken,"['forthinketh', 'forthinke']",2,0,2,100.0
 fortunen,"['fortuned', 'fortunest', 'fortunen']",2,1,3,66.67
 forwrappen,['forwrapped'],1,0,1,100.0
 foryelden,['foryelde'],1,0,1,100.0
-foryeten,"['foryeteth', 'forgate', 'foryete', 'foryeten', 'forgat', 'forgeten']",15,0,15,100.0
-foryeven,"['foryeven', 'foryaf', 'foryeve', 'foryive']",14,0,14,100.0
-fostren,"['fostred', 'yfostred', 'fostre', 'fostreth']",13,0,13,100.0
+foryeten,"['forgate', 'foryeten', 'foryeteth', 'forgeten', 'foryete', 'forgat']",15,0,15,100.0
+foryeven,"['foryeven', 'foryive', 'foryaf', 'foryeve']",14,0,14,100.0
+fostren,"['fostred', 'fostre', 'yfostred', 'fostreth']",13,0,13,100.0
 fostring,['fostring'],0,1,1,0.0
-frainen,"['freined', 'freine', 'fraineth']",3,0,3,100.0
+frainen,"['fraineth', 'freine', 'freined']",3,0,3,100.0
 froten,"['frote', 'froteth']",2,0,2,100.0
 frothen,['frothen'],1,0,1,100.0
-ful-fillen,"['fulfelle', 'fulfill', 'fulfille', 'fulfilled', 'fulfild']",10,1,11,90.91
-furtheren,"['furthre', 'forthre', 'forthren']",3,0,3,100.0
+ful-fillen,"['fulfilled', 'fulfild', 'fulfille', 'fulfill', 'fulfelle']",10,1,11,90.91
+furtheren,"['forthre', 'forthren', 'furthre']",3,0,3,100.0
 furthering,['furthering'],0,1,1,0.0
 gabben,['gabbe'],3,0,3,100.0
-gaderen,"['gadered', 'gadereth']",2,0,2,100.0
+gaderen,"['gadereth', 'gadered']",2,0,2,100.0
 galen,['gale'],2,0,2,100.0
 gamen,['gamed'],1,0,1,100.0
 gapen,['gape'],1,0,1,100.0
 gasen,['gazed'],1,0,1,100.0
-gauren,"['gaureth', 'gaure', 'gauren']",5,0,5,100.0
-geinen,"['gaineth', 'gained']",4,0,4,100.0
+gauren,"['gaureth', 'gauren', 'gaure']",5,0,5,100.0
+geinen,"['gained', 'gaineth']",4,0,4,100.0
 gelden,['gelde'],1,0,1,100.0
 gessen,['gesse'],41,0,41,100.0
 giden,"['gide', 'gideth']",11,0,11,100.0
 gidinge,['giding'],0,1,1,0.0
 gien,['gie'],13,0,13,100.0
-ginnen,"['gonnen', 'gunne', 'gonne', 'gunnen', 'ginne', 'gan', 'ginneth']",498,4,502,99.2
+ginnen,"['gonnen', 'ginneth', 'ginne', 'gunnen', 'gunne', 'gan', 'gonne']",498,4,502,99.2
 ginninge,"['ginninge', 'ginning']",1,2,3,33.33
 giterninge,['giterninge'],1,0,1,100.0
-gladen,"['gladeth', 'gladde', 'glade', 'gladen', 'gladded', 'gladede', 'gladed']",24,0,24,100.0
+gladen,"['gladded', 'gladed', 'glade', 'gladede', 'gladen', 'gladeth', 'gladde']",24,0,24,100.0
 glaren,['glareth'],1,0,1,100.0
-glasen,"['yglased', 'glase']",2,0,2,100.0
+glasen,"['glase', 'yglased']",2,0,2,100.0
 glasinge,['glasinge'],1,0,1,100.0
 gliden,"['glood', 'glide']",7,0,7,100.0
 glimsinge,['glimsing'],0,1,1,0.0
@@ -547,25 +547,25 @@ glosen,"['glosen', 'glose']",7,0,7,100.0
 glosinge,['glosinge'],1,0,1,100.0
 gnauen,['gnawe'],2,0,2,100.0
 goinge,['goinge'],3,0,3,100.0
-gon,"['goon', 'gon', 'goth', 'gost', 'agon', 'gooth', 'go', 'goost', 'gane']",263,151,414,63.53
-governen,"['governe', 'governed', 'governeth']",9,0,9,100.0
+gon,"['go', 'gost', 'agon', 'gooth', 'goost', 'gon', 'goon', 'goth', 'gane']",263,151,414,63.53
+governen,"['governeth', 'governed', 'governe']",9,0,9,100.0
 governinge,['governing'],0,1,1,0.0
-graspen,"['graspe', 'graspeth']",2,0,2,100.0
-graunten,"['graunte', 'graunted', 'graunteth', 'granten', 'grant', 'graunt', 'graunten', 'grauntede', 'ygraunted', 'grante']",55,2,57,96.49
+graspen,"['graspeth', 'graspe']",2,0,2,100.0
+graunten,"['graunten', 'graunteth', 'grauntede', 'ygraunted', 'granten', 'grant', 'graunted', 'graunt', 'graunte', 'grante']",55,2,57,96.49
 grauntinge,['graunting'],0,1,1,0.0
 greithen,['greithen'],1,0,1,100.0
-greven,"['greve', 'greved', 'greveth']",20,0,20,100.0
+greven,"['greved', 'greve', 'greveth']",20,0,20,100.0
 grindinge,['grinding'],0,1,1,0.0
 groininge,['groining'],0,1,1,0.0
-gronen,"['groneth', 'grone', 'gronen']",13,0,13,100.0
+gronen,"['groneth', 'gronen', 'grone']",13,0,13,100.0
 groninge,['groning'],0,1,1,0.0
-gropen,"['grope', 'gropeth', 'groped']",5,0,5,100.0
-grouen,"['ygrowen', 'grew', 'growen', 'growe', 'groweth', 'growed']",11,0,11,100.0
+gropen,"['groped', 'gropeth', 'grope']",5,0,5,100.0
+grouen,"['ygrowen', 'grew', 'growed', 'growe', 'growen', 'groweth']",11,0,11,100.0
 grounden,['grounded'],1,0,1,100.0
-grucchen,"['grucche', 'gruccheth', 'grucchen']",7,0,7,100.0
+grucchen,"['grucche', 'grucchen', 'gruccheth']",7,0,7,100.0
 grucchinge,['grucching'],0,1,1,0.0
 guerdoning,['guerdoninge'],1,0,1,100.0
-hakken,"['hakketh', 'hakke']",2,0,2,100.0
+hakken,"['hakke', 'hakketh']",2,0,2,100.0
 halen,['hale'],1,0,1,100.0
 halouen,['yhalowed'],1,0,1,100.0
 halten,"['halten', 'halte']",2,0,2,100.0
@@ -573,69 +573,69 @@ halwen,['halwed'],2,0,2,100.0
 hamelen,['hameled'],1,0,1,100.0
 harden,['yharded'],1,0,1,100.0
 hardinge,['harding'],0,1,1,0.0
-harmen,"['harmed', 'harme']",2,0,2,100.0
+harmen,"['harme', 'harmed']",2,0,2,100.0
 harminge,['harming'],0,1,1,0.0
 harpen,['harpe'],1,0,1,100.0
 harpinge,['harping'],0,1,1,0.0
-hasten,"['haste', 'hasten', 'hasteth']",7,0,7,100.0
-haten,"['yhated', 'hatede', 'hated', 'hate', 'haten', 'hateth']",12,0,12,100.0
-haven,"['hade', 'han', 'has', 'had', 'haddest', 'hadde', 'hast', 'hadden', 'have', 'hath']",1664,391,2055,80.97
+hasten,"['hasten', 'hasteth', 'haste']",7,0,7,100.0
+haten,"['yhated', 'hatede', 'haten', 'hated', 'hate', 'hateth']",12,0,12,100.0
+haven,"['had', 'han', 'haddest', 'hath', 'hade', 'has', 'hadden', 'hast', 'hadde', 'have']",1664,391,2055,80.97
 helmen,['helmed'],2,0,2,100.0
-helpen,"['helpe', 'helpen', 'heelp', 'holpe', 'halp', 'help', 'helpeth', 'holpen']",92,0,92,100.0
+helpen,"['holpen', 'helpeth', 'help', 'helpe', 'helpen', 'halp', 'holpe', 'heelp']",92,0,92,100.0
 helpinge,"['helpinge', 'helping']",1,2,3,33.33
-henten,"['henten', 'hente', 'hent']",42,0,42,100.0
+henten,"['hent', 'hente', 'henten']",42,0,42,100.0
 herauden,['heraude'],1,0,1,100.0
-heren,"['herden', 'here', 'herest', 'herd', 'heren', 'heere', 'herde', 'heer', 'hereth']",269,3,272,98.9
+heren,"['hereth', 'herde', 'herest', 'herden', 'heer', 'here', 'heren', 'heere', 'herd']",269,3,272,98.9
 heriinge,['heryinge'],1,0,1,100.0
 herkenen,"['herkne', 'herkned', 'herkeneth', 'herknen']",12,0,12,100.0
 heten,['het'],1,0,1,100.0
 heven,"['heve', 'heven', 'hevest']",3,0,3,100.0
-hiden,"['hide', 'yhid', 'hiden', 'hidde', 'hit', 'hid']",32,0,32,100.0
-hien,"['hie', 'hyed', 'hieth', 'hyest', 'hied']",11,1,12,91.67
+hiden,"['hit', 'hid', 'hiden', 'hidde', 'hide', 'yhid']",32,0,32,100.0
+hien,"['hyest', 'hied', 'hieth', 'hyed', 'hie']",11,1,12,91.67
 hiren,['hired'],1,0,1,100.0
 hitten,['hitte'],2,0,2,100.0
 holdinge,['holdinge'],1,0,1,100.0
 hondlen,['handle'],2,0,2,100.0
-hongen,"['hongeth', 'hangeth', 'henge', 'honge', 'hanged', 'heng', 'hange', 'hang', 'heeng', 'hangen', 'hongen']",40,2,42,95.24
+hongen,"['hanged', 'heng', 'heeng', 'honge', 'hangeth', 'henge', 'hongeth', 'hang', 'hange', 'hangen', 'hongen']",40,2,42,95.24
 honginge,['hanging'],0,1,1,0.0
-honouren,"['honouren', 'honoured', 'honoure', 'honoureth']",15,0,15,100.0
+honouren,"['honoure', 'honouren', 'honoured', 'honoureth']",15,0,15,100.0
 hoppen,['hoppe'],1,0,1,100.0
 houlen,['howleth'],1,0,1,100.0
 houpen,['houped'],0,1,1,0.0
 housinge,['housinge'],1,0,1,100.0
 hummen,['humme'],1,0,1,100.0
-hunten,"['honten', 'hunten', 'hunte', 'hunted']",9,0,9,100.0
-huntinge,"['hunting', 'huntinge']",2,7,9,22.22
+hunten,"['hunte', 'hunten', 'hunted', 'honten']",9,0,9,100.0
+huntinge,"['huntinge', 'hunting']",2,7,9,22.22
 hurtelen,['hurtleth'],1,0,1,100.0
-hurten,"['hurte', 'hurt', 'yhurt']",14,0,14,100.0
+hurten,"['hurt', 'yhurt', 'hurte']",14,0,14,100.0
 iben,"['ybeen', 'ybe']",7,0,7,100.0
-ibringen,"['ybroght', 'ybrought']",12,0,12,100.0
-ifinden,"['yfounde', 'founde', 'yfinde']",9,0,9,100.0
-igon,"['ygon', 'ygoon', 'ygo']",5,0,5,100.0
+ibringen,"['ybrought', 'ybroght']",12,0,12,100.0
+ifinden,"['founde', 'yfounde', 'yfinde']",9,0,9,100.0
+igon,"['ygon', 'ygo', 'ygoon']",5,0,5,100.0
 ihenten,['yhent'],2,0,2,100.0
 iheren,['yhere'],2,0,2,100.0
 iholden,"['yholde', 'holden']",5,0,5,100.0
 ikissen,['ykist'],1,0,1,100.0
 iknitten,['yknet'],1,0,1,100.0
-iknouen,"['yknowe', 'yknowen']",9,0,9,100.0
+iknouen,"['yknowen', 'yknowe']",9,0,9,100.0
 ileden,['ylad'],1,0,1,100.0
 ileien,['yleid'],3,0,3,100.0
-imaginen,"['imagining', 'imaginen', 'imagined']",4,1,5,80.0
+imaginen,"['imagining', 'imagined', 'imaginen']",4,1,5,80.0
 imagininge,['imagining'],0,1,1,0.0
 imaken,"['ymaad', 'ymaked']",6,0,6,100.0
 imenen,['yment'],1,0,1,100.0
-impressen,"['impresse', 'impressen']",4,0,4,100.0
+impressen,"['impressen', 'impresse']",4,0,4,100.0
 incominge,['incomminge'],1,0,1,100.0
 infecten,['infecte'],2,0,2,100.0
 inhelden,['inhelde'],1,0,1,100.0
 inimen,['ynome'],2,0,2,100.0
 ipassen,['ypassed'],1,0,1,100.0
 ireden,['yred'],1,0,1,100.0
-irennen,"['yronnen', 'yronne']",8,0,8,100.0
-iseien,"['ysaid', 'said', 'ysaide']",3,0,3,100.0
+irennen,"['yronne', 'yronnen']",8,0,8,100.0
+iseien,"['ysaid', 'ysaide', 'said']",3,0,3,100.0
 isenden,['ysent'],2,0,2,100.0
 isetten,['yset'],3,0,3,100.0
-ishapen,"['yshape', 'yshapen']",5,0,5,100.0
+ishapen,"['yshapen', 'yshape']",5,0,5,100.0
 ishenden,['yshent'],1,0,1,100.0
 isheuen,['yshewed'],1,0,1,100.0
 ishriven,['yshrive'],1,0,1,100.0
@@ -647,62 +647,62 @@ itechen,['ytaught'],2,0,2,100.0
 ithen,['ythee'],2,0,2,100.0
 iturnen,['yturned'],2,0,2,100.0
 iwenden,['ywent'],1,0,1,100.0
-iwerken,"['ywrought', 'ywroghte', 'ywroght']",8,0,8,100.0
+iwerken,"['ywroght', 'ywroghte', 'ywrought']",8,0,8,100.0
 iwinnen,['ywonne'],6,0,6,100.0
-janglen,"['jangle', 'jangleth']",3,0,3,100.0
+janglen,"['jangleth', 'jangle']",3,0,3,100.0
 janglinge,['jangling'],0,2,2,0.0
-japen,"['jape', 'japed', 'yjaped', 'japedest']",11,0,11,100.0
+japen,"['japedest', 'yjaped', 'jape', 'japed']",11,0,11,100.0
 joien,['joye'],1,0,1,100.0
 jouken,['jouken'],1,0,1,100.0
-jugen,"['juggen', 'juggeth', 'juge', 'juged']",7,0,7,100.0
+jugen,"['juged', 'juggeth', 'juge', 'juggen']",7,0,7,100.0
 juparten,['juparten'],1,0,1,100.0
-justen,"['justen', 'jousteth', 'justeth', 'juste']",4,0,4,100.0
-kemben,"['kembeth', 'kembe', 'kembd']",5,0,5,100.0
-kepen,"['kepe', 'kepte', 'kepen', 'keep', 'kept', 'kep', 'kepeth']",92,2,94,97.87
+justen,"['juste', 'justeth', 'jousteth', 'justen']",4,0,4,100.0
+kemben,"['kembd', 'kembeth', 'kembe']",5,0,5,100.0
+kepen,"['kepte', 'kepe', 'keep', 'kepeth', 'kepen', 'kep', 'kept']",92,2,94,97.87
 kepinge,['keping'],0,2,2,0.0
-kerven,"['corven', 'kerve', 'carf']",9,0,9,100.0
+kerven,"['carf', 'corven', 'kerve']",9,0,9,100.0
 kervinge,['kerving'],0,1,1,0.0
 killen,['kille'],3,0,3,100.0
-kissen,"['kisse', 'keste', 'kisseth', 'kesse', 'kiss', 'kist', 'kiste']",47,3,50,94.0
+kissen,"['kesse', 'kiste', 'kisseth', 'kisse', 'kist', 'kiss', 'keste']",47,3,50,94.0
 kissinge,['kissing'],0,2,2,0.0
-kithen,"['kithed', 'kid', 'kitheth', 'kithe']",4,0,4,100.0
+kithen,"['kithed', 'kid', 'kithe', 'kitheth']",4,0,4,100.0
 kneden,['knede'],1,0,1,100.0
-knelen,"['knele', 'kneleth', 'kneled']",10,0,10,100.0
-knitten,"['knette', 'knitte', 'knet', 'knit']",10,0,10,100.0
-knokken,"['knokked', 'knokke', 'knokken', 'knokketh']",8,0,8,100.0
-knouen,"['knewe', 'knowe', 'knoweth', 'knowest', 'knowen', 'know', 'knew']",214,5,219,97.72
-knouinge,"['knowinge', 'knowing']",2,3,5,40.0
+knelen,"['kneled', 'kneleth', 'knele']",10,0,10,100.0
+knitten,"['knitte', 'knet', 'knette', 'knit']",10,0,10,100.0
+knokken,"['knokked', 'knokken', 'knokketh', 'knokke']",8,0,8,100.0
+knouen,"['knew', 'knowest', 'knowe', 'knowen', 'knoweth', 'knewe', 'know']",214,5,219,97.72
+knouinge,"['knowing', 'knowinge']",2,3,5,40.0
 knoulechinge,"['knowleching', 'knowlachinge']",1,1,2,50.0
-labouren,"['laboure', 'laboured', 'labouren', 'laboureth']",8,0,8,100.0
+labouren,"['laboured', 'laboure', 'labouren', 'laboureth']",8,0,8,100.0
 laden,['lade'],1,0,1,100.0
-lakken,"['lakke', 'lakked', 'lakketh', 'lakken', 'lakkede']",16,0,16,100.0
+lakken,"['lakkede', 'lakke', 'lakken', 'lakked', 'lakketh']",16,0,16,100.0
 languishen,['languisshe'],1,0,1,100.0
 languishinge,['languisshing'],0,1,1,0.0
 lasen,['laced'],1,0,1,100.0
 lasinge,['lacing'],0,1,1,0.0
-laughen,"['laugheth', 'lough', 'laughe', 'laughen', 'laugh']",30,1,31,96.77
+laughen,"['laughen', 'laughe', 'laugh', 'lough', 'laugheth']",30,1,31,96.77
 launcen,['launce'],1,0,1,100.0
 launchen,['launcheth'],1,0,1,100.0
 lepen,"['lepte', 'leep', 'lepe']",11,0,11,100.0
 leren,"['lered', 'lere']",22,0,22,100.0
-lernen,"['lerne', 'lerned', 'lernen']",24,2,26,92.31
-lerninge,"['lerning', 'lerninge']",3,1,4,75.0
+lernen,"['lerned', 'lerne', 'lernen']",24,2,26,92.31
+lerninge,"['lerninge', 'lerning']",3,1,4,75.0
 lessen,['lessen'],1,0,1,100.0
-leten,"['leet', 'lat', 'let', 'lete', 'laten', 'leten']",77,1,78,98.72
-letten,"['let', 'lette', 'letten', 'letted', 'lettest']",26,1,27,96.3
-lissen,"['lissed', 'ylissed', 'lisse', 'lissen']",4,0,4,100.0
+leten,"['laten', 'lat', 'lete', 'leten', 'leet', 'let']",77,1,78,98.72
+letten,"['lette', 'letten', 'letted', 'lettest', 'let']",26,1,27,96.3
+lissen,"['lisse', 'ylissed', 'lissen', 'lissed']",4,0,4,100.0
 livinge,"['livinge', 'living']",4,3,7,57.14
-loggen,"['logged', 'ylogged']",3,0,3,100.0
+loggen,"['ylogged', 'logged']",3,0,3,100.0
 logginge,['logging'],0,1,1,0.0
-lokinge,"['looking', 'loking']",0,13,13,0.0
+lokinge,"['loking', 'looking']",0,13,13,0.0
 lullen,['lulleth'],1,0,1,100.0
-lusten,"['luste', 'lust', 'list']",9,0,9,100.0
+lusten,"['lust', 'list', 'luste']",9,0,9,100.0
 madden,['madde'],2,0,2,100.0
 magnifiinge,['magnifying'],0,1,1,0.0
 maimen,['maime'],1,0,1,100.0
-maintenen,"['maintene', 'mainteine']",2,0,2,100.0
-makinge,"['makinge', 'making']",1,1,2,50.0
-manacen,"['manace', 'manaceth']",2,0,2,100.0
+maintenen,"['mainteine', 'maintene']",2,0,2,100.0
+makinge,"['making', 'makinge']",1,1,2,50.0
+manacen,"['manaceth', 'manace']",2,0,2,100.0
 manacinge,['manasinge'],1,0,1,100.0
 marien,['maried'],2,0,2,100.0
 martiren,['martyreth'],1,0,1,100.0
@@ -710,9 +710,9 @@ masen,['maze'],2,0,2,100.0
 masken,['ymasked'],1,0,1,100.0
 medlen,"['ymedled', 'medle']",3,0,3,100.0
 medlinge,['medling'],0,1,1,0.0
-melten,"['molte', 'melte', 'malt']",8,0,8,100.0
+melten,"['molte', 'malt', 'melte']",8,0,8,100.0
 menden,['mende'],2,0,2,100.0
-meven,"['meved', 'moveth', 'meve']",8,0,8,100.0
+meven,"['meved', 'meve', 'moveth']",8,0,8,100.0
 mevinge,['moving'],0,1,1,0.0
 minen,['mine'],3,0,3,100.0
 misaccounten,['misacounted'],1,0,1,100.0
@@ -723,21 +723,21 @@ misconceiven,['misconceiveth'],1,0,1,100.0
 misconstruen,['misconstrue'],1,0,1,100.0
 misdemen,['misdemeth'],1,0,1,100.0
 misfallen,['misfille'],1,0,1,100.0
-misgon,"['misgoon', 'misgon', 'misgo']",3,0,3,100.0
+misgon,"['misgo', 'misgon', 'misgoon']",3,0,3,100.0
 mishappen,['mishappe'],1,0,1,100.0
 misleden,['misledden'],1,0,1,100.0
 mislien,['mislay'],1,0,1,100.0
 misseien,"['misseid', 'missaid']",3,0,3,100.0
 missitten,['missatte'],1,0,1,100.0
 misspeken,['misspak'],1,0,1,100.0
-mistrusten,"['mistrusten', 'mistrusted', 'mistruste']",4,0,4,100.0
+mistrusten,"['mistruste', 'mistrusten', 'mistrusted']",4,0,4,100.0
 miswenden,['miswent'],1,0,1,100.0
 mocchen,['mucche'],1,0,1,100.0
 modifien,['modifie'],1,0,1,100.0
 mokeren,['mokre'],1,0,1,100.0
-mornen,"['moorne', 'morneth', 'moorneth', 'morne']",4,0,4,100.0
+mornen,"['morne', 'moorne', 'moorneth', 'morneth']",4,0,4,100.0
 morninge,"['moorninge', 'moorning']",1,1,2,50.0
-mortheren,"['mordre', 'mordred']",8,1,9,88.89
+mortheren,"['mordred', 'mordre']",8,1,9,88.89
 mortheringe,['mordring'],0,1,1,0.0
 mortifien,['mortifie'],1,0,1,100.0
 moteren,['motre'],1,0,1,100.0
@@ -752,24 +752,24 @@ nemnen,"['nempned', 'nempne']",2,0,2,100.0
 neuen,['newed'],1,0,1,100.0
 nevenen,['nevene'],5,0,5,100.0
 nighten,['nighte'],2,0,2,100.0
-nimen,"['nome', 'nam', 'nomen']",4,0,4,100.0
+nimen,"['nam', 'nomen', 'nome']",4,0,4,100.0
 nombren,"['nombred', 'noumbre']",2,0,2,100.0
-norishinge,"['norissing', 'norisshinge']",1,1,2,50.0
+norishinge,"['norisshinge', 'norissing']",1,1,2,50.0
 notifien,['notifie'],1,0,1,100.0
-obeien,"['obeye', 'obeie', 'obeyed', 'obeyeth']",16,0,16,100.0
-obligen,"['obliged', 'oblige']",2,0,2,100.0
+obeien,"['obeye', 'obeyed', 'obeie', 'obeyeth']",16,0,16,100.0
+obligen,"['oblige', 'obliged']",2,0,2,100.0
 observen,['observe'],1,0,1,100.0
 occupien,"['occupie', 'occupieth']",4,0,4,100.0
-offenden,"['offenden', 'offende', 'offendeth', 'offended']",8,0,8,100.0
-offren,"['offren', 'offre']",4,0,4,100.0
-offringe,"['offringe', 'offring']",1,2,3,33.33
+offenden,"['offendeth', 'offenden', 'offende', 'offended']",8,0,8,100.0
+offren,"['offre', 'offren']",4,0,4,100.0
+offringe,"['offring', 'offringe']",1,2,3,33.33
 onen,['oned'],1,0,1,100.0
 openen,"['opned', 'opened', 'open']",5,1,6,83.33
 opposen,['opposen'],1,0,1,100.0
 oppressen,"['oppressed', 'oppresse']",3,0,3,100.0
 ordeinen,['ordeined'],1,0,1,100.0
-ouen,"['oughte', 'ought', 'oght', 'owest', 'owen', 'owe', 'oghte']",48,0,48,100.0
-outen,"['oute', 'out', 'outen']",3,1,4,75.0
+ouen,"['ought', 'oughte', 'oght', 'owen', 'owe', 'owest', 'oghte']",48,0,48,100.0
+outen,"['out', 'outen', 'oute']",3,1,4,75.0
 outraien,['outraye'],1,0,1,100.0
 overcasten,['overcaste'],1,0,1,100.0
 overcomen,"['overcometh', 'overcome']",5,0,5,100.0
@@ -777,162 +777,162 @@ overgon,"['overgone', 'overgo']",2,0,2,100.0
 overshaken,['overshake'],3,0,3,100.0
 oversheten,['overshette'],1,0,1,100.0
 overskippen,['overskipte'],1,0,1,100.0
-overspreden,"['oversprat', 'overspradde', 'oversprede', 'overspradd']",5,0,5,100.0
+overspreden,"['oversprede', 'oversprat', 'overspradd', 'overspradde']",5,0,5,100.0
 overspringen,['overspringe'],1,0,1,100.0
 overtaken,['overtoke'],1,0,1,100.0
 overthrouen,['overthrowe'],4,0,4,100.0
-paien,"['paid', 'paide', 'ypaied', 'pay', 'payed', 'paied', 'paye', 'payen', 'ypayed']",32,0,32,100.0
-parten,"['parte', 'parten', 'partest', 'part']",6,0,6,100.0
+paien,"['paied', 'paide', 'paid', 'paye', 'payed', 'ypaied', 'payen', 'ypayed', 'pay']",32,0,32,100.0
+parten,"['parte', 'part', 'parten', 'partest']",6,0,6,100.0
 partinge,['parting'],0,1,1,0.0
-passen,"['pass', 'passeth', 'pace', 'passed', 'passe', 'passen', 'paste']",95,1,96,98.96
-peinen,"['peined', 'peinen', 'peine', 'paineth', 'peinest']",12,0,12,100.0
-peinten,"['peinted', 'peint', 'peinten', 'peinte']",21,1,22,95.45
-percen,"['perced', 'perce', 'percen']",5,0,5,100.0
+passen,"['passen', 'pass', 'passe', 'passeth', 'pace', 'paste', 'passed']",95,1,96,98.96
+peinen,"['paineth', 'peine', 'peined', 'peinest', 'peinen']",12,0,12,100.0
+peinten,"['peinted', 'peint', 'peinte', 'peinten']",21,1,22,95.45
+percen,"['perced', 'percen', 'perce']",5,0,5,100.0
 perchen,['perched'],1,0,1,100.0
 percinge,['percinge'],1,0,1,100.0
-performen,"['parfourned', 'parfournest', 'parfourne']",8,0,8,100.0
+performen,"['parfourne', 'parfourned', 'parfournest']",8,0,8,100.0
 perishen,['perisse'],1,0,1,100.0
-perseveren,"['persevereth', 'persevere']",2,0,2,100.0
-perturben,"['perturben', 'pertourbe']",2,0,2,100.0
+perseveren,"['persevere', 'persevereth']",2,0,2,100.0
+perturben,"['pertourbe', 'perturben']",2,0,2,100.0
 perturbinge,['perturbinge'],1,0,1,100.0
 picchen,['pighte'],1,0,1,100.0
 pinchen,"['pinched', 'pinche']",2,0,2,100.0
 pinen,"['pine', 'pined']",2,0,2,100.0
-pipen,"['pipen', 'pipe']",5,0,5,100.0
-pissen,"['pissed', 'pisse']",3,0,3,100.0
+pipen,"['pipe', 'pipen']",5,0,5,100.0
+pissen,"['pisse', 'pissed']",3,0,3,100.0
 platen,['plated'],1,0,1,100.0
 plaunten,['planted'],2,0,2,100.0
 pledinge,['pledinge'],1,0,1,100.0
-pleiinge,"['pleyinge', 'pleying']",2,1,3,66.67
-pleinen,"['pleined', 'pleine', 'pleinen', 'ypleined', 'pleineth']",39,0,39,100.0
+pleiinge,"['pleying', 'pleyinge']",2,1,3,66.67
+pleinen,"['pleine', 'ypleined', 'pleineth', 'pleinen', 'pleined']",39,0,39,100.0
 pleiten,"['plite', 'plited']",2,0,2,100.0
-plesen,"['plese', 'plesen', 'plesed', 'yplesed']",31,0,31,100.0
+plesen,"['yplesed', 'plesen', 'plese', 'plesed']",31,0,31,100.0
 pleten,['plete'],1,0,1,100.0
 plicchen,"['plighte', 'plight']",3,0,3,100.0
-plighten,"['plight', 'plighten', 'plighte']",7,0,7,100.0
+plighten,"['plighte', 'plight', 'plighten']",7,0,7,100.0
 plukken,['plukke'],1,0,1,100.0
 portraien,['purtreied'],1,0,1,100.0
 portraiinge,['portreying'],0,1,1,0.0
 posen,['pose'],3,0,3,100.0
 poupen,['pouped'],0,1,1,0.0
 prauncen,['praunce'],1,0,1,100.0
-prechen,"['preche', 'prechen', 'preched', 'prechest']",17,0,17,100.0
+prechen,"['prechest', 'preche', 'prechen', 'preched']",17,0,17,100.0
 prechinge,['preching'],0,5,5,0.0
 preferren,['preferre'],1,0,1,100.0
 preiinge,['preyinge'],1,0,1,100.0
-preisen,"['preised', 'preise', 'ypreised', 'preisen', 'preiseth']",17,2,19,89.47
+preisen,"['preisen', 'ypreised', 'preise', 'preised', 'preiseth']",17,2,19,89.47
 preisinge,['preising'],0,1,1,0.0
 prenten,['prenten'],1,0,1,100.0
-presenten,"['presente', 'presenteth']",2,0,2,100.0
-pressen,"['pressed', 'presse', 'pressen', 'preesseth', 'prese']",8,0,8,100.0
-presumen,"['presume', 'presumed']",1,1,2,50.0
+presenten,"['presenteth', 'presente']",2,0,2,100.0
+pressen,"['preesseth', 'prese', 'pressen', 'pressed', 'presse']",8,0,8,100.0
+presumen,"['presumed', 'presume']",1,1,2,50.0
 pretenden,['pretende'],1,0,1,100.0
-preven,"['proven', 'preved', 'preve', 'preveth', 'prove', 'ypreved']",30,1,31,96.77
-prien,"['pri', 'prien', 'prie']",6,0,6,100.0
-priken,"['priketh', 'priked', 'prik', 'prighte', 'prikke', 'prike']",15,0,15,100.0
-prikinge,"['prikinge', 'priking']",2,2,4,50.0
+preven,"['preve', 'preveth', 'ypreved', 'preved', 'prove', 'proven']",30,1,31,96.77
+prien,"['prie', 'prien', 'pri']",6,0,6,100.0
+priken,"['priked', 'prik', 'prike', 'prikke', 'priketh', 'prighte']",15,0,15,100.0
+prikinge,"['priking', 'prikinge']",2,2,4,50.0
 proceden,"['precede', 'procede', 'proceden']",7,0,7,100.0
-profren,"['profreth', 'profred', 'profre']",5,0,5,100.0
+profren,"['profred', 'profre', 'profreth']",5,0,5,100.0
 proinen,['proineth'],1,0,1,100.0
 prollen,['prolle'],1,0,1,100.0
-pronouncen,"['pronounce', 'pronounced']",3,0,3,100.0
+pronouncen,"['pronounced', 'pronounce']",3,0,3,100.0
 proverben,['proverbed'],1,0,1,100.0
 publishen,"['publisshed', 'publiced']",3,0,3,100.0
 puffen,['puffen'],1,0,1,100.0
-pullen,"['pullen', 'pulle', 'ypulled', 'pulled']",11,0,11,100.0
+pullen,"['ypulled', 'pullen', 'pulled', 'pulle']",11,0,11,100.0
 punishen,['ypunisshed'],1,0,1,100.0
 punishinge,['punisshinge'],1,0,1,100.0
-purchasen,"['purchased', 'purchace', 'purchacen']",5,0,5,100.0
+purchasen,"['purchace', 'purchased', 'purchacen']",5,0,5,100.0
 purchasinge,['purchasing'],0,1,1,0.0
 purposen,"['purposen', 'purposed']",2,0,2,100.0
-purveien,"['purveyed', 'purveie', 'purveied', 'purveye', 'purveith']",13,0,13,100.0
+purveien,"['purveied', 'purveie', 'purveyed', 'purveith', 'purveye']",13,0,13,100.0
 purveiinge,['purveyinge'],2,0,2,100.0
-putten,"['putteth', 'putten', 'putte', 'put', 'yput']",52,4,56,92.86
-quaken,"['quook', 'quaketh', 'quake']",16,0,16,100.0
+putten,"['put', 'putten', 'putte', 'yput', 'putteth']",52,4,56,92.86
+quaken,"['quake', 'quook', 'quaketh']",16,0,16,100.0
 quappen,['quappe'],1,0,1,100.0
 quemen,"['quemen', 'queme']",2,0,2,100.0
-quenchen,"['queinte', 'queint', 'quenche', 'yqueint', 'quenchen']",12,0,12,100.0
+quenchen,"['yqueint', 'quenchen', 'quenche', 'queint', 'queinte']",12,0,12,100.0
 quethen,['quod'],580,3,583,99.49
-quiken,"['quiken', 'quike', 'quiked', 'quikke']",7,0,7,100.0
-quiten,"['quit', 'quite', 'quitte', 'quiteth', 'quiten']",22,1,23,95.65
+quiken,"['quikke', 'quiked', 'quike', 'quiken']",7,0,7,100.0
+quiten,"['quiteth', 'quitte', 'quite', 'quit', 'quiten']",22,1,23,95.65
 ragen,['rage'],3,0,3,100.0
 ransaken,['ransake'],1,0,1,100.0
 ravinge,['raving'],0,1,1,0.0
-ravishen,"['ravisshed', 'ravisshe', 'ravisshen']",6,0,6,100.0
+ravishen,"['ravisshe', 'ravisshed', 'ravisshen']",6,0,6,100.0
 ravishinge,['ravisshing'],0,2,2,0.0
 rebellinge,['rebelling'],0,1,1,0.0
 rebounden,['rebounde'],1,0,1,100.0
-receiven,"['received', 'receiven', 'receiveth', 'receive']",17,0,17,100.0
+receiven,"['receiven', 'receive', 'receiveth', 'received']",17,0,17,100.0
 recomforten,"['recomforte', 'reconforte']",2,0,2,100.0
-recommaunden,"['recomaunde', 'recomaundeth']",6,0,6,100.0
+recommaunden,"['recomaundeth', 'recomaunde']",6,0,6,100.0
 recommenden,['recomende'],1,0,1,100.0
 recorden,['recorde'],3,0,3,100.0
 redoutinge,['redoutinge'],1,0,1,100.0
-redressen,"['redressed', 'redressen', 'redresse']",8,0,8,100.0
-referren,"['refere', 'refereth']",2,0,2,100.0
+redressen,"['redressen', 'redressed', 'redresse']",8,0,8,100.0
+referren,"['refereth', 'refere']",2,0,2,100.0
 refreiden,['refreiden'],1,0,1,100.0
-refreshen,"['refresshe', 'refresshed']",3,0,3,100.0
+refreshen,"['refresshed', 'refresshe']",3,0,3,100.0
 refusen,['refuseden'],1,0,1,100.0
 regnen,['regneth'],1,0,1,100.0
-rehersen,"['reherce', 'reherse', 'rehercen']",14,0,14,100.0
+rehersen,"['reherse', 'rehercen', 'reherce']",14,0,14,100.0
 rehersinge,['rehersing'],0,1,1,0.0
-rejoisen,"['rejoise', 'rejoised', 'rejoisen']",4,0,4,100.0
+rejoisen,"['rejoisen', 'rejoise', 'rejoised']",4,0,4,100.0
 rejoisinge,['rejoisinge'],1,0,1,100.0
-rekenen,"['reken', 'yrekened', 'rekne', 'rekene']",10,0,10,100.0
+rekenen,"['reken', 'yrekened', 'rekene', 'rekne']",10,0,10,100.0
 rekeninge,['rekeninge'],1,0,1,100.0
 relenten,['relente'],1,0,1,100.0
 releven,"['releve', 'releved']",3,0,3,100.0
-remembren,"['remembre', 'remembren', 'remembred', 'remembreth']",9,0,9,100.0
-remeven,"['remeve', 'remoeved', 'remoeven', 'remoeve']",3,1,4,75.0
+remembren,"['remembreth', 'remembren', 'remembre', 'remembred']",9,0,9,100.0
+remeven,"['remeve', 'remoeven', 'remoeved', 'remoeve']",3,1,4,75.0
 remorden,['remorde'],1,0,1,100.0
 remuen,['remewed'],1,0,1,100.0
 repairen,"['repaireth', 'repaire', 'repeireth']",5,0,5,100.0
 repelen,['repeled'],2,0,2,100.0
 repenten,"['repente', 'repented']",13,0,13,100.0
-reporten,"['reporten', 'reporte', 'reporteth']",3,0,3,100.0
+reporten,"['reporten', 'reporteth', 'reporte']",3,0,3,100.0
 reprehenden,['reprehende'],1,0,1,100.0
 repressen,['repressed'],1,0,1,100.0
 repreven,['repreve'],4,0,4,100.0
-requeren,"['requere', 'required', 'requered']",5,0,5,100.0
+requeren,"['requered', 'required', 'requere']",5,0,5,100.0
 rescouen,['rescowe'],2,0,2,100.0
 reserven,['reserved'],1,0,1,100.0
 resignen,['resigne'],1,0,1,100.0
 resouninge,['resoninge'],1,0,1,100.0
 respiten,['respiten'],1,0,1,100.0
-restoren,"['restored', 'restore']",3,0,3,100.0
+restoren,"['restore', 'restored']",3,0,3,100.0
 restreinen,['restreine'],7,0,7,100.0
-returnen,"['retorneth', 'retourne', 'retorne']",6,0,6,100.0
+returnen,"['retourne', 'retorneth', 'retorne']",6,0,6,100.0
 returning,['retourninge'],1,0,1,100.0
-reulen,"['reuled', 'reulen', 'reule', 'ruled', 'reuleth']",5,0,5,100.0
-reven,"['reft', 'reveth', 'reve', 'refte', 'raft', 'reven', 'rafte']",16,0,16,100.0
+reulen,"['reule', 'reulen', 'ruled', 'reuled', 'reuleth']",5,0,5,100.0
+reven,"['reveth', 'raft', 'reve', 'reven', 'refte', 'reft', 'rafte']",16,0,16,100.0
 revesten,['revesten'],1,0,1,100.0
 revoken,['revoken'],1,0,1,100.0
-riden,"['rideth', 'riden', 'rood', 'rit', 'ride', 'ridest']",106,0,106,100.0
-risen,"['rise', 'riseth', 'risen', 'roos', 'rist']",63,0,63,100.0
+riden,"['riden', 'ridest', 'rit', 'rideth', 'ride', 'rood']",106,0,106,100.0
+risen,"['rise', 'rist', 'roos', 'risen', 'riseth']",63,0,63,100.0
 rokken,['rokken'],1,0,1,100.0
-romen,"['rome', 'romen', 'romeden', 'romed', 'rometh']",18,0,18,100.0
-rosten,"['rosted', 'roste']",2,0,2,100.0
+romen,"['rometh', 'rome', 'romeden', 'romed', 'romen']",18,0,18,100.0
+rosten,"['roste', 'rosted']",2,0,2,100.0
 rouken,['rouketh'],1,0,1,100.0
 rounden,['rounded'],1,0,1,100.0
-rounen,"['rownen', 'rouned', 'rowned', 'yrouned', 'rown', 'roune', 'rowne']",9,1,10,90.0
+rounen,"['rown', 'rouned', 'rowne', 'rownen', 'roune', 'yrouned', 'rowned']",9,1,10,90.0
 rubben,['rubbeth'],2,0,2,100.0
-rumbelen,"['rumbleth', 'rombled']",2,0,2,100.0
+rumbelen,"['rombled', 'rumbleth']",2,0,2,100.0
 rumbelinge,['rumblinge'],1,0,1,100.0
 rusen,['rused'],1,0,1,100.0
 rusten,['ruste'],2,0,2,100.0
 sakken,['sakked'],1,0,1,100.0
-saluen,"['saluwe', 'saluth', 'salewed', 'salue', 'saleweth']",8,0,8,100.0
+saluen,"['salue', 'salewed', 'saluth', 'saluwe', 'saleweth']",8,0,8,100.0
 saluinge,['saluing'],0,1,1,0.0
-saven,"['saved', 'save', 'saveth', 'saven']",63,0,63,100.0
+saven,"['save', 'saven', 'saved', 'saveth']",63,0,63,100.0
 savouren,['savour'],0,1,1,0.0
 scalden,['scalded'],1,0,1,100.0
 scateren,['scatered'],1,0,1,100.0
 sclaundren,['sclaundre'],1,0,1,100.0
 scoleien,['scoleye'],1,0,1,100.0
-scornen,"['scorne', 'scorneth', 'scorned', 'scornen']",7,0,7,100.0
+scornen,"['scornen', 'scorned', 'scorne', 'scorneth']",7,0,7,100.0
 scorninge,['scorning'],0,1,1,0.0
-sechen,"['seche', 'soghte', 'seke', 'seken', 'soght', 'seketh', 'soughten', 'sechen', 'soughte']",53,0,53,100.0
-seilen,"['seiled', 'yseiled', 'saileth', 'saile', 'saille']",7,1,8,87.5
+sechen,"['soghte', 'soght', 'seke', 'soughten', 'sechen', 'seketh', 'seche', 'seken', 'soughte']",53,0,53,100.0
+seilen,"['yseiled', 'seiled', 'saileth', 'saille', 'saile']",7,1,8,87.5
 seinge,['seinge'],1,0,1,100.0
 seisen,"['sese', 'sesed']",2,0,2,100.0
 selen,['seled'],1,0,1,100.0
@@ -943,103 +943,103 @@ serchen,['serchen'],1,0,1,100.0
 sermounen,['sermone'],1,0,1,100.0
 sermouninge,['sermoning'],0,2,2,0.0
 setlen,['ysatled'],1,0,1,100.0
-setten,"['setten', 'set', 'sette']",115,0,115,100.0
+setten,"['set', 'sette', 'setten']",115,0,115,100.0
 shadwen,['shadwed'],1,0,1,100.0
-shaken,"['shoken', 'shake', 'shaketh', 'shaken', 'shook']",12,0,12,100.0
-shamen,"['shamen', 'yshamed', 'shame', 'shamed']",4,0,4,100.0
-shapen,"['shoop', 'shape', 'shapen', 'shopen']",46,0,46,100.0
+shaken,"['shaketh', 'shake', 'shoken', 'shaken', 'shook']",12,0,12,100.0
+shamen,"['shamed', 'shamen', 'shame', 'yshamed']",4,0,4,100.0
+shapen,"['shape', 'shoop', 'shapen', 'shopen']",46,0,46,100.0
 sharpen,['sharpeth'],1,0,1,100.0
-shaven,"['yshave', 'shave']",5,0,5,100.0
+shaven,"['shave', 'yshave']",5,0,5,100.0
 shavinge,['shaving'],0,1,1,0.0
 sheden,['shedde'],1,0,1,100.0
-shelden,"['shelde', 'shilde']",12,0,12,100.0
-shenden,"['shenden', 'shent', 'shende', 'shente']",15,0,15,100.0
+shelden,"['shilde', 'shelde']",12,0,12,100.0
+shenden,"['shente', 'shenden', 'shende', 'shent']",15,0,15,100.0
 sheren,"['yshore', 'shorn']",2,0,2,100.0
 sheten,['shete'],1,0,1,100.0
 sheuinge,['shewinge'],1,0,1,100.0
 shiften,['shifte'],1,0,1,100.0
 shimeringe,['shimering'],0,1,1,0.0
-shinen,"['shine', 'shinen', 'shoon', 'shon', 'shineth']",28,2,30,93.33
+shinen,"['shine', 'shon', 'shinen', 'shineth', 'shoon']",28,2,30,93.33
 shininge,['shining'],0,1,1,0.0
 shitten,"['shetten', 'shette', 'shet']",15,1,16,93.75
 shiveren,['shiveren'],1,0,1,100.0
 shorten,['shorte'],3,0,3,100.0
 shouten,['shoute'],2,0,2,100.0
-shoutinge,"['showting', 'shouting', 'shoutinge']",1,2,3,33.33
-shouven,"['shoof', 'shove', 'shof']",4,0,4,100.0
+shoutinge,"['shouting', 'shoutinge', 'showting']",1,2,3,33.33
+shouven,"['shof', 'shove', 'shoof']",4,0,4,100.0
 shreden,['shredde'],1,0,1,100.0
-shreuen,"['shrewe', 'shrew']",6,0,6,100.0
+shreuen,"['shrew', 'shrewe']",6,0,6,100.0
 shrinen,['shrined'],1,0,1,100.0
 shrinken,['shrinke'],1,0,1,100.0
 shriven,"['shrive', 'shriven']",3,0,3,100.0
 siften,['sifted'],1,0,1,100.0
 sighen,['sighed'],1,0,1,100.0
-signifien,"['signifie', 'signified']",5,0,5,100.0
+signifien,"['signified', 'signifie']",5,0,5,100.0
 sikinge,['sikinge'],1,0,1,100.0
-singen,"['song', 'singen', 'singe', 'singeth', 'songe', 'ysonge', 'sing', 'sang', 'songen']",93,3,96,96.88
-singinge,"['singing', 'singinge']",1,3,4,25.0
-sinken,"['sinke', 'sinken', 'sonken']",11,0,11,100.0
+singen,"['singe', 'singen', 'songen', 'sing', 'singeth', 'song', 'sang', 'songe', 'ysonge']",93,3,96,96.88
+singinge,"['singinge', 'singing']",1,3,4,25.0
+sinken,"['sinken', 'sonken', 'sinke']",11,0,11,100.0
 sinnen,['sinne'],1,0,1,100.0
 sippen,['sippe'],1,0,1,100.0
-sitten,"['set', 'satte', 'sete', 'seten', 'sit', 'sitte', 'sat', 'sittest', 'seet', 'sitteth', 'sitten', 'sate']",123,2,125,98.4
+sitten,"['satte', 'sitte', 'sitteth', 'set', 'seet', 'sittest', 'sate', 'sat', 'seten', 'sitten', 'sete', 'sit']",123,2,125,98.4
 sittinge,['sitting'],0,4,4,0.0
-skippen,"['skippe', 'skipte']",4,0,4,100.0
-skriken,"['shright', 'shrighte', 'skriked']",5,1,6,83.33
-slen,"['sleeth', 'sleest', 'slaine', 'slen', 'yslain', 'sle', 'slain', 'slee', 'slawen', 'slawe', 'slowe', 'yslawe', 'slow', 'sleen', 'slough']",144,0,144,100.0
-slepen,"['sleep', 'slepten', 'slepen', 'slepeth', 'slepte', 'slepe', 'slept']",67,2,69,97.1
+skippen,"['skipte', 'skippe']",4,0,4,100.0
+skriken,"['shrighte', 'shright', 'skriked']",5,1,6,83.33
+slen,"['sle', 'slen', 'slain', 'slee', 'sleeth', 'slawen', 'yslawe', 'slow', 'sleen', 'slawe', 'yslain', 'slough', 'slaine', 'slowe', 'sleest']",144,0,144,100.0
+slepen,"['slepeth', 'sleep', 'slepte', 'slept', 'slepen', 'slepe', 'slepten']",67,2,69,97.1
 slepinge,"['slepinge', 'sleping']",2,2,4,50.0
 sliden,['slide'],4,0,4,100.0
 slingen,['slong'],1,0,1,100.0
 slinken,['slinke'],1,0,1,100.0
 slitten,['slitte'],1,0,1,100.0
 slomberinge,['slomberinge'],1,0,1,100.0
-smellen,"['smelle', 'smellest', 'smellen']",4,0,4,100.0
+smellen,"['smellest', 'smelle', 'smellen']",4,0,4,100.0
 smellinge,['smellinge'],1,0,1,100.0
-smerten,"['smerte', 'smerteth']",19,0,19,100.0
-smilen,"['smile', 'smiled', 'smilen']",8,0,8,100.0
+smerten,"['smerteth', 'smerte']",19,0,19,100.0
+smilen,"['smiled', 'smilen', 'smile']",8,0,8,100.0
 smilinge,['smiling'],0,1,1,0.0
-smiten,"['smoot', 'smite', 'smiteth', 'smit', 'smiten']",30,1,31,96.77
+smiten,"['smit', 'smite', 'smiteth', 'smiten', 'smoot']",30,1,31,96.77
 sneuen,['snewed'],1,0,1,100.0
 snibben,['snibben'],1,0,1,100.0
 sobbinge,['sobbinge'],1,0,1,100.0
 socouren,['socouren'],1,0,1,100.0
-sojournen,"['sojorneth', 'sojourne', 'sojurne', 'sojorne']",6,0,6,100.0
+sojournen,"['sojurne', 'sojorneth', 'sojorne', 'sojourne']",6,0,6,100.0
 solasen,['solace'],3,0,3,100.0
-somnen,"['somne', 'sompne', 'somoned']",3,0,3,100.0
-sorwen,"['sorwest', 'sorwed', 'sorweth', 'sorwen', 'sorwe']",10,0,10,100.0
+somnen,"['somoned', 'sompne', 'somne']",3,0,3,100.0
+sorwen,"['sorwe', 'sorwen', 'sorwed', 'sorweth', 'sorwest']",10,0,10,100.0
 sorwinge,['sorwinge'],1,0,1,100.0
-souken,"['souked', 'souke']",2,0,2,100.0
+souken,"['souke', 'souked']",2,0,2,100.0
 soulen,['sowled'],1,0,1,100.0
-sounen,"['souneth', 'sowne', 'soune', 'sounen', 'sownen', 'sowned', 'souned']",9,1,10,90.0
-sparen,"['spared', 'yspared', 'spare']",15,1,16,93.75
-speden,"['speede', 'spedde', 'spede', 'spedden', 'sped']",35,0,35,100.0
-speken,"['spoken', 'spekest', 'spoke', 'spak', 'spake', 'speke', 'spek', 'speketh', 'speken', 'spaken']",260,0,260,100.0
+sounen,"['sowne', 'sownen', 'sowned', 'souned', 'souneth', 'sounen', 'soune']",9,1,10,90.0
+sparen,"['spare', 'spared', 'yspared']",15,1,16,93.75
+speden,"['spedde', 'spedden', 'speede', 'sped', 'spede']",35,0,35,100.0
+speken,"['spek', 'spake', 'spoken', 'spekest', 'speketh', 'spaken', 'speken', 'spoke', 'spak', 'speke']",260,0,260,100.0
 spekinge,['speking'],0,3,3,0.0
-spenden,"['spenden', 'spent', 'spente', 'spende', 'spendeth']",19,0,19,100.0
+spenden,"['spendeth', 'spenden', 'spent', 'spente', 'spende']",19,0,19,100.0
 spillen,"['spilt', 'spille']",9,0,9,100.0
 spinnen,['sponne'],1,0,1,100.0
 spinninge,['spinning'],0,1,1,0.0
 spotten,['spotted'],1,0,1,100.0
 spousen,['spoused'],1,0,1,100.0
-spreden,"['spradde', 'sprad', 'spredeth', 'sprede', 'spreden']",10,0,10,100.0
+spreden,"['spredeth', 'spreden', 'spradde', 'sprad', 'sprede']",10,0,10,100.0
 sprengen,['spreind'],1,0,1,100.0
-springen,"['springeth', 'yspronge', 'springe', 'springen', 'sprong', 'sprang', 'spronge']",21,0,21,100.0
-spurnen,"['spurne', 'sporned', 'sporneth']",3,0,3,100.0
+springen,"['springeth', 'springen', 'spronge', 'yspronge', 'sprong', 'springe', 'sprang']",21,0,21,100.0
+spurnen,"['sporneth', 'sporned', 'spurne']",3,0,3,100.0
 squieren,['squiereth'],1,0,1,100.0
 stablishen,['stablissed'],1,0,1,100.0
 stalken,"['stalke', 'stalketh', 'stalked']",4,0,4,100.0
 stampen,['stampe'],1,0,1,100.0
 staren,['stare'],4,0,4,100.0
-stelen,"['stele', 'stale', 'staale', 'stelen', 'stole', 'stoln', 'stal']",25,0,25,100.0
+stelen,"['stoln', 'stelen', 'stal', 'stole', 'stele', 'staale', 'stale']",25,0,25,100.0
 stellifien,['stellifie'],2,0,2,100.0
 stemen,['stemed'],1,0,1,100.0
 steppen,['stapen'],1,0,1,100.0
-sterten,"['stirt', 'sterte', 'stirte', 'sterten', 'stert']",34,0,34,100.0
-sterven,"['starf', 'storven', 'sterven', 'sterve']",38,0,38,100.0
-stiken,"['stiketh', 'stak', 'stiked', 'ystiked']",4,0,4,100.0
-stingen,"['stinge', 'stongen', 'stingeth']",4,0,4,100.0
+sterten,"['stirt', 'stert', 'sterten', 'stirte', 'sterte']",34,0,34,100.0
+sterven,"['sterve', 'sterven', 'starf', 'storven']",38,0,38,100.0
+stiken,"['stiketh', 'stiked', 'stak', 'ystiked']",4,0,4,100.0
+stingen,"['stinge', 'stingeth', 'stongen']",4,0,4,100.0
 stinken,"['stinketh', 'stinken']",2,0,2,100.0
-stinten,"['stinte', 'stent', 'stinten', 'stente', 'stenten', 'stint', 'stinted']",45,0,45,100.0
+stinten,"['stenten', 'stinten', 'stent', 'stint', 'stinte', 'stinted', 'stente']",45,0,45,100.0
 stiren,"['stere', 'stired']",4,0,4,100.0
 stomblen,['stomblen'],1,0,1,100.0
 stoppen,"['stoppen', 'stopped']",3,0,3,100.0
@@ -1048,71 +1048,71 @@ stoupen,"['stoupeth', 'stoupe']",2,0,2,100.0
 stranglinge,['strangling'],0,1,1,0.0
 strecchen,"['streighte', 'strecche', 'straughte']",6,0,6,100.0
 stremen,['stremeden'],1,0,1,100.0
-strepen,"['strepeth', 'strepe', 'strepen']",7,0,7,100.0
+strepen,"['strepe', 'strepen', 'strepeth']",7,0,7,100.0
 streuen,['strawe'],1,0,1,100.0
 striken,['striken'],1,0,1,100.0
-striven,"['striveth', 'strive', 'stroof', 'strof']",9,0,9,100.0
+striven,"['strof', 'striveth', 'strive', 'stroof']",9,0,9,100.0
 strivinge,['striving'],0,2,2,0.0
-strogelen,"['strugle', 'strogelest']",3,0,3,100.0
+strogelen,"['strogelest', 'strugle']",3,0,3,100.0
 stroken,"['stroketh', 'stroke']",4,0,4,100.0
 strouten,['strouted'],1,0,1,100.0
 studien,"['studieth', 'studie']",3,0,3,100.0
 studiinge,['studying'],0,2,2,0.0
 subliminge,['subliming'],0,1,1,0.0
 succeden,"['succede', 'succedeth']",2,0,2,100.0
-sufferen,"['suffreth', 'ysuffred', 'suffrest', 'suffred', 'suffren', 'suffre']",44,1,45,97.78
-suffisen,"['sufficeth', 'suffiseth', 'suffisen', 'suffise', 'suffised']",35,0,35,100.0
+sufferen,"['suffred', 'ysuffred', 'suffre', 'suffreth', 'suffrest', 'suffren']",44,1,45,97.78
+suffisen,"['sufficeth', 'suffise', 'suffisen', 'suffised', 'suffiseth']",35,0,35,100.0
 sugren,['sucred'],1,0,1,100.0
-supposen,"['suppose', 'supposed']",11,0,11,100.0
+supposen,"['supposed', 'suppose']",11,0,11,100.0
 supposinge,"['supposinge', 'supposing']",1,1,2,50.0
-surmounten,"['sourmounteth', 'surmountede']",2,0,2,100.0
+surmounten,"['surmountede', 'sourmounteth']",2,0,2,100.0
 sustenen,['sustene'],6,0,6,100.0
-swappen,"['swappe', 'swapte']",3,0,3,100.0
+swappen,"['swapte', 'swappe']",3,0,3,100.0
 swarmen,['swarmeth'],1,0,1,100.0
-swellen,"['swal', 'swelleth', 'swelle']",5,0,5,100.0
+swellen,"['swelle', 'swal', 'swelleth']",5,0,5,100.0
 swelten,['swelte'],4,0,4,100.0
-swepen,"['ysweped', 'sweep', 'swepe']",2,1,3,66.67
-sweren,"['swoor', 'swore', 'sworen', 'ysworn', 'swereth', 'swer', 'swere', 'yswore', 'swor', 'sworn']",75,2,77,97.4
+swepen,"['swepe', 'ysweped', 'sweep']",2,1,3,66.67
+sweren,"['swere', 'swoor', 'swor', 'ysworn', 'sworen', 'sworn', 'swore', 'swer', 'yswore', 'swereth']",75,2,77,97.4
 sweringe,['swering'],0,6,6,0.0
-swimmen,"['swimme', 'swimmen', 'swommen']",4,0,4,100.0
-swinken,"['swonken', 'swinken', 'swinke']",9,0,9,100.0
-swiven,"['swive', 'swived']",5,0,5,100.0
-swolwen,"['swelwe', 'swalowe']",2,0,2,100.0
+swimmen,"['swommen', 'swimmen', 'swimme']",4,0,4,100.0
+swinken,"['swinken', 'swinke', 'swonken']",9,0,9,100.0
+swiven,"['swived', 'swive']",5,0,5,100.0
+swolwen,"['swalowe', 'swelwe']",2,0,2,100.0
 swounen,"['swowned', 'swowneth', 'swouned']",8,0,8,100.0
-swouninge,"['swowning', 'swowninge']",1,2,3,33.33
-taken,"['tok', 'tooke', 'took', 'taa', 'tak', 'taketh', 'taken', 'toke', 'i', 'take', 'taak']",261,4,265,98.49
-talen,"['tale', 'talen']",3,0,3,100.0
+swouninge,"['swowninge', 'swowning']",1,2,3,33.33
+taken,"['i', 'tok', 'tooke', 'toke', 'take', 'tak', 'taken', 'taak', 'taa', 'taketh', 'took']",261,4,265,98.49
+talen,"['talen', 'tale']",3,0,3,100.0
 talken,['talke'],1,0,1,100.0
 tapeten,['tapite'],1,0,1,100.0
 tasten,['tasted'],1,0,1,100.0
-techen,"['taught', 'techeth', 'teche', 'taughte', 'techen']",46,0,46,100.0
+techen,"['taughte', 'techen', 'taught', 'teche', 'techeth']",46,0,46,100.0
 techinge,['teching'],0,1,1,0.0
 teien,['yteid'],1,0,1,100.0
-tellen,"['tell', 'telles', 'tolden', 'ytolde', 'tald', 'telle', 'told', 'telleth', 'tel', 'tolde', 'tellen']",443,13,456,97.15
+tellen,"['telles', 'tolde', 'telle', 'told', 'tellen', 'telleth', 'tald', 'tel', 'tolden', 'ytolde', 'tell']",443,13,456,97.15
 tempren,"['tempreth', 'tempred']",3,0,3,100.0
-tempten,"['tempted', 'tempte', 'tempteth']",9,0,9,100.0
+tempten,"['tempte', 'tempted', 'tempteth']",9,0,9,100.0
 terminen,['termine'],1,0,1,100.0
 thakken,"['thakked', 'thakketh']",2,0,2,100.0
-thanken,"['thonken', 'thanketh', 'ythanked', 'thanken', 'thonke', 'thanked', 'thank', 'thonked', 'thanke', 'thonketh', 'ythonked']",49,0,49,100.0
+thanken,"['thanketh', 'thanke', 'ythanked', 'thonken', 'thanken', 'thonked', 'thonke', 'thonketh', 'thank', 'thanked', 'ythonked']",49,0,49,100.0
 then,['thee'],12,0,12,100.0
 thirlen,['thirled'],2,0,2,100.0
-thirsten,"['thursteth', 'thursted']",2,0,2,100.0
+thirsten,"['thursted', 'thursteth']",2,0,2,100.0
 tholen,['tholed'],1,0,1,100.0
 thrallen,"['thrallen', 'thralle']",2,0,2,100.0
 threpen,['threpe'],1,0,1,100.0
 threshen,['thresshe'],1,0,1,100.0
-thresten,"['thraste', 'thriste', 'threste']",6,0,6,100.0
-thringen,"['throng', 'thringe']",2,0,2,100.0
+thresten,"['thriste', 'thraste', 'threste']",6,0,6,100.0
+thringen,"['thringe', 'throng']",2,0,2,100.0
 thriven,"['thrive', 'thriven']",20,0,20,100.0
 thurven,"['dorste', 'thar']",8,0,8,100.0
 thwiten,['thwite'],1,0,1,100.0
-tiden,"['tit', 'tides', 'tid']",6,0,6,100.0
+tiden,"['tides', 'tit', 'tid']",6,0,6,100.0
 tikelen,['tikleth'],1,0,1,100.0
-tirven,"['terved', 'terve']",2,0,2,100.0
+tirven,"['terve', 'terved']",2,0,2,100.0
 titering,['titering'],0,1,1,0.0
 to-shiveren,['toshivered'],1,0,1,100.0
-tobreken,"['tobroke', 'tobreketh']",3,0,3,100.0
-tobresten,"['tobreste', 'tobrosten']",4,0,4,100.0
+tobreken,"['tobreketh', 'tobroke']",3,0,3,100.0
+tobresten,"['tobrosten', 'tobreste']",4,0,4,100.0
 tocleven,['tocleve'],1,0,1,100.0
 todashen,['todasshed'],1,0,1,100.0
 toheuen,['tohewen'],2,0,2,100.0
@@ -1120,14 +1120,14 @@ tokninge,"['tokning', 'tokening', 'tokninge']",1,3,4,25.0
 tomelten,['tomelte'],1,0,1,100.0
 torasen,['torace'],1,0,1,100.0
 torenden,"['torent', 'torente', 'torende']",7,0,7,100.0
-tormenten,"['tormenteth', 'tormente']",2,0,2,100.0
+tormenten,"['tormente', 'tormenteth']",2,0,2,100.0
 tormentinge,['tormentinge'],1,0,1,100.0
 toscateren,['toscatered'],1,0,1,100.0
 toshreden,['toshrede'],1,0,1,100.0
 tosterten,['tosterte'],1,0,1,100.0
 toteren,['totere'],1,0,1,100.0
-touchen,"['toucheth', 'touched', 'touchen', 'touchede', 'touche', 'touch']",13,1,14,92.86
-tourneiinge,"['turneyinge', 'tourneyinge']",2,0,2,100.0
+touchen,"['touchen', 'touched', 'touche', 'toucheth', 'touch', 'touchede']",13,1,14,92.86
+tourneiinge,"['tourneyinge', 'turneyinge']",2,0,2,100.0
 tracen,['trace'],1,0,1,100.0
 transfiguren,['transfigure'],1,0,1,100.0
 translaten,['translated'],1,0,1,100.0
@@ -1137,16 +1137,16 @@ trespassen,"['trespace', 'trespasse']",4,0,4,100.0
 treten,"['trete', 'treten']",13,0,13,100.0
 triklen,['trikled'],0,1,1,0.0
 trippen,['trippe'],2,0,2,100.0
-trompen,"['tromped', 'trumpen', 'trumpe']",5,0,5,100.0
+trompen,"['trumpe', 'tromped', 'trumpen']",5,0,5,100.0
 trotten,['trotteth'],1,0,1,100.0
 troublen,['troublen'],1,0,1,100.0
-trouen,"['trowen', 'trowed', 'troweth', 'trowe', 'trow', 'trowest']",79,2,81,97.53
+trouen,"['troweth', 'trowe', 'trowed', 'trowest', 'trowen', 'trow']",79,2,81,97.53
 trussen,['trussed'],1,0,1,100.0
-trusten,"['triste', 'trusted', 'truste', 'trusten', 'tristest']",20,0,20,100.0
+trusten,"['tristest', 'triste', 'trusten', 'trusted', 'truste']",20,0,20,100.0
 tuken,['tukked'],1,0,1,100.0
-turnen,"['turned', 'torned', 'tourned', 'turneth', 'tornest', 'yturned', 'tornen', 'turnede', 'tourne', 'tornede', 'torne', 'turne', 'turnen', 'torneth']",59,1,60,98.33
-turninge,"['turninge', 'turning']",1,1,2,50.0
-twicchen,"['twight', 'twighte']",3,0,3,100.0
+turnen,"['torneth', 'turnen', 'turnede', 'yturned', 'turneth', 'turned', 'turne', 'tornede', 'tornen', 'torned', 'tourned', 'tourne', 'torne', 'tornest']",59,1,60,98.33
+turninge,"['turning', 'turninge']",1,1,2,50.0
+twicchen,"['twighte', 'twight']",3,0,3,100.0
 twinen,['twine'],1,0,1,100.0
 twinklen,['twinkled'],0,1,1,0.0
 twisten,"['twiste', 'twist']",7,0,7,100.0
@@ -1155,19 +1155,19 @@ unbirien,['unburied'],1,0,1,100.0
 uncouplinge,['uncouplinge'],1,0,1,100.0
 undernimen,['undernom'],1,0,1,100.0
 undersporen,['underspore'],1,0,1,100.0
-understonden,"['understonde', 'understood', 'understode', 'understoode', 'understondeth']",31,0,31,100.0
+understonden,"['understondeth', 'understonde', 'understood', 'understoode', 'understode']",31,0,31,100.0
 understondinge,"['understondinge', 'understonding']",1,1,2,50.0
-undertaken,"['undertake', 'undertak', 'undertaketh']",15,1,16,93.75
-undon,"['undoth', 'undon', 'undide']",2,1,3,66.67
+undertaken,"['undertak', 'undertaketh', 'undertake']",15,1,16,93.75
+undon,"['undide', 'undoth', 'undon']",2,1,3,66.67
 unfeteren,['unfettre'],1,0,1,100.0
 unhorsen,['unhorsed'],1,0,1,100.0
-unknouen,"['unknowe', 'unknowen']",5,0,5,100.0
+unknouen,"['unknowen', 'unknowe']",5,0,5,100.0
 unshethen,['unshethe'],1,0,1,100.0
 unshitten,['unshette'],1,0,1,100.0
 unswellen,['unswelle'],2,0,2,100.0
 unwreien,['unwrie'],1,0,1,100.0
-usen,"['use', 'usen', 'useth', 'used']",19,2,21,90.48
-vanishen,"['vanisshed', 'vanish', 'vanishe']",4,0,4,100.0
+usen,"['use', 'useth', 'usen', 'used']",19,2,21,90.48
+vanishen,"['vanish', 'vanisshed', 'vanishe']",4,0,4,100.0
 vanishinge,['vanisshinge'],1,0,1,100.0
 varien,['varie'],1,0,1,100.0
 venquishen,['venquisseth'],1,0,1,100.0
@@ -1184,86 +1184,86 @@ vouchen_sauf,['vouchesauf'],1,2,3,33.33
 waden,"['waden', 'wade']",3,0,3,100.0
 waggen,['wagges'],1,0,1,100.0
 wagginge,['wagginge'],1,0,1,100.0
-waimentinge,"['waimenting', 'waimentinge', 'weimentinge']",2,1,3,66.67
-waiten,"['waited', 'waiten', 'waite', 'waitede', 'waiteth']",14,0,14,100.0
+waimentinge,"['waimenting', 'weimentinge', 'waimentinge']",2,1,3,66.67
+waiten,"['waite', 'waiten', 'waiteth', 'waited', 'waitede']",14,0,14,100.0
 waitinge,['waiting'],0,1,1,0.0
-waken,"['wook', 'waked', 'waketh', 'wake']",23,0,23,100.0
+waken,"['waketh', 'wake', 'wook', 'waked']",23,0,23,100.0
 wakinge,['wakinge'],1,0,1,100.0
 waknen,['wakned'],1,0,1,100.0
 walkinge,"['walkinge', 'walking']",1,2,3,33.33
-walwen,"['walweth', 'walwe']",4,0,4,100.0
-wanen,"['wanie', 'wane']",4,0,4,100.0
+walwen,"['walwe', 'walweth']",4,0,4,100.0
+wanen,"['wane', 'wanie']",4,0,4,100.0
 wanten,"['wanteth', 'wante']",2,0,2,100.0
 wantinge,['wanting'],0,1,1,0.0
 waranten,['warante'],1,0,1,100.0
 warien,"['warie', 'warien']",2,0,2,100.0
-warishen,"['warice', 'warisshed', 'warished']",5,0,5,100.0
+warishen,"['warisshed', 'warice', 'warished']",5,0,5,100.0
 warmen,['warmen'],1,0,1,100.0
 washen,"['wesshen', 'wessh', 'wasshen']",3,0,3,100.0
-wasten,"['wasten', 'wasted', 'wasteth']",8,0,8,100.0
+wasten,"['wasteth', 'wasted', 'wasten']",8,0,8,100.0
 watringe,['watering'],0,1,1,0.0
-wedden,"['wed', 'wedden', 'wedde', 'wedded', 'ywedded', 'weddede']",51,1,52,98.08
+wedden,"['wed', 'weddede', 'ywedded', 'wedde', 'wedded', 'wedden']",51,1,52,98.08
 weddinge,"['wedding', 'weddinge']",2,10,12,16.67
 weiken,['waiken'],1,0,1,100.0
-weilen,"['wailleth', 'waille', 'waile', 'waileth', 'wailed', 'wailest']",11,0,11,100.0
-welden,"['welde', 'welte', 'welden']",4,0,4,100.0
+weilen,"['wailleth', 'wailed', 'waile', 'waille', 'waileth', 'wailest']",11,0,11,100.0
+welden,"['welte', 'welden', 'welde']",4,0,4,100.0
 wellen,['welle'],2,0,2,100.0
-wenden,"['wenden', 'i', 'wente', 'wendeth', 'went', 'wendest', 'wende', 'wenten']",208,1,209,99.52
+wenden,"['i', 'wenten', 'wendest', 'went', 'wende', 'wendeth', 'wente', 'wenden']",208,1,209,99.52
 wendinge,['wending'],0,3,3,0.0
 weninge,['weninge'],1,0,1,100.0
-wepen,"['wepte', 'weep', 'wept', 'wepen', 'wepeth', 'weepe', 'wepe', 'wepten', 'wopen']",76,0,76,100.0
+wepen,"['wepen', 'weep', 'wopen', 'wepten', 'wepe', 'wepeth', 'wept', 'wepte', 'weepe']",76,0,76,100.0
 wepinge,"['weping', 'wepinge']",2,10,12,16.67
 werien,['werieth'],1,0,1,100.0
-werken,"['wroghte', 'werche', 'worcheth', 'wroughten', 'werken', 'werchen', 'wroght', 'werkes', 'wrought', 'wirche', 'werke', 'wroghten', 'wroughte']",77,1,78,98.72
+werken,"['wroghte', 'wirche', 'wroght', 'werche', 'werken', 'worcheth', 'wroughten', 'wroughte', 'werchen', 'wroghten', 'werkes', 'wrought', 'werke']",77,1,78,98.72
 werkinge,"['werking', 'werkinge', 'wirking']",1,6,7,14.29
-wernen,"['werned', 'werne']",5,0,5,100.0
-werreien,"['werreied', 'werreien', 'werreyed', 'werreie']",5,0,5,100.0
+wernen,"['werne', 'werned']",5,0,5,100.0
+werreien,"['werreien', 'werreyed', 'werreied', 'werreie']",5,0,5,100.0
 westren,['westren'],1,0,1,100.0
-weten,"['wette', 'ywet', 'wete']",4,0,4,100.0
+weten,"['ywet', 'wete', 'wette']",4,0,4,100.0
 whinen,['whine'],1,0,1,100.0
-whirlen,"['whirleth', 'whirle']",2,0,2,100.0
+whirlen,"['whirle', 'whirleth']",2,0,2,100.0
 whispering,['whispringe'],1,0,1,100.0
 whistlinge,['whistelinge'],1,0,1,100.0
 whiten,['whiten'],1,0,1,100.0
-willen,"['willeth', 'wol', 'wille', 'woldest', 'wolen', 'wil', 'wold', 'wolt', 'wolde', 'wole', 'wilt', 'wolden']",1029,94,1123,91.63
+willen,"['wolen', 'willeth', 'wol', 'wolt', 'wolde', 'woldest', 'wole', 'wilt', 'wille', 'wold', 'wolden', 'wil']",1029,94,1123,91.63
 willinge,['willing'],0,1,1,0.0
-wilnen,"['wilneth', 'wilnest', 'wilne', 'wilned', 'wilnen']",9,0,9,100.0
+wilnen,"['wilned', 'wilnen', 'wilne', 'wilneth', 'wilnest']",9,0,9,100.0
 win-yevinge,['winyeving'],0,1,1,0.0
-winken,"['winketh', 'winke']",7,0,7,100.0
-winnen,"['wonnen', 'winne', 'wan', 'wanne', 'win', 'wonne', 'winnen']",67,2,69,97.1
-wipen,"['wipe', 'wipen', 'wiped']",3,0,3,100.0
+winken,"['winke', 'winketh']",7,0,7,100.0
+winnen,"['winnen', 'wonne', 'wanne', 'win', 'winne', 'wonnen', 'wan']",67,2,69,97.1
+wipen,"['wipen', 'wipe', 'wiped']",3,0,3,100.0
 wissen,['wisse'],5,0,5,100.0
 withdrauen,['withdrawe'],2,0,2,100.0
 withholden,['withholde'],3,0,3,100.0
-withseien,"['withseye', 'withseyn', 'withseide']",4,1,5,80.0
-withstonden,"['withstandeth', 'withstonde', 'withstode']",9,0,9,100.0
+withseien,"['withseide', 'withseye', 'withseyn']",4,1,5,80.0
+withstonden,"['withstonde', 'withstode', 'withstandeth']",9,0,9,100.0
 witnessen,['witnessen'],1,0,1,100.0
 witnessinge,['witnessing'],0,1,1,0.0
 wiven,['wive'],2,0,2,100.0
 wlispen,['lipsed'],1,0,1,100.0
-wondren,"['wondred', 'wondren', 'wondreth', 'wondre', 'wondreden']",19,2,21,90.48
-wondringe,"['wondring', 'wonderinge']",1,2,3,33.33
+wondren,"['wondreth', 'wondred', 'wondre', 'wondreden', 'wondren']",19,2,21,90.48
+wondringe,"['wonderinge', 'wondring']",1,2,3,33.33
 worshipen,['worshipe'],3,0,3,100.0
-worthen,"['worthe', 'worth', 'worthen']",9,0,9,100.0
+worthen,"['worth', 'worthe', 'worthen']",9,0,9,100.0
 wouen,"['wowe', 'woweth']",4,0,4,100.0
-wounden,"['wounde', 'wounded']",6,0,6,100.0
+wounden,"['wounded', 'wounde']",6,0,6,100.0
 wrappen,"['wrappe', 'wrapped']",4,0,4,100.0
 wreien,['wreye'],3,0,3,100.0
-wreken,"['wrak', 'wreke', 'wreken', 'ywroke', 'wroken']",13,0,13,100.0
+wreken,"['ywroke', 'wreken', 'wroken', 'wreke', 'wrak']",13,0,13,100.0
 wresten,['wreste'],1,0,1,100.0
-wrestlen,"['wrastlen', 'wrastle', 'wrastleth']",3,0,3,100.0
+wrestlen,"['wrastle', 'wrastleth', 'wrastlen']",3,0,3,100.0
 wrestling,"['wrastling', 'wrastlinge']",1,2,3,33.33
-wringen,"['wringe', 'wrong', 'wringeth']",9,0,9,100.0
-writen,"['write', 'ywriten', 'writest', 'wrot', 'ywrite', 'written', 'writ', 'writeth', 'wroot', 'writen']",92,0,92,100.0
-writhen,"['writhen', 'writhe']",2,0,2,100.0
+wringen,"['wringeth', 'wrong', 'wringe']",9,0,9,100.0
+writen,"['ywrite', 'writ', 'writest', 'wrot', 'ywriten', 'writen', 'wroot', 'write', 'writeth', 'written']",92,0,92,100.0
+writhen,"['writhe', 'writhen']",2,0,2,100.0
 writhing,['writhing'],0,1,1,0.0
-writinge,"['writing', 'writinge']",1,3,4,25.0
+writinge,"['writinge', 'writing']",1,3,4,25.0
 yeden,"['yeden', 'yede']",4,0,4,100.0
-yelden,"['yelde', 'yelden', 'yelt', 'yolden']",10,0,10,100.0
+yelden,"['yelt', 'yolden', 'yelden', 'yelde']",10,0,10,100.0
 yelding,['yeldinge'],1,0,1,100.0
-yellen,"['yolle', 'yelleden']",2,0,2,100.0
+yellen,"['yelleden', 'yolle']",2,0,2,100.0
 yelpen,['yelpe'],2,0,2,100.0
 yernen,['yerne'],3,0,3,100.0
-yeven,"['give', 'yif', 'yevest', 'yaven', 'gaf', 'yaf', 'yeven', 'yiven', 'yave', 'yeve', 'yeveth', 'yiveth', 'iyive', 'yive']",168,2,170,98.82
+yeven,"['give', 'yaven', 'yeveth', 'yif', 'yaf', 'yeve', 'gaf', 'yiveth', 'iyive', 'yiven', 'yevest', 'yive', 'yeven', 'yave']",168,2,170,98.82
 yexen,['yexeth'],1,0,1,100.0
 yicchen,['icched'],1,0,1,100.0

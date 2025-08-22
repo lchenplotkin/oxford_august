@@ -18,5 +18,6 @@ Files generated in this directory:
 - riverside_monosyllabic_adjectives.csv - Monosyllabic adjectives found
 - riverside_always_e_adjectives.csv - Adjectives that always end in -e
 - riverside_analysis_summary.docx - Summary statistics document
-- riverside_declension_exceptions.docx - Detailed exception examples
+- riverside_weak_plural_exceptions.docx - Weak & plural declension exceptions
+- riverside_strong_exceptions.docx - Strong form exceptions (filtered)
 - riverside_analysis_log.txt - This log file

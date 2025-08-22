@@ -1,83 +1,83 @@
 headword,word,line_number,filename,context,is_elided,is_final,text_type
-lik,like,Book of the Duchess 1085,data/oxford_txts/BD_oxford.txt,"She was as good, and nothing like",False,True,OXFORD
-loue,lowe,Parliament of Fowls 601,data/oxford_txts/PF_oxford.txt,Thy kind is of so lowe a wrechednesse,True,False,OXFORD
-warm,warme,Book of the Duchess 491,data/oxford_txts/BD_oxford.txt,"Doun to his hert, to make him warme—",False,True,OXFORD
-bright,brighte,Book of the Duchess 950,data/oxford_txts/BD_oxford.txt,"She was bothe faire and brighte,°",False,True,OXFORD
-strong,stronge,The Clerk's Tale 1196,data/oxford_txts/ClT_oxford.txt,Sin° ye be stronge as is a greet camaille;°,True,False,OXFORD
-lef,lefe,House of Fame 1827,data/oxford_txts/HF_oxford.txt,"And seiden: “Lady, lefe° and dere",True,False,OXFORD
-hard,harde,The Clerk's Tale 228,data/oxford_txts/ClT_oxford.txt,And made hir bed ful harde and nothing softe;,True,False,OXFORD
-warm,warme,The Merchant's Tale 2117,data/oxford_txts/MerT_oxford.txt,"In warme wex° hath emprented° the cliket,°",False,False,OXFORD
-yong,yonge,Book of the Duchess 1090,data/oxford_txts/BD_oxford.txt,"I was right yonge, soth to say",False,False,OXFORD
-wroth,wrothe,Book of the Duchess 519,data/oxford_txts/BD_oxford.txt,"He saide, “I prey thee, be not wrothe",False,True,OXFORD
-wroth,wrothe,Book of the Duchess 1190,data/oxford_txts/BD_oxford.txt,I am adred she wol be wrothe;,False,True,OXFORD
-prive,prive,Book of the Duchess 382,data/oxford_txts/BD_oxford.txt,Fro al the hounds a prive° way.,False,False,OXFORD
+sharp,sharpe,Troilus and Criseyde; Book V 1269,data/oxford_txts/TC5_oxford.txt,I fele now so sharpe a newe peine,True,False,OXFORD
 wel,wele,Book of the Duchess 643,data/oxford_txts/BD_oxford.txt,"That is ay fals, and semeth wele",False,True,OXFORD
-long,longe,House of Fame 1601,data/oxford_txts/HF_oxford.txt,In al the welken° longe and brode.,True,False,OXFORD
-dul,dulle,Parliament of Fowls 162,data/oxford_txts/PF_oxford.txt,"But natheles, although that thou be dulle",False,True,OXFORD
-olde,olde,House of Fame 995,data/oxford_txts/HF_oxford.txt,“And why?” “For I am now to olde.”,False,True,OXFORD
-red,rede,Book of the Duchess 1215,data/oxford_txts/BD_oxford.txt,Ful ofte I wex both pale and rede;°,False,True,OXFORD
-fals,false,Book of the Duchess 734,data/oxford_txts/BD_oxford.txt,Was false whiche° a fool she was!,False,False,OXFORD
-fair,faire,Troilus and Criseyde; Book II 224,data/oxford_txts/TC2_oxford.txt,Sith yow is tid thus faire an aventure?”,True,False,OXFORD
-brod,brode,House of Fame 1601,data/oxford_txts/HF_oxford.txt,In al the welken° longe and brode.,False,True,OXFORD
-sik,seke,Book of the Duchess 557,data/oxford_txts/BD_oxford.txt,That semeth ful seke° under your side.”,True,False,OXFORD
-cler,clere,House of Fame 1482,data/oxford_txts/HF_oxford.txt,That was of tinned iren° clere,False,True,OXFORD
-hard,harde,The General Prologue 229,data/oxford_txts/GP_oxford.txt,For many a man so harde is of his herte,True,False,OXFORD
-ware,ware,Book of the Duchess 1030,data/oxford_txts/BD_oxford.txt,"And seye, “Sir, be now right ware°",False,True,OXFORD
-ful,fulle,House of Fame 1351,data/oxford_txts/HF_oxford.txt,Fulle of the finest stones° faire,True,False,OXFORD
-wod,woode,House of Fame 202,data/oxford_txts/HF_oxford.txt,"Renne and crie, as thou were woode,°",False,True,OXFORD
-overt,overte,House of Fame 718,data/oxford_txts/HF_oxford.txt,"The weye therto is so overte,°",False,True,OXFORD
-wroth,wrothe,Book of the Duchess 513,data/oxford_txts/BD_oxford.txt,Were for his sorwes never so wrothe.°,False,True,OXFORD
-fresh,fresshe,The Clerk's Tale 1173,data/oxford_txts/ClT_oxford.txt,I wol with lusty° herte fresshe and grene,True,False,OXFORD
-gret,grete,Book of the Duchess 947,data/oxford_txts/BD_oxford.txt,"Of good gretnesse,° and noght to grete.",False,True,OXFORD
-rounde,rounde,Book of the Duchess 946,data/oxford_txts/BD_oxford.txt,"Semed a rounde toure of ivoire,°",False,False,OXFORD
-right,righte,Book of the Duchess 949,data/oxford_txts/BD_oxford.txt,That was my lady name righte.,False,True,OXFORD
-olde,olde,The Wife of Bath's Tale 1063,data/oxford_txts/WBT_oxford.txt,"For thogh that I be foul, and olde, and pore",True,False,OXFORD
-ded,dede,Book of the Duchess 204,data/oxford_txts/BD_oxford.txt,"For certes, swete, I am but dede;",False,True,OXFORD
-worth,worthe,Book of the Duchess 671,data/oxford_txts/BD_oxford.txt,I hold that wish nat worthe a stre!°,True,False,OXFORD
+sore,sore,Troilus and Criseyde; Book III 1421,data/oxford_txts/TC3_oxford.txt,"With herte sore, to Troilus thus seide:—",False,False,OXFORD
+warm,warme,Book of the Duchess 491,data/oxford_txts/BD_oxford.txt,"Doun to his hert, to make him warme—",False,True,OXFORD
 god,goode,Book of the Duchess 803,data/oxford_txts/BD_oxford.txt,Al° were to me yliche° goode,False,True,OXFORD
-ouen,owene,Troilus and Criseyde; Book II 784,data/oxford_txts/TC2_oxford.txt,"Our wreche is this, our owene wo to drinke.",False,False,OXFORD
-ded,dede,Book of the Duchess 1202,data/oxford_txts/BD_oxford.txt,I most have tolde hir or be dede.,False,True,OXFORD
+sharp,sharpe,The General Prologue 352,data/oxford_txts/GP_oxford.txt,"Poinaunt and sharpe, and redy al his gere.",True,False,OXFORD
+wise,wise,The Wife of Bath's Prologue 231,data/oxford_txts/WBPro_oxford.txt,"A wise wif, if that she can hir good,°",False,False,OXFORD
 long,longe,Book of the Duchess 952,data/oxford_txts/BD_oxford.txt,"Right faire shuldres, and body longe°",False,True,OXFORD
-fresh,fresshe,The Wife of Bath's Tale 1259,data/oxford_txts/WBT_oxford.txt,"Housbondes meke, yonge, and fresshe abedde",True,False,OXFORD
+lef,lefe,House of Fame 1827,data/oxford_txts/HF_oxford.txt,"And seiden: “Lady, lefe° and dere",True,False,OXFORD
+ouen,owne,Troilus and Criseyde; Book III 915,data/oxford_txts/TC3_oxford.txt,Ye knowe eek how it is your owne knight,False,False,OXFORD
 ful,fulle,House of Fame 1834,data/oxford_txts/HF_oxford.txt,And fulle of vice and wikked thewes;°,True,False,OXFORD
+strong,stronge,The Clerk's Tale 1196,data/oxford_txts/ClT_oxford.txt,Sin° ye be stronge as is a greet camaille;°,True,False,OXFORD
+long,longe,House of Fame 1601,data/oxford_txts/HF_oxford.txt,In al the welken° longe and brode.,True,False,OXFORD
+gret,grete,Book of the Duchess 947,data/oxford_txts/BD_oxford.txt,"Of good gretnesse,° and noght to grete.",False,True,OXFORD
+blak,blake,House of Fame 1671,data/oxford_txts/HF_oxford.txt,"Thou Eolus, that is so blake;",False,True,OXFORD
+ouen,owene,Troilus and Criseyde; Book II 784,data/oxford_txts/TC2_oxford.txt,"Our wreche is this, our owene wo to drinke.",False,False,OXFORD
+derk,derke,Book of the Duchess 170,data/oxford_txts/BD_oxford.txt,¶This cave was also as derke,False,True,OXFORD
+brod,brode,House of Fame 1601,data/oxford_txts/HF_oxford.txt,In al the welken° longe and brode.,False,True,OXFORD
+hard,harde,The Clerk's Tale 228,data/oxford_txts/ClT_oxford.txt,And made hir bed ful harde and nothing softe;,True,False,OXFORD
+olde,olde,House of Fame 995,data/oxford_txts/HF_oxford.txt,“And why?” “For I am now to olde.”,False,True,OXFORD
+lik,like,Book of the Duchess 1085,data/oxford_txts/BD_oxford.txt,"She was as good, and nothing like",False,True,OXFORD
+whit,white,The Knight's Tale 1659,data/oxford_txts/KnT_oxford.txt,That frothen° white as foom for ire wood.°,True,False,OXFORD
+wroth,wrothe,Book of the Duchess 519,data/oxford_txts/BD_oxford.txt,"He saide, “I prey thee, be not wrothe",False,True,OXFORD
+fin,fine,House of Fame 1431,data/oxford_txts/HF_oxford.txt,That was of lede° and iren° fine,False,True,OXFORD
+fair,faire,Book of the Duchess 339,data/oxford_txts/BD_oxford.txt,And eek the welken° was so faire,False,True,OXFORD
+loue,lowe,Parliament of Fowls 601,data/oxford_txts/PF_oxford.txt,Thy kind is of so lowe a wrechednesse,True,False,OXFORD
+right,righte,Book of the Duchess 949,data/oxford_txts/BD_oxford.txt,That was my lady name righte.,False,True,OXFORD
+hard,harde,House of Fame 118,data/oxford_txts/HF_oxford.txt,To make lithe° of that° was harde.,False,True,OXFORD
+fair,faire,Troilus and Criseyde; Book III 411,data/oxford_txts/TC3_oxford.txt,Be she never so faire or wel yshape,True,False,OXFORD
+gret,grete,Troilus and Criseyde; Book II 987,data/oxford_txts/TC2_oxford.txt,In grete disese abideth for the peine.”,False,False,OXFORD
+fresh,fresshe,The Wife of Bath's Tale 1259,data/oxford_txts/WBT_oxford.txt,"Housbondes meke, yonge, and fresshe abedde",True,False,OXFORD
+gret,grete,House of Fame 2141,data/oxford_txts/HF_oxford.txt,I herde a grete noise withalle,False,False,OXFORD
+hot,hote,The Miller's Tale 3379,data/oxford_txts/MilT_oxford.txt,"And wafres,° piping hote out of the glede;°",True,False,OXFORD
+sik,seke,Book of the Duchess 557,data/oxford_txts/BD_oxford.txt,That semeth ful seke° under your side.”,True,False,OXFORD
+fals,false,Book of the Duchess 734,data/oxford_txts/BD_oxford.txt,Was false whiche° a fool she was!,False,False,OXFORD
+fals,false,The Pardoner's Tale 632,data/oxford_txts/PardT_oxford.txt,And false swering is yet more reprevable.°,False,False,OXFORD
+yong,yonge,Book of the Duchess 1090,data/oxford_txts/BD_oxford.txt,"I was right yonge, soth to say",False,False,OXFORD
+fresh,fresshe,Troilus and Criseyde; Book V 844,data/oxford_txts/TC5_oxford.txt,"This Diomede, as fresshe as braunche in May",True,False,OXFORD
+god,goode,Book of the Duchess 766,data/oxford_txts/BD_oxford.txt,To love hooly with goode entente,True,False,OXFORD
+fair,faire,Book of the Duchess 950,data/oxford_txts/BD_oxford.txt,"She was bothe faire and brighte,°",True,False,OXFORD
+ded,dede,House of Fame 1876,data/oxford_txts/HF_oxford.txt,"Sufficeth me, as I were dede",False,True,OXFORD
+fair,faire,Troilus and Criseyde; Book II 224,data/oxford_txts/TC2_oxford.txt,Sith yow is tid thus faire an aventure?”,True,False,OXFORD
 fair,faire,House of Fame 767,data/oxford_txts/HF_oxford.txt,"Loud or privee, foul or faire",False,True,OXFORD
-whit,white,Book of the Duchess 780,data/oxford_txts/BD_oxford.txt,As a white walle or a table;,False,False,OXFORD
+warm,warme,The Merchant's Tale 2117,data/oxford_txts/MerT_oxford.txt,"In warme wex° hath emprented° the cliket,°",False,False,OXFORD
+fair,faire,Book of the Duchess 1180,data/oxford_txts/BD_oxford.txt,"My lady, that is so faire and bright!”—",True,False,OXFORD
+bright,brighte,Book of the Duchess 821,data/oxford_txts/BD_oxford.txt,That as the sommers sonne brighte,False,True,OXFORD
+sharp,sharpe,The General Prologue 114,data/oxford_txts/GP_oxford.txt,"Harneised wel, and sharpe as point of spere;",True,False,OXFORD
+wod,woode,House of Fame 202,data/oxford_txts/HF_oxford.txt,"Renne and crie, as thou were woode,°",False,True,OXFORD
+wroth,wrothe,Book of the Duchess 513,data/oxford_txts/BD_oxford.txt,Were for his sorwes never so wrothe.°,False,True,OXFORD
+ful,fulle,House of Fame 1351,data/oxford_txts/HF_oxford.txt,Fulle of the finest stones° faire,True,False,OXFORD
+hard,harde,The General Prologue 229,data/oxford_txts/GP_oxford.txt,For many a man so harde is of his herte,True,False,OXFORD
+gret,grete,Troilus and Criseyde; Book II 205,data/oxford_txts/TC2_oxford.txt,"Of grete estat, that ever I saw my live;",True,False,OXFORD
+fresh,fresshe,The Clerk's Tale 1173,data/oxford_txts/ClT_oxford.txt,I wol with lusty° herte fresshe and grene,True,False,OXFORD
+olde,olde,The Wife of Bath's Tale 1063,data/oxford_txts/WBT_oxford.txt,"For thogh that I be foul, and olde, and pore",True,False,OXFORD
+rounde,rounde,Book of the Duchess 946,data/oxford_txts/BD_oxford.txt,"Semed a rounde toure of ivoire,°",False,False,OXFORD
+ded,dede,Book of the Duchess 1202,data/oxford_txts/BD_oxford.txt,I most have tolde hir or be dede.,False,True,OXFORD
+ded,dede,Book of the Duchess 204,data/oxford_txts/BD_oxford.txt,"For certes, swete, I am but dede;",False,True,OXFORD
+wroth,wrothe,Book of the Duchess 1190,data/oxford_txts/BD_oxford.txt,I am adred she wol be wrothe;,False,True,OXFORD
+yong,yonge,The Monk's Tale 2161,data/oxford_txts/MkT_oxford.txt,To which image bothe yonge and olde,True,False,OXFORD
+ded,dede,Book of the Duchess 588,data/oxford_txts/BD_oxford.txt,"Alway deyinge, and be not dede",False,True,OXFORD
+bold,bolde,The Canon's Yeoman's Tale 1413,data/oxford_txts/CYT_oxford.txt,Ye been as bolde as is Bayard the blinde,True,False,OXFORD
+right,righte,Troilus and Criseyde; Book II 862,data/oxford_txts/TC2_oxford.txt,"“What, is the sonne wers, of kinde righte",False,True,OXFORD
+red,rede,House of Fame 1647,data/oxford_txts/HF_oxford.txt,"Blak, blo,° grenissh, swartish° rede",False,True,OXFORD
+fresh,fresshe,Troilus and Criseyde; Book V 830,data/oxford_txts/TC5_oxford.txt,"Yong, fresshe, strong, and hardy as lioun;",False,False,OXFORD
+fin,fine,House of Fame 1005,data/oxford_txts/HF_oxford.txt,"Or Ariones harpe fine,°",False,True,OXFORD
+ded,dede,Troilus and Criseyde; Book V 559,data/oxford_txts/TC5_oxford.txt,So pitously and with so dede an hewe,True,False,OXFORD
+wod,wode,House of Fame 1713,data/oxford_txts/HF_oxford.txt,"“What?” quod she, “and be ye wode?°",False,True,OXFORD
+ware,ware,Book of the Duchess 1030,data/oxford_txts/BD_oxford.txt,"And seye, “Sir, be now right ware°",False,True,OXFORD
+cler,clere,House of Fame 1482,data/oxford_txts/HF_oxford.txt,That was of tinned iren° clere,False,True,OXFORD
+gret,grete,Troilus and Criseyde; Book II 818,data/oxford_txts/TC2_oxford.txt,"And othere of hir wommen, a grete route",False,False,OXFORD
+fals,false,Book of the Duchess 637,data/oxford_txts/BD_oxford.txt,That is a false flatering beste;,False,False,OXFORD
 ded,dede,Book of the Duchess 1300,data/oxford_txts/BD_oxford.txt,¶Therwith he waxe° as dede as stoon,True,False,OXFORD
 grei,greye,Parliament of Fowls 335,data/oxford_txts/PF_oxford.txt,"And greye, I mene the goshauk, that doth pine°",True,False,OXFORD
-fresh,fresshe,Troilus and Criseyde; Book V 844,data/oxford_txts/TC5_oxford.txt,"This Diomede, as fresshe as braunche in May",True,False,OXFORD
-fin,fine,House of Fame 1005,data/oxford_txts/HF_oxford.txt,"Or Ariones harpe fine,°",False,True,OXFORD
-sharp,sharpe,Troilus and Criseyde; Book V 1269,data/oxford_txts/TC5_oxford.txt,I fele now so sharpe a newe peine,True,False,OXFORD
-red,rede,House of Fame 1647,data/oxford_txts/HF_oxford.txt,"Blak, blo,° grenissh, swartish° rede",False,True,OXFORD
-god,goode,Book of the Duchess 766,data/oxford_txts/BD_oxford.txt,To love hooly with goode entente,True,False,OXFORD
-sharp,sharpe,The General Prologue 352,data/oxford_txts/GP_oxford.txt,"Poinaunt and sharpe, and redy al his gere.",True,False,OXFORD
-ded,dede,Book of the Duchess 588,data/oxford_txts/BD_oxford.txt,"Alway deyinge, and be not dede",False,True,OXFORD
-hard,harde,House of Fame 118,data/oxford_txts/HF_oxford.txt,To make lithe° of that° was harde.,False,True,OXFORD
-ded,dede,Troilus and Criseyde; Book V 559,data/oxford_txts/TC5_oxford.txt,So pitously and with so dede an hewe,True,False,OXFORD
-sore,sore,Troilus and Criseyde; Book III 1421,data/oxford_txts/TC3_oxford.txt,"With herte sore, to Troilus thus seide:—",False,False,OXFORD
-bright,brighte,House of Fame 1693,data/oxford_txts/HF_oxford.txt,"And seiden, “Certes, lady brighte",False,True,OXFORD
-fin,fine,House of Fame 1431,data/oxford_txts/HF_oxford.txt,That was of lede° and iren° fine,False,True,OXFORD
+dul,dulle,Parliament of Fowls 162,data/oxford_txts/PF_oxford.txt,"But natheles, although that thou be dulle",False,True,OXFORD
 gret,grete,Book of the Duchess 901,data/oxford_txts/BD_oxford.txt,So grete a thing for to devise.°,True,False,OXFORD
-gret,grete,House of Fame 2141,data/oxford_txts/HF_oxford.txt,I herde a grete noise withalle,False,False,OXFORD
-fair,faire,Book of the Duchess 339,data/oxford_txts/BD_oxford.txt,And eek the welken° was so faire,False,True,OXFORD
-gret,grete,Troilus and Criseyde; Book II 818,data/oxford_txts/TC2_oxford.txt,"And othere of hir wommen, a grete route",False,False,OXFORD
-wod,wode,House of Fame 1713,data/oxford_txts/HF_oxford.txt,"“What?” quod she, “and be ye wode?°",False,True,OXFORD
-fair,faire,Book of the Duchess 950,data/oxford_txts/BD_oxford.txt,"She was bothe faire and brighte,°",True,False,OXFORD
-fresh,fresshe,Troilus and Criseyde; Book V 830,data/oxford_txts/TC5_oxford.txt,"Yong, fresshe, strong, and hardy as lioun;",False,False,OXFORD
-hot,hote,The Miller's Tale 3379,data/oxford_txts/MilT_oxford.txt,"And wafres,° piping hote out of the glede;°",True,False,OXFORD
-whit,white,The Knight's Tale 1659,data/oxford_txts/KnT_oxford.txt,That frothen° white as foom for ire wood.°,True,False,OXFORD
-fair,faire,Troilus and Criseyde; Book III 411,data/oxford_txts/TC3_oxford.txt,Be she never so faire or wel yshape,True,False,OXFORD
-wise,wise,The Wife of Bath's Prologue 231,data/oxford_txts/WBPro_oxford.txt,"A wise wif, if that she can hir good,°",False,False,OXFORD
-gret,grete,Troilus and Criseyde; Book II 987,data/oxford_txts/TC2_oxford.txt,In grete disese abideth for the peine.”,False,False,OXFORD
-bold,bolde,The Canon's Yeoman's Tale 1413,data/oxford_txts/CYT_oxford.txt,Ye been as bolde as is Bayard the blinde,True,False,OXFORD
-gret,grete,Troilus and Criseyde; Book II 205,data/oxford_txts/TC2_oxford.txt,"Of grete estat, that ever I saw my live;",True,False,OXFORD
-right,righte,Troilus and Criseyde; Book II 862,data/oxford_txts/TC2_oxford.txt,"“What, is the sonne wers, of kinde righte",False,True,OXFORD
-bright,brighte,Book of the Duchess 821,data/oxford_txts/BD_oxford.txt,That as the sommers sonne brighte,False,True,OXFORD
-ded,dede,House of Fame 1876,data/oxford_txts/HF_oxford.txt,"Sufficeth me, as I were dede",False,True,OXFORD
-blak,blake,House of Fame 1671,data/oxford_txts/HF_oxford.txt,"Thou Eolus, that is so blake;",False,True,OXFORD
-fals,false,Book of the Duchess 637,data/oxford_txts/BD_oxford.txt,That is a false flatering beste;,False,False,OXFORD
-sharp,sharpe,The General Prologue 114,data/oxford_txts/GP_oxford.txt,"Harneised wel, and sharpe as point of spere;",True,False,OXFORD
-derk,derke,Book of the Duchess 170,data/oxford_txts/BD_oxford.txt,¶This cave was also as derke,False,True,OXFORD
-fair,faire,Book of the Duchess 1180,data/oxford_txts/BD_oxford.txt,"My lady, that is so faire and bright!”—",True,False,OXFORD
-ouen,owne,Troilus and Criseyde; Book III 915,data/oxford_txts/TC3_oxford.txt,Ye knowe eek how it is your owne knight,False,False,OXFORD
-fals,false,The Pardoner's Tale 632,data/oxford_txts/PardT_oxford.txt,And false swering is yet more reprevable.°,False,False,OXFORD
-yong,yonge,The Monk's Tale 2161,data/oxford_txts/MkT_oxford.txt,To which image bothe yonge and olde,True,False,OXFORD
+worth,worthe,Book of the Duchess 671,data/oxford_txts/BD_oxford.txt,I hold that wish nat worthe a stre!°,True,False,OXFORD
+bright,brighte,Book of the Duchess 950,data/oxford_txts/BD_oxford.txt,"She was bothe faire and brighte,°",False,True,OXFORD
+overt,overte,House of Fame 718,data/oxford_txts/HF_oxford.txt,"The weye therto is so overte,°",False,True,OXFORD
+whit,white,Book of the Duchess 780,data/oxford_txts/BD_oxford.txt,As a white walle or a table;,False,False,OXFORD
+red,rede,Book of the Duchess 1215,data/oxford_txts/BD_oxford.txt,Ful ofte I wex both pale and rede;°,False,True,OXFORD
+prive,prive,Book of the Duchess 382,data/oxford_txts/BD_oxford.txt,Fro al the hounds a prive° way.,False,False,OXFORD
+bright,brighte,House of Fame 1693,data/oxford_txts/HF_oxford.txt,"And seiden, “Certes, lady brighte",False,True,OXFORD

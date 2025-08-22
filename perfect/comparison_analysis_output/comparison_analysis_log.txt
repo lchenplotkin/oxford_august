@@ -14,6 +14,12 @@ strong_with_e_strict_filtered: Oxford=110, Riverside=12, Both=202
 Files generated in this directory:
 - comparison_summary.csv - Overall comparison statistics
 - comparison_summary.docx - Detailed comparison summary document
+- both_weak_plural_exceptions.docx - Weak & plural exceptions in both texts
+- both_strong_exceptions.docx - Strong form exceptions in both texts
+- oxford_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Oxford
+- oxford_only_strong_exceptions.docx - Strong form exceptions only in Oxford
+- riverside_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Riverside
+- riverside_only_strong_exceptions.docx - Strong form exceptions only in Riverside
 - oxford_only_weak_no_e_all.csv - Exceptions found only in Oxford
 - riverside_only_weak_no_e_all.csv - Exceptions found only in Riverside
 - both_texts_weak_no_e_all.csv - Exceptions found in both texts
