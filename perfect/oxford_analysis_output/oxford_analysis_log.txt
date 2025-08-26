@@ -18,6 +18,5 @@ Files generated in this directory:
 - oxford_monosyllabic_adjectives.csv - Monosyllabic adjectives found
 - oxford_always_e_adjectives.csv - Adjectives that always end in -e
 - oxford_analysis_summary.docx - Summary statistics document
-- oxford_weak_plural_exceptions.docx - Weak & plural declension exceptions
-- oxford_strong_exceptions.docx - Strong form exceptions (filtered)
+- oxford_declension_exceptions.docx - Detailed exception examples
 - oxford_analysis_log.txt - This log file

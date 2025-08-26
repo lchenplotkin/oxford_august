@@ -107,7 +107,7 @@ def add_exception_to_doc(doc, exception_type, word, text, line_number, filename)
     """Add an exception case to the Word document"""
     doc_para = doc.add_paragraph()
     doc_para.add_run(f"{exception_type}: {word}").bold = True
-    doc_para.add_run(f"\nLine {line_number} ({filename})\n")
+    doc_para.add_run(f"\n{line_number} ({filename})\n")
     
     for i, ox_word in enumerate(text.split(' ')):
         if ox_word.lower() == word.lower():

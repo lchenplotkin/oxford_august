@@ -1,4 +1,4 @@
 headword,word,line_number,filename,context,is_elided,is_final,text_type
+god,good,Troilus and Criseyde; Book II 166,data/oxford_txts/TC2_oxford.txt,And been of good condiciouns therto;,False,False,OXFORD
 god,good,The Pardoner's Tale 904,data/oxford_txts/PardT_oxford.txt,"¶Now, good men, God foryeve yow your trespas,°",False,False,OXFORD
 god,good,The Nun's Priest's Tale 3445,data/oxford_txts/NPT_oxford.txt,"As seith my lord, so make us al good men;",False,False,OXFORD
-god,good,Troilus and Criseyde; Book II 166,data/oxford_txts/TC2_oxford.txt,And been of good condiciouns therto;,False,False,OXFORD
