@@ -1,4 +1,5 @@
 # Re-import after code state reset
+import docx 
 import os
 import re
 import string
@@ -6,7 +7,6 @@ import csv
 import pandas as pd
 from collections import defaultdict, Counter
 import matplotlib.pyplot as plt
-import docx
 
 # Initialize Word document
 doc = docx.Document()
@@ -14,14 +14,29 @@ doc.add_heading('Exceptions to Rule 2 in the Oxford Chaucer', 0)
 
 # Configuration
 base_csv_dir = 'data/csvs'
+
+
+'''
 tag_tuple_list = [
     ('demonstrative', 'adj', 1),
     ('def_art', 'adj', 1),
     ('n%gen', 'adj', 1),
     ('pron%gen', 'adj', 1),
+    ('pron%femgen', 'adj', 1),
     ('adj', 'n#propn', 0),
     ('interj', 'adj', 1),
 ]
+'''
+
+tag_tuple_list = [
+    ('n%pl','adj',1),
+    ('adj', 'n%pl', 0)
+]
+
+
+ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
+                    "hadden", "his", "her", "him", "hers", "hide", "hir",
+                    "hire", "hires", "hirs", "han"]
 
 # Utilities
 def vowel_cluster_count(w):
@@ -52,6 +67,7 @@ def parse_tagged_text(oxford_text, oxford_tagging):
                 #    tag = tag_part.split('#')[1]
                 #else:
                 tag = tag_part
+                re.sub(r'\d+', '', tag)
 
                 headwords.append(headword)
                 tags.append(tag)
@@ -113,7 +129,7 @@ def search_tag_sequence_csv(df, tag1, tag2, pos, adjectives, unspelled_log, unsp
                     headword = headwords[j + pos]
 
                     # Check if it's a monosyllabic adjective (excluding exceptions)
-                    if (vowel_cluster_count(headword) == 1 and word not in ['bright','chief','coward','royal','cruel','shrewed']):# and
+                    if (vowel_cluster_count(headword) == 1 and word not in ['chief','coward','royal','cruel','shrewed']):# and
                         #word not in ['chief','coward','lewed','payen','real','royal','roial',
                          #           'shrewed','troian','troyan','cruel','crueel','crewel','cruele']):
 
@@ -126,19 +142,19 @@ def search_tag_sequence_csv(df, tag1, tag2, pos, adjectives, unspelled_log, unsp
                         else:
                             nextword = words[j + pos + 1]
 
-                            if word.endswith('e') and nextword[0] in 'aeiouh':
+                            if word.endswith('e') and (nextword[0] in 'aeiou' or nextword in ELISION_FOLLOWERS):
                                 spelled_elided += 1
                                 adjectives[headword][1] += 1
                             elif word.endswith('e'):
                                 spelled += 1
                                 adjectives[headword][0] += 1
-                            elif nextword[0] in 'aeiouh':
+                            elif nextword[0] in 'aeiou' or nextword in ELISION_FOLLOWERS:
                                 unspelled_elided += 1
                                 adjectives[headword][3] += 1
                                 exception_text = f"{tag1}->{tag2}\n{word}\nLine {line_number}: {oxford_text}\n\n"
                                 unspelled_elided_lines.append(exception_text)
                                 # Add to Word document
-                                add_exception_to_doc(tag1, tag2, word, oxford_text, line_number, filename)
+                                #add_exception_to_doc(tag1, tag2, word, oxford_text, line_number, filename)
                             else:
                                 unspelled += 1
                                 adjectives[headword][2] += 1
@@ -263,6 +279,6 @@ write_exceptions(unspelled_log, 'rules_output/unspelled_oxford.txt')
 #write_exceptions(unspelled_elided_log, 'rules_output/unspelled_elided_oxford.txt')
 
 # Save Word document with exceptions
-doc.save('rules_output/exceptions.docx')
+doc.save('rules_output/exceptions_isolated.docx')
 
 print("Analysis complete! Check the rules_output directory for results.")

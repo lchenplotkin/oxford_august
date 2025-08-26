@@ -1,112 +1,24 @@
-def_art->adj
-west
-Line The Clerk's Tale 57: Ther is at the west side of Itaille
-
-adj->n#propn
-west
-Line The Clerk's Tale 945: So noble array in al West Lumbardie
-
-def_art->adj
-troyan
-Line House of Fame 207: Of al the Troyan nacioun
-
-demonstrative->adj
-heigh
-Line Troilus and Criseyde; Book III 516: Wheras at leiser al this heigh matere
-
-pron%gen->adj
-owen
-Line Troilus and Criseyde; Book III 1485: But nathelees min owen lady bright
-
-demonstrative->adj
-fals
-Line The Canon's Yeoman's Tale 1159: This fals chanoun the foule feend him fecche
-
-interj->adj
-grant
-Line The Canon's Yeoman's Tale 1380: Quod the chanoun and farwel grant mercy
-
-demonstrative->adj
-fair
-Line Book of the Duchess 909: To mak that fair that trewly she
-
-def_art->adj
-derk
-Line Book of the Duchess 155: Til he com to the derk valeie
-
-adj->n#propn
-fals
-Line Book of the Duchess 618: For fals Fortune hath pleide a game
-
-interj->adj
+adj->n%pl
 good
-Line Book of the Duchess 714: A good sir quod I Say not so
+Line House of Fame 1616: Good werkes shal yow noght availe
 
-pron%gen->adj
-awen
-Line The Reeve's Tale 4239: I is thin awen clerk swa have I sel
+adj->n%pl
+lewed
+Line The Merchant's Tale 2149: Swiche olde lewed wordes used he
 
-pron%gen->adj
-owen
-Line The Knight's Tale 1556: For I dar noght biknowe min owen name
+n%pl->adj
+proud
+Line The Monk's Tale 2167: This king of kinges proud was and elaat
 
-def_art->adj
-north
-Line The Friar's Tale 1413: Brother quod he fer in the north contree
-
-def_art->adj
-fin
-Line The Nun's Priest's Tale 2859: His comb was redder than the fin coral
-
-def_art->adj
-west
-Line The Nun's Priest's Tale 3017: And at the west gate of the toun quod he
-
-def_art->adj
-west
-Line The Nun's Priest's Tale 3035: Unto the west gate of the toun and fond
-
-adj->n#propn
-new
-Line The Nun's Priest's Tale 3227: O newe Scariot new Genilon
-
-adj->n#propn
-greek
-Line The Nun's Priest's Tale 3228: False dissimilour O Greek Sinon
-
-interj->adj
-greek
-Line The Nun's Priest's Tale 3228: False dissimilour O Greek Sinon
-
-pron%gen->adj
+adj->n%pl
 good
-Line Troilus and Criseyde; Book V 1081: And my good word al sholde I liven ever
+Line The Nun's Priest's Tale 3445: As seith my lord so make us al good men
 
-pron%gen->adj
-heigh
-Line The Pardoner's Tale 913: I yow assoile by min heigh power
-
-pron%gen->adj
-ful
-Line The Merchant's Tale 2066: That haddest him for thy ful frend received
-
-def_art->adj
-hyest
-Line The Franklin's Tale 1061: The hyest rokke in Armorik Briteine
-
-def_art->adj
-quikkest
-Line The Franklin's Tale 1502: Amid the toun right in the quikkest strete
-
-n%gen->adj
-foul
-Line The Franklin's Tale 1396: To been defouled with mannes foul delit
-
-pron%gen->adj
-own
-Line The Franklin's Tale 880: That thou it madest lik to thin own merk
-
-adj->n#propn
+adj->n%pl
 good
-Line The Franklin's Tale 1443: What seith Omer of good Penalopee
+Line The Pardoner's Tale 904: Now good men God foryeve yow your trespas
+
+adj->n%pl
+good
+Line Troilus and Criseyde; Book II 166: And been of good condiciouns therto
 

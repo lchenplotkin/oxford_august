@@ -3,11 +3,15 @@ import csv
 import re
 import pandas as pd
 
+ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
+                    "hadden", "his", "her", "him", "hers", "hide", "hir",
+                    "hire", "hires", "hirs", "han"]
+
 def vowel_cluster_count(w):
     return len(re.findall(r'[^aeiouy]*[aeiouy]+(?:[^aeiouy]+(?=[^aeiouy]*[aeiouy])|[^aeiouy]*)?', w)) or 1
 
 def is_elided(word, next_word):
-    if word.endswith('e') and next_word[0] in 'aeiouh':
+    if word.endswith('e') and (next_word[0] in 'aeiou' or next_word in ELISION_FOLLOWERS):
         return True
     return False
 
@@ -21,7 +25,7 @@ def is_weak_form(prev_tag, prev_word, tag, next_tag):
     return False
 
 def is_plural_form(prev_tag, tag, next_tag):
-    if next_tag.startswith('n%pl'):
+    if next_tag.startswith('n%pl') or prev_tag.startswith('n%pl'):
         return True
     return False
 
@@ -45,10 +49,6 @@ def parse_tagged_text(oxford_text, oxford_tagging):
                 headword = parts[0].lower()
                 tag_part = parts[1] if len(parts) > 1 else ''
 
-                ## Extract tag (after # if present, otherwise use the whole tag_part)
-                #if '#' in tag_part:
-                #    tag = tag_part.split('#')[1]
-                #else:
                 tag = tag_part
                 tag = ''.join([i for i in tag if not i.isdigit()])
                 headwords.append(headword)
