@@ -1,0 +1,12 @@
+Chaucer OXFORD Verb Declension Analysis - Complete
+==================================================
+
+Total verb exceptions found: 5913
+
+Files generated in this directory:
+- oxford_exceptions.csv - All verb exception instances
+- oxford_ending_distribution.csv - Ending distribution by tag
+- oxford_verb_tag_distribution.csv - Verb-tag ending distribution
+- oxford_analysis_summary.docx - Summary statistics document
+- oxford_declension_exceptions.docx - Detailed exception examples
+- oxford_analysis_log.txt - This log file

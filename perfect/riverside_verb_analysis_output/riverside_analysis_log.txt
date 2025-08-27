@@ -1,0 +1,12 @@
+Chaucer RIVERSIDE Verb Declension Analysis - Complete
+==================================================
+
+Total verb exceptions found: 5994
+
+Files generated in this directory:
+- riverside_exceptions.csv - All verb exception instances
+- riverside_ending_distribution.csv - Ending distribution by tag
+- riverside_verb_tag_distribution.csv - Verb-tag ending distribution
+- riverside_analysis_summary.docx - Summary statistics document
+- riverside_declension_exceptions.docx - Detailed exception examples
+- riverside_analysis_log.txt - This log file
