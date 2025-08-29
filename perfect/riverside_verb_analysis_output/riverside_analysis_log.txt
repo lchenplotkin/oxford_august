@@ -1,12 +1,52 @@
-Chaucer RIVERSIDE Verb Declension Analysis - Complete
+Chaucer Riverside Verb Declension Analysis - Complete
 ==================================================
 
-Total verb exceptions found: 5994
+ORIGINAL ANALYSIS (All Headwords):
+Total verb exceptions found: 5300
+
+HIGH-FAILURE HEADWORD ANALYSIS:
+Total headwords with >90% failure rate: 60
+  Past plural ends in -en/-e: 1 headwords
+    quethen
+  Infinitive ends in -en/-e: 2 headwords
+    forgon, gon
+  Present 3rd sg ends in -th: 23 headwords
+    amenden, ben, bidden, bitiden, blessen, connen, durren, finden, gien, listen, lusten, meten, moten, mouen, saven, shelden, shulen, speden, sterven, thurven, willen, witen, yelden
+  Weak pt sg ends in -ed/-d/-t: 27 headwords
+    answeren, bien, bisetten, brennen, cacchen, casten, costen, durren, feden, fetten, henten, heren, kepen, kissen, lepen, putten, sechen, setten, shitten, speden, spenden, sterten, stinten, techen, tellen, wenden, werken
+  Present plural ends in -en/-e: 5 headwords
+    don, gon, mouen, shulen, willen
+  Strong pt sg not -en/-e: 1 headwords
+    faren
+  Strong participle ends in -en/-e: 1 headwords
+    sweren
+
+EXCLUDED ANALYSIS (High-Failure Headwords Removed):
+Total verb exceptions found: 1545
+Exceptions reduced by: 3755 (70.8%)
+
+RULE SUCCESS RATE COMPARISON:
+Rule                                    Original       Excluded       Improvement
+--------------------------------------------------------------------------------
+Infinitive ends in -en/-e                 89.0%  92.0%        +  3.0%
+Past plural ends in -en/-e                89.7%  90.1%        +  0.4%
+Present 3rd sg ends in -th                29.6%  78.3%        + 48.7%
+Present plural ends in -en/-e             59.9%  78.1%        + 18.2%
+Strong participle ends in -en/-e          78.6%  83.2%        +  4.6%
+Strong pt sg not -en/-e                   94.4%  95.9%        +  1.5%
+Weak pt sg ends in -ed/-d/-t              23.1%  39.6%        + 16.5%
 
 Files generated in this directory:
-- riverside_exceptions.csv - All verb exception instances
-- riverside_ending_distribution.csv - Ending distribution by tag
-- riverside_verb_tag_distribution.csv - Verb-tag ending distribution
-- riverside_analysis_summary.docx - Summary statistics document
-- riverside_declension_exceptions.docx - Detailed exception examples
+- riverside_exceptions_original.csv - All verb exception instances (original)
+- riverside_exceptions_excluded.csv - All verb exception instances (excluded)
+- riverside_ending_distribution_original.csv - Ending distribution by tag (original)
+- riverside_ending_distribution_excluded.csv - Ending distribution by tag (excluded)
+- riverside_rule_success_rates_original.csv - Rule success rates (original)
+- riverside_rule_success_rates_excluded.csv - Rule success rates (excluded)
+- riverside_high_failure_exclusions.csv - List of excluded high-failure headwords
+- riverside_headword_failures_*.csv - Detailed headword failure rates by rule
+- riverside_analysis_summary_original.docx - Summary statistics document (original)
+- riverside_analysis_summary_excluded.docx - Summary statistics document (excluded)
+- riverside_declension_exceptions_original.docx - Detailed exception examples (original)
+- riverside_declension_exceptions_excluded.docx - Detailed exception examples (excluded)
 - riverside_analysis_log.txt - This log file

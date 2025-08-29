@@ -1,12 +1,50 @@
-Chaucer OXFORD Verb Declension Analysis - Complete
+Chaucer Oxford Verb Declension Analysis - Complete
 ==================================================
 
-Total verb exceptions found: 5913
+ORIGINAL ANALYSIS (All Headwords):
+Total verb exceptions found: 5363
+
+HIGH-FAILURE HEADWORD ANALYSIS:
+Total headwords with >90% failure rate: 49
+  Past plural ends in -en/-e: 1 headwords
+    quethen
+  Infinitive ends in -en/-e: 2 headwords
+    forgon, gon
+  Present 3rd sg ends in -th: 23 headwords
+    amenden, ben, bidden, bitiden, blessen, connen, durren, finden, gien, listen, lusten, meten, moten, mouen, saven, shelden, shulen, speden, sterven, thurven, willen, witen, yelden
+  Weak pt sg ends in -ed/-d/-t: 17 headwords
+    aspien, bien, bisetten, brennen, casten, durren, feden, fetten, kepen, kissen, lepen, sechen, speden, spenden, stinten, tellen, werken
+  Present plural ends in -en/-e: 5 headwords
+    don, gon, mouen, shulen, willen
+  Strong participle ends in -en/-e: 1 headwords
+    sweren
+
+EXCLUDED ANALYSIS (High-Failure Headwords Removed):
+Total verb exceptions found: 1869
+Exceptions reduced by: 3494 (65.2%)
+
+RULE SUCCESS RATE COMPARISON:
+Rule                                    Original       Excluded       Improvement
+--------------------------------------------------------------------------------
+Infinitive ends in -en/-e                 86.5%  89.4%        +  2.9%
+Past plural ends in -en/-e                81.0%  81.3%        +  0.4%
+Present 3rd sg ends in -th                29.6%  78.3%        + 48.7%
+Present plural ends in -en/-e             57.8%  75.6%        + 17.9%
+Strong participle ends in -en/-e          76.8%  81.3%        +  4.5%
+Strong pt sg not -en/-e                   93.1%  93.1%        +  0.0%
+Weak pt sg ends in -ed/-d/-t              39.7%  48.1%        +  8.4%
 
 Files generated in this directory:
-- oxford_exceptions.csv - All verb exception instances
-- oxford_ending_distribution.csv - Ending distribution by tag
-- oxford_verb_tag_distribution.csv - Verb-tag ending distribution
-- oxford_analysis_summary.docx - Summary statistics document
-- oxford_declension_exceptions.docx - Detailed exception examples
+- oxford_exceptions_original.csv - All verb exception instances (original)
+- oxford_exceptions_excluded.csv - All verb exception instances (excluded)
+- oxford_ending_distribution_original.csv - Ending distribution by tag (original)
+- oxford_ending_distribution_excluded.csv - Ending distribution by tag (excluded)
+- oxford_rule_success_rates_original.csv - Rule success rates (original)
+- oxford_rule_success_rates_excluded.csv - Rule success rates (excluded)
+- oxford_high_failure_exclusions.csv - List of excluded high-failure headwords
+- oxford_headword_failures_*.csv - Detailed headword failure rates by rule
+- oxford_analysis_summary_original.docx - Summary statistics document (original)
+- oxford_analysis_summary_excluded.docx - Summary statistics document (excluded)
+- oxford_declension_exceptions_original.docx - Detailed exception examples (original)
+- oxford_declension_exceptions_excluded.docx - Detailed exception examples (excluded)
 - oxford_analysis_log.txt - This log file

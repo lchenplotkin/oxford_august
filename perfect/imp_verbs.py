@@ -19,6 +19,10 @@ ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
                     "hadden", "his", "her", "him", "hers", "hide", "hir",
                     "hire", "hires", "hirs", "han"]
 
+for follower in ELISION_FOLLOWERS:
+    if 'i' in follower:
+        ELISION_FOLLOWERS.append(follower.replace('i','y'))
+
 form_csv = 'verb_forms_gold.csv'
 verbs_dict = {}
 with open(form_csv, 'r', encoding='utf-8') as csvfile:

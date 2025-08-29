@@ -1,0 +1,8 @@
+Rule,Successes,Failures,Total,SuccessRate
+Past plural ends in -en/-e,527,121,648,81.33%
+Infinitive ends in -en/-e,4687,553,5240,89.45%
+Weak pt sg ends in -ed/-d/-t,406,438,844,48.10%
+Present 3rd sg ends in -th,1284,356,1640,78.29%
+Present plural ends in -en/-e,919,296,1215,75.64%
+Strong pt sg not -en/-e,665,49,714,93.14%
+Strong participle ends in -en/-e,244,56,300,81.33%

@@ -1,5 +1,5 @@
 # Merged Chaucer Adjective Declension Analysis - Oxford and Riverside
-import docx 
+import docx
 import os
 import re
 import string
@@ -12,39 +12,39 @@ import matplotlib.pyplot as plt
 def initialize_documents():
     """Initialize all the Word documents we'll need"""
     docs = {}
-    
+
     # Individual text documents
     docs['oxford_weak_plural'] = docx.Document()
     docs['oxford_weak_plural'].add_heading('Oxford Weak & Plural Declension Exceptions (without -e)', 0)
-    
+
     docs['oxford_strong'] = docx.Document()
     docs['oxford_strong'].add_heading('Oxford Strong Form Exceptions (with -e)', 0)
-    
+
     docs['riverside_weak_plural'] = docx.Document()
     docs['riverside_weak_plural'].add_heading('Riverside Weak & Plural Declension Exceptions (without -e)', 0)
-    
+
     docs['riverside_strong'] = docx.Document()
     docs['riverside_strong'].add_heading('Riverside Strong Form Exceptions (with -e)', 0)
-    
+
     # Comparison documents
     docs['both_weak_plural'] = docx.Document()
     docs['both_weak_plural'].add_heading('Both Texts: Weak & Plural Declension Exceptions (without -e)', 0)
-    
+
     docs['both_strong'] = docx.Document()
     docs['both_strong'].add_heading('Both Texts: Strong Form Exceptions (with -e)', 0)
-    
+
     docs['oxford_only_weak_plural'] = docx.Document()
     docs['oxford_only_weak_plural'].add_heading('Oxford Only: Weak & Plural Declension Exceptions (without -e)', 0)
-    
+
     docs['oxford_only_strong'] = docx.Document()
     docs['oxford_only_strong'].add_heading('Oxford Only: Strong Form Exceptions (with -e)', 0)
-    
+
     docs['riverside_only_weak_plural'] = docx.Document()
     docs['riverside_only_weak_plural'].add_heading('Riverside Only: Weak & Plural Declension Exceptions (without -e)', 0)
-    
+
     docs['riverside_only_strong'] = docx.Document()
     docs['riverside_only_strong'].add_heading('Riverside Only: Strong Form Exceptions (with -e)', 0)
-    
+
     return docs
 
 # Configuration
@@ -53,6 +53,10 @@ base_csv_dir = 'data/csvs'
 ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
                     "hadden", "his", "her", "him", "hers", "hide", "hir",
                     "hire", "hires", "hirs", "han"]
+
+for follower in ELISION_FOLLOWERS:
+    if 'i' in follower:
+        ELISION_FOLLOWERS.append(follower.replace('i','y'))
 
 monosyllabic_set = set()
 mono_csv = 'monosyllabic_adjectives.csv'
@@ -152,17 +156,17 @@ def add_exception_to_doc(doc, exception_type, word, text, line_number, filename)
 
 def analyze_adjectives(df, results, text_type, docs):
     """Analyze adjective patterns in CSV data"""
-    
+
     # Column names based on text type
     text_col = f'{text_type}_TEXT'
     tagging_col = f'{text_type}_TAGGING'
     filename_col = f'{text_type}_FILENAME'
     original_text_col = f'OG_{text_type}_TEXT'
-    
+
     # Select appropriate documents based on text type
     weak_plural_doc = docs[f'{text_type.lower()}_weak_plural']
     strong_doc = docs[f'{text_type.lower()}_strong']
-    
+
     for idx, row in df.iterrows():
         if row["MATCH"] != "DIFF":
             text = row[text_col]
@@ -175,11 +179,11 @@ def analyze_adjectives(df, results, text_type, docs):
 
             prev_tag = 'NA'
             prev_word = 'NA'
-            
+
             for j in range(len(tags)):
                 if j >= len(words) or j >= len(headwords):
                     continue
-                    
+
                 headword = headwords[j]
                 tag = tags[j]
                 word = words[j].lower()
@@ -187,7 +191,7 @@ def analyze_adjectives(df, results, text_type, docs):
                 next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
 
                 # Only process adjectives
-                if tag != 'adj': 
+                if tag != 'adj':
                     prev_word = word
                     prev_tag = tag
                     continue
@@ -195,7 +199,7 @@ def analyze_adjectives(df, results, text_type, docs):
                 # Initialize adjective tracking
                 if headword not in results['all_adjectives']:
                     results['all_adjectives'][headword] = {
-                        'stem_forms': set(), 
+                        'stem_forms': set(),
                         'all_forms': set(),
                         'stem_with_e': set(),
                         'stem_without_e': set()
@@ -268,12 +272,12 @@ def process_csv_directory(csv_dir, text_type, docs):
     """Process all _gui.csv files in the directory for a specific text type"""
     results = {
         'all_adjectives': {},
-        'weak_no_e_all': [],          
-        'weak_no_e_strict': [],       
-        'plural_no_e_all': [],        
-        'plural_no_e_strict': [],     
-        'strong_with_e_all': [],      
-        'strong_with_e_strict': []    
+        'weak_no_e_all': [],
+        'weak_no_e_strict': [],
+        'plural_no_e_all': [],
+        'plural_no_e_strict': [],
+        'strong_with_e_all': [],
+        'strong_with_e_strict': []
     }
 
     file_count = 0
@@ -293,7 +297,7 @@ def process_csv_directory(csv_dir, text_type, docs):
                 text_col = f'{text_type}_TEXT'
                 tagging_col = f'{text_type}_TAGGING'
                 filename_col = f'{text_type}_FILENAME'
-                
+
                 # Skip if required columns are missing
                 required_columns = [tagging_col, text_col, 'LINE_NUMBER', filename_col]
                 if not all(col in df.columns for col in required_columns):
@@ -318,29 +322,29 @@ def filter_strong_form_exceptions(results):
             # If this adjective has stem forms and ALL stem forms end in -e, it's an "always -e" adjective
             if data['stem_forms'] and len(data['stem_without_e']) == 0:
                 always_e_adjectives.add(headword)
-    
+
     # Filter the strong form exceptions to exclude always-e adjectives
     results['strong_with_e_all_filtered'] = [
-        record for record in results['strong_with_e_all'] 
+        record for record in results['strong_with_e_all']
         if record['headword'] not in always_e_adjectives
     ]
     results['strong_with_e_strict_filtered'] = [
-        record for record in results['strong_with_e_strict'] 
+        record for record in results['strong_with_e_strict']
         if record['headword'] not in always_e_adjectives
     ]
-    
+
     # Add the always-e adjectives to results for reporting
     results['always_e_adjectives'] = always_e_adjectives
-    
+
     return results
 
 def add_filtered_strong_exceptions_to_doc(results, text_type, docs):
     """Add filtered strong form exceptions to the appropriate document after filtering"""
     strong_doc = docs[f'{text_type.lower()}_strong']
-    
+
     for record in results['strong_with_e_strict_filtered']:
-        add_exception_to_doc(strong_doc, "Strong with -e (filtered)", 
-                           record['word'], record['context'], 
+        add_exception_to_doc(strong_doc, "Strong with -e (filtered)",
+                           record['word'], record['context'],
                            record['line_number'], record['filename'])
 
 def create_record_key(record):
@@ -355,98 +359,98 @@ def compare_results(oxford_results, riverside_results):
         'riverside_only': {},
         'both_texts': {}
     }
-    
-    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all', 
+
+    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all',
                   'plural_no_e_strict', 'strong_with_e_all', 'strong_with_e_strict',
                   'strong_with_e_all_filtered', 'strong_with_e_strict_filtered']
-    
+
     for category in categories:
         # Create sets of record keys for comparison
         oxford_keys = set()
         riverside_keys = set()
         oxford_records = {}
         riverside_records = {}
-        
+
         for record in oxford_results.get(category, []):
             key = create_record_key(record)
             oxford_keys.add(key)
             oxford_records[key] = record
-            
+
         for record in riverside_results.get(category, []):
             key = create_record_key(record)
             riverside_keys.add(key)
             riverside_records[key] = record
-        
+
         # Find common and unique records
         common_keys = oxford_keys.intersection(riverside_keys)
         oxford_only_keys = oxford_keys - riverside_keys
         riverside_only_keys = riverside_keys - oxford_keys
-        
+
         comparison['oxford_only'][category] = [oxford_records[key] for key in oxford_only_keys]
         comparison['riverside_only'][category] = [riverside_records[key] for key in riverside_only_keys]
         comparison['both_texts'][category] = [(oxford_records[key], riverside_records[key]) for key in common_keys]
-    
+
     return comparison
 
 def populate_comparison_docs(comparison, docs):
     """Populate the comparison documents with exception data"""
-    
+
     # Both texts documents
     weak_plural_categories = ['weak_no_e_strict', 'plural_no_e_strict']
     strong_categories = ['strong_with_e_strict_filtered']
-    
+
     # Both texts - weak and plural
     for category in weak_plural_categories:
         for oxford_record, riverside_record in comparison['both_texts'][category]:
             exception_type = "Weak without -e" if 'weak' in category else "Plural without -e"
-            add_exception_to_doc(docs['both_weak_plural'], f"{exception_type} (Both texts)", 
-                               oxford_record['word'], oxford_record['context'], 
+            add_exception_to_doc(docs['both_weak_plural'], f"{exception_type} (Both texts)",
+                               oxford_record['word'], oxford_record['context'],
                                oxford_record['line_number'], oxford_record['filename'])
-    
+
     # Both texts - strong
     for category in strong_categories:
         for oxford_record, riverside_record in comparison['both_texts'][category]:
-            add_exception_to_doc(docs['both_strong'], "Strong with -e (Both texts)", 
-                               oxford_record['word'], oxford_record['context'], 
+            add_exception_to_doc(docs['both_strong'], "Strong with -e (Both texts)",
+                               oxford_record['word'], oxford_record['context'],
                                oxford_record['line_number'], oxford_record['filename'])
-    
+
     # Oxford only documents
     for category in weak_plural_categories:
         for record in comparison['oxford_only'][category]:
             exception_type = "Weak without -e" if 'weak' in category else "Plural without -e"
-            add_exception_to_doc(docs['oxford_only_weak_plural'], f"{exception_type} (Oxford only)", 
-                               record['word'], record['context'], 
+            add_exception_to_doc(docs['oxford_only_weak_plural'], f"{exception_type} (Oxford only)",
+                               record['word'], record['context'],
                                record['line_number'], record['filename'])
-    
+
     for category in strong_categories:
         for record in comparison['oxford_only'][category]:
-            add_exception_to_doc(docs['oxford_only_strong'], "Strong with -e (Oxford only)", 
-                               record['word'], record['context'], 
+            add_exception_to_doc(docs['oxford_only_strong'], "Strong with -e (Oxford only)",
+                               record['word'], record['context'],
                                record['line_number'], record['filename'])
-    
+
     # Riverside only documents
     for category in weak_plural_categories:
         for record in comparison['riverside_only'][category]:
             exception_type = "Weak without -e" if 'weak' in category else "Plural without -e"
-            add_exception_to_doc(docs['riverside_only_weak_plural'], f"{exception_type} (Riverside only)", 
-                               record['word'], record['context'], 
+            add_exception_to_doc(docs['riverside_only_weak_plural'], f"{exception_type} (Riverside only)",
+                               record['word'], record['context'],
                                record['line_number'], record['filename'])
-    
+
     for category in strong_categories:
         for record in comparison['riverside_only'][category]:
-            add_exception_to_doc(docs['riverside_only_strong'], "Strong with -e (Riverside only)", 
-                               record['word'], record['context'], 
+            add_exception_to_doc(docs['riverside_only_strong'], "Strong with -e (Riverside only)",
+                               record['word'], record['context'],
                                record['line_number'], record['filename'])
 
 def save_all_documents(docs, oxford_output_dir, riverside_output_dir, comparison_output_dir):
     """Save all Word documents to their appropriate directories"""
-    
+
     # Save individual text documents
     docs['oxford_weak_plural'].save(os.path.join(oxford_output_dir, 'oxford_weak_plural_exceptions.docx'))
     docs['oxford_strong'].save(os.path.join(oxford_output_dir, 'oxford_strong_exceptions.docx'))
     docs['riverside_weak_plural'].save(os.path.join(riverside_output_dir, 'riverside_weak_plural_exceptions.docx'))
     docs['riverside_strong'].save(os.path.join(riverside_output_dir, 'riverside_strong_exceptions.docx'))
-    
+
     # Save comparison documents
     docs['both_weak_plural'].save(os.path.join(comparison_output_dir, 'both_weak_plural_exceptions.docx'))
     docs['both_strong'].save(os.path.join(comparison_output_dir, 'both_strong_exceptions.docx'))
@@ -458,10 +462,10 @@ def save_all_documents(docs, oxford_output_dir, riverside_output_dir, comparison
 def write_results_to_csv(results, output_dir, text_type):
     """Write analysis results to CSV files"""
     os.makedirs(output_dir, exist_ok=True)
-    
+
     # Filter strong form exceptions first
     results = filter_strong_form_exceptions(results)
-    
+
     # Helper function to write a list of records to CSV
     def write_records(records, filename):
         if not records:
@@ -471,7 +475,7 @@ def write_results_to_csv(results, output_dir, text_type):
                 writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
                 writer.writeheader()
             return
-            
+
         with open(os.path.join(output_dir, filename), 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'text_type']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
@@ -520,11 +524,11 @@ def write_results_to_csv(results, output_dir, text_type):
 def write_comparison_results(comparison, output_dir):
     """Write comparison results to CSV files"""
     os.makedirs(output_dir, exist_ok=True)
-    
-    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all', 
+
+    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all',
                   'plural_no_e_strict', 'strong_with_e_all', 'strong_with_e_strict',
                   'strong_with_e_all_filtered', 'strong_with_e_strict_filtered']
-    
+
     def write_comparison_records(records, filename, record_type):
         with open(os.path.join(output_dir, filename), 'w', newline='', encoding='utf-8') as csvfile:
             fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'text_type']
@@ -532,7 +536,7 @@ def write_comparison_results(comparison, output_dir):
                 fieldnames.extend(['oxford_context', 'riverside_context'])
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
             writer.writeheader()
-            
+
             if record_type == 'both':
                 for oxford_record, riverside_record in records:
                     combined_record = oxford_record.copy()
@@ -543,7 +547,7 @@ def write_comparison_results(comparison, output_dir):
             else:
                 for record in records:
                     writer.writerow(record)
-    
+
     # Write comparison files for each category
     for category in categories:
         write_comparison_records(comparison['oxford_only'][category], f'oxford_only_{category}.csv', 'oxford_only')
@@ -564,71 +568,71 @@ def write_summary_to_docx(results, output_dir, text_type):
     """Write summary statistics to Word document"""
     # Filter strong form exceptions first
     results = filter_strong_form_exceptions(results)
-    
+
     summary_doc = docx.Document()
     summary_doc.add_heading(f'{text_type} Adjective Declension Analysis Summary', 0)
-    
-    monosyllabic_count = sum(1 for headword, data in results['all_adjectives'].items() 
+
+    monosyllabic_count = sum(1 for headword, data in results['all_adjectives'].items()
                            if is_monosyllabic_root(headword, data['stem_forms']))
-    
+
     # Overview section
     summary_doc.add_heading('Overview', 1)
     para = summary_doc.add_paragraph()
     para.add_run(f"Total adjectives found: {len(results['all_adjectives'])}\n")
     para.add_run(f"Monosyllabic adjectives found: {monosyllabic_count}\n")
     para.add_run(f"Always -e adjectives found: {len(results['always_e_adjectives'])}")
-    
+
     # Statistics section
     summary_doc.add_heading('Exception Statistics', 1)
-    
+
     categories = [
         ('Weak declension without -e', 'weak_no_e_all', 'weak_no_e_strict'),
         ('Plural form without -e', 'plural_no_e_all', 'plural_no_e_strict'),
         ('Strong form with -e (all)', 'strong_with_e_all', 'strong_with_e_strict'),
         ('Strong form with -e (filtered)', 'strong_with_e_all_filtered', 'strong_with_e_strict_filtered')
     ]
-    
+
     for desc, all_key, strict_key in categories:
         all_count = len(results[all_key])
         strict_count = len(results[strict_key])
-        
+
         para = summary_doc.add_paragraph()
         para.add_run(desc + ":").bold = True
         para.add_run(f"\n  All instances: {all_count}")
         para.add_run(f"\n  Strict instances (not elided, not final): {strict_count}\n")
-    
+
     # Always -e adjectives section
     if results['always_e_adjectives']:
         summary_doc.add_heading('Adjectives That Always End in -e in Strong Form', 1)
         para = summary_doc.add_paragraph()
         para.add_run("The following adjectives were excluded from strong form exception analysis because they always end in -e in the strong form:\n\n")
-        
+
         for headword in sorted(results['always_e_adjectives']):
             data = results['all_adjectives'][headword]
             stem_forms = ', '.join(sorted(data['stem_with_e']))
             para.add_run(f"• {headword}").bold = True
             para.add_run(f" (forms: {stem_forms})\n")
-    
+
     summary_doc.save(os.path.join(output_dir, f'{text_type.lower()}_analysis_summary.docx'))
 
 def write_comparison_summary_docx(comparison, output_dir):
     """Write comparison summary to Word document"""
     comp_doc = docx.Document()
     comp_doc.add_heading('Oxford vs Riverside Comparison Summary', 0)
-    
-    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all', 
+
+    categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all',
                   'plural_no_e_strict', 'strong_with_e_all', 'strong_with_e_strict',
                   'strong_with_e_all_filtered', 'strong_with_e_strict_filtered']
-    
+
     comp_doc.add_heading('Comparison Statistics', 1)
-    
+
     for category in categories:
         oxford_count = len(comparison['oxford_only'][category])
         riverside_count = len(comparison['riverside_only'][category])
         both_count = len(comparison['both_texts'][category])
         total_oxford = oxford_count + both_count
         total_riverside = riverside_count + both_count
-        
+
         para = comp_doc.add_paragraph()
         para.add_run(f"{category.replace('_', ' ').title()}:").bold = True
         para.add_run(f"\n  Oxford only: {oxford_count}")
@@ -636,75 +640,75 @@ def write_comparison_summary_docx(comparison, output_dir):
         para.add_run(f"\n  Both texts: {both_count}")
         para.add_run(f"\n  Total Oxford: {total_oxford}")
         para.add_run(f"\n  Total Riverside: {total_riverside}\n")
-    
+
     comp_doc.save(os.path.join(output_dir, 'comparison_summary.docx'))
 
 # Main execution
 if __name__ == "__main__":
     # Initialize all documents
     docs = initialize_documents()
-    
+
     # Process Oxford files
     print("Processing Oxford texts...")
     oxford_results = process_csv_directory(base_csv_dir, 'OXFORD', docs)
-    
+
     # Process Riverside files
     print("Processing Riverside texts...")
     riverside_results = process_csv_directory(base_csv_dir, 'RIVERSIDE', docs)
-    
+
     # Filter strong form exceptions and add them to documents
     oxford_results = filter_strong_form_exceptions(oxford_results)
     riverside_results = filter_strong_form_exceptions(riverside_results)
-    
+
     # Add filtered strong form exceptions to individual text documents
     add_filtered_strong_exceptions_to_doc(oxford_results, 'OXFORD', docs)
     add_filtered_strong_exceptions_to_doc(riverside_results, 'RIVERSIDE', docs)
-    
+
     # Create output directories
     oxford_output_dir = 'oxford_analysis_output'
     riverside_output_dir = 'riverside_analysis_output'
     comparison_output_dir = 'comparison_analysis_output'
-    
+
     # Write Oxford results
     write_results_to_csv(oxford_results, oxford_output_dir, 'OXFORD')
     write_summary_to_docx(oxford_results, oxford_output_dir, 'OXFORD')
-    
+
     # Write Riverside results
     write_results_to_csv(riverside_results, riverside_output_dir, 'RIVERSIDE')
     write_summary_to_docx(riverside_results, riverside_output_dir, 'RIVERSIDE')
-    
+
     # Compare results
     print("Comparing Oxford and Riverside results...")
     comparison = compare_results(oxford_results, riverside_results)
     write_comparison_results(comparison, comparison_output_dir)
     write_comparison_summary_docx(comparison, comparison_output_dir)
-    
+
     # Populate comparison documents
     populate_comparison_docs(comparison, docs)
-    
+
     # Save all Word documents
     save_all_documents(docs, oxford_output_dir, riverside_output_dir, comparison_output_dir)
-    
+
     # Write completion logs
     for output_dir, text_type, results in [
-        (oxford_output_dir, 'OXFORD', oxford_results), 
+        (oxford_output_dir, 'OXFORD', oxford_results),
         (riverside_output_dir, 'RIVERSIDE', riverside_results)
     ]:
         with open(os.path.join(output_dir, f'{text_type.lower()}_analysis_log.txt'), 'w', encoding='utf-8') as log_file:
             log_file.write(f"Chaucer {text_type} Adjective Declension Analysis - Complete\n")
             log_file.write("="*50 + "\n\n")
-            
-            monosyllabic_count = sum(1 for headword, data in results['all_adjectives'].items() 
+
+            monosyllabic_count = sum(1 for headword, data in results['all_adjectives'].items()
                                    if is_monosyllabic_root(headword, data['stem_forms']))
-            
+
             log_file.write(f"Total adjectives found: {len(results['all_adjectives'])}\n")
             log_file.write(f"Monosyllabic adjectives found: {monosyllabic_count}\n")
             log_file.write(f"Always -e adjectives found: {len(results['always_e_adjectives'])}\n\n")
-            
+
             log_file.write("Files generated in this directory:\n")
             files = [
                 f"{text_type.lower()}_weak_no_e_all_instances.csv - All weak declension forms without -e",
-                f"{text_type.lower()}_weak_no_e_strict_instances.csv - Strict weak declension exceptions", 
+                f"{text_type.lower()}_weak_no_e_strict_instances.csv - Strict weak declension exceptions",
                 f"{text_type.lower()}_plural_no_e_all_instances.csv - All plural forms without -e",
                 f"{text_type.lower()}_plural_no_e_strict_instances.csv - Strict plural exceptions",
                 f"{text_type.lower()}_strong_with_e_all_instances.csv - All strong forms with -e",
@@ -719,50 +723,50 @@ if __name__ == "__main__":
                 f"{text_type.lower()}_strong_exceptions.docx - Strong form exceptions (filtered)",
                 f"{text_type.lower()}_analysis_log.txt - This log file"
             ]
-            
+
             for file_desc in files:
                 log_file.write(f"- {file_desc}\n")
-    
+
     # Write comparison log
     with open(os.path.join(comparison_output_dir, 'comparison_analysis_log.txt'), 'w', encoding='utf-8') as log_file:
         log_file.write("Oxford vs Riverside Comparison Analysis - Complete\n")
         log_file.write("="*50 + "\n\n")
-        
-        categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all', 
+
+        categories = ['weak_no_e_all', 'weak_no_e_strict', 'plural_no_e_all',
                       'plural_no_e_strict', 'strong_with_e_all', 'strong_with_e_strict',
                       'strong_with_e_all_filtered', 'strong_with_e_strict_filtered']
-        
+
         log_file.write("Comparison Summary:\n")
         for category in categories:
             oxford_count = len(comparison['oxford_only'][category])
             riverside_count = len(comparison['riverside_only'][category])
             both_count = len(comparison['both_texts'][category])
             log_file.write(f"{category}: Oxford={oxford_count}, Riverside={riverside_count}, Both={both_count}\n")
-        
+
         log_file.write("\nFiles generated in this directory:\n")
         comparison_files = [
             "comparison_summary.csv - Overall comparison statistics",
             "comparison_summary.docx - Detailed comparison summary document",
             "both_weak_plural_exceptions.docx - Weak & plural exceptions in both texts",
-            "both_strong_exceptions.docx - Strong form exceptions in both texts", 
+            "both_strong_exceptions.docx - Strong form exceptions in both texts",
             "oxford_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Oxford",
             "oxford_only_strong_exceptions.docx - Strong form exceptions only in Oxford",
             "riverside_only_weak_plural_exceptions.docx - Weak & plural exceptions only in Riverside",
             "riverside_only_strong_exceptions.docx - Strong form exceptions only in Riverside"
         ]
-        
+
         for category in categories:
             comparison_files.extend([
                 f"oxford_only_{category}.csv - Exceptions found only in Oxford",
-                f"riverside_only_{category}.csv - Exceptions found only in Riverside", 
+                f"riverside_only_{category}.csv - Exceptions found only in Riverside",
                 f"both_texts_{category}.csv - Exceptions found in both texts"
             ])
-        
+
         comparison_files.append("comparison_analysis_log.txt - This log file")
-        
+
         for file_desc in comparison_files:
             log_file.write(f"- {file_desc}\n")
-    
+
     print("\nAnalysis complete!")
     print(f"Oxford results: {oxford_output_dir}/")
     print(f"Riverside results: {riverside_output_dir}/")
