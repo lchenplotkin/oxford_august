@@ -636,7 +636,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1788,DIFF,,10,ich@pron%nom,haven@v%pr_1,to@prep,dai@n,ben@v%ppl,at@prep,your@pron%pl_gen,chirche@n,at@prep,messe@n1
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1788,DIFF,,10,I,have,today,been,at,your,chirche,at,messe
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1788,DIFF,,10,u,Sx,uS,u,S,u,Sx,u,Sx
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1788,DIFF,,10,ich@pron%nom,haven@v%pr_1,,ben@v%ppl,to@prep,your@pron%pl_gen,chirche@n,to@prep,messe@n1
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1788,DIFF,,10,ich@pron%nom,haven@v%pr_1,,ben@v%ppl,to@prep,your@pron%pl_gen,chirche@n,at@prep,messe@n1
 
 And seyd a sermon after my symple wit --,||,"And seid a sermon after° my simple wit,°"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1789,,,10,And,seyd,a,sermon,after,my,symple,wit
@@ -1132,7 +1132,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1850,DIFF,,10,bi@prep,god@n1#propn,ich@pron%nom,willen@v%pt_1,not@adv,tellen@v%inf,hit@pron,but@conj,a@indef_art,feue@pron
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1850,DIFF,,10,By,God,I,nold,nat,telle,it,but,a,fewe
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1850,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1850,DIFF,,10,bi@prep,god@n1#propn,ich@pron%nom,,not@adv,tellen@v%inf,hit@pron,but@conj,ich@pron%nom,feue@pron
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1850,DIFF,,10,bi@prep,god@n1#propn,ich@pron%nom,,not@adv,tellen@v%inf,hit@pron,but@conj,a@indef_art,feue@pron
 
 """Now, sire,"" quod she, ""but o word er I go.",||,"¶“Now, sir,” quod she, “but o° word er° I go;"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1851,,,10,Now,sire,quod,she,but,o,word,er,I,go
@@ -2324,7 +2324,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1999,DIFF,,10,nou@adv,sitthe@conj,ye@pron%pl_nom,haven@v%pr_pl,so@adv,holi@adj2,mek@adj,a@indef_art,wif@n
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1999,DIFF,,10,Now,sith,ye,han,so,holy,and,meke,a,wif
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1999,DIFF,,10,u,S,u,S,u,Sx,u,Sx,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1999,DIFF,,10,nou@adv,sitthe@conj,ye@pron%pl_nom,haven@v%pr_pl,so@adv,holi@adj2,,mek@adj,ye@pron%pl_nom,wif@n
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 1999,DIFF,,10,nou@adv,sitthe@conj,ye@pron%pl_nom,haven@v%pr_pl,so@adv,holi@adj2,,mek@adj,a@indef_art,wif@n
 
 "What nedeth yow, Thomas, to maken stryf?",||,"What nedeth yow,° Thomas, to maken strif?"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2000,,,10,What,nedeth,yow,Thomas,to,maken,stryf
@@ -2572,7 +2572,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2030,DIFF,,10,thanne@adv,thinken@v2%pt_pl,thei@pron%pl_nom,hit@pron,ben@v%pt_3,the@def_art,best@adj%sup,red@n1
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2030,DIFF,,10,Than,thoughte,they,it,was,the,beste,reed
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2030,DIFF,,10,u,Su,S,u,S,u,Su,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2030,DIFF,,10,thanne@adv,thinken@v2%pt_pl,thei@pron%pl_nom,hit@pron,,thei@pron%pl_nom,best@adj%sup,red@n1
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2030,DIFF,,10,thanne@adv,thinken@v2%pt_pl,thei@pron%pl_nom,hit@pron,,the@def_art,best@adj%sup,red@n1
 
 To lede hem bothe to the juge agayn.,||,To lede hem bothe to the juge again.
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2031,,,10,To,lede,hem,bothe,to,the,juge,agayn
@@ -3036,7 +3036,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2088,DIFF,,10,leste@conj,the@pron2%obj,repenten@v%pr_3,ich@pron%nom,willen@v%pr_1,no@gram_adj,ferther@adv%comp,seien@v1%inf
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2088,DIFF,,10,Lest,thee,repent,ther,is,namore,to,seye
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2088,DIFF,,10,u,S,uS,u,S,uSx,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2088,DIFF,,10,leste@conj,the@pron2%obj,repenten@v%pr_3,,seien@v1%inf,,,seien@v1%inf
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2088,DIFF,,10,leste@conj,the@pron2%obj,repenten@v%pr_3,,seien@v1%inf,,,
 
 """Now, Thomas, leeve brother, lef thyn ire;",||,"¶“Now Thomas, leve brother, lef° thin ire;°"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2089,,,10,Now,Thomas,leeve,brother,lef,thyn,ire
@@ -3108,7 +3108,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2097,DIFF,,10,neden@v2%pr_3,no_more@n,to@part,speken@v%inf,of@prep,hit@pron,seien@v1%pr_3,he@pron1%nom
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2097,DIFF,,10,Nedeth,namoor,to,speke,of,it,seith,he
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2097,DIFF,,10,uS,uS,u,Sx,u,S,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2097,DIFF,,10,neden@v2%pr_3,no_more@n,to@part,,of@prep,to@part,seien@v1%pr_3,he@pron1%nom
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2097,DIFF,,10,neden@v2%pr_3,no_more@n,to@part,,of@prep,hit@pron,seien@v1%pr_3,he@pron1%nom
 
 """But if me list, of myn humylitee.""",||,“But if° me list° of° min humilitee.”
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2098,,,10,But,if,me,list,of,myn,humylitee
@@ -3452,7 +3452,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2140,DIFF,,10,nou@adv,thanne@adv,putten@v%imp,in@adv,thin@pron%gen,honde@n,doun@adv,bi@prep,min@pron%gen,bak@n
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2140,DIFF,,10,Now,thanne,put,thin,hand,doun,by,my,bak
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2140,DIFF,,10,u,Su,S,u,S,u,S,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2140,DIFF,,10,nou@adv,thanne@adv,putten@v%imp,thanne@adv,honde@n,doun@adv,bi@prep,min@pron%gen,bak@n
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2140,DIFF,,10,nou@adv,thanne@adv,putten@v%imp,thin@pron%gen,honde@n,doun@adv,bi@prep,min@pron%gen,bak@n
 
 "Seyde this man, ""and grope wel bihynde.",||,"Seid this man, “and grope wel bihinde;"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2141,,,9,Seyde,this,man,and,grope,wel,bihynde
@@ -3484,7 +3484,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2144,DIFF,,10,a@interj,thinken@v2%pt_3,this@gram_adj,frere@n,that@pron,shulen@v1%pr_3,gon@v%inf,with@prep,me@pron2%obj
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2144,DIFF,,10,A,thoght,this,frere,This,shal,go,with,me
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2144,DIFF,,10,u,S,u,Su,S,u,S,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2144,DIFF,,10,a@interj,thinken@v2%pt_3,this@gram_adj,frere@n,this@gram_adj,shulen@v1%pr_3,gon@v%inf,with@prep,me@pron2%obj
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2144,DIFF,,10,a@interj,thinken@v2%pt_3,this@gram_adj,frere@n,,shulen@v1%pr_3,gon@v%inf,with@prep,me@pron2%obj
 
 And doun his hand he launcheth to the clifte,||,"And doun his hand he launcheth° to the clifte,°"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2145,,,10,And,doun,his,hand,he,launcheth,to,the,clifte
@@ -3964,7 +3964,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2204,DIFF,,10,ma-dame@n,quethen@v%pt_3,he@pron1%nom,hou@adv&conj,thinken@v2%pr_pl,ye@pron%pl_nom,her-bi@adv
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2204,DIFF,,10,Madame,quod,he,how,thinketh,yow,herby
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2204,DIFF,,10,uSx,u,S,u,Su,S,uS
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2204,DIFF,,10,ma-dame@n,quethen@v%pt_3,he@pron1%nom,he@pron1%nom,,ye@pron%pl_nom,her-bi@adv
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2204,DIFF,,10,ma-dame@n,quethen@v%pt_3,he@pron1%nom,hou@adv&conj,,ye@pron%pl_nom,her-bi@adv
 
 """How that me thynketh?"" quod she. ""So God me speede,",||,"“How that me thinketh?” quod she; “So God me speede,°"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2205,,,10,How,that,me,thynketh,quod,she,So,God,me,speede
@@ -4292,7 +4292,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2245,DIFF,,10,of@prep,al@gram_adj,thing@n%pl,which@pron,ich@pron%nom,haven@v%pr_1,you@pron%pl_obj,seien@v1%ppl
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2245,DIFF,,10,Of,alle,thing,of,which,I,have,yow,said
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2245,DIFF,,10,u,Su,S,u,S,u,Sx,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2245,DIFF,,10,of@prep,al@gram_adj,,of@prep,which@pron,ich@pron%nom,haven@v%pr_1,ich@pron%nom,seien@v1%ppl
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2245,DIFF,,10,of@prep,al@gram_adj,,,which@pron,ich@pron%nom,haven@v%pr_1,you@pron%pl_obj,seien@v1%ppl
 
 """My lord,"" quod he, ""be ye nat yvele apayd,",||,"¶“My lord,” quod he, “be ye nat yvel apaid;°"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2246,,,0,My,lord,quod,he,be,ye,nat,yvele,apayd
@@ -4580,7 +4580,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2281,DIFF,,10,he@pron1%nom,haven@v%pr_3,to-dai@adv,techen@v%ppl,us@pron%pl_obj,so@adv,muche@adj,god@n2
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2281,DIFF,,10,He,hath,today,taught,us,so,muchel,good
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2281,DIFF,,10,u,S,uS,u,S,u,Su,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2281,DIFF,,10,he@pron1%nom,haven@v%pr_3,to-dai@adv,techen@v%ppl,us@pron%pl_obj,us@pron%pl_obj,,god@n2
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2281,DIFF,,10,he@pron1%nom,haven@v%pr_3,to-dai@adv,techen@v%ppl,us@pron%pl_obj,so@adv,,god@n2
 
 "With prechyng in the pulpit ther he stood,",||,"With preching in the pulpit ther° he stood,"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2282,,,10,With,prechyng,in,the,pulpit,ther,he,stood
@@ -4596,7 +4596,7 @@ data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2283,DIFF,,10,that@conj,ich@pron%nom,mouen@v3%pr_1,vouchen@v%inf,sauf@adv,ich@pron%nom,seien@v1%pr_1,for@prep,me@pron2%obj
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2283,DIFF,,10,That,I,may,vouchesauf,I,sey,for,me
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2283,DIFF,,10,u,S,u,SuS,u,S,u,S
-data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2283,DIFF,,10,that@conj,ich@pron%nom,mouen@v3%pr_1,,ich@pron%nom,seien@v1%pr_1,for@prep,mouen@v3%pr_1
+data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2283,DIFF,,10,that@conj,ich@pron%nom,mouen@v3%pr_1,,ich@pron%nom,seien@v1%pr_1,for@prep,me@pron2%obj
 
 He hadde the firste smel of fartes thre;,||,"He had° the firste smel of fartes three,"
 data/riverside_cats/SumT_riv.cat,data/oxford_txts/SumT_oxford.txt,data/csvs/SumT,The Summoner's Tale 2284,,,10,He,hadde,the,firste,smel,of,fartes,thre

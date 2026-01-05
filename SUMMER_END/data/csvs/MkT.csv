@@ -76,7 +76,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2000,DIFF,,10,and@conj,not@adv,a@indef_art,man@n,at@prep,him@pron%obj,willen@v%pr_1,ich@pron%nom,biginnen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2000,DIFF,,10,And,nat,a,man,at,him,I,wol,biginne
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2000,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2000,DIFF,,10,and@conj,not@adv,a@indef_art,man@n,at@prep,him@pron%obj,a@indef_art,willen@v%pr_1,biginnen@v%inf
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2000,DIFF,,10,and@conj,not@adv,a@indef_art,man@n,at@prep,him@pron%obj,ich@pron%nom,willen@v%pr_1,biginnen@v%inf
 
 "For though Fortune may noon angel dere,",||,"For, thogh fortune may non° angel dere,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2001,,,10,For,though,Fortune,may,noon,angel,dere
@@ -484,7 +484,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2051,DIFF,,10,heighe@adv,on@prep,a@indef_art,hille@n,wher-as@adv,man@n%pl,mouen@v3%pt_pl,hem@pron%pl_obj,sen@v1%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2051,DIFF,,10,Hie,on,an,hille,that,men,mighte,hem,see
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2051,DIFF,,10,u,S,u,Su,S,u,Sx,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2051,DIFF,,10,heighe@adv,on@prep,on@prep,hille@n,,man@n%pl,mouen@v3%pt_pl,hem@pron%pl_obj,sen@v1%inf
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2051,DIFF,,10,heighe@adv,on@prep,a@indef_art,hille@n,,man@n%pl,mouen@v3%pt_pl,hem@pron%pl_obj,sen@v1%inf
 
 "O noble, almyghty Sampsoun, lief and deere,",||,"O noble almighty Sampson, leef° and dere,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2052,,,0,O,noble,almyghty,Sampsoun,lief,and,deere
@@ -708,7 +708,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2079,DIFF,,0,the@def_art,ende@n1,of@prep,this@gram_adj,caitif@n,ben@v%pt_3,as@conj,ich@pron%nom,shulen@v1%pr_1,seien@v1%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2079,DIFF,,10,Thende,of,this,caitif,was,as,I,shal,seye
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2079,DIFF,,10,ux,S,u,Su,S,u,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2079,DIFF,,10,,of@prep,this@gram_adj,caitif@n,ben@v%pt_3,as@conj,ich@pron%nom,shulen@v1%pr_1,as@conj
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2079,DIFF,,10,,of@prep,this@gram_adj,caitif@n,ben@v%pt_3,as@conj,ich@pron%nom,shulen@v1%pr_1,seien@v1%inf
 
 "His foomen made a feeste upon a day,",||,"His fomen° made a feste upon a day,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2080,,,10,His,foomen,made,a,feeste,upon,a,day
@@ -724,7 +724,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2081,DIFF,,10,and@conj,maken@v1%pt_pl,him@pron%obj,as@conj,here@pron%pl_gen,fol@n,biforen@prep,hem@pron%pl_obj,pleien@v1%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2081,DIFF,,10,And,made,him,as,hir,fool,bifore,hem,pleye
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2081,DIFF,,10,u,Sx,u,S,u,S,uSx,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2081,DIFF,,10,and@conj,maken@v1%pt_pl,him@pron%obj,as@conj,here@pron%pl_gen,fol@n,,him@pron%obj,pleien@v1%inf
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2081,DIFF,,10,and@conj,maken@v1%pt_pl,him@pron%obj,as@conj,here@pron%pl_gen,fol@n,,hem@pron%pl_obj,pleien@v1%inf
 
 And this was in a temple of greet array.,||,And this was in a temple of greet array.°
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2082,,,0,And,this,was,in,a,temple,of,greet,array
@@ -1628,7 +1628,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2194,DIFF,,10,gon@v%imp,bringen@v%imp,forth@adv,the@def_art,vessel@n%pl,quethen@v%pt_3,he@pron1%nom
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2194,DIFF,,10,Goth,bringeth,forth,the,vessels,tho,quod,he
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2194,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2194,DIFF,,10,gon@v%imp,bringen@v%imp,forth@adv,the@def_art,vessel@n%pl,the@def_art,quethen@v%pt_3,he@pron1%nom
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2194,DIFF,,10,gon@v%imp,bringen@v%imp,forth@adv,the@def_art,vessel@n%pl,,quethen@v%pt_3,he@pron1%nom
 
 """Whiche that my fader in his prosperitee",||,"“Which that my fader, in his prosperitee,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2195,,,10,Whiche,that,my,fader,in,his,prosperitee
@@ -1791,12 +1791,12 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2214,,,10,and@conj,him@pron%obj,bireven@v%pt_3,the@def_art,regne@n1,that@pron,he@pron1%nom,haven@v%pt_3
 
 """He was out cast of mannes compaignye;",||,"He was out cast of mannes companie,"
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,0,He,was,out,cast,of,mannes,compaignye
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,0,,,,,,,
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,0,he@pron1%nom,ben@v%pt_3,oute@adv,casten@v%ppl,of@prep,man@n%gen,compaignie@n
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,10,He,was,out,cast,of,mannes,companie
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,10,u,S,u,S,u,Su,SuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,DIFF,,10,he@pron1%nom,ben@v%pt_3,oute@adv,casten@v%ppl,of@prep,man@n%gen,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,0,He,was,out,cast,of,mannes,compaignye
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,0,,,,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,0,he@pron1%nom,ben@v%pt_3,oute@adv,casten@v%ppl,of@prep,man@n%gen,compaignie@n
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,10,He,was,out,cast,of,mannes,companie
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,10,u,S,u,S,u,Su,SuS
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2215,,,10,he@pron1%nom,ben@v%pt_3,oute@adv,casten@v%ppl,of@prep,man@n%gen,compaignie@n
 
 "With asses was his habitacioun,",||,"With asses was his habitacioun,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2216,,,10,With,asses,was,his,habitacioun
@@ -2895,12 +2895,12 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2352,,,10,of@prep,rome@n#propn,comen@v%pt_3,in-to@prep,his@pron1%gen,honde@n%pl,twein@num_adj
 
 He shoop upon this queene to doon vengeaunce.,||,"He shoop° upon this queen to do vengeaunce,"
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,He,shoop,upon,this,queene,to,doon,vengeaunce
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,,,,,,,,
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,he@pron1%nom,shapen@v%pt_3,upon@prep,this@gram_adj,quene@n2,to@part,don@v1%inf,vengeaunce@n
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,He,shoop,upon,this,queen,to,do,vengeaunce
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,,,,,,,,
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,DIFF,,0,he@pron1%nom,shapen@v%pt_3,upon@prep,this@gram_adj,quene@n2,to@part,,vengeaunce@n
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,He,shoop,upon,this,queene,to,doon,vengeaunce
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,,,,,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,he@pron1%nom,shapen@v%pt_3,upon@prep,this@gram_adj,quene@n2,to@part,don@v1%inf,vengeaunce@n
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,He,shoop,upon,this,queen,to,do,vengeaunce
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,,,,,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2353,,,0,he@pron1%nom,shapen@v%pt_3,upon@prep,this@gram_adj,quene@n2,to@part,don@v1%inf,vengeaunce@n
 
 And with his legions he took his weye,||,And with his legiouns he took his weye
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2354,,,10,And,with,his,legions,he,took,his,weye
@@ -3108,7 +3108,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2379,DIFF,,10,and@conj,after@adv,at@prep,a@indef_art,sege@n2,bi@prep,sotilte@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2379,DIFF,,10,Both,Est,and,West,South,and,Septemtrioun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2379,DIFF,,10,u,S,u,S,u,S,uSuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2379,DIFF,,10,,,and@conj,,,and@conj,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2379,DIFF,,10,,,and@conj,,,,
 
 "Thou were bitraysed and lad unto his tente,",||,"Of rubies, saphires, and of perles white"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2380,DIFF,,10,Thou,were,bitraysed,and,lad,unto,his,tente
@@ -3388,7 +3388,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2414,DIFF,,10,swich@gram_adj,brid@n%pl,for@prep#adv,to@part,putten@v%inf,in@prep,swich@gram_adj,a@indef_art,cage@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2414,DIFF,,10,Or,any,vice,dorste,on,him,uncouple
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2414,DIFF,,10,u,Su,Su,Sx,u,S,uSx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2414,DIFF,,10,,in@prep,,,in@prep,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2414,DIFF,,10,,in@prep,,,,,
 
 "Dampned was he to dyen in that prisoun,",||,"This Seneca, of which° that I devise,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2415,DIFF,,10,Dampned,was,he,to,dyen,in,that,prisoun
@@ -3444,7 +3444,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2421,DIFF,,10,so@adv,smal@adj,that@conj,wel@adv,unethe@adv,hit@pron,mouen@v3%pr_3,suffisen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2421,DIFF,,10,For,which,he,in,a,bath,made,him,to,blede
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2421,DIFF,,10,u,S,u,S,u,S,ux,S,u,Sx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2421,DIFF,,10,,,,,,,,,hit@pron,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2421,DIFF,,10,,,,,,,,,,
 
 And therwithal it was ful povre and badde.,||,"On bothe his armes, til he moste die."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2422,DIFF,,10,And,therwithal,it,was,ful,povre,and,badde
@@ -3660,7 +3660,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2448,DIFF,,10,that@conj,he@pron1%nom,his@pron1%gen,arm@n%pl,gnauen@v%pt_3,and@conj,not@adv,for@prep,wo@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2448,DIFF,,10,That,with,his,eres,herde,he,how,they,seide
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2448,DIFF,,10,u,S,u,Su,Sx,u,S,u,Sx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2448,DIFF,,10,that@conj,,his@pron1%gen,,,he@pron1%nom,he@pron1%nom,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2448,DIFF,,10,that@conj,,his@pron1%gen,,,he@pron1%nom,,,
 
 "And seyde, ""Fader, do nat so, allas!",||,"“Wher is this false tiraunt, this Neroun?”"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2449,DIFF,,10,And,seyde,Fader,do,nat,so,allas
@@ -3692,7 +3692,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2452,DIFF,,10,and@conj,eten@v%imp,inough@n,--@dash,righte@adv,thus@adv,thei@pron%pl_nom,to@prep,him@pron%obj,seien@v1%pt_pl
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2452,DIFF,,10,For,socour,but,it,mighte,nat,bitide
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2452,DIFF,,10,u,Su,S,u,Su,S,uSx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2452,DIFF,,10,,,,eten@v%imp,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2452,DIFF,,10,,,,,,,
 
 "And after that, withinne a day or two,",||,"For drede of this, him thoughte that he deide,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2453,DIFF,,10,And,after,that,withinne,a,day,or,two
@@ -3740,7 +3740,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2458,DIFF,,10,of@prep,this@gram_adj,tragedie@n,hit@pron,ouen@v%pt_3,inough@adv,suffisen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2458,DIFF,,10,To,sleen,him,and,to,girden,of,his,heed
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2458,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2458,DIFF,,10,hit@pron,,,,hit@pron,,of@prep,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2458,DIFF,,10,,,,,,,of@prep,,
 
 "Whoso wol here it in a lenger wise,",||,"That to his body, whan that he were° deed,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,Whoso,wol,here,it,in,a,lenger,wise
@@ -3748,7 +3748,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,who-so@pron%nom,willen@v%pr_3,heren@v%inf,hit@pron,in@prep,a@indef_art,lengere@adj%comp,wise@n2
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,That,to,his,body,whan,that,he,were,deed
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,u,S,u,Su,S,u,S,ux,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,,hit@pron,,,,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2459,DIFF,,10,,,,,,,,,
 
 Redeth the grete poete of Ytaille,||,"Were no despit° ydoon, for° his defame."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2460,DIFF,,10,Redeth,the,grete,poete,of,Ytaille
@@ -3764,7 +3764,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2461,DIFF,,10,that@pron,hoten@v1%pt_3,dante@n#propn,for@conj,he@pron1%nom,connen@v%pr_3,al@gram_adjas_n,devisen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2461,DIFF,,10,Himself,he,slow,he,coud,no,better,reed
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2461,DIFF,,10,uS,u,S,u,S,u,Su,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2461,DIFF,,10,,he@pron1%nom,,he@pron1%nom,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2461,DIFF,,10,,he@pron1%nom,,,,,,
 
 Fro point to point; nat o word wol he faille.,||,"Of which fortune lough, and hadde a game."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2462,DIFF,,10,Fro,point,to,point,nat,o,word,wol,he,faille
@@ -3804,7 +3804,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2466,DIFF,,10,this@gram_adj,wid@adj,world@n,haven@v%pt_3,in@prep,subjeccioun@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2466,DIFF,,10,As,in,his,time,ne,gretter,of,renoun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2466,DIFF,,10,u,S,u,Sx,u,Su,S,uS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2466,DIFF,,10,,in@prep,,,in@prep,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2466,DIFF,,10,,in@prep,,,,,,
 
 "Bothe est and west, [south], and septemtrioun.",||,Ne more pompous° in heigh presumpcioun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2467,DIFF,,10,Bothe,est,and,west,south,and,septemtrioun
@@ -3828,7 +3828,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2469,DIFF,,10,ben@v%pt_pl,al@gram_adj,his@pron1%gen,cloth@n%pl,brouded@ppl,up@adv,and@conj,doun@adv
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2469,DIFF,,10,So,likerously,and,ladde,him,up,and,doun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2469,DIFF,,10,u,SuSx,u,Sx,u,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2469,DIFF,,10,,,and@conj,,,up@adv,and@conj,doun@adv
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2469,DIFF,,10,,,and@conj,,,up@adv,,doun@adv
 
 For he in gemmes greetly gan delite.,||,"Til that his heed was of, er that° he wiste."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2470,DIFF,,10,For,he,in,gemmes,greetly,gan,delite
@@ -3932,7 +3932,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2482,DIFF,,10,and@conj,slen@v%pt_3,his@pron1%gen,brother@n,and@conj,bi@prep,his@pron1%gen,suster@n,lien@v1%pt_3
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2482,DIFF,,10,And,yit,for,al,his,pompe,and,al,his,might
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2482,DIFF,,10,u,S,u,S,u,Sx,u,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2482,DIFF,,10,and@conj,,,lien@v1%pt_3,his@pron1%gen,,and@conj,lien@v1%pt_3,his@pron1%gen,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2482,DIFF,,10,and@conj,,,lien@v1%pt_3,his@pron1%gen,,and@conj,,his@pron1%gen,
 
 "His mooder made he in pitous array,",||,"Judith, a womman, as he lay upright,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2483,DIFF,,10,His,mooder,made,he,in,pitous,array
@@ -3972,7 +3972,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2487,DIFF,,10,no@gram_adj,tere@n,oute@adv#prep,of@prep,his@pron1%gen,eie@n1%pl,for@prep,that@art&gram_adj,sighte@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2487,DIFF,,10,What,nedeth,it,of,King,Anthiochus
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2487,DIFF,,10,u,Su,S,u,S,uSuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2487,DIFF,,10,,,oute@adv#prep,of@prep,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2487,DIFF,,10,,,,of@prep,,
 
 "Ne cam, but seyde, ""A fair womman was she!""",||,"To telle his hye royal magestee,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2488,DIFF,,10,Ne,cam,but,seyde,A,fair,womman,was,she
@@ -4132,7 +4132,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2507,DIFF,,10,sire@n,willen@v%pt_3,he@pron1%nom,seien@v1%inf,a@indef_art,emperour@n,moten@v2%pr_3,nede@adv
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2507,DIFF,,10,And,swoor,and,seide,ful,despitously
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2507,DIFF,,10,u,S,u,Su,S,uSuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2507,DIFF,,10,nede@adv,,nede@adv,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2507,DIFF,,10,nede@adv,,,,,
 
 "Be vertuous and hate tirannye --""",||,"Unto Jerusalem he wolde° eftsone,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2508,DIFF,,0,Be,vertuous,and,hate,tirannye
@@ -4148,7 +4148,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2509,DIFF,,10,for@prep,which@pron,he@pron1%nom,in@prep,a@indef_art,bath@n,maken@v1%pt_3,him@pron%obj,to@part,bleden@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2509,DIFF,,10,To,wreken,his,ire,on,it,ful,cruelly
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2509,DIFF,,10,u,Su,S,ux,S,u,S,uS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2509,DIFF,,10,to@part,,,,in@prep,to@part,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2509,DIFF,,10,to@part,,,,in@prep,,,
 
 "On bothe his armes, til he moste dye.",||,But of° his purpos he was let° ful sone.
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2510,DIFF,,10,On,bothe,his,armes,til,he,moste,dye
@@ -4236,7 +4236,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2520,DIFF,,9,the@def_art,heigh@adj,pride@n2,of@prep,nero@n#propn,to@part,cherishen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2520,DIFF,,10,And,sodeinly,er,he,of,it,was,war
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2520,DIFF,,10,u,SuS,u,S,u,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2520,DIFF,,10,,,,heigh@adj,of@prep,to@part,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2520,DIFF,,10,,,,heigh@adj,of@prep,,,
 
 "For though that he were strong, yet was she strenger.",||,God daunted° al his pride and al his bost.
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2521,DIFF,,10,For,though,that,he,were,strong,yet,was,she,strenger
@@ -4260,7 +4260,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2523,DIFF,,10,to@part,setten@v%inf,a@indef_art,man@n,that@pron,ben@v%pr_3,ful-fillen@v%ppl,of@prep,vice@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2523,DIFF,,10,That,it,his,limes,and,his,skin,totar
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2523,DIFF,,10,u,S,u,Su,S,u,S,uS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2523,DIFF,,10,that@pron,to@part,,,,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2523,DIFF,,10,that@pron,,,,,,,
 
 "In heigh degree, and emperour hym calle.",||,"So that he neither mighte go ne ride,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2524,DIFF,,10,In,heigh,degree,and,emperour,hym,calle
@@ -4428,7 +4428,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2544,DIFF,,9,that@pron,sitten@v%pt_pl,bi@prep,a@indef_art,fir@n,gret@adj,and@conj,red@adj
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2544,DIFF,,10,That,every,wight,that,hath,discrecioun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2544,DIFF,,10,u,Sxu,S,u,S,uSuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2544,DIFF,,10,that@pron,,,that@pron,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2544,DIFF,,10,that@pron,,,,,
 
 And to thise cherles two he gan to preye,||,Hath herd somwhat° or al of his fortune.
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2545,DIFF,,10,And,to,thise,cherles,two,he,gan,to,preye
@@ -4452,7 +4452,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2547,DIFF,,10,that@conj,to@prep,his@pron1%gen,bodi@n,whan@adv&conj,that@part,he@pron1%nom,ben@v%pt_3,ded@adj
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2547,DIFF,,10,He,wan,by,strengthe,or,for,his,hie,renoun
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2547,DIFF,,10,u,S,u,Sx,u,S,u,S,uS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2547,DIFF,,10,he@pron1%nom,,,,,,his@pron1%gen,he@pron1%nom,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2547,DIFF,,10,he@pron1%nom,,,,,,his@pron1%gen,,
 
 Were no despit ydoon for his defame.,||,They weren glad for pees unto him sende.
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2548,DIFF,,10,Were,no,despit,ydoon,for,his,defame
@@ -4508,7 +4508,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2554,DIFF,,10,as@conj,in@prep,his@pron1%gen,time@n,ne@conj1,gret@adj%comp,of@prep,renoun@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2554,DIFF,,10,He,was,of,knighthode,and,of,fredom,flour
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2554,DIFF,,10,u,S,u,Sux,S,u,Su,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2554,DIFF,,10,,,of@prep,,,of@prep,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2554,DIFF,,10,,,of@prep,,,,,
 
 Ne moore pompous in heigh presumpcioun,||,Fortune him made the heir of hir honour;
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2555,DIFF,,10,Ne,moore,pompous,in,heigh,presumpcioun
@@ -4596,7 +4596,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2565,DIFF,,10,sauf@prep#conj,in@prep,bethulia@n#propn,a@indef_art,strong@adj,cite@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2565,DIFF,,10,For,though,I,write,or,told,you,evermo
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2565,DIFF,,10,u,S,u,Sx,u,S,u,SuS
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2565,DIFF,,10,,,a@indef_art,,,,a@indef_art,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2565,DIFF,,10,,,a@indef_art,,,,,
 
 Where Eliachim a preest was of that place.,||,"Of his knighthode, it mighte nat suffise."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2566,DIFF,,10,Where,Eliachim,a,preest,was,of,that,place
@@ -4676,7 +4676,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2575,DIFF,,10,what@adv,neden@v2%pr_3,hit@pron,of@prep,king@n,anthiochus@n#propn
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2575,DIFF,,10,Who,shal,me,yeven,teres,to,compleine
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2575,DIFF,,10,u,S,u,Su,Su,S,uSx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2575,DIFF,,10,,,,,,hit@pron,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2575,DIFF,,10,,,,,,,
 
 "To telle his hye roial magestee,",||,"The deeth of gentillesse and of fraunchise,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2576,DIFF,,0,To,telle,his,hye,roial,magestee
@@ -4884,7 +4884,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2601,DIFF,,10,that@conj,in@prep,his@pron1%gen,gut@n%pl,kerven@v%pt_3,hit@pron,so@adv,and@conj,biten@v1%pt_3
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2601,DIFF,,10,Of,Rome,which,that,fleigh,at,this,bataille
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2601,DIFF,,10,u,Su,S,u,S,u,S,uSx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2601,DIFF,,10,,,,that@conj,,hit@pron,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2601,DIFF,,10,,,,that@conj,,,,
 
 That his peynes weren importable.,||,"I seye, oon of his men, a fals traitour,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2602,DIFF,,9,That,his,peynes,weren,importable
@@ -5044,7 +5044,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2621,DIFF,,10,in@prep,this@gram_adj,mischef@n,he@pron1%nom,weilen@v%pt_3,and@conj,ek@adv,wepen@v%pt_3
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2621,DIFF,,10,But,never,gronte,he,at,no,strook,but,oon
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2621,DIFF,,10,u,Su,Sx,u,S,u,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2621,DIFF,,10,,,,he@pron1%nom,,in@prep,,,in@prep
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2621,DIFF,,10,,,,he@pron1%nom,,in@prep,,,
 
 And knew God lord of every creature.,||,"Or elles at two, but if° his storie lie."
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2622,DIFF,,10,And,knew,God,lord,of,every,creature
@@ -5292,7 +5292,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2652,DIFF,,10,the@def_art,world@n,ben@v%pt_3,his@pron2%gen,--@dash,what@adv,shulen@v1%pt_1,ich@pron%nom,more@n3,devisen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2652,DIFF,,10,And,eek,a,sweven,upon,a,night,he,mette
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2652,DIFF,,10,u,S,u,Sx,uS,u,S,u,Sx
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2652,DIFF,,10,,,shulen@v1%pt_1,,,shulen@v1%pt_1,,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2652,DIFF,,10,,,shulen@v1%pt_1,,,,,,
 
 For though I write or tolde yow everemo,||,"Of which he was so proud and eek so fain,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2653,DIFF,,10,For,though,I,write,or,tolde,yow,everemo
@@ -5388,7 +5388,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2664,DIFF,,10,the@def_art,deth@n,of@prep,gentilesse@n,and@conj,of@prep,fraunchise@n
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2664,DIFF,,10,And,Juppiter,bitokneth,snow,and,rein
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2664,DIFF,,10,u,SuS,uSu,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2664,DIFF,,10,and@conj,,,,and@conj,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2664,DIFF,,10,and@conj,,,,,
 
 "That al the world weelded in his demeyne,",||,"And Phebus, with his towaille so clene,"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2665,DIFF,,10,That,al,the,world,weelded,in,his,demeyne
@@ -5420,7 +5420,7 @@ data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,Th
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2668,DIFF,,10,alas@interj,who@pron%nom,shulen@v1%pr_3,me@pron2%obj,helpen@v%inf,to@part,enditen@v%inf
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2668,DIFF,,10,Rein,shal,thee,wasshe,and,sonne,shal,thee,drie
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2668,DIFF,,10,u,S,u,Sx,u,Su,S,u,S
-data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2668,DIFF,,10,,shulen@v1%pr_3,,,,,shulen@v1%pr_3,,
+data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2668,DIFF,,10,,shulen@v1%pr_3,,,,,,,
 
 "False Fortune, and poyson to despise,",||,"Thus warned she him ful plat and ful plein,°"
 data/riverside_cats/MkT_riv.cat,data/oxford_txts/MkT_oxford.txt,data/csvs/MkT,The Monk's Tale 2669,DIFF,,9,False,Fortune,and,poyson,to,despise

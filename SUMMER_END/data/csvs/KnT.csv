@@ -311,12 +311,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 897,,,10,wher@adv&conj,that@part,ther@adv,knelen@v%pt_3,in@prep,the@def_art,heigh@adj,wei@n
 
 "A compaignye of ladyes, tweye and tweye,",||,"A companie of ladies, tweie and tweie,°"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,A,compaignye,of,ladyes,tweye,and,tweye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,a@indef_art,compaignie@n,of@prep,ladie@n%pl,twein@num_adv,and@conj,twein@num_adv
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,A,companie,of,ladies,tweie,and,tweie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,DIFF,,0,a@indef_art,,of@prep,ladie@n%pl,twein@num_adv,and@conj,twein@num_adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,A,compaignye,of,ladyes,tweye,and,tweye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,a@indef_art,compaignie@n,of@prep,ladie@n%pl,twein@num_adv,and@conj,twein@num_adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,A,companie,of,ladies,tweie,and,tweie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 898,,,0,a@indef_art,compaignie@n,of@prep,ladie@n%pl,twein@num_adv,and@conj,twein@num_adv
 
 Ech after oother clad in clothes blake;,||,"Ech after other, clad in clothes blake;"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 899,,,10,Ech,after,oother,clad,in,clothes,blake
@@ -524,7 +524,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 924,DIFF,,10,nou@adv,ben@v%pr_pl,we@pron%pl_nom,caitif@n%pl,as@conj,hit@pron,ben@v%pr_3,wel@adv,sen@v1%ppl
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 924,DIFF,,10,Now,be,we,caitifs,as,it,is,wel,sene
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 924,DIFF,,10,u,S,u,Su,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 924,DIFF,,10,nou@adv,ben@v%pr_pl,we@pron%pl_nom,,as@conj,hit@pron,as@conj,wel@adv,sen@v1%ppl
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 924,DIFF,,10,nou@adv,ben@v%pr_pl,we@pron%pl_nom,,as@conj,hit@pron,ben@v%pr_3,wel@adv,sen@v1%ppl
 
 "Thanked be Fortune and hire false wheel,",||,"Thanked be Fortune, and hir false wheel"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 925,,,10,Thanked,be,Fortune,and,hire,false,wheel
@@ -556,7 +556,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 928,DIFF,,0,her@adv,in@prep,this@gram_adj,temple@n1,of@prep,the@def_art,goddesse@n,clemence@n#propn
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 928,DIFF,,0,Here,in,the,temple,of,the,goddesse,Clemence
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 928,DIFF,,0,,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 928,DIFF,,0,her@adv,in@prep,the@def_art,temple@n1,of@prep,the@def_art,goddesse@n,clemence@n#propn
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 928,DIFF,,0,her@adv,in@prep,the@def_art,temple@n1,of@prep,,goddesse@n,clemence@n#propn
 
 We han ben waitynge al this fourtenyght.,||,We han ben waitinge al this fourtenight;
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 929,,,10,We,han,ben,waitynge,al,this,fourtenyght
@@ -1484,7 +1484,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1044,DIFF,,10,and@conj,maken@v1%pr_3,hit@pron,oute@adv#prep,of@prep,his@pron1%gen,slep@n,to@part,sterten@v%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1044,DIFF,,10,And,maketh,him,out,of,his,sleep,to,sterte
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1044,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1044,DIFF,,10,and@conj,maken@v1%pr_3,,hit@pron,of@prep,his@pron1%gen,slep@n,hit@pron,sterten@v%inf
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1044,DIFF,,10,and@conj,maken@v1%pr_3,,oute@adv#prep,of@prep,his@pron1%gen,slep@n,to@part,sterten@v%inf
 
 "And seith ""Arys, and do thyn observaunce.""",||,"And seith, “Aris, and do thin observaunce.”"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1045,,,10,And,seith,Arys,and,do,thyn,observaunce
@@ -2364,7 +2364,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1154,DIFF,,10,and@conj,thou@pron%nom,ben@v%pr_2,fals@adj,ich@pron%nom,tellen@v%pr_1,the@pron2%obj,outreli@adv
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1154,DIFF,,10,But,thou,art,fals,I,tell,thee,utterly
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1154,DIFF,,10,u,S,u,S,u,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1154,DIFF,,10,,thou@pron%nom,ben@v%pr_2,fals@adj,ich@pron%nom,tellen@v%pr_1,thou@pron%nom,outreli@adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1154,DIFF,,10,,thou@pron%nom,ben@v%pr_2,fals@adj,ich@pron%nom,tellen@v%pr_1,the@pron2%obj,outreli@adv
 
 For paramour I loved hire first er thow.,||,For par amour° I loved hir first er thow.
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1155,DIFF,,10,For,paramour,I,loved,hire,first,er,thow
@@ -2644,7 +2644,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1189,DIFF,,10,but@conj,to@prep,the@def_art,effect@n,hit@pron,happen@v1%pt_3,on@prep,a@indef_art,dai@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1189,DIFF,,10,But,to,theffect,It,happed,on,a,day
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1189,DIFF,,10,u,S,uS,u,Su,S,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1189,DIFF,,10,but@conj,to@prep,,to@prep,happen@v1%pt_3,on@prep,a@indef_art,dai@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1189,DIFF,,10,but@conj,to@prep,,hit@pron,happen@v1%pt_3,on@prep,a@indef_art,dai@n
 
 "To telle it yow as shortly as I may,",||,(To telle it yow as shortly as I may)
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1190,,,10,To,telle,it,yow,as,shortly,as,I,may
@@ -2828,7 +2828,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1212,DIFF,,10,ever@adv,in@prep,his@pron1%gen,lif@n,bi@prep,dai@n,or@conj,night@n,o@num_adj,stounde@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1212,DIFF,,10,Ever,in,his,lif,by,day,or,night,or,stounde
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1212,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1212,DIFF,,10,ever@adv,in@prep,his@pron1%gen,lif@n,bi@prep,dai@n,or@conj,night@n,or@conj,stounde@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1212,DIFF,,10,ever@adv,in@prep,his@pron1%gen,lif@n,bi@prep,dai@n,or@conj,night@n,,stounde@n
 
 "In any contree of this Theseus,",||,"In any contree of this Theseus,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1213,,,10,In,any,contree,of,this,Theseus
@@ -3076,7 +3076,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1243,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,to@prep,thin@pron%gen,desir@n,som-time@adv,atteinen@v%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1243,DIFF,,10,Thou,mayst,to,thy,desir,som,time,atteine
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1243,DIFF,,10,u,S,u,S,uS,u,Sx,uSx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1243,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,to@prep,thou@pron%nom,desir@n,,,atteinen@v%inf
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1243,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,to@prep,thin@pron%gen,desir@n,,,atteinen@v%inf
 
 "But I, that am exiled and bareyne",||,"But I, that am exiled, and bareine°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1244,,,10,But,I,that,am,exiled,and,bareyne
@@ -3116,7 +3116,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1248,DIFF,,10,that@pron,mouen@v3%pr_3,me@pron2%obj,helpen@v%inf,or@conj,don@v1%inf,comfort@n,in@prep,this@pron
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1248,DIFF,,10,That,may,me,heele,or,doon,confort,in,this
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1248,DIFF,,10,u,S,u,Sx,u,S,uS,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1248,DIFF,,10,that@pron,mouen@v3%pr_3,mouen@v3%pr_3,,or@conj,don@v1%inf,comfort@n,in@prep,this@pron
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1248,DIFF,,10,that@pron,mouen@v3%pr_3,me@pron2%obj,,or@conj,don@v1%inf,comfort@n,in@prep,this@pron
 
 Wel oughte I sterve in wanhope and distresse.,||,Wel oughte I sterve° in wanhope° and distresse;
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1249,,,10,Wel,oughte,I,sterve,in,wanhope,and,distresse
@@ -3148,7 +3148,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1252,DIFF,,10,on@prep,purveiaunce@n,of@prep,god@n1#propn,or@conj,of@prep,fortune@n#propn
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1252,DIFF,,10,Of,purveiaunce,of,God,or,of,fortune
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1252,DIFF,,10,u,SuSx,u,S,u,S,uSx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1252,DIFF,,10,of@prep,purveiaunce@n,of@prep,god@n1#propn,or@conj,of@prep,fortune@n#propn
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1252,DIFF,,10,of@prep,purveiaunce@n,of@prep,god@n1#propn,or@conj,,fortune@n#propn
 
 That yeveth hem ful ofte in many a gyse,||,That yeveth° hem ful ofte in many a gise°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1253,,,10,That,yeveth,hem,ful,ofte,in,many,a,gyse
@@ -4828,7 +4828,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1462,DIFF,,0,hit@pron,fallen@v%pt_3,that@conj,in@prep,the@def_art,seventhe@num_adj,yer@n,of@prep,mai@n2
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1462,DIFF,,10,It,fel,that,in,the,seventhe,yeer,in,May
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1462,DIFF,,10,u,S,u,S,u,Sux,S,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1462,DIFF,,10,hit@pron,fallen@v%pt_3,that@conj,in@prep,the@def_art,seventhe@num_adj,yer@n,in@prep,mai@n2
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1462,DIFF,,10,hit@pron,fallen@v%pt_3,that@conj,in@prep,the@def_art,seventhe@num_adj,yer@n,,mai@n2
 
 "The thridde nyght (as olde bookes seyn,",||,"The thridde° night (as olde bokes seyn,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1463,,,10,The,thridde,nyght,as,olde,bookes,seyn
@@ -5228,7 +5228,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1512,DIFF,,10,in@prep,hope@n1,that@conj,ich@pron%nom,som@gram_adj,grene@n1,geten@v1%inf,mouen@v3%pr_1
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1512,DIFF,,10,I,hope,that,I,som,grene,gete,may
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1512,DIFF,,10,u,Sx,u,S,u,Su,Su,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1512,DIFF,,10,ich@pron%nom,hope@n1,that@conj,ich@pron%nom,som@gram_adj,grene@n1,geten@v1%inf,mouen@v3%pr_1
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1512,DIFF,,10,ich@pron%nom,hope@n1,that@conj,,som@gram_adj,grene@n1,geten@v1%inf,mouen@v3%pr_1
 
 "And from his courser, with a lusty herte,",||,"And from his courser, with a lusty° herte,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1513,,,10,And,from,his,courser,with,a,lusty,herte
@@ -5612,7 +5612,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1560,DIFF,,10,thus@adv,haven@v%pr_3,your@pron%pl_gen,ire@n,oure@pron%pl_gen,linage@n,al@adv,fordon@v%ppl
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1560,DIFF,,10,Thus,hath,your,ire,our,kinrede,al,fordo
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1560,DIFF,,10,u,S,u,Sx,u,Sux,S,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1560,DIFF,,10,thus@adv,haven@v%pr_3,your@pron%pl_gen,your@pron%pl_gen,your@pron%pl_gen,,al@adv,fordon@v%ppl
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1560,DIFF,,10,thus@adv,haven@v%pr_3,your@pron%pl_gen,ire@n,oure@pron%pl_gen,,al@adv,fordon@v%ppl
 
 "Save oonly me and wrecched Palamoun,",||,"Save only me, and wrecched Palamoun,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1561,,,10,Save,oonly,me,and,wrecched,Palamoun
@@ -6228,7 +6228,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1637,DIFF,,10,to@part,chaungen@v%inf,ginnen@v%pt_3,the@def_art,colour@n,in@prep,here@pron%pl_gen,face@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1637,DIFF,,10,Tho,chaungen,gan,the,colour,in,hir,face
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1637,DIFF,,10,u,Su,S,u,Su,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1637,DIFF,,10,the@def_art,chaungen@v%inf,ginnen@v%pt_3,the@def_art,colour@n,in@prep,here@pron%pl_gen,face@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1637,DIFF,,10,the@def_art,chaungen@v%inf,ginnen@v%pt_3,,colour@n,in@prep,here@pron%pl_gen,face@n
 
 "Right as the hunters in the regne of Trace,",||,"Right as the hunters in the regne of Trace,°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1638,,,10,Right,as,the,hunters,in,the,regne,of,Trace
@@ -6892,7 +6892,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1720,DIFF,,10,ne@adv,yeven@v%imp,us@pron%pl_obj,neither@conj,merci@n1,ne@conj1,refuge@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1720,DIFF,,10,Ne,yeve,us,neither,mercy,ne,refuge
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1720,DIFF,,10,u,Sx,u,Su,Su,S,uSx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1720,DIFF,,10,ne@adv,,us@pron%pl_obj,neither@conj,merci@n1,ne@adv,refuge@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1720,DIFF,,10,ne@adv,,us@pron%pl_obj,neither@conj,merci@n1,ne@conj1,refuge@n
 
 "But sle me first, for seinte charitee!",||,"But slee me first, for seinte charitee;°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1721,,,10,But,sle,me,first,for,seinte,charitee
@@ -7127,12 +7127,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1749,,,10,ginnen@v%pt_3,for@prep#adv,to@part,wepen@v%inf,and@conj,so@adv,don@v1%pt_3,emelie@n#propn
 
 And alle the ladyes in the compaignye.,||,And alle the ladies in the companie.
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,And,alle,the,ladyes,in,the,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,and@conj,al@gram_adj,the@def_art,ladie@n%pl,in@prep,the@def_art,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,And,alle,the,ladies,in,the,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,DIFF,,0,and@conj,al@gram_adj,the@def_art,ladie@n%pl,in@prep,the@def_art,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,And,alle,the,ladyes,in,the,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,and@conj,al@gram_adj,the@def_art,ladie@n%pl,in@prep,the@def_art,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,And,alle,the,ladies,in,the,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1750,,,0,and@conj,al@gram_adj,the@def_art,ladie@n%pl,in@prep,the@def_art,compaignie@n
 
 "Greet pitee was it, as it thoughte hem alle,",||,"Gret pitee was it, as it thoughte hem alle,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1751,,,10,Greet,pitee,was,it,as,it,thoughte,hem,alle
@@ -8308,7 +8308,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1897,DIFF,,10,for@conj,in@prep,the@def_art,lond@n,ther@adv,ben@v%pt_3,no@gram_adj,crafti@adj,man@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1897,DIFF,,10,For,in,the,lond,ther,nas,no,crafty,man
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1897,DIFF,,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1897,DIFF,,10,for@conj,in@prep,the@def_art,lond@n,ther@adv,,in@prep,crafti@adj,man@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1897,DIFF,,10,for@conj,in@prep,the@def_art,lond@n,ther@adv,,no@gram_adj,crafti@adj,man@n
 
 "That geometrie or ars-metrike kan,",||,"That geometrie or ars-metrik can,°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1898,,,10,That,geometrie,or,arsmetrike,kan
@@ -8380,7 +8380,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1906,DIFF,,10,and@conj,on@prep,the@def_art,gate@n1,westward@adv,in@prep,memorie@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1906,DIFF,,10,And,westward,in,the,minde,and,in,memorie
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1906,DIFF,,10,u,Su,S,u,Sx,u,S,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1906,DIFF,,10,and@conj,westward@adv,on@prep,the@def_art,,and@conj,on@prep,memorie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1906,DIFF,,10,and@conj,westward@adv,on@prep,the@def_art,,,in@prep,memorie@n
 
 "Of Mars, he maked hath right swich another,",||,"Of Mars, he maked hath right swich another,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1907,,,10,Of,Mars,he,maked,hath,right,swich,another
@@ -8596,7 +8596,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1933,DIFF,,10,of@prep,love@n1,which@pron,that@pron,ich@pron%nom,rekenen@v%pt_1,and@conj,rekenen@v%inf,shulen@v1%pr_3
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1933,DIFF,,10,Of,love,whiche,that,I,rekne,and,rekne,shal
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1933,DIFF,,10,u,Sx,ux,S,u,Sx,u,Su,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1933,DIFF,,10,of@prep,love@n1,which@pron,that@pron,ich@pron%nom,rekenen@v%inf,and@conj,rekenen@v%inf,shulen@v1%pr_3
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1933,DIFF,,10,of@prep,love@n1,which@pron,that@pron,ich@pron%nom,rekenen@v%inf,and@conj,,shulen@v1%pr_3
 
 "By ordre weren peynted on the wal,",||,"By ordre weren peinted on the wal,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1934,,,10,By,ordre,weren,peynted,on,the,wal
@@ -8852,7 +8852,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1965,DIFF,,10,and@conj,blind@adj,he@pron1%nom,ben@v%pt_3,as@conj,hit@pron,ben@v%pr_3,often@adv,sen@v1%ppl
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1965,DIFF,,10,And,blind,he,was,as,it,is,ofte,sene
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1965,DIFF,,10,u,S,u,S,u,S,u,Su,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1965,DIFF,,10,and@conj,blind@adj,he@pron1%nom,ben@v%pt_3,as@conj,hit@pron,as@conj,,sen@v1%ppl
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1965,DIFF,,10,and@conj,blind@adj,he@pron1%nom,ben@v%pt_3,as@conj,hit@pron,ben@v%pr_3,,sen@v1%ppl
 
 A bowe he bar and arwes brighte and kene.,||,A bowe he bar and arwes brighte and kene.°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1966,,,10,A,bowe,he,bar,and,arwes,brighte,and,kene
@@ -9007,12 +9007,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1984,,,10,ben@v%pt_3,long@adj1,and@conj,streit@adj,and@conj,gastli@adj,for@prep#adv,to@part,sen@v1%inf
 
 And therout came a rage and swich a veze,||,"And therout cam a rage and such a vese,°"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,And,therout,came,a,rage,and,swich,a,veze
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,u,Su,Sx,u,Sx,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,and@conj,ther-oute@adv,comen@v%pt_3,a@indef_art,rage@n,and@conj,swich@gram_adj,a@indef_art,fese@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,And,therout,cam,a,rage,and,such,a,vese
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,u,Su,S,u,Sx,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,DIFF,,10,and@conj,ther-oute@adv,comen@v%pt_3,a@indef_art,rage@n,and@conj,,a@indef_art,fese@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,And,therout,came,a,rage,and,swich,a,veze
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,u,Su,Sx,u,Sx,u,S,u,Sx
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,and@conj,ther-oute@adv,comen@v%pt_3,a@indef_art,rage@n,and@conj,swich@gram_adj,a@indef_art,fese@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,And,therout,cam,a,rage,and,such,a,vese
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,u,Su,S,u,Sx,u,S,u,Sx
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1985,,,10,and@conj,ther-oute@adv,comen@v%pt_3,a@indef_art,rage@n,and@conj,swich@gram_adj,a@indef_art,fese@n
 
 That it made al the gate for to rese.,||,That it made al the gates for to rese.°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,That,it,made,al,the,gate,for,to,rese
@@ -9020,7 +9020,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,that@conj,hit@pron,maken@v1%pt_3,al@gram_adj,the@def_art,gate@n1,for@prep#adv,to@part,resen@v1%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,That,it,made,al,the,gates,for,to,rese
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,u,S,ux,S,u,Su,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,that@conj,hit@pron,maken@v1%pt_3,al@gram_adj,the@def_art,,for@prep#adv,hit@pron,resen@v1%inf
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1986,DIFF,,10,that@conj,hit@pron,maken@v1%pt_3,al@gram_adj,the@def_art,,for@prep#adv,to@part,resen@v1%inf
 
 "The northren lyght in at the dores shoon,",||,"The northren light in at the dores shoon,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 1987,,,10,The,northren,lyght,in,at,the,dores,shoon
@@ -9444,7 +9444,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2039,DIFF,,10,suffisen@v%pr_3,on@num_adj,ensaumple@n,in@prep,storie@n1%pl,olde@adj
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2039,DIFF,,10,Sufficeth,oon,ensample,in,stories,olde
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2039,DIFF,,10,uSx,u,Sux,S,uSu,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2039,DIFF,,10,,on@num_adj,ensaumple@n,on@num_adj,storie@n1%pl,olde@adj
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2039,DIFF,,10,,on@num_adj,ensaumple@n,in@prep,storie@n1%pl,olde@adj
 
 I may nat rekene hem alle though I wolde.,||,"I may not rekne hem alle, thogh I wolde.°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2040,,,10,I,may,nat,rekene,hem,alle,though,I,wolde
@@ -9612,7 +9612,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2060,DIFF,,10,thus@adv,ben@v%pt_3,hit@pron,peinten@v%ppl,ich@pron%nom,connen@v%pr_1,seien@v1%inf,you@pron%pl_obj,no@gram_adj,fer@adv%comp
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2060,DIFF,,10,Thus,was,it,peint,I,can,say,yow,no,ferre
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2060,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2060,DIFF,,10,thus@adv,ben@v%pt_3,hit@pron,,ich@pron%nom,connen@v%pr_1,seien@v1%inf,ich@pron%nom,no@gram_adj,fer@adv%comp
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2060,DIFF,,10,thus@adv,ben@v%pt_3,hit@pron,,ich@pron%nom,connen@v%pr_1,seien@v1%inf,you@pron%pl_obj,no@gram_adj,fer@adv%comp
 
 "Hir sone is eek a sterre, as men may see.",||,"Hir sone is eek a sterre, as men may see."
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2061,,,10,Hir,sone,is,eek,a,sterre,as,men,may,see
@@ -9967,12 +9967,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2104,,,10,as@conj,fer@adv,as@conj,god@n1#propn,haven@v%pr_3,maken@v1%ppl,se@n1,or@conj,lond@n
 
 Nas of so fewe so noble a compaignye.,||,"Nas, of so fewe, so noble a companie."
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,Nas,of,so,fewe,so,noble,a,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,ben@v%pt_3_neg,of@prep,so@adv,feue@pron_gram_adj,so@adv,noble@adj,a@indef_art,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,Nas,of,so,fewe,so,noble,a,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,DIFF,,0,ben@v%pt_3_neg,of@prep,so@adv,feue@pron_gram_adj,so@adv,noble@adj,a@indef_art,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,Nas,of,so,fewe,so,noble,a,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,ben@v%pt_3_neg,of@prep,so@adv,feue@pron_gram_adj,so@adv,noble@adj,a@indef_art,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,Nas,of,so,fewe,so,noble,a,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2105,,,0,ben@v%pt_3_neg,of@prep,so@adv,feue@pron_gram_adj,so@adv,noble@adj,a@indef_art,compaignie@n
 
 For every wight that lovede chivalrye,||,"For every wight that lovede chivalrie,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2106,,,0,For,every,wight,that,lovede,chivalrye
@@ -10092,7 +10092,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2120,DIFF,,10,and@conj,in@prep,a@indef_art,brest-plate@n,and@conj,a@indef_art,light@adj2,jupon@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2120,DIFF,,10,In,a,brest,plat,and,in,a,light,gipoun
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2120,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2120,DIFF,,10,in@prep,a@indef_art,,,and@conj,in@prep,a@indef_art,light@adj2,jupon@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2120,DIFF,,10,in@prep,a@indef_art,,,and@conj,,a@indef_art,light@adj2,jupon@n
 
 And som wol have a paire plates large;,||,And som woln have a peire plates° large;
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2121,DIFF,,10,And,som,wol,have,a,paire,plates,large
@@ -10132,7 +10132,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2125,DIFF,,10,ther@adv,ben@v%pr_3,no@gram_adj,neue@adj,gise@n,that@pron,hit@pron,ben@v%pt_3_neg,olde@adj
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2125,DIFF,,10,Ther,nis,no,newe,gise,that,it,nas,old
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2125,DIFF,,10,u,S,u,Su,Sx,u,S,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2125,DIFF,,10,ther@adv,ben@v%pt_3_neg,no@gram_adj,neue@adj,gise@n,that@pron,hit@pron,ben@v%pt_3_neg,olde@adj
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2125,DIFF,,10,ther@adv,ben@v%pt_3_neg,no@gram_adj,neue@adj,gise@n,that@pron,hit@pron,,olde@adj
 
 "Armed were they, as I have yow told,",||,"Armed were they, as I have you told,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2126,,,9,Armed,were,they,as,I,have,yow,told
@@ -10572,7 +10572,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2180,DIFF,,10,al@adv,armen@v#adj%ppl,sauf@prep,here@pron%pl_gen,hed@n1%pl,in@prep,al@gram_adj,here@pron%pl_gen,gere@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2180,DIFF,,10,Al,armed,sauf,hir,heddes,in,al,hir,gere
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2180,DIFF,,10,u,Su,S,u,Su,S,u,S,xx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2180,DIFF,,10,al@adv,armen@v#adj%ppl,,here@pron%pl_gen,hed@n1%pl,in@prep,al@adv,here@pron%pl_gen,gere@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2180,DIFF,,10,al@adv,armen@v#adj%ppl,,here@pron%pl_gen,hed@n1%pl,in@prep,al@gram_adj,here@pron%pl_gen,gere@n
 
 Ful richely in alle maner thynges.,||,Ful richely in alle maner thinges.
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2181,,,10,Ful,richely,in,alle,maner,thynges
@@ -10591,12 +10591,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2182,,,10,for@conj,trusten@v%imp,wel@adv,that@conj,duk@n%pl,erl@n%pl,king@n%pl
 
 "Were gadered in this noble compaignye,",||,"Were gadered in this noble companie,"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,0,Were,gadered,in,this,noble,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,0,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,0,ben@v%pt_pl,gaderen@v%ppl,in@prep,this@gram_adj,noble@adj,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,10,Were,gadered,in,this,noble,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,10,ux,Sux,S,u,Su,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,DIFF,,10,ben@v%pt_pl,gaderen@v%ppl,in@prep,this@gram_adj,noble@adj,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,0,Were,gadered,in,this,noble,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,0,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,0,ben@v%pt_pl,gaderen@v%ppl,in@prep,this@gram_adj,noble@adj,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,10,Were,gadered,in,this,noble,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,10,ux,Sux,S,u,Su,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2183,,,10,ben@v%pt_pl,gaderen@v%ppl,in@prep,this@gram_adj,noble@adj,compaignie@n
 
 For love and for encrees of chivalrye.,||,For love and for encrees° of chivalrie.
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2184,,,0,For,love,and,for,encrees,of,chivalrye
@@ -10668,7 +10668,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2192,DIFF,,10,and@conj,innen@v2%ppl,hem@pron%pl_obj,everi@pron,at@prep,his@pron1%gen,degre@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2192,DIFF,,10,And,inned,hem,everich,in,his,degree
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2192,DIFF,,10,u,Su,S,uxS,u,S,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2192,DIFF,,10,and@conj,and@conj,hem@pron%pl_obj,everi@pron,,his@pron1%gen,degre@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2192,DIFF,,10,and@conj,innen@v2%ppl,hem@pron%pl_obj,everi@pron,,his@pron1%gen,degre@n
 
 "He festeth hem, and dooth so greet labour",||,"He festeth° hem, and dooth so greet labour"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2193,,,10,He,festeth,hem,and,dooth,so,greet,labour
@@ -11204,7 +11204,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2259,DIFF,,10,this@gram_adj,ben@v%pr_3,the@def_art,effect@n,and@conj,ende@n1,of@prep,min@pron%gen,preiere@n2
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2259,DIFF,,10,This,is,theffect,and,ende,of,my,preiere
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2259,DIFF,,10,u,S,uS,u,Sx,u,S,uSx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2259,DIFF,,10,this@gram_adj,ben@v%pr_3,,and@conj,and@conj,of@prep,min@pron%gen,preiere@n2
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2259,DIFF,,10,this@gram_adj,ben@v%pr_3,,and@conj,ende@n1,of@prep,min@pron%gen,preiere@n2
 
 "Yif me my love, thow blisful lady deere.""",||,"Yif me my love, thou blisful lady dere.”"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2260,,,10,Yif,me,my,love,thow,blisful,lady,deere
@@ -11444,7 +11444,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2289,DIFF,,10,hire@pron1%fem_gen,bright@adj,her@n,ben@v%pt_3,kemben@v%ppl,untressed@adj,al@adv
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2289,DIFF,,10,Hir,brighte,heer,was,kempt,untressed,al
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2289,DIFF,,10,u,Su,S,u,S,uSu,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2289,DIFF,,10,hire@pron1%fem_gen,bright@adj,hire@pron1%fem_gen,ben@v%pt_3,,untressed@adj,al@adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2289,DIFF,,10,hire@pron1%fem_gen,bright@adj,her@n,ben@v%pt_3,,untressed@adj,al@adv
 
 A coroune of a grene ook cerial,||,A coroune of a grene ook cerial°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2290,,,10,A,coroune,of,a,grene,ook,cerial
@@ -11583,12 +11583,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2306,,,10,ne@conj1,never@adv,willen@v%pr_1,ich@pron%nom,ben@v%inf,no@conj1,love@n1,ne@conj1,wif@n
 
 "I am, thow woost, yet of thy compaignye,",||,"I am, thou woost, yet of thy companie,"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,0,I,am,thow,woost,yet,of,thy,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,0,,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,0,ich@pron%nom,ben@v%pr_1,thou@pron%nom,witen@v1%pr_2,yet@adv,of@prep,thin@pron%gen,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,10,I,am,thou,woost,yet,of,thy,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,10,u,S,u,S,u,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,DIFF,,10,ich@pron%nom,ben@v%pr_1,thou@pron%nom,witen@v1%pr_2,yet@adv,of@prep,thou@pron%nom,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,0,I,am,thow,woost,yet,of,thy,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,0,,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,0,ich@pron%nom,ben@v%pr_1,thou@pron%nom,witen@v1%pr_2,yet@adv,of@prep,thin@pron%gen,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,10,I,am,thou,woost,yet,of,thy,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,10,u,S,u,S,u,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2307,,,10,ich@pron%nom,ben@v%pr_1,thou@pron%nom,witen@v1%pr_2,yet@adv,of@prep,thin@pron%gen,compaignie@n
 
 "A mayde, and love huntynge and venerye,",||,"A maide,° and love hunting and venerie,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2308,,,0,A,mayde,and,love,huntynge,and,venerye
@@ -11615,12 +11615,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2310,,,10,and@conj,nought@adv,to@part,ben@v%inf,a@indef_art,wif@n,and@conj,ben@v%inf,with@prep,child@n
 
 Noght wol I knowe compaignye of man.,||,Noght wol° I knowe companie of man.°
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,0,Noght,wol,I,knowe,compaignye,of,man
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,0,nought@adv,willen@v%pr_1,ich@pron%nom,knouen@v%inf,compaignie@n,of@prep,man@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,10,Noght,wol,I,knowe,companie,of,man
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,10,u,S,u,Su,SuS,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,DIFF,,10,nought@adv,willen@v%pr_1,ich@pron%nom,knouen@v%inf,,of@prep,man@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,0,Noght,wol,I,knowe,compaignye,of,man
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,0,nought@adv,willen@v%pr_1,ich@pron%nom,knouen@v%inf,compaignie@n,of@prep,man@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,10,Noght,wol,I,knowe,companie,of,man
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,10,u,S,u,Su,SuS,u,S
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2311,,,10,nought@adv,willen@v%pr_1,ich@pron%nom,knouen@v%inf,compaignie@n,of@prep,man@n
 
 "Now help me, lady, sith ye may and kan,",||,"Now help me, lady, sith° ye may and can,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2312,,,10,Now,help,me,lady,sith,ye,may,and,kan
@@ -11844,7 +11844,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2339,DIFF,,10,and@conj,at@prep,the@def_art,brand@n%gen,ende@n1,oute@adv,rennen@v1%pt_3,an-on@adv
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2339,DIFF,,10,And,at,the,brondes,ende,outran,anoon
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2339,DIFF,,10,u,S,u,Su,Sx,uS,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2339,DIFF,,10,and@conj,at@prep,the@def_art,brand@n%gen,and@conj,,an-on@adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2339,DIFF,,10,and@conj,at@prep,the@def_art,brand@n%gen,ende@n1,,an-on@adv
 
 As it were blody dropes many oon;,||,As it were blody dropes many oon;
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2340,,,10,As,it,were,blody,dropes,many,oon
@@ -12060,7 +12060,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2366,DIFF,,10,this@pron,ben@v%pr_3,the@def_art,effect@n,ther@adv,ben@v%pr_3,no_more@n,to@part,seien@v1%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2366,DIFF,,10,This,is,theffect,ther,is,namore,to,seye
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2366,DIFF,,10,u,S,uS,u,S,uSx,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2366,DIFF,,10,this@pron,ben@v%pr_3,,ther@adv,ben@v%pr_3,no_more@n,to@part,ben@v%pr_3
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2366,DIFF,,10,this@pron,ben@v%pr_3,,ther@adv,ben@v%pr_3,no_more@n,to@part,seien@v1%inf
 
 "The nexte houre of Mars folwynge this,",||,"¶The nexte houre of Mars folwinge this,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2367,,,10,The,nexte,houre,of,Mars,folwynge,this
@@ -12212,7 +12212,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2385,DIFF,,9,whan@adv&conj,that@part,thou@pron%nom,usen@v%pt_2,the@def_art,beaute@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2385,DIFF,,10,Whan,that,thou,usedest,the,grete,beautee
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2385,DIFF,,10,u,S,u,SuS,u,Sx,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2385,DIFF,,10,whan@adv&conj,that@part,thou@pron%nom,usen@v%pt_2,thou@pron%nom,,beaute@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2385,DIFF,,10,whan@adv&conj,that@part,thou@pron%nom,usen@v%pt_2,the@def_art,,beaute@n
 
 "Of faire, yonge, fresshe Venus free,",||,"Of faire yonge fresshe Venus free,°"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2386,,,10,Of,faire,yonge,fresshe,Venus,free
@@ -12415,12 +12415,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2410,,,10,and@conj,in@prep,thin@pron%gen,temple@n1,ich@pron%nom,willen@v%pr_1,min@pron%gen,banere@n,hongen@v%inf
 
 "And alle the armes of my compaignye,",||,And alle the armes of my companie;
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,0,And,alle,the,armes,of,my,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,0,and@conj,al@gram_adj,the@def_art,armes@n%pl,of@prep,min@pron%gen,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,10,And,alle,the,armes,of,my,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,10,u,Sx,u,Su,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,DIFF,,10,and@conj,al@gram_adj,the@def_art,armes@n%pl,of@prep,min@pron%gen,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,0,And,alle,the,armes,of,my,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,0,and@conj,al@gram_adj,the@def_art,armes@n%pl,of@prep,min@pron%gen,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,10,And,alle,the,armes,of,my,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,10,u,Sx,u,Su,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2411,,,10,and@conj,al@gram_adj,the@def_art,armes@n%pl,of@prep,min@pron%gen,compaignie@n
 
 "And everemo, unto that day I dye,",||,"And everemo, unto that day I die,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2412,,,10,And,everemo,unto,that,day,I,dye
@@ -12932,7 +12932,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2475,DIFF,,10,al@conj,ben@v%pr_pl,ye@pron%pl_nom,nought@adv,of@prep,o@num_adj,complexioun@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2475,DIFF,,10,Al,be,ye,noght,of,o,complexioun
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2475,DIFF,,10,u,S,u,S,u,S,uSuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2475,DIFF,,10,al@conj,ben@v%pr_pl,ye@pron%pl_nom,nought@adv,of@prep,ye@pron%pl_nom,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2475,DIFF,,10,al@conj,ben@v%pr_pl,ye@pron%pl_nom,nought@adv,of@prep,o@num_adj,
 
 That causeth al day swich divisioun.,||,That causeth al day swich divisioun.
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2476,,,10,That,causeth,al,day,swich,divisioun
@@ -12956,7 +12956,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2478,DIFF,,10,wepen@v%imp,nou@adv,no_more@adv%comp,ich@pron%nom,willen@v%pr_1,thin@pron%gen,lust@n,ful-fillen@v%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2478,DIFF,,10,Weep,thou,namore,I,wol,thy,lust,fulfille
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2478,DIFF,,10,u,S,uSx,u,S,u,S,uSx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2478,DIFF,,10,wepen@v%imp,thin@pron%gen,no_more@adv%comp,ich@pron%nom,willen@v%pr_1,thin@pron%gen,lust@n,ful-fillen@v%inf
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2478,DIFF,,10,wepen@v%imp,thin@pron%gen,no_more@adv%comp,ich@pron%nom,willen@v%pr_1,,lust@n,ful-fillen@v%inf
 
 "Now wol I stynten of the goddes above,",||,"Now wol I stinten of the goddes above,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2479,,,10,Now,wol,I,stynten,of,the,goddes,above
@@ -13172,7 +13172,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2505,DIFF,,10,ther@adv,as@conj,nede@n1,ben@v%pr_3,thei@pron%pl_nom,ben@v%pt_pl,no@gram_adj,thing@n,idel@adj
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2505,DIFF,,10,Ther,as,need,is,they,weren,nothing,idel
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2505,DIFF,,10,u,S,u,S,u,Sx,uS,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2505,DIFF,,10,ther@adv,as@conj,nede@n1,as@conj,thei@pron%pl_nom,ben@v%pt_pl,,idel@adj
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2505,DIFF,,10,ther@adv,as@conj,nede@n1,ben@v%pr_3,thei@pron%pl_nom,ben@v%pt_pl,,idel@adj
 
 The fomy steedes on the golden brydel,||,The fomy° stedes on the golden bridel°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2506,,,10,The,fomy,steedes,on,the,golden,brydel
@@ -13396,7 +13396,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2533,DIFF,,10,a@indef_art,heraud@n,on@prep,a@indef_art,scaffold@n,maken@v1%pt_3,a@indef_art,ho@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2533,DIFF,,10,An,heraud,on,a,scaffold,made,an,Ho
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2533,DIFF,,10,u,Su,S,u,Su,Sx,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2533,DIFF,,10,a@indef_art,heraud@n,a@indef_art,a@indef_art,scaffold@n,maken@v1%pt_3,a@indef_art,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2533,DIFF,,10,a@indef_art,heraud@n,on@prep,a@indef_art,scaffold@n,maken@v1%pt_3,a@indef_art,
 
 "Til al the noyse of peple was ydo,",||,Til al the noise of the peple was ydo;°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,Til,al,the,noyse,of,peple,was,ydo
@@ -13404,7 +13404,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,til@conj,al@gram_adj,the@def_art,noise@n,of@prep,peple@n,ben@v%pt_3,don@v1%ppl
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,Til,al,the,noise,of,the,peple,was,ydo
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,u,S,u,Sx,u,S,ux,S,uS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,til@conj,al@gram_adj,the@def_art,noise@n,of@prep,the@def_art,peple@n,ben@v%pt_3,don@v1%ppl
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2534,DIFF,,10,til@conj,al@gram_adj,the@def_art,noise@n,of@prep,,peple@n,ben@v%pt_3,don@v1%ppl
 
 "And whan he saugh the peple of noyse al stille,",||,"And whan he saugh the noise of peple al stille,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2535,DIFF,,10,And,whan,he,saugh,the,peple,of,noyse,al,stille
@@ -13420,7 +13420,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2536,DIFF,,10,tho@adv,sheuen@v1%pt_3,he@pron1%nom,the@def_art,mighti@adj,duk@n%gen,wille@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2536,DIFF,,10,Tho,showed,he,the,mighty,dukes,wille
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2536,DIFF,,10,u,Su,S,u,Su,Su,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2536,DIFF,,10,tho@adv,,he@pron1%nom,tho@adv,mighti@adj,duk@n%gen,wille@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2536,DIFF,,10,tho@adv,,he@pron1%nom,the@def_art,mighti@adj,duk@n%gen,wille@n
 
 """The lord hath of his heigh discrecioun",||,“The lord hath of his heigh discrecioun°
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2537,,,10,The,lord,hath,of,his,heigh,discrecioun
@@ -13484,7 +13484,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2544,DIFF,,10,no@conj1,manere@n#adj,shot@n,ne@conj1,pol-axe@n,ne@conj1,short@adj,knif@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2544,DIFF,,10,No,maner,shot,pollax,ne,shorte,knif
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2544,DIFF,,10,u,Su,S,uS,u,Su,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2544,DIFF,,10,no@conj1,manere@n#adj,shot@n,pol-axe@n,no@conj1,short@adj,knif@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2544,DIFF,,10,no@conj1,manere@n#adj,shot@n,pol-axe@n,ne@conj1,short@adj,knif@n
 
 Into the lystes sende or thider brynge;,||,"Into the listes sende, ne thider bringe;"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2545,DIFF,,10,Into,the,lystes,sende,or,thider,brynge
@@ -13655,12 +13655,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2565,,,10,up@adv,gon@v%pr_pl,the@def_art,trompe@n%pl,and@conj,the@def_art,melodie@n
 
 "And to the lystes rit the compaignye,",||,And to the listes rit° the companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,0,And,to,the,lystes,rit,the,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,0,,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,0,and@conj,to@prep,the@def_art,liste@n2%pl,riden@v%pr_3,the@def_art,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,10,And,to,the,listes,rit,the,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,10,u,S,u,Su,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,DIFF,,10,and@conj,to@prep,the@def_art,liste@n2%pl,riden@v%pr_3,the@def_art,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,0,And,to,the,lystes,rit,the,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,0,,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,0,and@conj,to@prep,the@def_art,liste@n2%pl,riden@v%pr_3,the@def_art,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,10,And,to,the,listes,rit,the,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,10,u,S,u,Su,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2566,,,10,and@conj,to@prep,the@def_art,liste@n2%pl,riden@v%pr_3,the@def_art,compaignie@n
 
 "By ordinance, thurghout the citee large,",||,"By ordinaunce, thurghout the citee large,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2567,,,10,By,ordinance,thurghout,the,citee,large
@@ -13703,12 +13703,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2571,,,10,and@conj,after@adv,riden@v%pt_3,the@def_art,quene@n2,and@conj,emelie@n#propn
 
 And after that another compaignye,||,And after that another companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,0,And,after,that,another,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,0,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,0,and@conj,after@prep,that@pron,another@gram_adj,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,10,And,after,that,another,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,10,u,Su,S,uSu,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,DIFF,,10,and@conj,after@prep,that@pron,another@gram_adj,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,0,And,after,that,another,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,0,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,0,and@conj,after@prep,that@pron,another@gram_adj,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,10,And,after,that,another,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,10,u,Su,S,uSu,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2572,,,10,and@conj,after@prep,that@pron,another@gram_adj,compaignie@n
 
 "Of oon and oother, after hir degree.",||,"Of oon and other, after hir degree."
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2573,,,10,Of,oon,and,oother,after,hir,degree
@@ -13852,7 +13852,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2590,DIFF,,10,for@conj,ther@adv,ben@v%pt_3,non@pron,so@adv,wise@adj,that@pron,connen@v%pt_3,seien@v1%inf
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2590,DIFF,,10,For,ther,nas,noon,so,wis,that,coude,seye
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2590,DIFF,,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2590,DIFF,,10,for@conj,ther@adv,,non@pron,so@adv,ben@v%pt_3,that@pron,connen@v%pt_3,so@adv
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2590,DIFF,,10,for@conj,ther@adv,,non@pron,so@adv,ben@v%pt_3,that@pron,connen@v%pt_3,seien@v1%inf
 
 That any hadde of oother avauntage,||,That any hadde of other avauntage
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2591,,,10,That,any,hadde,of,oother,avauntage
@@ -14727,12 +14727,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2699,,,10,and@conj,al-wei@adv,crien@v%prp_abs,after@prep,emelie@n#propn
 
 "Duc Theseus, with al his compaignye,",||,"¶Duk Theseus, with al his companie,"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,0,Duc,Theseus,with,al,his,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,0,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,0,duk@n,theseus@n1#propn,with@prep,al@gram_adj,his@pron1%gen,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,10,Duk,Theseus,with,al,his,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,10,u,SuS,u,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,DIFF,,10,duk@n,theseus@n1#propn,with@prep,al@gram_adj,his@pron1%gen,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,0,Duc,Theseus,with,al,his,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,0,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,0,duk@n,theseus@n1#propn,with@prep,al@gram_adj,his@pron1%gen,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,10,Duk,Theseus,with,al,his,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,10,u,SuS,u,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2700,,,10,duk@n,theseus@n1#propn,with@prep,al@gram_adj,his@pron1%gen,compaignie@n
 
 "Is comen hoom to Atthenes his citee,",||,"Is comen hoom to Athenes his citee,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2701,,,10,Is,comen,hoom,to,Atthenes,his,citee
@@ -15319,12 +15319,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2773,,,10,alas@interj,the@def_art,deth@n,alas@interj,min@pron%gen,emelie@n#propn
 
 "Allas, departynge of oure compaignye!",||,"Allas, departing of our companie!"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,0,Allas,departynge,of,oure,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,0,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,0,alas@interj,departinge@ger,of@prep,oure@pron%pl_gen,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,10,Allas,departing,of,our,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,10,uS,uSu,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,DIFF,,10,alas@interj,departinge@ger,of@prep,oure@pron%pl_gen,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,0,Allas,departynge,of,oure,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,0,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,0,alas@interj,departinge@ger,of@prep,oure@pron%pl_gen,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,10,Allas,departing,of,our,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,10,uS,uSu,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2774,,,10,alas@interj,departinge@ger,of@prep,oure@pron%pl_gen,compaignie@n
 
 "Allas, myn hertes queene! Allas, my wyf,",||,"Allas, min hertes quene! allas, my wif!"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2775,,,10,Allas,myn,hertes,queene,Allas,my,wyf
@@ -15359,12 +15359,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2778,,,10,nou@adv,with@prep,his@pron1%gen,love@n1,nou@adv,in@prep,his@pron1%gen,cold@adj,grave@n1
 
 "Allone, withouten any compaignye.",||,"Allone, withouten any companie."
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,0,Allone,withouten,any,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,0,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,0,al-one@adj,withouten@prep,ani@gram_adj,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,10,Allone,withouten,any,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,10,uSx,uSu,Su,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,DIFF,,10,al-one@adj,withouten@prep,ani@gram_adj,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,0,Allone,withouten,any,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,0,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,0,al-one@adj,withouten@prep,ani@gram_adj,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,10,Allone,withouten,any,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,10,uSx,uSu,Su,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2779,,,10,al-one@adj,withouten@prep,ani@gram_adj,compaignie@n
 
 "Fare wel, my sweete foo, myn Emelye!",||,Farwel my swete fo! min Emelie!
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2780,DIFF,,0,Fare,wel,my,sweete,foo,myn,Emelye
@@ -16215,12 +16215,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2885,,,10,and@conj,passen@v%prp_abs,other@pron,of@prep,wepinge@ger,emelie@n#propn
 
 The rewefulleste of al the compaignye.,||,The rewfulleste° of al the companie.
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,0,The,rewefulleste,of,al,the,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,0,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,0,the@def_art,reuful@adj%sup,of@prep,al@gram_adj,the@def_art,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,10,The,rewfulleste,of,al,the,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,10,u,SuSx,u,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,DIFF,,10,the@def_art,reuful@adj%sup,of@prep,al@gram_adj,the@def_art,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,0,The,rewefulleste,of,al,the,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,0,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,0,the@def_art,reuful@adj%sup,of@prep,al@gram_adj,the@def_art,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,10,The,rewfulleste,of,al,the,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,10,u,SuSx,u,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2886,,,10,the@def_art,reuful@adj%sup,of@prep,al@gram_adj,the@def_art,compaignie@n
 
 In as muche as the servyce sholde be,||,In as muche as the service sholde be
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2887,,,10,In,as,muche,as,the,servyce,sholde,be
@@ -16399,12 +16399,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2908,,,10,al@adv,ful@adj,of@prep,honi@n,milk@n,and@conj,blod@n1,and@conj,win@n
 
 "Eek Palamon, with ful greet compaignye;",||,"Eek Palamon, with ful greet companie;"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,0,Eek,Palamon,with,ful,greet,compaignye
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,0,,,,,,
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,0,ek@adv,palamon@n#propn,with@prep,ful@adv,gret@adj,compaignie@n
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,10,Eek,Palamon,with,ful,greet,companie
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,10,u,SuS,u,S,u,SuS
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,DIFF,,10,ek@adv,palamon@n#propn,with@prep,ful@adv,gret@adj,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,0,Eek,Palamon,with,ful,greet,compaignye
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,0,,,,,,
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,0,ek@adv,palamon@n#propn,with@prep,ful@adv,gret@adj,compaignie@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,10,Eek,Palamon,with,ful,greet,companie
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,10,u,SuS,u,S,u,SuS
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2909,,,10,ek@adv,palamon@n#propn,with@prep,ful@adv,gret@adj,compaignie@n
 
 "And after that cam woful Emelye,",||,"And after that cam woful Emelie,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2910,,,0,And,after,that,cam,woful,Emelye
@@ -16468,7 +16468,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2917,DIFF,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,the@def_art,bough@n%pl,ben@v%pt_pl,so@adv,brod@adj
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2917,DIFF,,10,This,is,to,seyn,the,bowes,were,so,brode
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2917,DIFF,,10,u,S,u,S,u,Su,Sx,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2917,DIFF,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,the@def_art,bough@n%pl,,ben@v%pr_3,brod@adj
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2917,DIFF,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,the@def_art,bough@n%pl,,so@adv,brod@adj
 
 Of stree first ther was leyd ful many a lode.,||,Of stree° first ther was leid ful many a lode.
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2918,,,10,Of,stree,first,ther,was,leyd,ful,many,a,lode
@@ -16692,7 +16692,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2945,DIFF,,10,ne@conj1,what@gram_adj,jeuel@n%pl,man@n%pl,in@prep,the@def_art,fir@n,casten@v%pt_pl
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2945,DIFF,,10,Ne,what,jeweles,men,in,the,fir,tho,caste
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2945,DIFF,,10,u,S,uSx,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2945,DIFF,,10,ne@conj1,what@gram_adj,jeuel@n%pl,man@n%pl,ne@conj1,the@def_art,fir@n,the@def_art,casten@v%pt_pl
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2945,DIFF,,10,ne@conj1,what@gram_adj,jeuel@n%pl,man@n%pl,in@prep,the@def_art,fir@n,,casten@v%pt_pl
 
 Whan that the fyr was greet and brente faste;,||,Whan that the fir was greet and brente° faste;
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 2946,,,10,Whan,that,the,fyr,was,greet,and,brente,faste
@@ -17196,7 +17196,7 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3008,DIFF,,10,of@prep,no@gram_adj,partie@n,or@conj,cantel@n,of@prep,a@indef_art,thing@n
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3008,DIFF,,10,Of,no,partie,ne,cantel,of,a,thing
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3008,DIFF,,10,u,S,uS,u,Su,S,u,S
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3008,DIFF,,10,of@prep,no@gram_adj,partie@n,no@gram_adj,cantel@n,of@prep,a@indef_art,thing@n
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3008,DIFF,,10,of@prep,no@gram_adj,partie@n,,cantel@n,of@prep,a@indef_art,thing@n
 
 "But of a thyng that parfit is and stable,",||,"But of a thing that parfit° is and stable,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3009,,,10,But,of,a,thyng,that,parfit,is,and,stable
@@ -17367,12 +17367,12 @@ data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,Th
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3029,,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,in@prep,youth@n,or@conj,elles@adv,age@n,--@dash
 
 "He moot be deed, the kyng as shal a page;",||,"He moot° ben deed, the king as shal a page;"
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,He,moot,be,deed,the,kyng,as,shal,a,page
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,he@pron1%nom,moten@v2%pr_3,ben@v%inf,ded@adj,the@def_art,king@n,as@conj,shulen@v1%pr_3,a@indef_art,page@n1
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,He,moot,ben,deed,the,king,as,shal,a,page
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,DIFF,,10,he@pron1%nom,moten@v2%pr_3,,ded@adj,the@def_art,king@n,as@conj,shulen@v1%pr_3,a@indef_art,page@n1
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,He,moot,be,deed,the,kyng,as,shal,a,page
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,u,S,u,S,u,S,u,S,u,Sx
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,he@pron1%nom,moten@v2%pr_3,ben@v%inf,ded@adj,the@def_art,king@n,as@conj,shulen@v1%pr_3,a@indef_art,page@n1
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,He,moot,ben,deed,the,king,as,shal,a,page
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,u,S,u,S,u,S,u,S,u,Sx
+data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3030,,,10,he@pron1%nom,moten@v2%pr_3,ben@v%inf,ded@adj,the@def_art,king@n,as@conj,shulen@v1%pr_3,a@indef_art,page@n1
 
 "Som in his bed, som in the depe see,",||,"Som in his bed, som in the depe see,"
 data/riverside_cats/KnT_riv.cat,data/oxford_txts/KnT_oxford.txt,data/csvs/KnT,The Knight's Tale 3031,,,10,Som,in,his,bed,som,in,the,depe,see

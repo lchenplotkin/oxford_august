@@ -116,7 +116,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 15,DIFF,,10,of@prep,usage@n,--@dash,what@adv,for@prep,lust@n,and@conj,what@adv,for@prep,lore@n2,--@dash
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 15,DIFF,,10,Of,usage,what,for,luste,what,for,lore
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 15,DIFF,,10,u,Sux,S,u,Su,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 15,DIFF,,10,of@prep,usage@n,--@dash,what@adv,for@prep,--@dash,what@adv,for@prep
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 15,DIFF,,10,of@prep,usage@n,--@dash,what@adv,for@prep,and@conj,what@adv,for@prep
 
 "On bokes rede I ofte, as I yow tolde.",||,"On bokes rede I ofte, as I yow tolde."
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 16,,,10,On,bokes,rede,I,ofte,as,I,yow,tolde
@@ -172,15 +172,15 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 22,DIFF,,10,for@conj,oute@adv#prep,of@prep,olde@adj,feld@n%pl,as@conj,men@pron_impers,seien@v1%pr_3
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 22,DIFF,,10,For,out,of,olde,feldes,as,men,sey
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 22,DIFF,,10,u,S,u,Su,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 22,DIFF,,10,for@conj,oute@adv#prep,of@prep,olde@adj,feld@n%pl,as@conj,men@pron_impers,as@conj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 22,DIFF,,10,for@conj,oute@adv#prep,of@prep,olde@adj,feld@n%pl,as@conj,men@pron_impers,
 
 "Cometh al this newe corn from yer to yere,",||,Cometh al this newe corn° fro yeer to yere;
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,0,Cometh,al,this,newe,corn,from,yer,to,yere
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,0,,,,,,,,,
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,0,comen@v%pr_3,al@gram_adj,this@gram_adj,neue@adj,corn@n,from@prep,yer@n,to@prep,yer@n
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,10,Cometh,al,this,newe,corn,fro,yeer,to,yere
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,10,ux,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,DIFF,,10,comen@v%pr_3,al@gram_adj,this@gram_adj,neue@adj,corn@n,,yer@n,to@prep,yer@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,0,Cometh,al,this,newe,corn,from,yer,to,yere
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,0,,,,,,,,,
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,0,comen@v%pr_3,al@gram_adj,this@gram_adj,neue@adj,corn@n,from@prep,yer@n,to@prep,yer@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,10,Cometh,al,this,newe,corn,fro,yeer,to,yere
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,10,ux,S,u,Sx,u,S,u,S,uSx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 23,,,10,comen@v%pr_3,al@gram_adj,this@gram_adj,neue@adj,corn@n,from@prep,yer@n,to@prep,yer@n
 
 "And out of olde bokes, in good feyth,",||,"And out of olde bokes, in good fey,°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,And,out,of,olde,bokes,in,good,feyth
@@ -188,7 +188,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,and@conj,oute@adv#prep,of@prep,olde@adj,bok@n1%pl,in@prep,god@adj,feith@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,And,out,of,olde,bokes,in,good,fey
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,u,S,u,Su,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,and@conj,oute@adv#prep,of@prep,olde@adj,bok@n1%pl,in@prep,god@adj,of@prep
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 24,DIFF,,10,and@conj,oute@adv#prep,of@prep,olde@adj,bok@n1%pl,in@prep,god@adj,
 
 Cometh al this newe science that men lere.,||,Cometh al this newe science° that men lere.°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 25,,,10,Cometh,al,this,newe,science,that,men,lere
@@ -212,7 +212,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 27,DIFF,,10,to@part,reden@v1%inf,forth@adv,hit@pron,ginnen@v%pt_3,me@pron2%obj,so@adv,deliten@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 27,DIFF,,10,To,rede,forth,so,gan,me,to,delite
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 27,DIFF,,10,u,Su,S,u,S,u,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 27,DIFF,,10,to@part,reden@v1%inf,forth@adv,so@adv,ginnen@v%pt_3,me@pron2%obj,to@part,deliten@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 27,DIFF,,10,to@part,reden@v1%inf,forth@adv,so@adv,ginnen@v%pt_3,me@pron2%obj,,deliten@v%inf
 
 That al that day me thoughte but a lyte.,||,That al that day me thoughte° but a lite.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 28,,,10,That,al,that,day,me,thoughte,but,a,lyte
@@ -228,7 +228,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 29,DIFF,,10,this@gram_adj,bok@n1,of@prep,which@pron,ich@pron%nom,maken@v1%pr_1,mencioun@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 29,DIFF,,10,This,book,of,which,I,make,of,mencioun
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 29,DIFF,,10,u,S,u,S,u,Sx,u,SuS
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 29,DIFF,,10,this@gram_adj,bok@n1,of@prep,which@pron,ich@pron%nom,maken@v1%pr_1,of@prep,mencioun@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 29,DIFF,,10,this@gram_adj,bok@n1,of@prep,which@pron,ich@pron%nom,maken@v1%pr_1,,mencioun@n
 
 "Entitled was al ther, as I shal telle:",||,"Entitled was al thus, as I shal telle,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 30,DIFF,,10,Entitled,was,al,ther,as,I,shal,telle
@@ -292,7 +292,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 37,DIFF,,10,in@prep,affrike@n#propn,hou@adv&conj,he@pron1%nom,meten@v4%pr_3,massinisse@n#propn
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 37,DIFF,,9,In,Afrik,how,he,met,Massinisse
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 37,DIFF,,9,S,uS,u,S,u,SuSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 37,DIFF,,9,in@prep,affrike@n#propn,hou@adv&conj,hou@adv&conj,,massinisse@n#propn
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 37,DIFF,,9,in@prep,affrike@n#propn,hou@adv&conj,he@pron1%nom,,massinisse@n#propn
 
 That hym for joie in armes hath inome;,||,That him for joye in armes hath ynome.°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 38,,,10,That,hym,for,joie,in,armes,hath,inome
@@ -335,12 +335,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 42,,,10,ginnen@v%pt_3,in@prep,his@pron1%gen,slep@n,that@art&gram_adj,night@n,to@prep,him@pron%obj,apperen@v1%inf
 
 "Thanne telleth it that, from a sterry place,",||,"Than telleth it that fro a sterry place,°"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,Thanne,telleth,it,that,from,a,sterry,place
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,ux,Su,S,u,S,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,thanne@adv,tellen@v%pr_3,hit@pron,that@conj,from@prep,a@indef_art,sterri@adj,place@n
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,Than,telleth,it,that,fro,a,sterry,place
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,u,Su,S,u,S,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,DIFF,,10,thanne@adv,tellen@v%pr_3,hit@pron,that@conj,,a@indef_art,sterri@adj,place@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,Thanne,telleth,it,that,from,a,sterry,place
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,ux,Su,S,u,S,u,Su,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,thanne@adv,tellen@v%pr_3,hit@pron,that@conj,from@prep,a@indef_art,sterri@adj,place@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,Than,telleth,it,that,fro,a,sterry,place
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,u,Su,S,u,S,u,Su,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 43,,,10,thanne@adv,tellen@v%pr_3,hit@pron,that@conj,from@prep,a@indef_art,sterri@adj,place@n
 
 "How Affrycan hath hym Cartage shewed,",||,"How African hath him Cartage shewed,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 44,,,10,How,Affrycan,hath,hym,Cartage,shewed
@@ -396,15 +396,15 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 50,DIFF,,10,thanne@adv,asken@v%pt_3,he@pron1%nom,if@conj,folk@n,that@pron,her@adv,ben@v%pr_pl,ded@adj
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 50,DIFF,,10,Than,asked,he,if,folk,that,now,ben,dede
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 50,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 50,DIFF,,10,thanne@adv,,he@pron1%nom,if@conj,folk@n,that@pron,,ben@v%pr_pl,ded@adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 50,DIFF,,10,thanne@adv,,he@pron1%nom,if@conj,folk@n,that@pron,,,ded@adj
 
 Han lyf and dwellynge in another place.,||,Have lif and dwelling in another place;
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,Han,lyf,and,dwellynge,in,another,place
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,u,S,u,Sux,S,uSu,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,haven@v%pr_pl,lif@n,and@conj,dwellinge@ger,in@prep,another@gram_adj,place@n
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,Have,lif,and,dwelling,in,another,place
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,ux,S,u,Su,S,uSu,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,DIFF,,10,,lif@n,and@conj,dwellinge@ger,in@prep,another@gram_adj,place@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,Han,lyf,and,dwellynge,in,another,place
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,u,S,u,Sux,S,uSu,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,haven@v%pr_pl,lif@n,and@conj,dwellinge@ger,in@prep,another@gram_adj,place@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,Have,lif,and,dwelling,in,another,place
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,ux,S,u,Su,S,uSu,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 51,,,10,haven@v%pr_pl,lif@n,and@conj,dwellinge@ger,in@prep,another@gram_adj,place@n
 
 "And Affrican seyde, ""Ye, withouten drede,""",||,"And African seide, “Ye, withouten drede,”°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 52,,,10,And,Affrican,seyde,Ye,withouten,drede
@@ -516,7 +516,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 65,DIFF,,10,and@conj,deceivable@adj,and@conj,ful@adj,of@prep,hard@adj,grace@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 65,DIFF,,10,And,ful,of,torment,and,of,harde,grace
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 65,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 65,DIFF,,10,and@conj,ful@adj,of@prep,,and@conj,of@prep,hard@adj,grace@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 65,DIFF,,10,and@conj,ful@adj,of@prep,,and@conj,,hard@adj,grace@n
 
 That he ne shulde hym in the world delyte.,||,That he ne shulde him in the world delite.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 66,,,10,That,he,ne,shulde,hym,in,the,world,delyte
@@ -623,12 +623,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 78,,,10,but@conj,brekere@n%pl,of@prep,the@def_art,laue@n,soth@n,to@part,seien@v1%inf
 
 "And likerous folk, after that they ben dede,",||,"And likerous° folk, after that they be dede,"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,And,likerous,folk,after,that,they,ben,dede
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,u,SuS,u,Su,S,u,S,xx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,and@conj,likerous@adj,folk@n,after@conj,that@part,thei@pron%pl_nom,ben@v%pr_pl,ded@adj
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,And,likerous,folk,after,that,they,be,dede
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,u,SuS,u,Su,S,u,S,xx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,DIFF,,10,and@conj,likerous@adj,folk@n,after@conj,that@part,thei@pron%pl_nom,,ded@adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,And,likerous,folk,after,that,they,ben,dede
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,u,SuS,u,Su,S,u,S,xx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,and@conj,likerous@adj,folk@n,after@conj,that@part,thei@pron%pl_nom,ben@v%pr_pl,ded@adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,And,likerous,folk,after,that,they,be,dede
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,u,SuS,u,Su,S,u,S,xx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 79,,,10,and@conj,likerous@adj,folk@n,after@conj,that@part,thei@pron%pl_nom,ben@v%pr_pl,ded@adj
 
 "Shul whirle aboute th' erthe alwey in peyne,",||,"Shul alwey whirle aboute the erthe in peine,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 80,DIFF,,10,Shul,whirle,aboute,th,erthe,alwey,in,peyne
@@ -772,7 +772,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 97,DIFF,,10,that@pron,scipio@n#propn,him@pron%obj,sen@v1%pt_3,biforen@prep,that@art&gram_adj,tide@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 97,DIFF,,10,That,Scipioun,him,saw,before,that,tide
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 97,DIFF,,10,u,SuS,u,S,uSx,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 97,DIFF,,10,that@pron,scipio@n#propn,him@pron%obj,,biforen@prep,that@pron,tide@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 97,DIFF,,10,that@pron,scipio@n#propn,him@pron%obj,,biforen@prep,that@art&gram_adj,tide@n
 
 Was come and stod right at my beddes syde.,||,Was come and stood right at my bedes side.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 98,,,10,Was,come,and,stod,right,at,my,beddes,syde
@@ -972,7 +972,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 122,DIFF,,10,righte@adv,of@prep,a@indef_art,park@n,walled@adj2,with@prep,grene@adj,ston@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 122,DIFF,,10,Right,of,a,parke,walled,of,grene,stoon
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 122,DIFF,,10,u,S,u,Sx,uS,u,Su,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 122,DIFF,,10,righte@adv,of@prep,a@indef_art,park@n,walled@adj2,of@prep,grene@adj,ston@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 122,DIFF,,10,righte@adv,of@prep,a@indef_art,park@n,walled@adj2,,grene@adj,ston@n
 
 "And over the gate, with lettres large iwroughte,",||,"And over the gate, with lettres large ywroghte,°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 123,,,10,And,over,the,gate,with,lettres,large,iwroughte
@@ -1004,7 +1004,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 126,DIFF,,10,of@prep,which@pron,ich@pron%nom,shulen@v1%pr_1,you@pron%pl_obj,seien@v1%inf,the@def_art,plaine@adj,sentence@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 126,DIFF,,10,Of,which,I,shal,yow,sey,the,plein,sentence
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 126,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 126,DIFF,,10,of@prep,which@pron,ich@pron%nom,shulen@v1%pr_1,ich@pron%nom,,the@def_art,plaine@adj,sentence@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 126,DIFF,,10,of@prep,which@pron,ich@pron%nom,shulen@v1%pr_1,you@pron%pl_obj,,the@def_art,plaine@adj,sentence@n
 
 """Thorgh me men gon into that blysful place",||,“Thorgh me men goon° into that blisful place
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 127,,,10,Thorgh,me,men,gon,into,that,blysful,place
@@ -1196,7 +1196,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 150,DIFF,,10,ne@adv,haven@v%pr_3,no@gram_adj,might@n,to@part,meven@v%inf,to@adv1,ne@conj1,from@adv,--@dash
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 150,DIFF,,10,That,hath,no,might,to,meve,to,ne,fro
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 150,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 150,DIFF,,10,,haven@v%pr_3,ne@adv,might@n,to@part,meven@v%inf,to@part,ne@adv,from@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 150,DIFF,,10,,haven@v%pr_3,ne@adv,might@n,to@part,meven@v%inf,to@adv1,no@gram_adj,from@adv
 
 "For what that oon may hale, that other let --",||,"For what that on° may hale,° that other let°—"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 151,,,10,For,what,that,oon,may,hale,that,other,let
@@ -1652,7 +1652,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 207,DIFF,,10,no@gram_adj,man@n,mouen@v3%pr_3,ther@adv,waxen@v1%inf,sik@adj,ne@conj1,olde@adj
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 207,DIFF,,10,Ne,no,man,may,ther,wexe,seek,ne,old
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 207,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 207,DIFF,,10,no@gram_adj,no@gram_adj,man@n,mouen@v3%pr_3,ther@adv,waxen@v1%inf,sik@adj,no@gram_adj,olde@adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 207,DIFF,,10,no@gram_adj,ne@conj1,man@n,mouen@v3%pr_3,ther@adv,waxen@v1%inf,sik@adj,,olde@adj
 
 Yit was there joye more a thousandfold,||,Yet was ther joy more than a thousand fold
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 208,DIFF,,10,Yit,was,there,joye,more,a,thousandfold
@@ -1759,12 +1759,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 220,,,10,and@conj,of@prep,the@def_art,craft@n1#propn,that@pron,connen@v%pr_3,and@conj,haven@v%pr_3,the@def_art,might@n
 
 To don by force a wyght to don folye --,||,To doon° by force a wight° to do folie—
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,0,To,don,by,force,a,wyght,to,don,folye
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,0,,,,,,,,,
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,0,to@part,don@v1%inf,bi@prep,force@n,a@indef_art,wight@n,to@part,don@v1%inf,folie@n,--@dash
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,10,To,doon,by,force,a,wight,to,do,folie
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,10,u,S,u,Sx,u,S,u,S,uS
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,DIFF,,10,to@part,don@v1%inf,bi@prep,force@n,a@indef_art,wight@n,to@part,,folie@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,0,To,don,by,force,a,wyght,to,don,folye
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,0,,,,,,,,,
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,0,to@part,don@v1%inf,bi@prep,force@n,a@indef_art,wight@n,to@part,don@v1%inf,folie@n,--@dash
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,10,To,doon,by,force,a,wight,to,do,folie
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,10,u,S,u,Sx,u,S,u,S,uS
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 221,,,10,to@part,don@v1%inf,bi@prep,force@n,a@indef_art,wight@n,to@part,don@v1%inf,folie@n,--@dash
 
 "Disfigurat was she, I nyl nat lye;",||,"Disfigurat° was she, I nil not lie;"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 222,,,10,Disfigurat,was,she,I,nyl,nat,lye
@@ -1828,7 +1828,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 229,DIFF,,10,here@pron%pl_gen,name@n%pl,shulen@v1%pr_pl,not@adv,her@adv,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj,--@dash
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 229,DIFF,,10,Hir,names,shul,noght,here,be,told,for,me
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 229,DIFF,,10,u,Su,S,u,Sx,u,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 229,DIFF,,10,here@pron%pl_gen,name@n%pl,shulen@v1%pr_pl,,here@pron%pl_gen,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 229,DIFF,,10,here@pron%pl_gen,name@n%pl,shulen@v1%pr_pl,,her@adv,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj
 
 And upon pilers greete of jasper longe,||,And upon pilers grete of jasper° longe°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 230,,,10,And,upon,pilers,greete,of,jasper,longe
@@ -1900,7 +1900,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 238,DIFF,,10,sen@v1%pt_1,ich@pron%nom,sitten@v%prp_abs,mani@gram_adj,a@indef_art,hundred@num_adj,paire@n1
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 238,DIFF,,10,Saw,I,sittinge,many,a,hundred,paire
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 238,DIFF,,10,u,S,uSx,uS,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 238,DIFF,,10,sen@v1%pt_1,ich@pron%nom,sitten@v%prp_abs,mani@gram_adj,ich@pron%nom,hundred@num_adj,paire@n1
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 238,DIFF,,10,sen@v1%pt_1,ich@pron%nom,sitten@v%prp_abs,mani@gram_adj,,hundred@num_adj,paire@n1
 
 Byfore the temple-dore ful soberly,||,Before the temple dore ful soberly
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 239,DIFF,,10,Byfore,the,templedore,ful,soberly
@@ -2004,7 +2004,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 251,DIFF,,10,that@conj,al@gram_adj,the@def_art,cause@n,of@prep,sorwe@n%pl,that@pron,thei@pron%pl_nom,drien@v2%pr_pl
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 251,DIFF,,10,That,al,the,cause,of,sorwe,that,they,drie
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 251,DIFF,,10,u,S,u,Sx,u,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 251,DIFF,,10,that@conj,al@gram_adj,the@def_art,cause@n,of@prep,,that@conj,the@def_art,drien@v2%pr_pl
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 251,DIFF,,10,that@conj,al@gram_adj,the@def_art,cause@n,of@prep,,that@pron,thei@pron%pl_nom,drien@v2%pr_pl
 
 Cam of the bittere goddesse Jelosye.,||,Cam of the bitter goddesse Jalousie.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 252,,,0,Cam,of,the,bittere,goddesse,Jelosye
@@ -2148,7 +2148,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 269,DIFF,,10,and@conj,naked@adj,from@prep,the@def_art,brest@n1,unto@prep,the@def_art,hed@n1
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 269,DIFF,,10,And,naked,fro,the,breste,up,to,the,hede
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 269,DIFF,,10,u,Su,S,u,Sx,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 269,DIFF,,10,and@conj,naked@adj,,the@def_art,brest@n1,,,the@def_art,hed@n1
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 269,DIFF,,10,and@conj,naked@adj,from@prep,the@def_art,brest@n1,,,the@def_art,hed@n1
 
 "Men myghte hire sen; and, sothly for to say,",||,"Men might hir see; and, sothly for to say,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,Men,myghte,hire,sen,and,sothly,for,to,say
@@ -2156,7 +2156,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,man@n%pl,mouen@v3%pt_pl,hire@pron2%fem_obj,sen@v1%inf,and@conj,sothli@adv,for@prep#adv,to@part,seien@v1%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,Men,might,hir,see,and,sothly,for,to,say
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,man@n%pl,mouen@v3%pt_pl,hire@pron2%fem_obj,seien@v1%inf,and@conj,sothli@adv,for@prep#adv,to@part,seien@v1%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 270,DIFF,,10,man@n%pl,mouen@v3%pt_pl,hire@pron2%fem_obj,seien@v1%inf,and@conj,sothli@adv,for@prep#adv,to@part,
 
 "The remenaunt was wel kevered to my pay,",||,The remenant was wel kevered to my pay°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 271,,,10,The,remenaunt,was,wel,kevered,to,my,pay
@@ -2452,7 +2452,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 307,DIFF,,10,that@conj,thei@pron%pl_nom,ne@adv,ben@v%pt_pl,prest@adj,in@prep,hire@pron1%fem_gen,presence@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 307,DIFF,,10,That,they,ne,were,al,prest,in,hir,presence
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 307,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 307,DIFF,,10,that@conj,thei@pron%pl_nom,ne@adv,ben@v%pt_pl,,prest@adj,ne@adv,hire@pron1%fem_gen,presence@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 307,DIFF,,10,that@conj,thei@pron%pl_nom,ne@adv,ben@v%pt_pl,,prest@adj,in@prep,hire@pron1%fem_gen,presence@n
 
 To take hire dom and yeve hire audyence.,||,To take hir doom° and yeve hir audience.°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 308,,,10,To,take,hire,dom,and,yeve,hire,audyence
@@ -3036,7 +3036,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 380,DIFF,,9,that@pron,hot@n1,cold@n,hevi@n,light@adj2#n,moiste@n,and@conj,drie@n1
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 380,DIFF,,10,That,hoot,cold,hevy,light,and,moist,and,dreie
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 380,DIFF,,10,u,S,u,Su,S,u,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 380,DIFF,,10,that@pron,hot@n1,cold@n,hevi@n,light@adj2#n,and@conj,moiste@n,and@conj,drie@n1
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 380,DIFF,,10,that@pron,hot@n1,cold@n,hevi@n,light@adj2#n,and@conj,moiste@n,,drie@n1
 
 "Hath knyt by evene noumbres of acord,",||,"Hath knit with even noumbre of acorde,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 381,DIFF,,10,Hath,knyt,by,evene,noumbres,of,acord
@@ -3052,7 +3052,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 382,DIFF,,10,in@prep,esi@adj,voice@n,biginnen@v%pt_3,to@part,speken@v%inf,and@conj,seien@v1%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 382,DIFF,,10,In,esy,vois,gan,for,to,speke,and,seye
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 382,DIFF,,10,u,Su,S,u,S,u,Sx,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 382,DIFF,,10,in@prep,esi@adj,voice@n,,,to@part,speken@v%inf,and@conj,esi@adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 382,DIFF,,10,in@prep,esi@adj,voice@n,,,to@part,speken@v%inf,and@conj,seien@v1%inf
 
 """Foules, tak hed of my sentence, I preye,",||,"“Foules, tak hede of my sentence,° I preye,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 383,,,10,Foules,tak,hed,of,my,sentence,I,preye
@@ -3076,7 +3076,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 385,DIFF,,10,as@conj,faste@adv,as@conj,ich@pron%nom,mouen@v3%pr_1,speken@v%inf,ich@pron%nom,willen@v%pr_1,you@pron%pl_obj,speden@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 385,DIFF,,10,As,faste,as,I,may,speke,I,wol,me,spede
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 385,DIFF,,10,u,Sx,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 385,DIFF,,10,as@conj,faste@adv,as@conj,ich@pron%nom,mouen@v3%pr_1,speken@v%inf,ich@pron%nom,willen@v%pr_1,mouen@v3%pr_1,speden@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 385,DIFF,,10,as@conj,faste@adv,as@conj,ich@pron%nom,mouen@v3%pr_1,speken@v%inf,ich@pron%nom,willen@v%pr_1,,speden@v%inf
 
 """Ye knowe wel how, Seynt Valentynes day,",||,"Ye know wel how, Seint Valentines day,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 386,,,10,Ye,knowe,wel,how,Seynt,Valentynes,day
@@ -3164,7 +3164,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 396,DIFF,,10,which@pron,ich@pron%nom,haven@v%pr_1,formen@v%ppl,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,wel@adv,sen@v1%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 396,DIFF,,10,The,which,I,formed,have,as,ye,may,see
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 396,DIFF,,10,u,S,u,Su,Sx,u,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 396,DIFF,,10,,which@pron,ich@pron%nom,formen@v%ppl,haven@v%pr_1,as@conj,ich@pron%nom,mouen@v3%pr_pl,as@conj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 396,DIFF,,10,,which@pron,ich@pron%nom,formen@v%ppl,haven@v%pr_1,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,sen@v1%inf
 
 In every part as it best liketh me --,||,"In every part as it best liketh me,°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 397,,,10,In,every,part,as,it,best,liketh,me
@@ -3180,7 +3180,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 398,DIFF,,10,hit@pron,neden@v2%pr_3,not@adv,his@pron1%gen,shape@n,you@pron%pl_obj,to@part,devisen@v%inf,--@dash
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 398,DIFF,,10,It,nedeth,noght,his,shap,yow,to,devise
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 398,DIFF,,10,u,Su,S,u,S,u,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 398,DIFF,,10,hit@pron,neden@v2%pr_3,,his@pron1%gen,shape@n,you@pron%pl_obj,hit@pron,devisen@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 398,DIFF,,10,hit@pron,neden@v2%pr_3,,his@pron1%gen,shape@n,you@pron%pl_obj,to@part,devisen@v%inf
 
 He shal first chese and speken in his gyse.,||,He shal first chese and speken in his gise.°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 399,,,10,He,shal,first,chese,and,speken,in,his,gyse
@@ -3276,7 +3276,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 410,DIFF,,10,who-so@pron%nom,he@pron1%nom,ben@v%pr_3,that@pron,shulen@v1%pt_3,ben@v%inf,hire@pron1%fem_gen,fer@n1
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 410,DIFF,,10,Whatso,he,be,that,shulde,be,hir,fere
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 410,DIFF,,10,uS,u,S,u,Su,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 410,DIFF,,10,,he@pron1%nom,ben@v%pr_3,that@pron,shulen@v1%pt_3,ben@v%pr_3,hire@pron1%fem_gen,fer@n1
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 410,DIFF,,10,,he@pron1%nom,ben@v%pr_3,that@pron,shulen@v1%pt_3,ben@v%inf,hire@pron1%fem_gen,fer@n1
 
 "This is oure usage alwey, fro yer to yeere,",||,This is our usage alwey fro yeer to yere;
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 411,,,0,This,is,oure,usage,alwey,fro,yer,to,yeere
@@ -3508,7 +3508,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 439,DIFF,,10,ne@conj1,never@adv,for@prep,no@gram_adj,wo@n,ne@adv,shulen@v1%pr_1,ich@pron%nom,letten@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 439,DIFF,,10,For,never,for,no,wo,ne,shal,I,lette
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 439,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 439,DIFF,,10,for@prep,never@adv,for@prep,ne@conj1,wo@n,ne@conj1,shulen@v1%pr_1,ich@pron%nom,letten@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 439,DIFF,,10,for@prep,never@adv,,ne@conj1,wo@n,no@gram_adj,shulen@v1%pr_1,ich@pron%nom,letten@v%inf
 
 "To serven hire, how fer so that she wende;",||,"To serven hir, how fer so that she wende;°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 440,,,10,To,serven,hire,how,fer,so,that,she,wende
@@ -3556,7 +3556,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 445,DIFF,,9,of@prep,this@gram_adj,formel@n,whan@adv&conj,she@pron%nom,heren@v%pt_3,al@gram_adj,this@pron
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 445,DIFF,,10,Of,this,formel,whan,that,she,herde,al,this
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 445,DIFF,,10,u,S,uS,u,S,u,Sx,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 445,DIFF,,10,of@prep,this@gram_adj,formel@n,whan@adv&conj,,she@pron%nom,heren@v%pt_3,al@gram_adj,this@gram_adj
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 445,DIFF,,10,of@prep,this@gram_adj,formel@n,whan@adv&conj,,she@pron%nom,heren@v%pt_3,al@gram_adj,this@pron
 
 "She neyther answerde wel, ne seyde amys,",||,She neither answerd wel ne seide amis°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 446,,,10,She,neyther,answerde,wel,ne,seyde,amys
@@ -3604,7 +3604,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 451,DIFF,,10,ich@pron%nom,loven@v1%pr_1,hire@pron2%fem_obj,bet@adv%comp,than@conj,ye@pron%pl_nom,don@v1%pr_pl,bi@prep,seinte@adj,john@n1#propn
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 451,DIFF,,0,I,love,hir,bet,than,ye,do,by,Seint,Iohn
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 451,DIFF,,0,,,,,,,,,,
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 451,DIFF,,0,ich@pron%nom,loven@v1%pr_1,hire@pron2%fem_obj,bet@adv%comp,than@conj,ich@pron%nom,,bi@prep,seinte@adj,
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 451,DIFF,,0,ich@pron%nom,loven@v1%pr_1,hire@pron2%fem_obj,bet@adv%comp,than@conj,ye@pron%pl_nom,don@v1%pr_pl,bi@prep,seinte@adj,
 
 "Or at the leste I love hire as wel as ye,",||,Or atte leste I love as wel as ye;
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,Or,at,the,leste,I,love,hire,as,wel,as,ye
@@ -3612,7 +3612,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,or@conj,at@prep,the@def_art,leste@adj1#n%sup,ich@pron%nom,loven@v1%pr_1,hire@pron2%fem_obj,as@conj,wel@adv,as@conj,ye@pron%pl_nom
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,Or,atte,leste,I,love,as,wel,as,ye
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,u,Su,Sx,u,Sx,u,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,or@conj,at@prep,leste@adj1#n%sup,ich@pron%nom,loven@v1%pr_1,as@conj,wel@adv,as@conj,ich@pron%nom
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 452,DIFF,,10,or@conj,at@prep,leste@adj1#n%sup,ich@pron%nom,loven@v1%pr_1,as@conj,wel@adv,as@conj,ye@pron%pl_nom
 
 And lenger have served hire in my degre;,||,"And lenger have hir served, in my degree,°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 453,DIFF,,10,And,lenger,have,served,hire,in,my,degre
@@ -3631,12 +3631,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 454,,,10,and@conj,if@conj,she@pron%nom,shulen@v1%pt_3,haven@v%inf,loven@v1%ppl,for@prep,long@adj1,lovinge@ger1
 
 To me allone hadde be the guerdonynge.,||,To me allone had been° the guerdoninge.°
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,To,me,allone,hadde,be,the,guerdonynge
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,u,x,Sux,Su,S,u,SuSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,to@prep,me@pron2%obj,al-one@adj,haven@v%pt_3,ben@v%ppl,the@def_art,guerdoning@ger
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,To,me,allone,had,been,the,guerdoninge
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,u,S,uSx,u,S,u,SuSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,DIFF,,10,to@prep,me@pron2%obj,al-one@adj,haven@v%pt_3,,the@def_art,guerdoning@ger
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,To,me,allone,hadde,be,the,guerdonynge
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,u,x,Sux,Su,S,u,SuSx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,to@prep,me@pron2%obj,al-one@adj,haven@v%pt_3,ben@v%ppl,the@def_art,guerdoning@ger
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,To,me,allone,had,been,the,guerdoninge
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,u,S,uSx,u,S,u,SuSx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 455,,,10,to@prep,me@pron2%obj,al-one@adj,haven@v%pt_3,ben@v%ppl,the@def_art,guerdoning@ger
 
 """I dar ek seyn, if she me fynde fals,",||,"“I dar eek seyn, if she me finde fals,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 456,,,10,I,dar,ek,seyn,if,she,me,fynde,fals
@@ -3652,7 +3652,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 457,DIFF,,10,unkinde@adj,janglere@n,or@conj,rebel@adj,ani@gram_adj,wise@n2
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 457,DIFF,,10,Unkinde,jangler,or,rebel,in,any,wise
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 457,DIFF,,10,uSx,ux,S,uS,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 457,DIFF,,10,unkinde@adj,janglere@n,or@conj,rebel@adj,ani@gram_adj,ani@gram_adj,wise@n2
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 457,DIFF,,10,unkinde@adj,janglere@n,or@conj,rebel@adj,ani@gram_adj,,wise@n2
 
 "Or jelous, do me hangen by the hals!",||,"Or jalous, do me hongen° by the hals!°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 458,,,10,Or,jelous,do,me,hangen,by,the,hals
@@ -3684,7 +3684,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 461,DIFF,,10,from@prep,pointe@n1,in@prep,pointe@n1,hire@pron1%fem_gen,honour@n,for@prep#adv,to@part,saven@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 461,DIFF,,10,From,point,to,point,hir,honour,for,to,save
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 461,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 461,DIFF,,10,from@prep,pointe@n1,to@part,pointe@n1,hire@pron1%fem_gen,honour@n,for@prep#adv,to@part,saven@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 461,DIFF,,10,from@prep,pointe@n1,to@part,pointe@n1,hire@pron1%fem_gen,honour@n,for@prep#adv,,saven@v%inf
 
 "Take she my lif and al the good I have!""",||,"Tak she my lif, and al the good I have.”"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 462,,,10,Take,she,my,lif,and,al,the,good,I,have
@@ -3727,12 +3727,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 466,,,10,forth@adv,with@prep,his@pron1%gen,make@n1,or@conj,with@prep,his@pron1%gen,ladie@n,dere@adj1
 
 "And ek Nature hireself ne wol not heere,",||,"And eek Nature hirself ne wol nought here,"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,And,ek,Nature,hireself,ne,wol,not,heere
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,u,S,uSx,uxS,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,not@adv,heren@v%inf
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,And,eek,Nature,hirself,ne,wol,nought,here
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,u,S,uSx,uS,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,,heren@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,And,ek,Nature,hireself,ne,wol,not,heere
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,u,S,uSx,uxS,u,S,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,not@adv,heren@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,And,eek,Nature,hirself,ne,wol,nought,here
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,u,S,uSx,uS,u,S,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,nought@adv,heren@v%inf
 
 "For taryinge here, not half that I wolde seye;",||,"For tarying here, noght half that I wold seye;"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 468,DIFF,,10,For,taryinge,here,not,half,that,I,wolde,seye
@@ -3815,12 +3815,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 477,,,10,ich@pron%nom,seien@v1%pr_1,not@adv,this@pron,bi@prep,me@pron2%obj,for@conj,ich@pron%nom,ne@adv,connen@v%pr_1
 
 Don no servyse that may my lady plese;,||,Do no servise that may my lady plese;
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,Don,no,servyse,that,may,my,lady,plese
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,u,S,uSx,u,S,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,don@v1%inf,no@gram_adj,servise@n,that@pron,mouen@v3%pr_3,min@pron%gen,ladie@n,plesen@v%inf
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,Do,no,servise,that,may,my,lady,plese
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,u,S,uSx,u,S,u,Su,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,DIFF,,10,,no@gram_adj,servise@n,that@pron,mouen@v3%pr_3,mouen@v3%pr_3,ladie@n,plesen@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,Don,no,servyse,that,may,my,lady,plese
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,u,S,uSx,u,S,u,Su,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,don@v1%inf,no@gram_adj,servise@n,that@pron,mouen@v3%pr_3,min@pron%gen,ladie@n,plesen@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,Do,no,servise,that,may,my,lady,plese
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,u,S,uSx,u,S,u,Su,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 478,,,10,don@v1%inf,no@gram_adj,servise@n,that@pron,mouen@v3%pr_3,min@pron%gen,ladie@n,plesen@v%inf
 
 "But I dar seyn, I am hire treweste man",||,"But I dar seyn, I am hir trewest man"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 479,,,10,But,I,dar,seyn,I,am,hire,treweste,man
@@ -3988,7 +3988,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 499,DIFF,,10,so@adv,crien@v%pt_pl,queke@interj,queke@interj,cokkou@n#interj,queke@interj,queke@interj,heighe@adv
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 499,DIFF,,10,So,criden,Kek,kek,Kukkow,Quek,quek,hie
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 499,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 499,DIFF,,10,so@adv,,queke@interj,queke@interj,queke@interj,queke@interj,queke@interj,heighe@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 499,DIFF,,10,so@adv,,queke@interj,queke@interj,cokkou@n#interj,queke@interj,queke@interj,heighe@adv
 
 That thourgh myne eres the noyse wente tho.,||,That thorgh min eres the noise wente tho.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 500,,,10,That,thourgh,myne,eres,the,noyse,wente,tho
@@ -4132,7 +4132,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 517,DIFF,,0,and@conj,who-so@pron%nom,hit@pron,don@v1%pr_3,ful@adv,foule@adv,him-self@pron,acloien@v%pr_3
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 517,DIFF,,0,And,whoso,doth,ful,foule,himself,acloyeth
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 517,DIFF,,0,,,,,,,
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 517,DIFF,,0,and@conj,who-so@pron%nom,don@v1%pr_3,ful@adv,ful@adv,him-self@pron,acloien@v%pr_3
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 517,DIFF,,0,and@conj,who-so@pron%nom,don@v1%pr_3,ful@adv,foule@adv,him-self@pron,acloien@v%pr_3
 
 "For office uncommytted ofte anoyeth.""",||,For office uncommitted° ofte anoyeth.”
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 518,,,10,For,office,uncommytted,ofte,anoyeth
@@ -4244,7 +4244,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 531,DIFF,,10,and@conj,to@prep,nature@n#propn,him@pron%obj,ginnen@v%pt_pl,to@part,presenten@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 531,DIFF,,10,And,to,Nature,him,gonnen,to,presente
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 531,DIFF,,10,u,S,uSx,u,Su,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 531,DIFF,,10,and@conj,to@prep,nature@n#propn,him@pron%obj,,to@prep,presenten@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 531,DIFF,,10,and@conj,to@prep,nature@n#propn,him@pron%obj,,to@part,presenten@v%inf
 
 And she accepteth hym with glad entente.,||,And she accepteth him with glad entente.
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 532,,,10,And,she,accepteth,hym,with,glad,entente
@@ -4508,7 +4508,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 564,DIFF,,10,and@conj,herkenen@v%imp,which@gram_adj,a@indef_art,resoun@n2,ich@pron%nom,shulen@v1%pr_1,forth@adv,bringen@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 564,DIFF,,10,And,herkeneth,which,a,reson,I,shal,bringe
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 564,DIFF,,10,u,SuS,u,S,xu,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 564,DIFF,,10,and@conj,herkenen@v%imp,which@gram_adj,a@indef_art,resoun@n2,a@indef_art,shulen@v1%pr_1,bringen@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 564,DIFF,,10,and@conj,herkenen@v%imp,which@gram_adj,a@indef_art,resoun@n2,ich@pron%nom,shulen@v1%pr_1,bringen@v%inf
 
 My wit is sharp; I love no taryinge;,||,"My wit is sharp, I love no taryinge;"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 565,,,10,My,wit,is,sharp,I,love,no,taryinge
@@ -4572,7 +4572,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 572,DIFF,,10,haven@v%inf,holden@v1%ppl,thin@pron%gen,pes@n,than@conj,sheuen@v1%ppl,thin@pron%gen,nicete@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 572,DIFF,,10,Have,hold,thy,pees,than,shewen,thy,nicete
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 572,DIFF,,10,ux,S,u,S,u,Su,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 572,DIFF,,10,,holden@v1%ppl,thin@pron%gen,pes@n,than@conj,,thin@pron%gen,nicete@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 572,DIFF,,10,haven@v%inf,holden@v1%ppl,thin@pron%gen,pes@n,than@conj,,thin@pron%gen,nicete@n
 
 "It lyth nat in his wit, ne in his wille,",||,"It lith not in his wit nor in his wille,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,It,lyth,nat,in,his,wit,ne,in,his,wille
@@ -4580,7 +4580,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,his@pron1%gen,wit@n,ne@conj1,in@prep,his@pron1%gen,wille@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,It,lith,not,in,his,wit,nor,in,his,wille
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,his@pron1%gen,wit@n,,in@prep,his@pron1%gen,wille@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 573,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,his@pron1%gen,wit@n,,ne@conj1,his@pron1%gen,wille@n
 
 "But soth is seyd, `a fol can not be stille.'""",||,"But sooth is seid, ‘A fool can noght be stille.’ ”"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 574,DIFF,,10,But,soth,is,seyd,a,fol,can,not,be,stille
@@ -4748,7 +4748,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 594,DIFF,,10,ye@pron%pl_nom,queken@v%pr_pl,seien@v1%pt_3,the@def_art,gos@n,ful@adv,wel@adv,and@conj,faire@adv
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 594,DIFF,,10,Quek,quek,yit,seith,the,doke,ful,wel,and,faire
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 594,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 594,DIFF,,10,queken@v%pr_pl,queken@v%pr_pl,,,the@def_art,,ful@adv,wel@adv,and@conj,faire@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 594,DIFF,,10,queken@v%pr_pl,,,,the@def_art,,ful@adv,wel@adv,and@conj,faire@adv
 
 "There been mo sterres, God wot, than a payre!""",||,"“There been mo sterres,° God wot, than a paire!”"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 595,,,10,There,been,mo,sterres,God,wot,than,a,payre
@@ -4780,7 +4780,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 598,DIFF,,10,thou@pron%nom,connen@v%pr_2,not@adv,sen@v1%inf,which@pron,thing@n,ben@v%pr_3,wel@adv,bisetten@v%ppl
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 598,DIFF,,10,Thou,canst,noght,see,what,thing,is,wel,beset
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 598,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 598,DIFF,,10,thou@pron%nom,connen@v%pr_2,,ben@v%pr_3,,thing@n,ben@v%pr_3,wel@adv,bisetten@v%ppl
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 598,DIFF,,10,thou@pron%nom,connen@v%pr_2,,ben@v%pr_3,,thing@n,,wel@adv,bisetten@v%ppl
 
 Thow farst by love as oules don by lyght:,||,"Thou farest by love as oules doon by light,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 599,,,10,Thow,farst,by,love,as,oules,don,by,lyght
@@ -4796,7 +4796,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 600,DIFF,,10,the@def_art,dai@n,hem@pron%pl_obj,blenden@v1%pr_3,ful@adv,wel@adv,thei@pron%pl_nom,sen@v1%pr_pl,bi@prep,night@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 600,DIFF,,10,The,day,hem,blent,but,wel,they,see,by,night
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 600,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 600,DIFF,,10,the@def_art,dai@n,hem@pron%pl_obj,blenden@v1%pr_3,,wel@adv,the@def_art,sen@v1%pr_pl,bi@prep,night@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 600,DIFF,,10,the@def_art,dai@n,hem@pron%pl_obj,blenden@v1%pr_3,,wel@adv,thei@pron%pl_nom,sen@v1%pr_pl,bi@prep,night@n
 
 Thy kynde is of so low a wrechednesse,||,"Thy kind is of so lowe a wrechednesse,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 601,,,10,Thy,kynde,is,of,so,low,a,wrechednesse
@@ -4812,7 +4812,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 602,DIFF,,10,that@conj,what@pron,love@n1,ben@v%pr_3,thou@pron%nom,connen@v%pr_2,nouther@conj,sen@v1%inf,ne@conj1,gessen@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 602,DIFF,,10,That,what,love,is,thou,canst,nat,see,ne,gesse
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 602,DIFF,,10,u,S,ux,S,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 602,DIFF,,10,that@conj,what@pron,love@n1,ben@v%pr_3,thou@pron%nom,connen@v%pr_2,,ben@v%pr_3,ne@conj1,gessen@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 602,DIFF,,10,that@conj,what@pron,love@n1,ben@v%pr_3,thou@pron%nom,connen@v%pr_2,,,ne@conj1,gessen@v%inf
 
 Tho gan the kokkow putte hym forth in pres,||,Tho gan the cukkow putte him forth in prees°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 603,,,10,Tho,gan,the,kokkow,putte,hym,forth,in,pres
@@ -4884,7 +4884,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 611,DIFF,,10,thanne@adv,ben@v%pr_pl,we@pron%pl_nom,wel@adj,seien@v1%pt_3,the@def_art,merlioun@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 611,DIFF,,10,Than,are,we,wel,seid,then,a,merlioun
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 611,DIFF,,10,u,Sx,u,S,u,S,u,SuS
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 611,DIFF,,10,thanne@adv,ben@v%pr_pl,we@pron%pl_nom,wel@adj,seien@v1%pt_3,thanne@adv,,merlioun@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 611,DIFF,,10,thanne@adv,ben@v%pr_pl,we@pron%pl_nom,wel@adj,seien@v1%pt_3,,,merlioun@n
 
 """Thow mortherere of the heysoge on the braunche",||,“Thou mordrer of the heisugge° on the braunche
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,Thow,mortherere,of,the,heysoge,on,the,braunche
@@ -4892,7 +4892,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,thou@pron%nom,mortherer@n,of@prep,the@def_art,hei-sugge@n,on@prep,the@def_art,braunch@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,Thou,mordrer,of,the,heisugge,on,the,braunche
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,u,Su,S,u,Sux,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,thou@pron%nom,,of@prep,thou@pron%nom,hei-sugge@n,on@prep,thou@pron%nom,braunch@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 612,DIFF,,10,thou@pron%nom,,of@prep,the@def_art,hei-sugge@n,on@prep,the@def_art,braunch@n
 
 "That broughte the forth, thow reufullest glotoun!",||,"That brought thee forth, thou rewthelees glotoun!"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,That,broughte,the,forth,thow,reufullest,glotoun
@@ -4900,7 +4900,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,that@pron,bringen@v%pt_3,the@pron2%obj,forth@adv,thou@pron%nom,reuful@adj%sup,glotoun@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,That,brought,thee,forth,thou,rewthelees,glotoun
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,u,S,u,S,u,SuS,uS
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,that@pron,bringen@v%pt_3,the@pron2%obj,forth@adv,the@pron2%obj,,glotoun@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 613,DIFF,,10,that@pron,bringen@v%pt_3,the@pron2%obj,forth@adv,thou@pron%nom,,glotoun@n
 
 "Lyve thow soleyn, wormes corupcioun,",||,"Live thou solein, wormes corrupcioun!"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 614,,,10,Lyve,thow,soleyn,wormes,corupcioun
@@ -4975,12 +4975,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 622,,,10,of@prep,whom@pron%obj,hire@pron2%fem_obj,listen@v1%pr_3,who-so@pron%nom,ben@v%pr_3,wroth@adj,or@conj,blithe@adj
 
 "Hym that she cheest, he shal hire han as swithe.",||,"Him that she cheest,° he shal hir have as swithe.°"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,Hym,that,she,cheest,he,shal,hire,han,as,swithe
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,u,S,x,u,S,u,Su,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,him@pron%obj,that@pron,she@pron%nom,chesen@v%pr_3,he@pron1%nom,shulen@v1%pr_3,hire@pron2%fem_obj,haven@v%inf,as@conj,swithe@adv
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,Him,that,she,cheest,he,shal,hir,have,as,swithe
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,u,S,u,S,u,S,u,Sx,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,DIFF,,10,him@pron%obj,that@pron,she@pron%nom,chesen@v%pr_3,he@pron1%nom,shulen@v1%pr_3,hire@pron2%fem_obj,,as@conj,swithe@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,Hym,that,she,cheest,he,shal,hire,han,as,swithe
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,u,S,x,u,S,u,Su,S,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,him@pron%obj,that@pron,she@pron%nom,chesen@v%pr_3,he@pron1%nom,shulen@v1%pr_3,hire@pron2%fem_obj,haven@v%inf,as@conj,swithe@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,Him,that,she,cheest,he,shal,hir,have,as,swithe
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,u,S,u,S,u,S,u,Sx,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 623,,,10,him@pron%obj,that@pron,she@pron%nom,chesen@v%pr_3,he@pron1%nom,shulen@v1%pr_3,hire@pron2%fem_obj,haven@v%inf,as@conj,swithe@adv
 
 """For sith it may not here discussed be",||,For sith° it may not here discussed be
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 624,,,10,For,sith,it,may,not,here,discussed,be
@@ -5007,12 +5007,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 626,,,10,thanne@adv,willen@v%pr_1,ich@pron%nom,don@v1%inf,hire@pron2%fem_obj,this@gram_adj,favour@n,that@conj,she@pron%nom
 
 "Shal han right hym on whom hire herte is set,",||,"Shal have right him on whom hir herte is set,"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,Shal,han,right,hym,on,whom,hire,herte,is,set
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,u,S,u,S,u,S,ux,Sx,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,shulen@v1%pr_3,haven@v%inf,righte@adv,him@pron%obj,on@prep,whom@pron%obj,hire@pron1%fem_gen,herte@n,ben@v%pr_3,setten@v%ppl
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,Shal,have,right,him,on,whom,hir,herte,is,set
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,u,Sx,u,S,u,S,u,Sx,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,DIFF,,10,shulen@v1%pr_3,,righte@adv,him@pron%obj,on@prep,whom@pron%obj,hire@pron1%fem_gen,herte@n,ben@v%pr_3,setten@v%ppl
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,Shal,han,right,hym,on,whom,hire,herte,is,set
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,u,S,u,S,u,S,ux,Sx,u,S
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,shulen@v1%pr_3,haven@v%inf,righte@adv,him@pron%obj,on@prep,whom@pron%obj,hire@pron1%fem_gen,herte@n,ben@v%pr_3,setten@v%ppl
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,Shal,have,right,him,on,whom,hir,herte,is,set
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,u,Sx,u,S,u,S,u,Sx,u,S
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 627,,,10,shulen@v1%pr_3,haven@v%inf,righte@adv,him@pron%obj,on@prep,whom@pron%obj,hire@pron1%fem_gen,herte@n,ben@v%pr_3,setten@v%ppl
 
 And he hire that his herte hath on hire knet:,||,And he hir that his herte hath on hir knet.°
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 628,,,10,And,he,hire,that,his,herte,hath,on,hire,knet
@@ -5092,7 +5092,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 637,DIFF,,0,that@conj,to@prep,you@pron%pl_obj,hit@pron,ouen@v%pt_3,to@part,ben@v%inf,a@indef_art,suffisaunce@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 637,DIFF,,10,That,to,yow,oght,to,been,a,suffisaunce
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 637,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 637,DIFF,,10,that@conj,to@prep,you@pron%pl_obj,ouen@v%pt_3,to@prep,ben@v%inf,you@pron%pl_obj,suffisaunce@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 637,DIFF,,10,that@conj,to@prep,you@pron%pl_obj,ouen@v%pt_3,to@part,ben@v%inf,a@indef_art,suffisaunce@n
 
 "With dredful vois the formel hire answerde,",||,"With dredful° vois the formel hir answerde,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 638,,,10,With,dredful,vois,the,formel,hire,answerde
@@ -5124,7 +5124,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 641,DIFF,,10,as@conj,ben@v%pr_3,everi@pron_gram_adj,other@gram_adj,creature@n
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 641,DIFF,,10,Lik,as,is,everiche,other,creature
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 641,DIFF,,10,u,S,u,SuSx,u,SuSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 641,DIFF,,10,,as@conj,as@conj,everi@pron_gram_adj,other@gram_adj,creature@n
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 641,DIFF,,10,,as@conj,ben@v%pr_3,everi@pron_gram_adj,other@gram_adj,creature@n
 
 And mot be youres whil my lyf may dure;,||,And moot be youres whil that my lif may dure;
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,And,mot,be,youres,whil,my,lyf,may,dure
@@ -5132,7 +5132,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,and@conj,moten@v2%pr_1,ben@v%inf,youres@pron%pl,whil@conj,min@pron%gen,lif@n,mouen@v3%pr_3,duren@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,And,moot,be,youres,whil,that,my,lif,may,dure
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,u,S,u,Sx,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,and@conj,moten@v2%pr_1,ben@v%inf,youres@pron%pl,whil@conj,,min@pron%gen,lif@n,min@pron%gen,duren@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 642,DIFF,,10,and@conj,moten@v2%pr_1,ben@v%inf,youres@pron%pl,whil@conj,,min@pron%gen,lif@n,mouen@v3%pr_3,duren@v%inf
 
 "And therfore graunteth me my firste bone,",||,"And therfor graunteth me my firste bone,°"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 643,,,10,And,therfore,graunteth,me,my,firste,bone
@@ -5148,7 +5148,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 644,DIFF,,10,and@conj,min@pron%gen,entente@n,ich@pron%nom,willen@v%pr_1,you@pron%pl_obj,seien@v1%inf,righte@adv,sone@adv
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 644,DIFF,,10,And,min,entent,that,wol,I,sey,wel,sone
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 644,DIFF,,10,u,S,uS,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 644,DIFF,,10,and@conj,min@pron%gen,entente@n,,willen@v%pr_1,ich@pron%nom,seien@v1%inf,willen@v%pr_1,sone@adv
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 644,DIFF,,10,and@conj,min@pron%gen,entente@n,,willen@v%pr_1,ich@pron%nom,seien@v1%inf,,sone@adv
 
 """I graunte it yow,"" quod she; and right anon",||,"“I graunte it you,” quod she; and right anon"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 645,,,10,I,graunte,it,yow,quod,she,and,right,anon
@@ -5236,7 +5236,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 655,DIFF,,10,quethen@v%pt_3,nature@n#propn,her@adv,ben@v%pr_3,no@gram_adj,more@n3,to@part,seien@v1%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 655,DIFF,,10,Quod,tho,Nature,here,is,no,more,to,sey
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 655,DIFF,,10,u,S,uSx,ux,S,u,Sx,u,S
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 655,DIFF,,10,quethen@v%pt_3,,nature@n#propn,her@adv,ben@v%pr_3,no@gram_adj,more@n3,to@part,ben@v%pr_3
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 655,DIFF,,10,quethen@v%pt_3,,nature@n#propn,her@adv,ben@v%pr_3,no@gram_adj,more@n3,to@part,seien@v1%inf
 
 "Thanne wolde I that these foules were aweye,",||,Than wolde I that these foules were awey
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 656,,,0,Thanne,wolde,I,that,these,foules,were,aweye
@@ -5348,7 +5348,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 669,DIFF,,10,and@conj,lord@n,the@def_art,blisse@n,and@conj,joie@n,that@pron,thei@pron%pl_nom,maken@v1%pr_pl
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 669,DIFF,,10,But,Lord,the,blisse,and,joye,that,they,make
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 669,DIFF,,10,u,S,u,Sx,u,Su,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 669,DIFF,,10,,lord@n,the@def_art,blisse@n,and@conj,joie@n,that@pron,the@def_art,maken@v1%pr_pl
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 669,DIFF,,10,,lord@n,the@def_art,blisse@n,and@conj,joie@n,that@pron,thei@pron%pl_nom,maken@v1%pr_pl
 
 "For ech of hem gan other in wynges take,",||,"For ech gan other in his winges take,"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 670,DIFF,,10,For,ech,of,hem,gan,other,in,wynges,take
@@ -5404,7 +5404,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 676,DIFF,,10,to@part,don@v1%inf,nature@n#propn,honour@n,and@conj,plesaunce@n1
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 676,DIFF,,10,To,do,to,Nature,honour,and,plesaunce
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 676,DIFF,,10,u,S,u,Sux,Su,S,uSx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 676,DIFF,,10,to@part,,to@part,nature@n#propn,honour@n,and@conj,plesaunce@n1
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 676,DIFF,,10,to@part,don@v1%inf,,nature@n#propn,honour@n,and@conj,plesaunce@n1
 
 "The note, I trowe, imaked was in Fraunce,",||,"The note,° I trowe, ymaked° was in Fraunce;"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 677,,,10,The,note,I,trowe,imaked,was,in,Fraunce
@@ -5415,12 +5415,12 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 677,,,10,the@def_art,note@n3,ich@pron%nom,trouen@v%pr_1,imaken@v%ppl,ben@v%pt_3,in@prep,fraunce@n#propn
 
 "The wordes were swiche as ye may heer fynde,",||,"The wordes wer swich as ye may heer finde,"
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,The,wordes,were,swiche,as,ye,may,heer,fynde
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,u,Su,Sx,ux,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,the@def_art,word@n%pl,ben@v%pt_pl,swich@gram_adj,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,her@adv,finden@v%inf
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,The,wordes,wer,swich,as,ye,may,heer,finde
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,,,10,the@def_art,word@n%pl,ben@v%pt_pl,swich@gram_adj,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,her@adv,finden@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,The,wordes,were,swiche,as,ye,may,heer,fynde
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,u,Su,Sx,ux,S,u,S,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,the@def_art,word@n%pl,ben@v%pt_pl,swich@gram_adj,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,her@adv,finden@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,The,wordes,wer,swich,as,ye,may,heer,finde
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 678,DIFF,,10,the@def_art,word@n%pl,ben@v%pt_pl,,as@conj,ye@pron%pl_nom,mouen@v3%pr_pl,her@adv,finden@v%inf
 
 "The nexte vers, as I now have in mynde.",||,"The nexte vers, as I now have in minde."
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 679,,,10,The,nexte,vers,as,I,now,have,in,mynde

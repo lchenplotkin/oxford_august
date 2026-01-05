@@ -692,7 +692,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 87,DIFF,,10,and@conj,beren@v1%ppl,him@pron%obj,wel@adv,as@conj,of@prep,so@adv,litel@adj,space@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 87,DIFF,,10,And,born,him,wel,as,in,so,litel,space
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 87,DIFF,,10,u,S,u,S,u,S,u,Su,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 87,DIFF,,10,and@conj,beren@v1%ppl,him@pron%obj,wel@adv,as@conj,,as@conj,litel@adj,space@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 87,DIFF,,10,and@conj,beren@v1%ppl,him@pron%obj,wel@adv,as@conj,,so@adv,litel@adj,space@n
 
 In hope to stonden in his lady grace.,||,In hope to stonden in his lady grace.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 88,,,10,In,hope,to,stonden,in,his,lady,grace
@@ -1068,7 +1068,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 134,DIFF,,10,that@conj,in@prep,hire@pron1%fem_gen,cuppe@n,ther@adv,ben@v%pt_3,no@gram_adj,ferthing@n,sen@v1%ppl
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 134,DIFF,,10,That,in,hir,coppe,was,no,ferthing,sene
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 134,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 134,DIFF,,10,that@conj,in@prep,hire@pron1%fem_gen,cuppe@n,ben@v%pt_3,in@prep,ferthing@n,sen@v1%ppl
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 134,DIFF,,10,that@conj,in@prep,hire@pron1%fem_gen,cuppe@n,ben@v%pt_3,no@gram_adj,ferthing@n,sen@v1%ppl
 
 "Of grece, whan she dronken hadde hir draughte.",||,"Of grece, whan she dronken hadde hir draughte."
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 135,,,10,Of,grece,whan,she,dronken,hadde,hir,draughte
@@ -1116,7 +1116,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 140,DIFF,,10,of@prep,court@n1,and@conj,to@part,ben@v%inf,estatli@adj,of@prep,manere@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 140,DIFF,,10,Of,court,and,ben,estatlich,of,manere
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 140,DIFF,,10,u,S,u,S,uSu,S,uSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 140,DIFF,,10,of@prep,court@n1,and@conj,ben@v%inf,estatli@adj,of@prep,manere@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 140,DIFF,,10,of@prep,court@n1,and@conj,,estatli@adj,of@prep,manere@n
 
 And to ben holden digne of reverence.,||,And to ben holden digne of reverence.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 141,,,10,And,to,ben,holden,digne,of,reverence
@@ -1180,7 +1180,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 148,DIFF,,10,but@conj,sore@adv,wepen@v%pt_3,she@pron%nom,if@conj,on@pron,of@prep,hem@pron%pl_obj,ben@v%pt_3,ded@adj
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 148,DIFF,,10,But,sore,weep,she,if,oon,of,hem,were,deed
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 148,DIFF,,10,u,Sx,u,x,S,u,S,u,Su,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 148,DIFF,,10,but@conj,sore@adv,,she@pron%nom,if@conj,on@pron,if@conj,hem@pron%pl_obj,ben@v%pt_3,ded@adj
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 148,DIFF,,10,but@conj,sore@adv,,she@pron%nom,if@conj,on@pron,of@prep,hem@pron%pl_obj,ben@v%pt_3,ded@adj
 
 Or if men smoot it with a yerde smerte;,||,Or if men smoot it with a yerde smerte:
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 149,,,10,Or,if,men,smoot,it,with,a,yerde,smerte
@@ -1783,12 +1783,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 223,,,10,he@pron1%nom,ben@v%pt_3,a@indef_art,esi@adj,man@n,to@part,yeven@v%inf,penaunce@n
 
 Ther as he wiste to have a good pitaunce.,||,Ther as he wist to han a good pitaunce;
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,Ther,as,he,wiste,to,have,a,good,pitaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,u,S,u,Sx,u,Sx,u,S,uSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,ther@adv,as@conj,he@pron1%nom,witen@v1%pt_3,to@part,haven@v%inf,a@indef_art,god@adj,pitaunce@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,Ther,as,he,wist,to,han,a,good,pitaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,DIFF,,10,ther@adv,as@conj,he@pron1%nom,witen@v1%pt_3,to@part,,a@indef_art,god@adj,pitaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,Ther,as,he,wiste,to,have,a,good,pitaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,u,S,u,Sx,u,Sx,u,S,uSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,ther@adv,as@conj,he@pron1%nom,witen@v1%pt_3,to@part,haven@v%inf,a@indef_art,god@adj,pitaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,Ther,as,he,wist,to,han,a,good,pitaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 224,,,10,ther@adv,as@conj,he@pron1%nom,witen@v1%pt_3,to@part,haven@v%inf,a@indef_art,god@adj,pitaunce@n
 
 For unto a povre ordre for to yive,||,For unto a poure ordre for to yive
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 225,,,10,For,unto,a,povre,ordre,for,to,yive
@@ -1951,12 +1951,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 244,,,10,accorden@v%pt_3,not@adv,as@conj,bi@prep,his@pron1%gen,faculte@n
 
 To have with sike lazars aqueyntaunce.,||,To han with sike lazars aqueintaunce.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,To,have,with,sike,lazars,aqueyntaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,u,Sx,u,Su,Su,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,to@part,haven@v%inf,with@prep,sik@adj,laser@n1%pl,aqueintaunce@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,To,han,with,sike,lazars,aqueintaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,u,S,u,Su,Su,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,DIFF,,10,to@part,,with@prep,sik@adj,laser@n1%pl,aqueintaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,To,have,with,sike,lazars,aqueyntaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,u,Sx,u,Su,Su,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,to@part,haven@v%inf,with@prep,sik@adj,laser@n1%pl,aqueintaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,To,han,with,sike,lazars,aqueintaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,u,S,u,Su,Su,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 245,,,10,to@part,haven@v%inf,with@prep,sik@adj,laser@n1%pl,aqueintaunce@n
 
 "It is nat honest; it may nat avaunce,",||,"It is nat honeste, it may nat avaunce"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 246,,,10,It,is,nat,honest,it,may,nat,avaunce
@@ -2092,7 +2092,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 260,DIFF,,10,with@prep,a@indef_art,thred-bare@adj,cope@n,as@conj,ben@v%pr_3,a@indef_art,povre@adj,scolere@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 260,DIFF,,10,With,thredbar,cope,as,is,a,poure,scoler
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 260,DIFF,,10,u,Su,Sx,u,S,u,Sx,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 260,DIFF,,10,with@prep,thred-bare@adj,cope@n,as@conj,as@conj,a@indef_art,povre@adj,scolere@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 260,DIFF,,10,with@prep,thred-bare@adj,cope@n,as@conj,ben@v%pr_3,a@indef_art,povre@adj,scolere@n
 
 But he was lyk a maister or a pope.,||,But he was lik a maister or a pope.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 261,,,10,But,he,was,lyk,a,maister,or,a,pope
@@ -2887,12 +2887,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 359,,,10,a@indef_art,shir-reve@n,haven@v%pt_3,he@pron1%nom,ben@v%ppl,and@conj,a@indef_art,countour@n1
 
 Was nowher swich a worthy vavasour.,||,Was nowher such a worthy vavasour.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,Was,nowher,swich,a,worthy,vavasour
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,ben@v%pt_3,no-wher@adv,swich@gram_adj,a@indef_art,worthi@adj,vavasour@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,Was,nowher,such,a,worthy,vavasour
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,DIFF,,10,ben@v%pt_3,no-wher@adv,,a@indef_art,worthi@adj,vavasour@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,Was,nowher,swich,a,worthy,vavasour
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,u,Su,S,u,Su,SuS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,ben@v%pt_3,no-wher@adv,swich@gram_adj,a@indef_art,worthi@adj,vavasour@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,Was,nowher,such,a,worthy,vavasour
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,u,Su,S,u,Su,SuS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 360,,,10,ben@v%pt_3,no-wher@adv,swich@gram_adj,a@indef_art,worthi@adj,vavasour@n
 
 "AN HABERDASSHERE and a CARPENTER,",||,"An Haberdasshere and a Carpenter,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 361,,,10,AN,HABERDASSHERE,and,a,CARPENTER
@@ -3020,7 +3020,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 376,DIFF,,10,hit@pron,ben@v%pr_3,ful@adv,fair@adj,to@part,ben@v%inf,clepen@v%ppl,ma-dame@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 376,DIFF,,10,It,is,ful,fair,to,been,yclept,ma,dame
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 376,DIFF,,10,u,S,u,S,u,S,uS,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 376,DIFF,,10,hit@pron,ben@v%pr_3,ful@adv,fair@adj,hit@pron,ben@v%inf,,,
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 376,DIFF,,10,hit@pron,ben@v%pr_3,ful@adv,fair@adj,to@part,ben@v%inf,,,
 
 "And goon to vigilies al bifore,",||,"And goon to vigilyës al bifore,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 377,,,10,And,goon,to,vigilies,al,bifore
@@ -3268,15 +3268,15 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 407,DIFF,,10,he@pron1%nom,knouen@v%pt_3,al@gram_adj,the@def_art,haven@n1%pl,as@conj,thei@pron%pl_nom,ben@v%pt_pl
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 407,DIFF,,10,He,knew,wel,al,the,havenes,as,they,were
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 407,DIFF,,10,u,S,u,S,u,SuS,u,S,xx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 407,DIFF,,10,he@pron1%nom,knouen@v%pt_3,,al@gram_adj,the@def_art,haven@n1%pl,as@conj,the@def_art,ben@v%pt_pl
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 407,DIFF,,10,he@pron1%nom,knouen@v%pt_3,,al@gram_adj,the@def_art,haven@n1%pl,as@conj,thei@pron%pl_nom,ben@v%pt_pl
 
 "Fro Gootlond to the cape of Fynystere,",||,"From Gootlond to the cape of Finistere,"
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,Fro,Gootlond,to,the,cape,of,Fynystere
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,u,Su,S,u,Sx,u,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,from@prep,gootlond@n#propn,to@prep,the@def_art,cap@n,of@prep,finistere@n#propn
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,From,Gootlond,to,the,cape,of,Finistere
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,u,Su,S,u,Sx,u,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,DIFF,,10,,gootlond@n#propn,to@prep,the@def_art,cap@n,of@prep,finistere@n#propn
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,Fro,Gootlond,to,the,cape,of,Fynystere
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,u,Su,S,u,Sx,u,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,from@prep,gootlond@n#propn,to@prep,the@def_art,cap@n,of@prep,finistere@n#propn
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,From,Gootlond,to,the,cape,of,Finistere
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,u,Su,S,u,Sx,u,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 408,,,10,from@prep,gootlond@n#propn,to@prep,the@def_art,cap@n,of@prep,finistere@n#propn
 
 And every cryke in Britaigne and in Spayne.,||,And every crike in Britaigne and in Spaine;
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 409,,,10,And,every,cryke,in,Britaigne,and,in,Spayne
@@ -3583,12 +3583,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 446,,,10,but@conj,she@pron%nom,ben@v%pt_3,som-del@adv,def@adj,and@conj,that@pron,ben@v%pt_3,scathe@n
 
 Of clooth-makyng she hadde swich an haunt,||,"Of cloothmaking she hadde swiche an haunt,"
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,Of,cloothmakyng,she,hadde,swich,an,haunt
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,u,SuS,u,Su,S,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,of@prep,cloth-making@n,she@pron%nom,haven@v%pt_3,swich@gram_adj,a@indef_art,haunt@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,Of,cloothmaking,she,hadde,swiche,an,haunt
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,u,SuS,u,Su,Sx,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,,,10,of@prep,cloth-making@n,she@pron%nom,haven@v%pt_3,swich@gram_adj,a@indef_art,haunt@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,Of,cloothmakyng,she,hadde,swich,an,haunt
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,u,SuS,u,Su,S,u,S
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,of@prep,cloth-making@n,she@pron%nom,haven@v%pt_3,swich@gram_adj,a@indef_art,haunt@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,Of,cloothmaking,she,hadde,swiche,an,haunt
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,u,SuS,u,Su,Sx,u,S
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 447,DIFF,,10,of@prep,cloth-making@n,she@pron%nom,haven@v%pt_3,,a@indef_art,haunt@n
 
 She passed hem of Ypres and of Gaunt.,||,She passed hem of Ypres and of Gaunt.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 448,,,10,She,passed,hem,of,Ypres,and,of,Gaunt
@@ -3927,12 +3927,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 489,,,10,of@prep,his@pron1%gen,offringe@ger,and@conj,ek@adv,of@prep,his@pron1%gen,substaunce@n
 
 He koude in litel thyng have suffisaunce.,||,He coude in litel thing han suffisaunce.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,He,koude,in,litel,thyng,have,suffisaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,u,Sx,u,Su,S,ux,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,he@pron1%nom,connen@v%pt_3,in@prep,litel@adj,thing@n,haven@v%inf,suffisaunce@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,He,coude,in,litel,thing,han,suffisaunce
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,u,Sx,u,Su,S,u,SuSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,DIFF,,10,he@pron1%nom,connen@v%pt_3,in@prep,litel@adj,thing@n,,suffisaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,He,koude,in,litel,thyng,have,suffisaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,u,Sx,u,Su,S,ux,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,he@pron1%nom,connen@v%pt_3,in@prep,litel@adj,thing@n,haven@v%inf,suffisaunce@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,He,coude,in,litel,thing,han,suffisaunce
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,u,Sx,u,Su,S,u,SuSx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 490,,,10,he@pron1%nom,connen@v%pt_3,in@prep,litel@adj,thing@n,haven@v%inf,suffisaunce@n
 
 "Wyd was his parisshe, and houses fer asonder,",||,"Wid was his parisshe, and houses fer asonder,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 491,,,10,Wyd,was,his,parisshe,and,houses,fer,asonder
@@ -4212,7 +4212,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 525,DIFF,,10,he@pron1%nom,waiten@v%pt_3,after@prep,no@gram_adj,pompe@n,and@conj,reverence@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 525,DIFF,,10,He,waited,after,no,pompe,ne,reverence
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 525,DIFF,,10,u,Su,Su,S,ux,S,uxSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 525,DIFF,,10,he@pron1%nom,waiten@v%pt_3,after@prep,no@gram_adj,pompe@n,no@gram_adj,reverence@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 525,DIFF,,10,he@pron1%nom,waiten@v%pt_3,after@prep,no@gram_adj,pompe@n,,reverence@n
 
 "Ne maked him a spiced conscience,",||,"Ne maked him a spiced conscience,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 526,,,10,Ne,maked,him,a,spiced,conscience
@@ -5479,12 +5479,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 683,,,10,dischevele@adj,sauf@prep,his@pron1%gen,cappe@n,he@pron1%nom,riden@v%pt_3,al@adv,bar@adj
 
 Swiche glarynge eyen hadde he as an hare.,||,Swich glaringe eyen hadde he as an hare.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,Swiche,glarynge,eyen,hadde,he,as,an,hare
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,ux,Sux,Su,Sx,u,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,swich@gram_adj,glaren@v#adj%prp,eie@n1%pl,haven@v%pt_3,he@pron1%nom,as@conj,a@indef_art,hare@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,Swich,glaringe,eyen,hadde,he,as,an,hare
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,u,Sux,Su,Sx,u,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,,,10,swich@gram_adj,glaren@v#adj%prp,eie@n1%pl,haven@v%pt_3,he@pron1%nom,as@conj,a@indef_art,hare@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,Swiche,glarynge,eyen,hadde,he,as,an,hare
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,ux,Sux,Su,Sx,u,S,u,Sx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,swich@gram_adj,glaren@v#adj%prp,eie@n1%pl,haven@v%pt_3,he@pron1%nom,as@conj,a@indef_art,hare@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,Swich,glaringe,eyen,hadde,he,as,an,hare
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,u,Sux,Su,Sx,u,S,u,Sx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 684,DIFF,,10,,glaren@v#adj%prp,eie@n1%pl,haven@v%pt_3,he@pron1%nom,as@conj,a@indef_art,hare@n
 
 A vernycle hadde he sowed upon his cappe.,||,A vernicle hadde he sowed on his cappe.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 685,DIFF,,10,A,vernycle,hadde,he,sowed,upon,his,cappe
@@ -5503,12 +5503,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 686,DIFF,,10,his@pron1%gen,walet@n,,biforen@prep,him@pron%obj,in@prep,his@pron1%gen,lappe@n
 
 Bretful of pardoun comen from Rome al hoot.,||,Bretful of pardoun come from Rome al hoot.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,Bretful,of,pardoun,comen,from,Rome,al,hoot
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,uS,u,Su,Sx,u,Sx,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,bred-ful@adj,of@prep,pardoun@n,comen@v%ppl_abs,from@prep,rome@n#propn,al@adv,hot@adj
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,Bretful,of,pardoun,come,from,Rome,al,hoot
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,uS,u,Su,Sx,u,Sx,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,DIFF,,10,bred-ful@adj,of@prep,pardoun@n,,from@prep,rome@n#propn,al@adv,hot@adj
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,Bretful,of,pardoun,comen,from,Rome,al,hoot
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,uS,u,Su,Sx,u,Sx,u,S
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,bred-ful@adj,of@prep,pardoun@n,comen@v%ppl_abs,from@prep,rome@n#propn,al@adv,hot@adj
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,Bretful,of,pardoun,come,from,Rome,al,hoot
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,uS,u,Su,Sx,u,Sx,u,S
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 687,,,10,bred-ful@adj,of@prep,pardoun@n,comen@v%ppl_abs,from@prep,rome@n#propn,al@adv,hot@adj
 
 A voys he hadde as smal as hath a goot.,||,A vois he hadde as smal as hath a goot.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 688,,,10,A,voys,he,hadde,as,smal,as,hath,a,goot
@@ -5732,7 +5732,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,,10,nou@adv,haven@v%pr_1,ich@pron%nom,tellen@v%ppl,you@pron%pl_obj,sothli@adv,in@prep,a@indef_art,clause@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,,10,Now,have,I,told,you,shortly,in,a,clause
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,,10,u,Sx,u,S,u,Su,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,,10,nou@adv,haven@v%pr_1,ich@pron%nom,tellen@v%ppl,ich@pron%nom,,nou@adv,ich@pron%nom,clause@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,,10,nou@adv,haven@v%pr_1,ich@pron%nom,tellen@v%ppl,you@pron%pl_obj,,in@prep,a@indef_art,clause@n
 
 "Th' estaat, th' array, the nombre, and eek the cause",||,"Th’estat, th’array, the nombre, and the cause"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,Th,estaat,th,array,the,nombre,and,eek,the,cause
@@ -5852,7 +5852,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 730,DIFF,,10,for@conj,this@pron,ye@pron%pl_nom,knouen@v%pr_pl,al@adv,so@adv,wel@adv,as@conj,ich@pron%nom
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 730,DIFF,,10,For,this,ye,knowen,also,wel,as,I
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 730,DIFF,,10,u,S,u,Su,Su,S,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 730,DIFF,,10,for@conj,this@pron,ye@pron%pl_nom,knouen@v%pr_pl,,wel@adv,so@adv,ye@pron%pl_nom
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 730,DIFF,,10,for@conj,this@pron,ye@pron%pl_nom,knouen@v%pr_pl,,wel@adv,so@adv,ich@pron%nom
 
 "Whoso shal telle a tale after a man,",||,"Whoso shal telle a tale after a man,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 731,,,10,Whoso,shal,telle,a,tale,after,a,man
@@ -6028,7 +6028,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 752,DIFF,,9,for@prep#adv,to@part,ben@v%inf,a@indef_art,marshal@n,in@prep,a@indef_art,halle@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 752,DIFF,,10,For,to,han,been,a,marchal,in,an,halle
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 752,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 752,DIFF,,10,for@prep#adv,to@part,,ben@v%inf,a@indef_art,marshal@n,in@prep,in@prep,halle@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 752,DIFF,,10,for@prep#adv,to@part,,ben@v%inf,a@indef_art,marshal@n,in@prep,a@indef_art,halle@n
 
 A large man he was with eyen stepe --,||,"A large man he was with eyen stepe,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 753,,,10,A,large,man,he,was,with,eyen,stepe
@@ -6124,7 +6124,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 764,DIFF,,0,ich@pron%nom,sen@v1%pt_1,not@adv,this@gram_adj,yer@n,so@adv,mirie@adj,a@indef_art,compaignie@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 764,DIFF,,0,I,ne,saugh,this,yeer,so,mery,a,companye
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 764,DIFF,,0,,,,,,,,,
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 764,DIFF,,0,ich@pron%nom,,sen@v1%pt_1,this@gram_adj,yer@n,so@adv,mirie@adj,ich@pron%nom,
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 764,DIFF,,0,ich@pron%nom,,sen@v1%pt_1,this@gram_adj,yer@n,so@adv,mirie@adj,a@indef_art,
 
 Atones in this herberwe as is now.,||,At ones in this herberwe as is now.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,Atones,in,this,herberwe,as,is,now
@@ -6132,7 +6132,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,at_ones@adv,in@prep,this@gram_adj,herberwe@n,as@conj,ben@v%pr_3,nou@adv
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,At,ones,in,this,herberwe,as,is,now
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,u,Su,S,u,Sux,S,u,S
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,,,in@prep,this@gram_adj,herberwe@n,as@conj,as@conj,in@prep
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 765,DIFF,,10,,,in@prep,this@gram_adj,herberwe@n,as@conj,ben@v%pr_3,nou@adv
 
 "Fayn wolde I doon yow myrthe, wiste I how.",||,"Fain wolde I doon yow mirthe, wiste I how."
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 766,,,10,Fayn,wolde,I,doon,yow,myrthe,wiste,I,how
@@ -6236,7 +6236,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 778,DIFF,,9,for@prep#adv,to@part,stonden@v1%inf,at@prep,min@pron%gen,jugement@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 778,DIFF,,10,Now,for,to,stonden,at,my,jugement
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 778,DIFF,,10,u,S,u,Su,S,u,SuS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 778,DIFF,,10,,for@prep#adv,to@part,stonden@v1%inf,to@part,min@pron%gen,jugement@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 778,DIFF,,10,,for@prep#adv,to@part,stonden@v1%inf,at@prep,min@pron%gen,jugement@n
 
 "And for to werken as I shal yow seye,",||,"And for to werken as I shal yow seye,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 779,,,10,And,for,to,werken,as,I,shal,yow,seye
@@ -6319,12 +6319,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 788,,,10,lordinge@n%pl,quethen@v%pt_3,he@pron1%nom,nou@adv,herkenen@v%imp,for@prep,the@def_art,best@adjas_n%sup
 
 "But taak it nought, I prey yow, in desdeyn.",||,"But tak it not, I prey yow, in desdein;"
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,But,taak,it,nought,I,prey,yow,in,desdeyn
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,but@conj,taken@v%imp,hit@pron,nought@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,But,tak,it,not,I,prey,yow,in,desdein
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,,10,but@conj,taken@v%imp,hit@pron,,ich@pron%nom,preien@v1%pr_1,ich@pron%nom,in@prep,disdeine@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,But,taak,it,nought,I,prey,yow,in,desdeyn
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,u,S,u,S,u,S,u,S,uS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,but@conj,taken@v%imp,hit@pron,nought@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,But,tak,it,not,I,prey,yow,in,desdein
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,u,S,u,S,u,S,u,S,uS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,but@conj,taken@v%imp,hit@pron,not@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
 
 "This is the poynt, to speken short and pleyn,",||,"This is the point, to speken short and plein,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 790,,,10,This,is,the,poynt,to,speken,short,and,pleyn
@@ -6548,7 +6548,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 817,DIFF,,10,in@prep,heigh@adj#n,and@conj,loue@n3,and@conj,thus@adv,bi@prep,on@num_adj,assent@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 817,DIFF,,10,In,heigh,and,lowe,and,thus,by,oon,assent
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 817,DIFF,,10,u,S,u,Sx,u,S,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 817,DIFF,,10,in@prep,heigh@adj#n,and@conj,,and@conj,thus@adv,bi@prep,in@prep,assent@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 817,DIFF,,10,in@prep,heigh@adj#n,and@conj,,and@conj,thus@adv,bi@prep,on@num_adj,assent@n
 
 We been acorded to his juggement.,||,We been acorded to his jugement.
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 818,,,10,We,been,acorded,to,his,juggement
@@ -6644,7 +6644,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 829,DIFF,,0,ye@pron%pl_nom,witen@v1%pr_pl,your@pron%pl_gen,fore-ward@n,and@conj,ich@pron%nom,hit@pron,you@pron%pl_obj,recorden@v%pr_1
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 829,DIFF,,10,Ye,woot,your,forward,and,it,yow,recorde
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 829,DIFF,,10,u,S,u,Su,S,u,S,uSx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 829,DIFF,,10,ye@pron%pl_nom,witen@v1%pr_pl,your@pron%pl_gen,fore-ward@n,and@conj,hit@pron,ye@pron%pl_nom,recorden@v%pr_1
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 829,DIFF,,10,ye@pron%pl_nom,witen@v1%pr_pl,your@pron%pl_gen,fore-ward@n,and@conj,hit@pron,ich@pron%nom,recorden@v%pr_1
 
 "If even-song and morwe-song accorde,",||,"If even-song and morwe-song acorde,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 830,,,10,If,evensong,and,morwesong,accorde

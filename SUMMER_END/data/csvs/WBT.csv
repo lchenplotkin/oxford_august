@@ -1028,7 +1028,7 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 985,DIFF,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,what@pron,womman@n%pl,loven@v1%pr_pl,most@adv%sup,--@dash
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 985,DIFF,,10,This,is,to,sey,what,wommen,loven,moost
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 985,DIFF,,10,u,S,u,S,u,Su,Su,S
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 985,DIFF,,10,this@pron,ben@v%pr_3,to@part,ben@v%pr_3,what@pron,womman@n%pl,,most@adv%sup
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 985,DIFF,,10,this@pron,ben@v%pr_3,to@part,seien@v1%inf,what@pron,womman@n%pl,,most@adv%sup
 
 Withinne his brest ful sorweful was the goost.,||,Withinne his brest ful sorweful was the goost;°
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 986,,,0,Withinne,his,brest,ful,sorweful,was,the,goost
@@ -1156,7 +1156,7 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1001,DIFF,,10,and@conj,seien@v1%pt_3,sire@n#adj,knight@n,her@adv,forth@adv,ne@adv,lien@v1%pr_3,no@gram_adj,wei@n
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1001,DIFF,,10,And,seid,Sir,knight,heerforth,ne,lith,no,wey
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1001,DIFF,,10,u,S,u,S,uS,u,S,u,S
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1001,DIFF,,10,and@conj,seien@v1%pt_3,sire@n#adj,knight@n,,ne@adv,lien@v1%pr_3,ne@adv,wei@n
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1001,DIFF,,10,and@conj,seien@v1%pt_3,sire@n#adj,knight@n,,ne@adv,lien@v1%pr_3,no@gram_adj,wei@n
 
 "Tel me what that ye seken, by youre fey!",||,"Tel me what that ye seken, by your fey.°"
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1002,,,10,Tel,me,what,that,ye,seken,by,youre,fey
@@ -1892,7 +1892,7 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1093,DIFF,,10,and@conj,certes@adv,yet@adv,ne@adv,don@v1%pt_1,ich@pron%nom,you@pron%pl_obj,never@adv,unright@n
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1093,DIFF,,10,And,certes,yet,did,I,yow,never,unright
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1093,DIFF,,10,u,Su,S,u,S,u,S,uS
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1093,DIFF,,10,and@conj,certes@adv,yet@adv,don@v1%pt_1,ich@pron%nom,ich@pron%nom,never@adv,unright@n
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1093,DIFF,,10,and@conj,certes@adv,yet@adv,don@v1%pt_1,ich@pron%nom,you@pron%pl_obj,never@adv,unright@n
 
 Why fare ye thus with me this firste nyght?,||,Why fare ye thus with me this firste night?
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1094,,,10,Why,fare,ye,thus,with,me,this,firste,nyght
@@ -3244,7 +3244,7 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1262,DIFF,,10,that@pron,nought@adv,willen@v%pr_pl,ben@v%inf,governen@v%ppl,bi@prep,here@pron%pl_gen,wif@n%pl
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1262,DIFF,,10,That,wol,not,be,governed,by,hir,wives
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1262,DIFF,,10,u,S,u,S,uSu,S,u,Sx
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1262,DIFF,,10,that@pron,willen@v%pr_pl,,ben@v%inf,governen@v%ppl,ben@v%inf,here@pron%pl_gen,wif@n%pl
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1262,DIFF,,10,that@pron,willen@v%pr_pl,,ben@v%inf,governen@v%ppl,bi@prep,here@pron%pl_gen,wif@n%pl
 
 "And olde and angry nygardes of dispence,",||,"And olde and angry nigards° of dispence,"
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1263,,,10,And,olde,and,angry,nygardes,of,dispence

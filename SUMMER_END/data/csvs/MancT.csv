@@ -140,7 +140,7 @@ data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/Ma
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 122,DIFF,,10,for@conj,in@prep,this@gram_adj,world@n,ben@v%pt_3,non@pron,so@adv,fair@adj,on-live@adv
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 122,DIFF,,10,For,in,this,world,was,noon,so,fair,on,live
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 122,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 122,DIFF,,10,for@conj,in@prep,this@gram_adj,world@n,ben@v%pt_3,non@pron,so@adv,for@conj,in@prep,
+data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 122,DIFF,,10,for@conj,in@prep,this@gram_adj,world@n,ben@v%pt_3,non@pron,so@adv,fair@adj,,
 
 "He was therwith fulfild of gentillesse,",||,"He was therwith fulfild of gentillesse,"
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 123,,,10,He,was,therwith,fulfild,of,gentillesse
@@ -604,7 +604,7 @@ data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/Ma
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 180,DIFF,,10,swich@gram_adj,appetit@n,haven@v%pr_3,he@pron1%nom,to@part,eten@v%inf,a@indef_art,mous@n
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 180,DIFF,,10,Swich,appetit,he,hath,to,ete,a,mous
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 180,DIFF,,10,u,SuS,u,S,u,Sx,u,S
-data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 180,DIFF,,10,swich@gram_adj,appetit@n,he@pron1%nom,haven@v%pr_3,to@part,to@part,a@indef_art,mous@n
+data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 180,DIFF,,10,swich@gram_adj,appetit@n,he@pron1%nom,haven@v%pr_3,to@part,eten@v%inf,a@indef_art,mous@n
 
 "Lo, heere hath lust his dominacioun,",||,"Lo, here hath lust° his dominacioun,"
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 181,,,10,Lo,heere,hath,lust,his,dominacioun
@@ -716,7 +716,7 @@ data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/Ma
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 194,DIFF,,10,that@conj,we@pron%pl_nom,ne@adv,connen@v%pr_pl,in@prep,no-thing@pron,haven@v%inf,plesaunce@n1
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 194,DIFF,,10,That,we,ne,conne,in,no,thing,han,plesaunce
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 194,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 194,DIFF,,10,that@conj,we@pron%pl_nom,ne@adv,connen@v%pr_pl,ne@adv,ne@adv,,haven@v%inf,plesaunce@n1
+data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 194,DIFF,,10,that@conj,we@pron%pl_nom,ne@adv,connen@v%pr_pl,in@prep,,,haven@v%inf,plesaunce@n1
 
 That sowneth into vertu any while.,||,That souneth° into vertu any while.
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 195,,,10,That,sowneth,into,vertu,any,while
@@ -1804,7 +1804,7 @@ data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/Ma
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 330,DIFF,,10,at@prep,al@gram_adj,time@n%pl,but@conj,whan@adv&conj,thou@pron%nom,don@v1%pr_2,thin@pron%gen,peine@n
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 330,DIFF,,10,At,alle,time,but,whan,thou,doost,thy,peine
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 330,DIFF,,10,u,Su,Sx,u,S,u,S,u,Sx
-data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 330,DIFF,,10,at@prep,al@gram_adj,,but@conj,whan@adv&conj,thou@pron%nom,don@v1%pr_2,thou@pron%nom,peine@n
+data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 330,DIFF,,10,at@prep,al@gram_adj,,but@conj,whan@adv&conj,thou@pron%nom,don@v1%pr_2,thin@pron%gen,peine@n
 
 "To speke of God, in honour and preyere.",||,"To speke of God, in honour and preyere."
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 331,,,10,To,speke,of,God,in,honour,and,preyere
@@ -2012,7 +2012,7 @@ data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/Ma
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 356,DIFF,,10,though@conj,him@pron%obj,repenten@v%pr_3,or@conj,ben@v%pr_3,him@pron%obj,never@adv,so@adv,loth@adj
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 356,DIFF,,10,Though,him,repente,or,be,him,leef,or,looth
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 356,DIFF,,10,u,S,uSx,u,S,u,S,u,S
-data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 356,DIFF,,10,though@conj,him@pron%obj,repenten@v%pr_3,or@conj,ben@v%pr_3,him@pron%obj,,or@conj,loth@adj
+data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 356,DIFF,,10,though@conj,him@pron%obj,repenten@v%pr_3,or@conj,ben@v%pr_3,him@pron%obj,,,loth@adj
 
 He is his thral to whom that he hath sayd,||,He is his thral° to whom that he hath said°
 data/riverside_cats/MancT_riv.cat,data/oxford_txts/MancT_oxford.txt,data/csvs/MancT,The Manciple's Tale 357,,,10,He,is,his,thral,to,whom,that,he,hath,sayd

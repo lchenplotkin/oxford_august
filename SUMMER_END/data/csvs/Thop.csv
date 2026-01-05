@@ -276,7 +276,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,ben@v%pr_3,the@def_art,brembel@n,flour@n1
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,And,sweet,as,is,the,brambelflour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,as@conj,the@def_art,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,ben@v%pr_3,the@def_art,
 
 That bereth the rede hepe.,||,    That bereth the red hepe.°
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 747,,,0,That,bereth,the,rede,hepe
@@ -1007,12 +1007,12 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 837,,,0,priken@v%prp_abs,over@prep,hille@n,and@conj,dale@n
 
 Is comen agayn to towne.,||,    Is come again to toune.
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,Is,comen,agayn,to,towne
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,ben@v%pr_3,comen@v%ppl,ayen@adv,to@prep,toun@n
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,Is,come,again,to,toune
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,DIFF,,0,ben@v%pr_3,,ayen@adv,to@prep,toun@n
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,Is,comen,agayn,to,towne
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,,,,,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,ben@v%pr_3,comen@v%ppl,ayen@adv,to@prep,toun@n
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,Is,come,again,to,toune
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,,,,,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 838,,,0,ben@v%pr_3,comen@v%ppl,ayen@adv,to@prep,toun@n
 
 His myrie men comanded he,||,His murie men comanded he
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 839,,,0,His,myrie,men,comanded,he

@@ -772,7 +772,7 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 216,DIFF,,10,tho@adv,vanishen@v%pt_3,this@gram_adj,olde@adj,man@n,he@pron1%nom,witen@v1%pt_3_neg,wher@adv&conj
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 216,DIFF,,10,Tho,vanisshed,the,olde,man,he,niste,where
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 216,DIFF,,10,u,SuS,u,Sx,u,S,ux,Sx
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 216,DIFF,,10,tho@adv,vanishen@v%pt_3,tho@adv,olde@adj,man@n,he@pron1%nom,witen@v1%pt_3_neg,wher@adv&conj
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 216,DIFF,,10,tho@adv,vanishen@v%pt_3,,olde@adj,man@n,he@pron1%nom,witen@v1%pt_3_neg,wher@adv&conj
 
 And Pope Urban hym cristned right there.,||,And Pope Urban him cristened° right there.
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 217,,,10,And,Pope,Urban,hym,cristned,right,there
@@ -868,7 +868,7 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 228,DIFF,,10,ne@conj1,never@adv,mo@adv%comp,ne@adv,shulen@v1%pr_3,thei@pron%pl_nom,roten@adj,ben@v%inf
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 228,DIFF,,10,Ne,nevermo,ne,shal,they,roten,be
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 228,DIFF,,10,u,SuS,u,S,u,Su,S
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 228,DIFF,,10,ne@conj1,,ne@conj1,shulen@v1%pr_3,thei@pron%pl_nom,roten@adj,ben@v%inf
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 228,DIFF,,10,ne@conj1,,ne@adv,shulen@v1%pr_3,thei@pron%pl_nom,roten@adj,
 
 "Ne lese hir soote savour, trusteth me;",||,"Ne lese° her sote° savour, trusteth me;"
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 229,,,10,Ne,lese,hir,soote,savour,trusteth,me
@@ -1348,7 +1348,7 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 288,DIFF,,10,who-so@pron%nom,that@pron,trouen@v%pr_3,not@adv,this@pron,a@indef_art,beste@n,he@pron1%nom,ben@v%pr_3
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 288,DIFF,,10,Who,so,that,troweth,nat,this,a,beste,he,is
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 288,DIFF,,10,u,S,u,Su,S,u,S,xx,u,S
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 288,DIFF,,10,,ben@v%pr_3,that@pron,trouen@v%pr_3,not@adv,this@pron,a@indef_art,beste@n,he@pron1%nom,ben@v%pr_3
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 288,DIFF,,10,,ben@v%pr_3,that@pron,trouen@v%pr_3,not@adv,this@pron,a@indef_art,beste@n,he@pron1%nom,
 
 "Quod tho Tiburce, ""if that I shal nat lye.""",||,"Quod tho Tiburce, “If that I shal nat lie.”"
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 289,,,10,Quod,tho,Tiburce,if,that,I,shal,nat,lye
@@ -1559,12 +1559,12 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 314,,,10,if@conj,he@pron1%nom,ben@v%pt_3,finden@v%ppl,or@conj,that@conj,man@n%pl,mouen@v3%pt_pl,him@pron%obj,spien@v1%inf
 
 "And we also, to bere hym compaignye;",||,"And we also, to bere him companie—"
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,0,And,we,also,to,bere,hym,compaignye
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,0,,,,,,,
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,0,and@conj,we@pron%pl_nom,also@adv,to@part,beren@v1%inf,him@pron%obj,compaignie@n
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,10,And,we,also,to,bere,him,companie
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,10,u,S,uS,u,Sx,u,SuS
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,DIFF,,10,and@conj,we@pron%pl_nom,also@adv,to@part,beren@v1%inf,him@pron%obj,
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,0,And,we,also,to,bere,hym,compaignye
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,0,,,,,,,
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,0,and@conj,we@pron%pl_nom,also@adv,to@part,beren@v1%inf,him@pron%obj,compaignie@n
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,10,And,we,also,to,bere,him,companie
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,10,u,S,uS,u,Sx,u,SuS
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 315,,,10,and@conj,we@pron%pl_nom,also@adv,to@part,beren@v1%inf,him@pron%obj,compaignie@n
 
 """And whil we seken thilke divinitee",||,“And whil we seken thilke° divinitee
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 316,,,10,And,whil,we,seken,thilke,divinitee
@@ -3036,7 +3036,7 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 499,DIFF,,10,that@conj,thou@pron%nom,ne@adv,ben@v%pr_2,blind@adj,for@conj,thing@n,that@pron,we@pron%pl_nom,sen@v1%pr_pl,al@gram_adj
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 499,DIFF,,10,That,thou,nart,blind,for,thing,that,we,seen,alle
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 499,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 499,DIFF,,10,that@conj,thou@pron%nom,,blind@adj,for@conj,thing@n,that@conj,we@pron%pl_nom,sen@v1%pr_pl,al@gram_adj
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 499,DIFF,,10,that@conj,thou@pron%nom,,blind@adj,for@conj,thing@n,that@pron,we@pron%pl_nom,sen@v1%pr_pl,al@gram_adj
 
 That it is stoon -- that men may wel espyen --,||,"That it is stoon, that men may wel espyen,"
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 500,,,11,That,it,is,stoon,that,men,may,wel,espyen
@@ -3172,7 +3172,7 @@ data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,Th
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 516,DIFF,,10,and@conj,as@conj,he@pron1%nom,bidden@v%pt_3,righte@adv,so@adv,ben@v%pt_3,don@v1%ppl,the@def_art,dede@n
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 516,DIFF,,10,And,as,he,bad,right,so,was,doon,in,dede
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 516,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 516,DIFF,,10,and@conj,as@conj,he@pron1%nom,bidden@v%pt_3,righte@adv,as@conj,ben@v%pt_3,don@v1%ppl,,dede@n
+data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 516,DIFF,,10,and@conj,as@conj,he@pron1%nom,bidden@v%pt_3,righte@adv,so@adv,ben@v%pt_3,don@v1%ppl,,dede@n
 
 "For in a bath they gonne hire faste shetten,",||,"For in a bath they gonne hir faste shetten,"
 data/riverside_cats/SNT_riv.cat,data/oxford_txts/SNT_oxford.txt,data/csvs/SNT,The Second Nun's Tale 517,,,10,For,in,a,bath,they,gonne,hire,faste,shetten

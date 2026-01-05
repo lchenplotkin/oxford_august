@@ -52,7 +52,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 7,DIFF,,10,if@conj,ich@pron%nom,so@adv,ofte@adv,mouen@v3%pt_1,haven@v%inf,wedden@v%ppl,ben@v%ppl,--@dash
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 7,DIFF,,10,For,I,so,ofte,have,ywedded,be
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 7,DIFF,,10,u,S,u,Su,Sx,uSu,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 7,DIFF,,10,,ich@pron%nom,so@adv,ofte@adv,haven@v%inf,wedden@v%ppl,ben@v%ppl
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 7,DIFF,,10,,ich@pron%nom,so@adv,ofte@adv,haven@v%inf,wedden@v%ppl,
 
 And alle were worthy men in hir degree.,||,And al were worthy men in hir degree.°
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 8,,,10,And,alle,were,worthy,men,in,hir,degree
@@ -140,7 +140,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 18,DIFF,,9,and@conj,that@art&gram_adj,ilke@pron_gram_adj,man@n,that@pron,nou@adv,haven@v%pr_3,the@pron2%obj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 18,DIFF,,10,And,thilke,man,the,which,that,hath,now,thee
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 18,DIFF,,10,u,Su,S,u,S,u,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 18,DIFF,,10,and@conj,,man@n,the@pron2%obj,,that@art&gram_adj,haven@v%pr_3,nou@adv,the@pron2%obj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 18,DIFF,,10,and@conj,,man@n,the@pron2%obj,,that@art&gram_adj,haven@v%pr_3,nou@adv,
 
 "Is noght thyn housbonde,' thus seyde he certeyn.",||,Is noght thin housbond’; thus seide he certein;
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 19,,,10,Is,noght,thyn,housbonde,thus,seyde,he,certeyn
@@ -292,7 +292,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 37,DIFF,,10,as@conj,willen@v%pt_3,god@n1#propn,hit@pron,lefful@adj2,ben@v%pt_3,unto@prep,me@pron2%obj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 37,DIFF,,10,As,wolde,God,it,lefful,were,to,me
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 37,DIFF,,10,u,Su,S,u,Su,Sx,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 37,DIFF,,10,as@conj,willen@v%pt_3,god@n1#propn,hit@pron,,ben@v%pt_3,hit@pron,me@pron2%obj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 37,DIFF,,10,as@conj,willen@v%pt_3,god@n1#propn,hit@pron,,ben@v%pt_3,,me@pron2%obj
 
 To be refresshed half so ofte as he!,||,To be refresshed half so ofte as he!
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 38,,,10,To,be,refresshed,half,so,ofte,as,he
@@ -388,7 +388,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 49,DIFF,,10,for@conj,thanne@adv,the@def_art,apostle@n,seien@v1%pr_3,that@conj,ich@pron%nom,ben@v%pr_1,fre@adj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 49,DIFF,,10,For,than,thapostle,seith,that,I,am,free
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 49,DIFF,,10,u,S,uSu,S,u,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 49,DIFF,,10,for@conj,thanne@adv,,seien@v1%pr_3,that@conj,ich@pron%nom,ben@v%pr_1,for@conj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 49,DIFF,,10,for@conj,thanne@adv,,seien@v1%pr_3,that@conj,ich@pron%nom,ben@v%pr_1,fre@adj
 
 "To wedde, a Goddes half, where it liketh me.",||,"To wedde, a Goddes half,° wher it liketh me.°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 50,,,10,To,wedde,a,Goddes,half,where,it,liketh,me
@@ -468,7 +468,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 59,DIFF,,10,wher@adv&conj,connen@v%pr_pl,ye@pron%pl_nom,seien@v1%inf,in@prep,ani@gram_adj,manere@n#adj,age@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 59,DIFF,,10,Whan,saugh,ye,evere,in,any,maner,age
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 59,DIFF,,10,u,S,u,Sux,S,uS,ux,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 59,DIFF,,10,,,ye@pron%pl_nom,,in@prep,in@prep,manere@n#adj,age@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 59,DIFF,,10,,,ye@pron%pl_nom,,in@prep,ani@gram_adj,manere@n#adj,age@n
 
 That hye God defended mariage,||,That heighe God defended° mariage
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 60,DIFF,,9,That,hye,God,defended,mariage
@@ -604,7 +604,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 76,DIFF,,10,cacchen@v%imp,who-so@pron%nom,mouen@v3%pr_3,who@pron%nom,rennen@v1%pr_3,best@adv%sup,leten@v%imp,sen@v1%inf
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 76,DIFF,,10,Cacch,who,so,may,who,renneth,best,lat,see
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 76,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 76,DIFF,,10,cacchen@v%imp,who@pron%nom,sen@v1%inf,mouen@v3%pr_3,who@pron%nom,rennen@v1%pr_3,best@adv%sup,leten@v%imp,sen@v1%inf
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 76,DIFF,,10,cacchen@v%imp,who@pron%nom,sen@v1%inf,mouen@v3%pr_3,,rennen@v1%pr_3,best@adv%sup,leten@v%imp,
 
 "But this word is nat taken of every wight,",||,"¶“But this word is nat take of° every wight,"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 77,DIFF,,10,But,this,word,is,nat,taken,of,every,wight
@@ -628,7 +628,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 79,DIFF,,10,ich@pron%nom,witen@v1%pr_1,wel@adv,that@conj,the@def_art,apostle@n,ben@v%pt_3,a@indef_art,maide@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 79,DIFF,,10,I,woot,wel,that,thApostel,was,a,maide
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 79,DIFF,,10,u,S,u,S,uSu,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 79,DIFF,,10,ich@pron%nom,witen@v1%pr_1,wel@adv,that@conj,,ben@v%pt_3,ich@pron%nom,maide@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 79,DIFF,,10,ich@pron%nom,witen@v1%pr_1,wel@adv,that@conj,,ben@v%pt_3,a@indef_art,maide@n
 
 "But nathelees, thogh that he wroot and sayde",||,"But natheless, thogh that° he wroot and saide,"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 80,,,10,But,nathelees,thogh,that,he,wroot,and,sayde
@@ -708,7 +708,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 89,DIFF,,10,for@conj,peril@n,ben@v%pr_3,bothe@num_conj,fir@n,and@conj,tou@n1,to@part,assemblen@v1%inf
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 89,DIFF,,10,For,peril,is,both,fir,and,tow,tassemble
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 89,DIFF,,10,u,Su,S,u,S,u,S,uSx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 89,DIFF,,10,for@conj,peril@n,ben@v%pr_3,bothe@num_conj,for@conj,and@conj,tou@n1,
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 89,DIFF,,10,for@conj,peril@n,ben@v%pr_3,bothe@num_conj,fir@n,and@conj,tou@n1,
 
 Ye knowe what this ensample may resemble.,||,Ye know what this ensample may resemble.°
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 90,,,10,Ye,knowe,what,this,ensample,may,resemble
@@ -772,7 +772,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 97,DIFF,,10,hit@pron,liken@v1%pr_3,hem@pron%pl_obj,to@part,ben@v%inf,clene@adj,bodi@n,and@conj,gost@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 97,DIFF,,10,Hem,liketh,to,be,clene,body,and,goost
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 97,DIFF,,10,u,Su,S,u,Sx,uS,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 97,DIFF,,10,hem@pron%pl_obj,liken@v1%pr_3,hit@pron,ben@v%inf,clene@adj,bodi@n,and@conj,gost@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 97,DIFF,,10,hem@pron%pl_obj,liken@v1%pr_3,to@part,ben@v%inf,clene@adj,bodi@n,and@conj,gost@n
 
 "Of myn estaat I nyl nat make no boost,",||,Of min estaat° I nil nat make no boost.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 98,,,10,Of,myn,estaat,I,nyl,nat,make,no,boost
@@ -988,7 +988,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 124,DIFF,,10,the@def_art,experience@n,witen@v1%pr_3,wel@adv,hit@pron,ben@v%pr_3,nought@adv,so@adv
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 124,DIFF,,10,Thexperience,woot,wel,it,is,noght,so
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 124,DIFF,,10,uSuSx,u,S,u,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 124,DIFF,,10,,witen@v1%pr_3,wel@adv,hit@pron,ben@v%pr_3,nought@adv,ben@v%pr_3
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 124,DIFF,,10,,witen@v1%pr_3,wel@adv,hit@pron,ben@v%pr_3,nought@adv,so@adv
 
 "So that the clerkes be nat with me wrothe,",||,"So that the clerkes° be nat with me wrothe,"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 125,,,10,So,that,the,clerkes,be,nat,with,me,wrothe
@@ -1164,7 +1164,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 146,DIFF,,10,oure@pron%pl_gen,lord@n#adj,jesu@n1#propn,refreshen@v%pt_3,mani@gram_adj,a@indef_art,man@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 146,DIFF,,10,Our,Lord,Jesu,refresshed,many,a,man
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 146,DIFF,,10,u,S,uS,uSu,Sx,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 146,DIFF,,10,oure@pron%pl_gen,lord@n#adj,,refreshen@v%pt_3,mani@gram_adj,a@indef_art,mani@gram_adj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 146,DIFF,,10,oure@pron%pl_gen,lord@n#adj,,refreshen@v%pt_3,mani@gram_adj,a@indef_art,man@n
 
 In swich estaat as God hath cleped us,||,In swich° estaat as God hath cleped° us
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 147,,,10,In,swich,estaat,as,God,hath,cleped,us
@@ -1207,12 +1207,12 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 151,,,10,if@conj,ich@pron%nom,ben@v%pr_1,daungerous@adj,god@n1#propn,yeven@v%pr_3,me@pron2%obj,sorwe@n
 
 "Myn housbonde shal it have bothe eve and morwe,",||,"Min housbond shal it han bothe eve and morwe,"
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,Myn,housbonde,shal,it,have,bothe,eve,and,morwe
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,u,Sux,S,u,Sx,ux,Sx,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,min@pron%gen,hous-bonde@n,shulen@v1%pr_3,hit@pron,haven@v%inf,bothe@num_conj,even@n,and@conj,morwe@n
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,Min,housbond,shal,it,han,bothe,eve,and,morwe
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,u,Su,S,u,S,ux,Sx,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,DIFF,,10,min@pron%gen,hous-bonde@n,shulen@v1%pr_3,hit@pron,,bothe@num_conj,even@n,and@conj,morwe@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,Myn,housbonde,shal,it,have,bothe,eve,and,morwe
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,u,Sux,S,u,Sx,ux,Sx,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,min@pron%gen,hous-bonde@n,shulen@v1%pr_3,hit@pron,haven@v%inf,bothe@num_conj,even@n,and@conj,morwe@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,Min,housbond,shal,it,han,bothe,eve,and,morwe
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,u,Su,S,u,S,ux,Sx,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 152,,,10,min@pron%gen,hous-bonde@n,shulen@v1%pr_3,hit@pron,haven@v%inf,bothe@num_conj,even@n,and@conj,morwe@n
 
 Whan that hym list come forth and paye his dette.,||,Whan that him list° com forth and paye his dette.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 153,,,10,Whan,that,hym,list,come,forth,and,paye,his,dette
@@ -1228,7 +1228,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 154,DIFF,,10,a@indef_art,hous-bonde@n,ich@pron%nom,willen@v%pr_1,haven@v%inf,--@dash,ich@pron%nom,willen@v%pr_1,not@adv,letten@v%inf,--@dash
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 154,DIFF,,10,An,housbonde,I,wol,have,I,nil,nat,lette
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 154,DIFF,,10,u,Sux,S,u,Sx,u,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 154,DIFF,,10,a@indef_art,hous-bonde@n,ich@pron%nom,willen@v%pr_1,haven@v%inf,ich@pron%nom,,willen@v%pr_1,not@adv
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 154,DIFF,,10,a@indef_art,hous-bonde@n,ich@pron%nom,willen@v%pr_1,haven@v%inf,--@dash,,willen@v%pr_1,not@adv
 
 "Which shal be bothe my dettour and my thral,",||,"Which shal be both my dettour° and my thral,°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 155,,,10,Which,shal,be,bothe,my,dettour,and,my,thral
@@ -1420,7 +1420,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 178,DIFF,,10,ben@v%imp,ware@adj,of@prep,hit@pron,er@conj1,thou@pron%nom,to@adv2,neigh@adv,approchen@v%pr_2
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 178,DIFF,,10,Be,war,of,it,er,thou,to,neigh,approche
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 178,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 178,DIFF,,10,ben@v%imp,ware@adj,of@prep,hit@pron,er@conj1,thou@pron%nom,hit@pron,,approchen@v%pr_2
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 178,DIFF,,10,ben@v%imp,ware@adj,of@prep,hit@pron,er@conj1,thou@pron%nom,to@adv2,,approchen@v%pr_2
 
 For I shal telle ensamples mo than ten.,||,For I shal telle ensamples mo than ten.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 179,,,10,For,I,shal,telle,ensamples,mo,than,ten
@@ -1540,7 +1540,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 193,DIFF,,10,nou@adv,sire@n,nou@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,forth@adv,min@pron%gen,tale@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 193,DIFF,,10,Now,sires,now,wol,I,tel,forth,my,tale
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 193,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 193,DIFF,,10,nou@adv,,nou@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,forth@adv,min@pron%gen,tellen@v%inf
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 193,DIFF,,10,nou@adv,,nou@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,forth@adv,min@pron%gen,tale@n
 
 "As evere moote I drynken wyn or ale,",||,"As ever mote° I drinken win or ale,"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 194,,,10,As,evere,moote,I,drynken,wyn,or,ale
@@ -1668,7 +1668,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 209,DIFF,,0,a@indef_art,wise@adj,womman@n,willen@v%pr_3,bisien@v%inf,hire@pron2%fem_obj,ever@adv,in@prep,on@pron
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 209,DIFF,,10,A,wis,womman,wol,sette,hir,ever,in,oon
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 209,DIFF,,10,u,S,uS,u,Sx,u,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 209,DIFF,,10,a@indef_art,wise@adj,womman@n,willen@v%pr_3,,hire@pron2%fem_obj,ever@adv,in@prep,in@prep
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 209,DIFF,,10,a@indef_art,wise@adj,womman@n,willen@v%pr_3,,hire@pron2%fem_obj,ever@adv,in@prep,on@pron
 
 "To gete hire love, ye, ther as she hath noon.",||,"To gete hir love, ther as° she hath noon."
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 210,DIFF,,10,To,gete,hire,love,ye,ther,as,she,hath,noon
@@ -2647,12 +2647,12 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 331,,,10,for@conj,certain@adv,olde@adj,dotard@n,bi@prep,your@pron%pl_gen,leve@n2
 
 Ye shul have queynte right ynogh at eve.,||,Ye shul han queinte° right ynough at eve.
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,Ye,shul,have,queynte,right,ynogh,at,eve
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,u,S,ux,Su,S,uS,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,haven@v%inf,queinte@n,righte@adv,inough@adj,at@prep,even@n
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,Ye,shul,han,queinte,right,ynough,at,eve
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,u,S,u,Su,S,uS,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,,queinte@n,righte@adv,inough@adj,at@prep,even@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,Ye,shul,have,queynte,right,ynogh,at,eve
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,u,S,ux,Su,S,uS,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,ye@pron%pl_nom,shulen@v1%pr_pl,haven@v%inf,queinte@n,righte@adv,inough@adj,at@prep,even@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,Ye,shul,han,queinte,right,ynough,at,eve
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,u,S,u,Su,S,uS,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 332,,,10,ye@pron%pl_nom,shulen@v1%pr_pl,haven@v%inf,queinte@n,righte@adv,inough@adj,at@prep,even@n
 
 He is to greet a nygard that wolde werne,||,He is to greet a nigard° that wil werne°
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 333,DIFF,,10,He,is,to,greet,a,nygard,that,wolde,werne
@@ -2668,7 +2668,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 334,DIFF,,10,a@indef_art,man@n,to@part,lighten@v1%inf,a@indef_art,candel@n,at@prep,his@pron1%gen,lanterne@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 334,DIFF,,10,A,man,to,lighte,his,candle,at,his,lanterne
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 334,DIFF,,10,u,S,u,Sx,u,Sx,u,S,uSx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 334,DIFF,,10,a@indef_art,man@n,to@part,lighten@v1%inf,his@pron1%gen,candel@n,to@part,his@pron1%gen,lanterne@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 334,DIFF,,10,a@indef_art,man@n,to@part,lighten@v1%inf,his@pron1%gen,candel@n,at@prep,,lanterne@n
 
 "He shal have never the lasse light, pardee.",||,"He shal han nat the lasse light, pardee;°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,He,shal,have,never,the,lasse,light,pardee
@@ -2676,7 +2676,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,he@pron1%nom,shulen@v1%pr_3,haven@v%inf,never@adv,the@def_art,lesse@adj%comp,light@n,parde@interj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,He,shal,han,nat,the,lasse,light,pardee
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,u,S,u,S,u,Su,S,uS
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,he@pron1%nom,shulen@v1%pr_3,,,the@def_art,lesse@adj%comp,light@n,parde@interj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 335,DIFF,,10,he@pron1%nom,shulen@v1%pr_3,haven@v%inf,,the@def_art,lesse@adj%comp,light@n,parde@interj
 
 "Have thou ynogh, thee thar nat pleyne thee.",||,"Have thou° ynough,° thee thar° nat pleine thee.°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 336,,,10,Have,thou,ynogh,thee,thar,nat,pleyne,thee
@@ -2908,7 +2908,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 364,DIFF,,9,and@conj,that@conj,no@gram_adj,wight@n,mouen@v3%pr_3,enduren@v%inf,the@def_art,ferthe@num_adj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 364,DIFF,,10,And,that,no,wight,ne,may,endure,the,ferthe
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 364,DIFF,,10,u,S,u,S,u,S,uSx,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 364,DIFF,,10,and@conj,that@conj,no@gram_adj,wight@n,no@gram_adj,mouen@v3%pr_3,enduren@v%inf,the@def_art,ferthe@num_adj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 364,DIFF,,10,and@conj,that@conj,no@gram_adj,wight@n,,mouen@v3%pr_3,enduren@v%inf,the@def_art,ferthe@num_adj
 
 "O leeve sire shrewe, Jhesu shorte thy lyf!",||,"O leef sir shrewe,° Jesu short thy lif!"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,O,leeve,sire,shrewe,Jhesu,shorte,thy,lyf
@@ -2916,7 +2916,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,o@interj,lef@adj,sire@n#adj,shreue@n,jesu@n1#propn,shorten@v%pr_3,thin@pron%gen,lif@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,O,leef,sir,shrewe,Jesu,short,thy,lif
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,u,S,u,Su,Su,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,o@interj,lif@n,sire@n#adj,shreue@n,,shorten@v%pr_3,thin@pron%gen,lif@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 365,DIFF,,10,o@interj,lif@n,sire@n#adj,shreue@n,,shorten@v%pr_3,thin@pron%gen,
 
 Yet prechestow and seyst an hateful wyf,||,"Yet prechestow,° and seyst, an hateful wif"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 366,,,10,Yet,prechestow,and,seyst,an,hateful,wyf
@@ -3023,12 +3023,12 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 378,DIFF,,10,this@pron,,thei@pron%pl_nom,that@pron,ben@v%pr_pl,to@prep,wif@n%pl,bonde@adj
 
 "Lordynges, right thus, as ye have understonde,",||,"¶“Lordings, right thus, as ye han understonde,"
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,Lordynges,right,thus,as,ye,have,understonde
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,uSx,u,S,u,S,ux,SuSx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,lordinge@n%pl,righte@adv,thus@adv,as@conj,ye@pron%pl_nom,haven@v%pr_pl,understonden@v%ppl
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,Lordings,right,thus,as,ye,han,understonde
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,uS,u,S,u,S,u,SuSx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,DIFF,,10,lordinge@n%pl,righte@adv,thus@adv,as@conj,ye@pron%pl_nom,,understonden@v%ppl
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,Lordynges,right,thus,as,ye,have,understonde
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,uSx,u,S,u,S,ux,SuSx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,lordinge@n%pl,righte@adv,thus@adv,as@conj,ye@pron%pl_nom,haven@v%pr_pl,understonden@v%ppl
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,Lordings,right,thus,as,ye,han,understonde
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,uS,u,S,u,S,u,SuSx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 379,,,10,lordinge@n%pl,righte@adv,thus@adv,as@conj,ye@pron%pl_nom,haven@v%pr_pl,understonden@v%ppl
 
 Baar I stifly myne olde housbondes on honde,||,"Bar I stif° min housebondes on honde,°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 380,DIFF,,10,Baar,I,stifly,myne,olde,housbondes,on,honde
@@ -3092,7 +3092,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 387,DIFF,,10,ich@pron%nom,connen@v%pt_1,pleinen@v%inf,and@conj,yet@adv,ben@v%pt_3,in@prep,the@def_art,gilt@n1
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 387,DIFF,,10,I,coude,pleine,and,I,was,in,the,gilt
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 387,DIFF,,10,u,Su,Sx,u,S,u,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 387,DIFF,,10,ich@pron%nom,connen@v%pt_1,pleinen@v%inf,and@conj,ich@pron%nom,ben@v%pt_3,in@prep,the@def_art,gilt@n1
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 387,DIFF,,10,ich@pron%nom,connen@v%pt_1,pleinen@v%inf,and@conj,,ben@v%pt_3,in@prep,the@def_art,gilt@n1
 
 Or elles often tyme hadde I been spilt.,||,Or elles° often time hadde I ben spilt.°
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 388,,,10,Or,elles,often,tyme,hadde,I,been,spilt
@@ -3124,7 +3124,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 391,DIFF,,10,thei@pron%pl_nom,ben@v%pt_pl,ful@adv,glad@adj,to@part,excusen@v%inf,hem@pron%pl_obj,blive@adv
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 391,DIFF,,10,They,were,ful,glad,texcusen,hem,ful,blive
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 391,DIFF,,10,u,Sx,u,S,uSu,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 391,DIFF,,10,thei@pron%pl_nom,ben@v%pt_pl,ful@adv,glad@adj,,hem@pron%pl_obj,ful@adv,blive@adv
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 391,DIFF,,10,thei@pron%pl_nom,ben@v%pt_pl,ful@adv,glad@adj,,hem@pron%pl_obj,,blive@adv
 
 Of thyng of which they nevere agilte hir lyve.,||,Of thing of which they never agilte° hir live.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 392,,,10,Of,thyng,of,which,they,nevere,agilte,hir,lyve
@@ -3156,7 +3156,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 395,DIFF,,10,yet@adv,tikelen@v%pt_1,ich@pron%nom,his@pron1%gen,herte@n,for@conj,that@part,he@pron1%nom
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 395,DIFF,,10,Yet,tikled,it,his,herte,for,that,he
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 395,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 395,DIFF,,10,yet@adv,tikelen@v%pt_1,yet@adv,his@pron1%gen,herte@n,for@conj,that@part,he@pron1%nom
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 395,DIFF,,10,yet@adv,tikelen@v%pt_1,,his@pron1%gen,herte@n,for@conj,that@part,he@pron1%nom
 
 Wende that I hadde of hym so greet chiertee!,||,Wend° that I hadde of him so greet chiertee.°
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 396,,,10,Wende,that,I,hadde,of,hym,so,greet,chiertee
@@ -3196,7 +3196,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 400,DIFF,,10,for@conj,al@gram_adj,swich@gram_adj,wit@n,ben@v%pr_3,yeven@v%ppl,us@pron%pl_obj,in@prep,oure@pron%pl_gen,birthe@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 400,DIFF,,10,For,al,swich,wit,is,yive,us,in,our,birthe
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 400,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 400,DIFF,,10,for@conj,al@gram_adj,swich@gram_adj,wit@n,ben@v%pr_3,,ben@v%pr_3,in@prep,oure@pron%pl_gen,birthe@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 400,DIFF,,10,for@conj,al@gram_adj,swich@gram_adj,wit@n,ben@v%pr_3,,us@pron%pl_obj,in@prep,oure@pron%pl_gen,birthe@n
 
 "Deceite, wepyng, spynnyng God hath yive",||,"Deceite, weping, spinning God hath yive°"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 401,,,10,Deceite,wepyng,spynnyng,God,hath,yive
@@ -3556,7 +3556,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 445,DIFF,,10,whi@interj,taken@v%imp,hit@pron,al@gram_adjas_n,lo@interj,haven@v%imp,hit@pron,everi@pron_gram_adj,del@n2
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 445,DIFF,,10,Why,taak,it,al,lo,have,it,everideel
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 445,DIFF,,10,u,S,u,S,u,Sx,u,SxuS
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 445,DIFF,,10,,taken@v%imp,hit@pron,al@gram_adjas_n,al@gram_adjas_n,haven@v%imp,hit@pron,
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 445,DIFF,,10,,taken@v%imp,hit@pron,al@gram_adjas_n,lo@interj,haven@v%imp,hit@pron,
 
 "Peter! I shrewe yow, but ye love it weel;",||,Peter! I shrew° yow but ye° love it weel!
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 446,,,10,Peter,I,shrewe,yow,but,ye,love,it,weel
@@ -3599,12 +3599,12 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 450,,,10,ye@pron%pl_nom,ben@v%pr_pl,to@part,blamen@v%inf,bi@prep,god@n1#propn,ich@pron%nom,seien@v1%pr_1,you@pron%pl_obj,soth@n
 
 Swiche manere wordes hadde we on honde.,||,Swich maner wordes hadde we on honde.
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,Swiche,manere,wordes,hadde,we,on,honde
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,ux,Sux,Su,Su,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,swich@gram_adj,manere@n#adj,word@n%pl,haven@v%pt_pl,we@pron%pl_nom,on@prep,honde@n
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,Swich,maner,wordes,hadde,we,on,honde
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,u,Su,Su,Su,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,,,10,swich@gram_adj,manere@n#adj,word@n%pl,haven@v%pt_pl,we@pron%pl_nom,on@prep,honde@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,Swiche,manere,wordes,hadde,we,on,honde
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,ux,Sux,Su,Su,S,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,swich@gram_adj,manere@n#adj,word@n%pl,haven@v%pt_pl,we@pron%pl_nom,on@prep,honde@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,Swich,maner,wordes,hadde,we,on,honde
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,u,Su,Su,Su,S,u,Sx
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 451,DIFF,,10,,manere@n#adj,word@n%pl,haven@v%pt_pl,we@pron%pl_nom,on@prep,honde@n
 
 Now wol I speken of my fourthe housbonde.,||,Now wol I speken of my fourth housbonde.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 452,,,10,Now,wol,I,speken,of,my,fourthe,housbonde
@@ -4012,7 +4012,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 502,DIFF,,10,he@pron1%nom,ben@v%pr_3,nou@adv,in@prep,his@pron1%gen,grave@n1,and@conj,in@prep,his@pron1%gen,cheste@n
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 502,DIFF,,10,He,is,now,in,the,grave,and,in,his,cheste
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 502,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 502,DIFF,,10,he@pron1%nom,ben@v%pr_3,nou@adv,nou@adv,,grave@n1,and@conj,nou@adv,his@pron1%gen,cheste@n
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 502,DIFF,,10,he@pron1%nom,ben@v%pr_3,nou@adv,in@prep,,grave@n1,and@conj,in@prep,his@pron1%gen,cheste@n
 
 Now of my fifthe housbonde wol I telle.,||,¶“Now of my fifthe housbond wol I telle.
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 503,,,10,Now,of,my,fifthe,housbonde,wol,I,telle
@@ -4796,7 +4796,7 @@ data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WB
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 600,DIFF,,10,he@pron1%nom,ben@v%pt_3,ich@pron%nom,trouen@v%pr_1,twenti@num_adj,winter@n,olde@adj
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 600,DIFF,,10,He,was,I,trowe,a,twenty,winter,old
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 600,DIFF,,10,u,S,u,Sx,u,Su,Su,S
-data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 600,DIFF,,10,he@pron1%nom,ben@v%pt_3,ich@pron%nom,trouen@v%pr_1,ich@pron%nom,twenti@num_adj,winter@n,olde@adj
+data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 600,DIFF,,10,he@pron1%nom,ben@v%pt_3,ich@pron%nom,trouen@v%pr_1,,twenti@num_adj,winter@n,olde@adj
 
 "And I was fourty, if I shal seye sooth;",||,"And I was fourty, if I shal sey sooth;"
 data/riverside_cats/WBPro_riv.cat,data/oxford_txts/WBPro_oxford.txt,data/csvs/WBPro,The Wife of Bath's Prologue 601,,,10,And,I,was,fourty,if,I,shal,seye,sooth
