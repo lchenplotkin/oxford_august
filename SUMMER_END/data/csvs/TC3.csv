@@ -3727,12 +3727,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 466,,,10,withouten@prep,word@n,so@adv,that@conj,hit@pron,ben@v%pt_3,no@gram_adj,nede@n1
 
 "To bidde hym ought to doon, or ought forbeede;",||,"To bidde him ought to done, or ought forbede;"
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,To,bidde,hym,ought,to,doon,or,ought,forbeede
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,u,Sx,u,S,u,S,u,S,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,to@part,bidden@v%inf,him@pron%obj,ought@pron,to@part,don@v1%inf,or@conj,ought@pron,forbeden@v%inf
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,To,bidde,him,ought,to,done,or,ought,forbede
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,u,Sx,u,S,u,Sx,u,S,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,DIFF,,10,to@part,bidden@v%inf,him@pron%obj,ought@pron,to@part,don@v1%inf,or@conj,ought@pron,forbeden@v%inf
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,To,bidde,hym,ought,to,doon,or,ought,forbeede
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,u,Sx,u,S,u,S,u,S,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,to@part,bidden@v%inf,him@pron%obj,ought@pron,to@part,don@v1%inf,or@conj,ought@pron,forbeden@v%inf
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,To,bidde,him,ought,to,done,or,ought,forbede
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,u,Sx,u,S,u,Sx,u,S,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 467,,,10,to@part,bidden@v%inf,him@pron%obj,ought@pron,to@part,don@v1%inf,or@conj,ought@pron,forbeden@v%inf
 
 "For which she thought that love, al come it late,",||,"For which hir thought that love, al come it late,"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 468,DIFF,,10,For,which,she,thought,that,love,al,come,it,late
@@ -10015,12 +10015,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1252,,,10,and@conj,ther-withal@adv,a@indef_art,thousand@num_adj,time@n,hire@pron2%fem_obj,kissen@v%pt_3
 
 "That what to don, for joie unnethe he wiste.",||,"That, what to done, for joye unnethe he wiste."
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,That,what,to,don,for,joie,unnethe,he,wiste
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,u,S,u,S,u,S,uSx,u,Sx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,that@conj,what@pron,to@part,don@v1%inf,for@conj,joie@n,unethe@adv,he@pron1%nom,witen@v1%pt_3
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,That,what,to,done,for,joye,unnethe,he,wiste
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,u,S,u,Sx,u,Su,Sxx,u,Sx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,DIFF,,10,that@conj,what@pron,to@part,,for@conj,joie@n,unethe@adv,he@pron1%nom,witen@v1%pt_3
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,That,what,to,don,for,joie,unnethe,he,wiste
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,u,S,u,S,u,S,uSx,u,Sx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,that@conj,what@pron,to@part,don@v1%inf,for@conj,joie@n,unethe@adv,he@pron1%nom,witen@v1%pt_3
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,That,what,to,done,for,joye,unnethe,he,wiste
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,u,S,u,Sx,u,Su,Sxx,u,Sx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1253,,,10,that@conj,what@pron,to@part,don@v1%inf,for@conj,joie@n,unethe@adv,he@pron1%nom,witen@v1%pt_3
 
 "Than seyde he thus: ""O Love, O Charite!",||,"Than seide he thus, “O, Love, O, Charitee,"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1254,,,10,Than,seyde,he,thus,O,Love,O,Charite

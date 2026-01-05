@@ -31,12 +31,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 4,,,8,ich@pron%nom,haven@v%pr_1,so@adv,mani@gram_adj,a@indef_art,idel@adj,thought@n
 
 Purely for defaute of slep,||,"Purely for defaulte° of slepe,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,Purely,for,defaute,of,slep
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,uSu,S,uSx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,pureli@adv,for@prep,defaute@n,of@prep,slep@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,Purely,for,defaulte,of,slepe
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,uSu,S,uSx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,DIFF,,8,pureli@adv,for@prep,,of@prep,slep@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,Purely,for,defaute,of,slep
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,uSu,S,uSx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,pureli@adv,for@prep,defaute@n,of@prep,slep@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,Purely,for,defaulte,of,slepe
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,uSu,S,uSx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 5,,,8,pureli@adv,for@prep,defaute@n,of@prep,slep@n
 
 "That, by my trouthe, I take no kep",||,"That, by my trouthe, I tak no kepe°"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 6,,,8,That,by,my,trouthe,I,take,no,kep
@@ -71,12 +71,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 9,,,8,al@gram_adjas_n,ben@v%pr_3,iliche@adv,god@adj,to@prep,me@pron2%obj,--@dash
 
 "Joye or sorowe, wherso hyt be --",||,"Joye or sorow, wherso it be—"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,Joye,or,sorowe,wherso,hyt,be
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,u,S,uSx,uS,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,joie@n,or@conj,sorwe@n,wher-so@adv,hit@pron,ben@v%pr_3,--@dash
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,Joye,or,sorow,wherso,it,be
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,uS,u,Su,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,DIFF,,8,joie@n,or@conj,,wher-so@adv,hit@pron,ben@v%pr_3
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,Joye,or,sorowe,wherso,hyt,be
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,u,S,uSx,uS,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,joie@n,or@conj,sorwe@n,wher-so@adv,hit@pron,ben@v%pr_3,--@dash
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,Joye,or,sorow,wherso,it,be
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,uS,u,Su,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 10,,,8,joie@n,or@conj,sorwe@n,wher-so@adv,hit@pron,ben@v%pr_3,--@dash
 
 "For I have felynge in nothyng,",||,"For I have feling in no thinge,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 11,DIFF,,8,For,I,have,felynge,in,nothyng
@@ -191,12 +191,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 24,,,8,and@conj,drede@n,ich@pron%nom,haven@v%pr_1,for@prep#adv,to@part,dien@v%inf
 
 Defaute of slep and hevynesse,||,"Defaulte of slepe, and hevinesse"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,Defaute,of,slep,and,hevynesse
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,uSx,u,S,u,SuSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,defaute@n,of@prep,slep@n,and@conj,hevinesse@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,Defaulte,of,slepe,and,hevinesse
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,uSx,u,Sx,u,SuSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,DIFF,,8,,of@prep,slep@n,and@conj,hevinesse@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,Defaute,of,slep,and,hevynesse
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,uSx,u,S,u,SuSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,defaute@n,of@prep,slep@n,and@conj,hevinesse@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,Defaulte,of,slepe,and,hevinesse
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,uSx,u,Sx,u,SuSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 25,,,8,defaute@n,of@prep,slep@n,and@conj,hevinesse@n
 
 Hath sleyn my spirit of quyknesse,||,"Hath slain° my spirit of quiknesse,°"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 26,,,8,Hath,sleyn,my,spirit,of,quyknesse
@@ -311,12 +311,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 39,,,0,for@conj,ther@adv,ben@v%pr_3,phisicien@n,but@conj,on@num_adj
 
 That may me hele; but that is don.,||,That may me heel; but that is done.°
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,That,may,me,hele,but,that,is,don
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,u,S,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,that@pron,mouen@v3%pr_3,me@pron2%obj,helen@v1%inf,but@conj,that@pron,ben@v%pr_3,don@v1%ppl
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,That,may,me,heel,but,that,is,done
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,u,S,u,S,u,S,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,DIFF,,8,that@pron,mouen@v3%pr_3,me@pron2%obj,helen@v1%inf,but@conj,that@pron,ben@v%pr_3,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,That,may,me,hele,but,that,is,don
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,u,S,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,that@pron,mouen@v3%pr_3,me@pron2%obj,helen@v1%inf,but@conj,that@pron,ben@v%pr_3,don@v1%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,That,may,me,heel,but,that,is,done
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,u,S,u,S,u,S,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 40,,,8,that@pron,mouen@v3%pr_3,me@pron2%obj,helen@v1%inf,but@conj,that@pron,ben@v%pr_3,don@v1%ppl
 
 Passe we over untill eft;,||,Pass we over until efte;°
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 41,,,7,Passe,we,over,untill,eft
@@ -1039,12 +1039,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 130,DIFF,,8,that@pron,maken@v1%pt_3,hire@pron2%fem_obj,,to@part,slepen@v%inf,sone@adv
 
 "For as she prayede, ryght so was don",||,"For as she praid, right so was done,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,For,as,she,prayede,ryght,so,was,don
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,u,S,x,uSx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,for@conj,as@conj,she@pron%nom,preien@v1%pt_3,righte@adv,so@adv,ben@v%pt_3,don@v1%ppl
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,For,as,she,praid,right,so,was,done
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,u,S,u,S,u,S,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,DIFF,,8,for@conj,as@conj,she@pron%nom,preien@v1%pt_3,righte@adv,so@adv,ben@v%pt_3,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,For,as,she,prayede,ryght,so,was,don
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,u,S,x,uSx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,for@conj,as@conj,she@pron%nom,preien@v1%pt_3,righte@adv,so@adv,ben@v%pt_3,don@v1%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,For,as,she,praid,right,so,was,done
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,u,S,u,S,u,S,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 131,,,8,for@conj,as@conj,she@pron%nom,preien@v1%pt_3,righte@adv,so@adv,ben@v%pt_3,don@v1%ppl
 
 In dede; for Juno ryght anon,||,"In deed; for Juno, right anone,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 132,,,8,In,dede,for,Juno,ryght,anon
@@ -1151,12 +1151,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 144,,,8,bidden@v%imp,him@pron%obj,crepen@v%inf,in-to@prep,the@def_art,bodi@n
 
 And doo hit goon to Alcione,||,And do it goon° to Alcione
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,And,doo,hit,goon,to,Alcione
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,u,S,u,S,u,SuSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,and@conj,don@v1%inf,hit@pron,gon@v%inf,to@prep,alcione@n#propn
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,And,do,it,goon,to,Alcione
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,u,S,u,S,u,SuSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,DIFF,,8,and@conj,,,gon@v%inf,to@prep,alcione@n#propn
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,And,doo,hit,goon,to,Alcione
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,u,S,u,S,u,SuSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,and@conj,don@v1%inf,hit@pron,gon@v%inf,to@prep,alcione@n#propn
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,And,do,it,goon,to,Alcione
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,u,S,u,S,u,SuSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 145,,,8,and@conj,don@v1%inf,hit@pron,gon@v%inf,to@prep,alcione@n#propn
 
 "The quene, ther she lyeth allone,",||,"The quene, ther she lith alone,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 146,,,8,The,quene,ther,she,lyeth,allone
@@ -1167,20 +1167,20 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 146,,,8,the@def_art,quene@n2,ther@adv,she@pron%nom,lien@v1%pr_3,al-one@adj
 
 "And shewe hir shortly, hit ys no nay,",||,"And shewe hir shortly,° it is no nay,°"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,0,And,shewe,hir,shortly,hit,ys,no,nay
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,0,,,,,,,,
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,0,and@conj,sheuen@v1%inf,hire@pron2%fem_obj,shortli@adv,hit@pron,ben@v%pr_3,no@gram_adj,nai@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,8,And,shewe,hir,shortly,it,is,no,nay
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,8,u,Sx,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,DIFF,,8,and@conj,sheuen@v1%inf,hire@pron2%fem_obj,shortli@adv,,ben@v%pr_3,no@gram_adj,nai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,0,And,shewe,hir,shortly,hit,ys,no,nay
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,0,,,,,,,,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,0,and@conj,sheuen@v1%inf,hire@pron2%fem_obj,shortli@adv,hit@pron,ben@v%pr_3,no@gram_adj,nai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,8,And,shewe,hir,shortly,it,is,no,nay
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,8,u,Sx,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 147,,,8,and@conj,sheuen@v1%inf,hire@pron2%fem_obj,shortli@adv,hit@pron,ben@v%pr_3,no@gram_adj,nai@n
 
 How hit was dreynt thys other day;,||,How it was dreint° this other day;
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,How,hit,was,dreynt,thys,other,day
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,u,S,u,S,u,Su,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,hou@adv&conj,hit@pron,ben@v%pt_3,drenchen@v%ppl,this@gram_adj,other@gram_adj,dai@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,How,it,was,dreint,this,other,day
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,u,S,u,S,u,Su,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,DIFF,,8,hou@adv&conj,,ben@v%pt_3,drenchen@v%ppl,this@gram_adj,other@gram_adj,dai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,How,hit,was,dreynt,thys,other,day
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,u,S,u,S,u,Su,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,hou@adv&conj,hit@pron,ben@v%pt_3,drenchen@v%ppl,this@gram_adj,other@gram_adj,dai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,How,it,was,dreint,this,other,day
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,u,S,u,S,u,Su,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 148,,,8,hou@adv&conj,hit@pron,ben@v%pt_3,drenchen@v%ppl,this@gram_adj,other@gram_adj,dai@n
 
 "And do the body speke ryght soo,",||,And do the bodi speke° so
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 149,DIFF,,8,And,do,the,body,speke,ryght,soo
@@ -1199,12 +1199,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 150,,,8,righte@adv,as@conj,hit@pron,ben@v%pt_3,wonen@v1%ppl,to@part,don@v1%inf
 
 The whiles that hit was alyve.,||,The whiles that it was alive.
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,The,whiles,that,hit,was,alyve
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,u,Su,S,u,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,the@def_art,whil@n%pl,that@part,hit@pron,ben@v%pt_3,alive@adj
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,The,whiles,that,it,was,alive
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,u,Su,S,u,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,DIFF,,8,the@def_art,whil@n%pl,that@part,,ben@v%pt_3,alive@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,The,whiles,that,hit,was,alyve
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,u,Su,S,u,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,the@def_art,whil@n%pl,that@part,hit@pron,ben@v%pt_3,alive@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,The,whiles,that,it,was,alive
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,u,Su,S,u,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 151,,,8,the@def_art,whil@n%pl,that@part,hit@pron,ben@v%pt_3,alive@adj
 
 "Goo now faste, and hye the blyve!""",||,"Go now faste, and hy thee blive!”°"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 152,,,7,Goo,now,faste,and,hye,the,blyve
@@ -1431,12 +1431,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 179,,,0,and@conj,crien@v%pt_3,o@interj,hou@interj1&2,awaken@v%imp,an-on@adv
 
 Hit was for noght; there herde hym non.,||,It was for noght;° ther herde him non.
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,Hit,was,for,noght,there,herde,hym,non
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,u,S,u,S,ux,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,hit@pron,ben@v%pt_3,for@prep,nought@pron,ther@adv,heren@v%pt_3,him@pron%obj,non@pron
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,It,was,for,noght,ther,herde,him,non
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,u,S,u,S,u,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,DIFF,,8,,ben@v%pt_3,for@prep,nought@pron,ther@adv,heren@v%pt_3,him@pron%obj,non@pron
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,Hit,was,for,noght,there,herde,hym,non
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,u,S,u,S,ux,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,hit@pron,ben@v%pt_3,for@prep,nought@pron,ther@adv,heren@v%pt_3,him@pron%obj,non@pron
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,It,was,for,noght,ther,herde,him,non
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,u,S,u,S,u,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 180,,,8,hit@pron,ben@v%pt_3,for@prep,nought@pron,ther@adv,heren@v%pt_3,him@pron%obj,non@pron
 
 """Awake!"" quod he, ""whoo ys lyth there?""",||,"“Awak!” quod he, “Who is lith there?”"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 181,,,8,Awake,quod,he,whoo,ys,lyth,there
@@ -1775,12 +1775,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 222,,,8,ich@pron%nom,haven@v%pt_1,ben@v%ppl,delven@v%ppl,everi-del@adv
 
 "And ded, ryght thurgh defaute of slep,",||,"And ded, right through defaulte° of slepe,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,And,ded,ryght,thurgh,defaute,of,slep
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,u,S,u,S,uSx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,and@conj,ded@adj,righte@adv,thurgh@prep,defaute@n,of@prep,slep@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,And,ded,right,through,defaulte,of,slepe
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,u,S,u,S,uSx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,DIFF,,8,and@conj,ded@adj,righte@adv,thurgh@prep,,of@prep,slep@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,And,ded,ryght,thurgh,defaute,of,slep
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,u,S,u,S,uSx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,and@conj,ded@adj,righte@adv,thurgh@prep,defaute@n,of@prep,slep@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,And,ded,right,through,defaulte,of,slepe
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,u,S,u,S,uSx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 223,,,8,and@conj,ded@adj,righte@adv,thurgh@prep,defaute@n,of@prep,slep@n
 
 Yif I ne had red and take kep,||,If I nad redde° and take kepe°
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 224,DIFF,,8,Yif,I,ne,had,red,and,take,kep
@@ -1855,12 +1855,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 232,,,8,and@conj,overloken@v%ppl,hit@pron,everi-del@adv
 
 "Me thoghte wonder yf hit were so,",||,Me thoght° wonder if it were so;
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,Me,thoghte,wonder,yf,hit,were,so
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,x,ux,Su,S,u,Su,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,me@pron2%obj,thinken@v1%pt_3,wonder@adj,if@conj,hit@pron,ben@v%pt_3,so@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,Me,thoght,wonder,if,it,were,so
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,x,u,Su,S,u,Su,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,DIFF,,8,me@pron2%obj,thinken@v1%pt_3,wonder@adj,if@conj,,ben@v%pt_3,so@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,Me,thoghte,wonder,yf,hit,were,so
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,x,ux,Su,S,u,Su,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,me@pron2%obj,thinken@v1%pt_3,wonder@adj,if@conj,hit@pron,ben@v%pt_3,so@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,Me,thoght,wonder,if,it,were,so
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,x,u,Su,S,u,Su,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 233,,,8,me@pron2%obj,thinken@v1%pt_3,wonder@adj,if@conj,hit@pron,ben@v%pt_3,so@adv
 
 For I had never herd speke or tho,||,"For I had never herd speke, or tho,°"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 234,,,8,For,I,had,never,herd,speke,or,tho
@@ -1919,12 +1919,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 240,DIFF,,8,rathere@adv%comp,than@conj,that@part,ich@pron%nom,shulen@v1%pt_1,dien@v%inf
 
 "Thorgh defaute of slepynge thus,",||,"Through defaulte° of sleping thus,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,8,Thorgh,defaute,of,slepynge,thus
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,8,u,Sux,S,uSu,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,8,thurgh@prep,defaute@n,of@prep,slepinge@ger,thus@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,7,Through,defaulte,of,sleping,thus
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,7,S,uSx,u,Su,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,DIFF,,7,thurgh@prep,,of@prep,slepinge@ger,thus@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,8,Thorgh,defaute,of,slepynge,thus
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,8,u,Sux,S,uSu,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,8,thurgh@prep,defaute@n,of@prep,slepinge@ger,thus@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,7,Through,defaulte,of,sleping,thus
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,7,S,uSx,u,Su,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 241,,,7,thurgh@prep,defaute@n,of@prep,slepinge@ger,thus@adv
 
 "I wolde yive thilke Morpheus,",||,"I wold yive° thilke Morpheus,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 242,,,8,I,wolde,yive,thilke,Morpheus
@@ -3063,12 +3063,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 383,,,8,the@def_art,hound@n%pl,haven@v%pt_pl,oversheten@v%ppl,him@pron%obj,al@gram_adj
 
 And were on a defaute yfalle.,||,And were on a defaulte yfalle;°
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,And,were,on,a,defaute,yfalle
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,u,Sx,u,S,uSx,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,and@conj,ben@v%pt_pl,on@prep,a@indef_art,defaute@n,fallen@v%ppl
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,And,were,on,a,defaulte,yfalle
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,u,Sx,u,S,uSx,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,DIFF,,8,and@conj,ben@v%pt_pl,on@prep,a@indef_art,,fallen@v%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,And,were,on,a,defaute,yfalle
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,u,Sx,u,S,uSx,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,and@conj,ben@v%pt_pl,on@prep,a@indef_art,defaute@n,fallen@v%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,And,were,on,a,defaulte,yfalle
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,u,Sx,u,S,uSx,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 384,,,8,and@conj,ben@v%pt_pl,on@prep,a@indef_art,defaute@n,fallen@v%ppl
 
 Therwyth the hunte wonder faste,||,Therwith the hunte wonder faste
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 385,,,8,Therwyth,the,hunte,wonder,faste
@@ -3399,12 +3399,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 425,,,8,thei@pron%pl_nom,ben@v%pt_pl,not@adv,a@indef_art,inche@n,asonder@adv&adj,--@dash
 
 That hit was shadewe overal under.,||,That it was shadwe° overal under;
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,That,hit,was,shadewe,overal,under
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,u,S,u,Sux,Sxu,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,that@conj,hit@pron,ben@v%pt_3,shadwe@n,over-al@adv,under@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,That,it,was,shadwe,overal,under
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,u,S,u,Sx,uSu,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,DIFF,,8,that@conj,,ben@v%pt_3,shadwe@n,over-al@adv,under@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,That,hit,was,shadewe,overal,under
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,u,S,u,Sux,Sxu,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,that@conj,hit@pron,ben@v%pt_3,shadwe@n,over-al@adv,under@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,That,it,was,shadwe,overal,under
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,u,S,u,Sx,uSu,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 426,,,8,that@conj,hit@pron,ben@v%pt_3,shadwe@n,over-al@adv,under@adv
 
 And many an hert and many an hynde,||,And many an hert and many an hinde°
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 427,,,8,And,many,an,hert,and,many,an,hynde
@@ -3727,12 +3727,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 466,,,8,that@pron,ever@adv,ich@pron%nom,heren@v%pt_1,for@conj,bi@prep,min@pron%gen,treuth@n
 
 Hit was gret wonder that Nature,||,It was gret wonder that Nature
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,Hit,was,gret,wonder,that,Nature
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,u,S,u,Su,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,hit@pron,ben@v%pt_3,gret@adj,wonder@n,that@conj,nature@n#propn
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,It,was,gret,wonder,that,Nature
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,u,S,u,Su,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,DIFF,,8,,ben@v%pt_3,gret@adj,wonder@n,that@conj,nature@n#propn
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,Hit,was,gret,wonder,that,Nature
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,u,S,u,Su,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,hit@pron,ben@v%pt_3,gret@adj,wonder@n,that@conj,nature@n#propn
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,It,was,gret,wonder,that,Nature
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,u,S,u,Su,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 467,,,8,hit@pron,ben@v%pt_3,gret@adj,wonder@n,that@conj,nature@n#propn
 
 Myght suffre any creature,||,Might suffren any creature
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 468,DIFF,,8,Myght,suffre,any,creature
@@ -3943,12 +3943,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 494,,,8,bi@prep,kinde@n,and@conj,for@prep#adv,to@part,maken@v1%inf,hit@pron,glad@adj
 
 For hit ys membre principal,||,For it is membre° principal
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,For,hit,ys,membre,principal
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,u,S,u,Su,SuS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,for@conj,hit@pron,ben@v%pr_3,membre@n,principal@adj
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,For,it,is,membre,principal
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,u,S,u,Su,SuS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,DIFF,,8,for@conj,,ben@v%pr_3,membre@n,principal@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,For,hit,ys,membre,principal
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,u,S,u,Su,SuS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,for@conj,hit@pron,ben@v%pr_3,membre@n,principal@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,For,it,is,membre,principal
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,u,S,u,Su,SuS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 495,,,8,for@conj,hit@pron,ben@v%pr_3,membre@n,principal@adj
 
 Of the body; and that made al,||,Of the body; and that made al
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 496,,,8,Of,the,body,and,that,made,al
@@ -4223,12 +4223,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 529,,,7,lo@interj,hou@adv&conj,godli@adv2,speken@v%pt_3,this@gram_adj,knight@n
 
 As hit had be another wyght;,||,As it had ben another wighte;°
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,As,hit,had,be,another,wyght
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,u,S,u,S,uSu,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,as@conj,hit@pron,haven@v%pt_3,ben@v%ppl,another@gram_adj,wight@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,As,it,had,ben,another,wighte
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,u,S,u,S,uSu,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,DIFF,,8,as@conj,,haven@v%pt_3,ben@v%ppl,another@gram_adj,wight@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,As,hit,had,be,another,wyght
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,u,S,u,S,uSu,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,as@conj,hit@pron,haven@v%pt_3,ben@v%ppl,another@gram_adj,wight@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,As,it,had,ben,another,wighte
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,u,S,u,S,uSu,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 530,,,8,as@conj,hit@pron,haven@v%pt_3,ben@v%ppl,another@gram_adj,wight@n
 
 He made hyt nouther towgh ne queynte.,||,He made it nouther tough ne queinte°
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 531,,,8,He,made,hyt,nouther,towgh,ne,queynte
@@ -4663,12 +4663,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 584,,,8,that@conj,ich@pron%nom,willen@v%pt_1,dien@v%inf,hit@pron,willen@v%pt_3,not@adv,so@adv
 
 "For whan I folwe hyt, hit wol flee;",||,"For whan I folwe it, it wol flee;"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,For,whan,I,folwe,hyt,hit,wol,flee
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,u,S,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,for@conj,whan@adv&conj,ich@pron%nom,folwen@v%pr_1,hit@pron,hit@pron,willen@v%pr_3,flen@v1%inf
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,For,whan,I,folwe,it,it,wol,flee
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,u,S,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,DIFF,,8,for@conj,whan@adv&conj,ich@pron%nom,folwen@v%pr_1,hit@pron,,willen@v%pr_3,flen@v1%inf
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,For,whan,I,folwe,hyt,hit,wol,flee
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,u,S,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,for@conj,whan@adv&conj,ich@pron%nom,folwen@v%pr_1,hit@pron,hit@pron,willen@v%pr_3,flen@v1%inf
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,For,whan,I,folwe,it,it,wol,flee
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,u,S,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 585,,,8,for@conj,whan@adv&conj,ich@pron%nom,folwen@v%pr_1,hit@pron,hit@pron,willen@v%pr_3,flen@v1%inf
 
 "I wolde have hym, hyt nyl nat me.",||,"I wolde have it, it nil° not me."
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 586,DIFF,,8,I,wolde,have,hym,hyt,nyl,nat,me
@@ -5999,12 +5999,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 751,,,0,that@conj,thou@pron%nom,shulen@v1%pr_2,holli@adv,with@prep,al@gram_adj,thin@pron%gen,wit@n
 
 "Doo thyn entent to herkene hit.""",||,Do thin entent° to herkene° it.”
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,Doo,thyn,entent,to,herkene,hit
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,u,S,uS,u,Sux,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,don@v1%inf,thin@pron%gen,entente@n,to@part,herkenen@v%inf,hit@pron
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,Do,thin,entent,to,herkene,it
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,u,S,uS,u,Sux,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,DIFF,,8,,thin@pron%gen,entente@n,to@part,herkenen@v%inf,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,Doo,thyn,entent,to,herkene,hit
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,u,S,uS,u,Sux,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,don@v1%inf,thin@pron%gen,entente@n,to@part,herkenen@v%inf,hit@pron
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,Do,thin,entent,to,herkene,it
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,u,S,uS,u,Sux,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 752,,,8,don@v1%inf,thin@pron%gen,entente@n,to@part,herkenen@v%inf,hit@pron
 
 """Yis, syr."" ""Swere thy trouthe therto.""",||,"¶“Yis, sir.” “Swere thy trouth therto.”"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 753,,,7,Yis,syr,Swere,thy,trouthe,therto
@@ -6207,12 +6207,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 777,,,8,that@conj,ich@pron%nom,don@v1%pt_1,thus@adv,and@conj,witen@v1%pt_1_neg,whi@pron
 
 I trowe hit cam me kyndely.,||,I trowe° it cam me kindely.°
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,I,trowe,hit,cam,me,kyndely
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,u,Sx,u,S,u,SuS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,ich@pron%nom,trouen@v%pr_1,hit@pron,comen@v%pt_3,me@pron2%obj,kindeli@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,I,trowe,it,cam,me,kindely
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,u,Sx,u,S,u,SuS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,DIFF,,8,ich@pron%nom,trouen@v%pr_1,,comen@v%pt_3,me@pron2%obj,kindeli@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,I,trowe,hit,cam,me,kyndely
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,u,Sx,u,S,u,SuS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,ich@pron%nom,trouen@v%pr_1,hit@pron,comen@v%pt_3,me@pron2%obj,kindeli@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,I,trowe,it,cam,me,kindely
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,u,Sx,u,S,u,SuS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 778,,,8,ich@pron%nom,trouen@v%pr_1,hit@pron,comen@v%pt_3,me@pron2%obj,kindeli@adv
 
 "Paraunter I was therto most able,",||,Paraunter° I was therto moste able
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 779,,,8,Paraunter,I,was,therto,most,able
@@ -6231,12 +6231,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 780,,,8,as@conj,a@indef_art,whit@adj,wal@n1,or@conj,a@indef_art,table@n
 
 For hit ys redy to cacche and take,||,For it is redy to cacche and take
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,For,hit,ys,redy,to,cacche,and,take
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,u,S,u,xS,u,Sx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,for@conj,hit@pron,ben@v%pr_3,redi@adj3,to@part,cacchen@v%inf,and@conj,taken@v%inf
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,For,it,is,redy,to,cacche,and,take
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,u,S,u,xS,u,Sx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,DIFF,,8,for@conj,,ben@v%pr_3,redi@adj3,to@part,cacchen@v%inf,and@conj,taken@v%inf
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,For,hit,ys,redy,to,cacche,and,take
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,u,S,u,xS,u,Sx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,for@conj,hit@pron,ben@v%pr_3,redi@adj3,to@part,cacchen@v%inf,and@conj,taken@v%inf
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,For,it,is,redy,to,cacche,and,take
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,u,S,u,xS,u,Sx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 781,,,8,for@conj,hit@pron,ben@v%pr_3,redi@adj3,to@part,cacchen@v%inf,and@conj,taken@v%inf
 
 "Al that men wil theryn make,",||,"Al that men wil therin make,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 782,,,7,Al,that,men,wil,theryn,make
@@ -6319,12 +6319,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 791,,,8,ich@pron%nom,chesen@v%pt_1,love@n1,to@prep,min@pron%gen,first@num_adj,craft@n1
 
 "Therfore hit ys with me laft,",||,Therfor it is with me ylaft.°
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,Therfore,hit,ys,with,me,laft
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,uSu,S,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,ther-fore@adv,hit@pron,ben@v%pr_3,with@prep,me@pron2%obj,leven@v1%ppl
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,Therfor,it,is,with,me,ylaft
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,uS,u,S,u,S,uS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,DIFF,,8,ther-fore@adv,,ben@v%pr_3,with@prep,me@pron2%obj,leven@v1%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,Therfore,hit,ys,with,me,laft
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,uSu,S,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,ther-fore@adv,hit@pron,ben@v%pr_3,with@prep,me@pron2%obj,leven@v1%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,Therfor,it,is,with,me,ylaft
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,uS,u,S,u,S,uS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 792,,,8,ther-fore@adv,hit@pron,ben@v%pr_3,with@prep,me@pron2%obj,leven@v1%ppl
 
 For-why I tok hyt of so yong age,||,"Forwhy° I toke it of so yonge age,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 793,,,8,Forwhy,I,tok,hyt,of,so,yong,age
@@ -6415,20 +6415,20 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 803,,,8,al@gram_adjas_n,ben@v%pt_pl,to@prep,me@pron2%obj,iliche@adv,god@adj
 
 That I knew thoo; but thus hit stood:,||,That I knew tho;° but thus it stoode.
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,That,I,knew,thoo,but,thus,hit,stood
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,u,S,u,S,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,that@pron,ich@pron%nom,knouen@v%pt_1,tho@adv,but@conj,thus@adv,hit@pron,stonden@v1%pt_3
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,That,I,knew,tho,but,thus,it,stoode
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,u,S,u,S,u,S,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,DIFF,,8,that@pron,ich@pron%nom,knouen@v%pt_1,tho@adv,but@conj,thus@adv,,stonden@v1%pt_3
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,That,I,knew,thoo,but,thus,hit,stood
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,u,S,u,S,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,that@pron,ich@pron%nom,knouen@v%pt_1,tho@adv,but@conj,thus@adv,hit@pron,stonden@v1%pt_3
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,That,I,knew,tho,but,thus,it,stoode
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,u,S,u,S,u,S,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 804,,,8,that@pron,ich@pron%nom,knouen@v%pt_1,tho@adv,but@conj,thus@adv,hit@pron,stonden@v1%pt_3
 
 """Hit happed that I cam on a day",||,¶“It happed that I cam on a day
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,Hit,happed,that,I,cam,on,a,day
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,u,Sx,u,S,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,hit@pron,happen@v1%pt_3,that@conj,ich@pron%nom,comen@v%pt_1,on@prep,a@indef_art,dai@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,It,happed,that,I,cam,on,a,day
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,u,Sx,u,S,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,DIFF,,8,,happen@v1%pt_3,that@conj,ich@pron%nom,comen@v%pt_1,on@prep,a@indef_art,dai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,Hit,happed,that,I,cam,on,a,day
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,u,Sx,u,S,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,hit@pron,happen@v1%pt_3,that@conj,ich@pron%nom,comen@v%pt_1,on@prep,a@indef_art,dai@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,It,happed,that,I,cam,on,a,day
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,u,Sx,u,S,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 805,,,8,hit@pron,happen@v1%pt_3,that@conj,ich@pron%nom,comen@v%pt_1,on@prep,a@indef_art,dai@n
 
 Into a place ther that I say,||,"Into a place, ther that I say,°"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 806,,,8,Into,a,place,ther,that,I,say
@@ -7327,12 +7327,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 917,,,8,in@prep,al@gram_adj,hire@pron1%fem_gen,face@n,a@indef_art,wikked@adj,signe@n
 
 "For hit was sad, symple, and benygne.",||,"For it was sad,° simple, and benigne."
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,For,hit,was,sad,symple,and,benygne
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,u,S,u,S,ux,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,for@conj,hit@pron,ben@v%pt_3,sad@adj,simple@adj,and@conj,benigne@adj
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,For,it,was,sad,simple,and,benigne
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,u,S,u,S,ux,S,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,DIFF,,8,for@conj,,ben@v%pt_3,sad@adj,simple@adj,and@conj,benigne@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,For,hit,was,sad,symple,and,benygne
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,u,S,u,S,ux,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,for@conj,hit@pron,ben@v%pt_3,sad@adj,simple@adj,and@conj,benigne@adj
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,For,it,was,sad,simple,and,benigne
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,u,S,u,S,ux,S,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 918,,,8,for@conj,hit@pron,ben@v%pt_3,sad@adj,simple@adj,and@conj,benigne@adj
 
 """And which a goodly, softe speche",||,¶“And which° a goodly softe speche
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 919,,,8,And,which,a,goodly,softe,speche
@@ -7415,12 +7415,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 928,,,8,ne@conj1,bet@adv%comp,connen@v%pt_3,helen@v1%inf,--@dash,that@conj,bi@prep,the@def_art,messe@n1
 
 "I durste swere, thogh the pope hit songe,",||,"I durst° swere, thogh the pope it songe,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,I,durste,swere,thogh,the,pope,hit,songe
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,u,Sx,ux,S,u,Sx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,ich@pron%nom,durren@v%pt_1,sweren@v%inf,though@conj,the@def_art,pope@n,hit@pron,singen@v%pt_3
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,I,durst,swere,thogh,the,pope,it,songe
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,u,S,ux,S,u,Sx,u,Sx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,DIFF,,8,ich@pron%nom,durren@v%pt_1,sweren@v%inf,though@conj,the@def_art,pope@n,,singen@v%pt_3
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,I,durste,swere,thogh,the,pope,hit,songe
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,u,Sx,ux,S,u,Sx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,ich@pron%nom,durren@v%pt_1,sweren@v%inf,though@conj,the@def_art,pope@n,hit@pron,singen@v%pt_3
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,I,durst,swere,thogh,the,pope,it,songe
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,u,S,ux,S,u,Sx,u,Sx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 929,,,8,ich@pron%nom,durren@v%pt_1,sweren@v%inf,though@conj,the@def_art,pope@n,hit@pron,singen@v%pt_3
 
 That ther was never yet throgh hir tonge,||,That ther was never throgh hir tonge;
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 930,DIFF,,8,That,ther,was,never,yet,throgh,hir,tonge
@@ -9111,12 +9111,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1140,,,8,willen@v%pr_3_neg,she@pron%nom,not@adv,loven@v1%inf,you@pron%pl_obj,ben@v%pr_3,hit@pron,so@adv
 
 "Or have ye oght doon amys,",||,"Or have ye oght ydon amis,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,Or,have,ye,oght,doon,amys
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,u,Su,S,u,S,uS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,or@conj,haven@v%pr_pl,ye@pron%pl_nom,ought@pron,don@v1%ppl,amis@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,Or,have,ye,oght,ydon,amis
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,u,Sx,u,S,uS,uS
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,DIFF,,8,or@conj,haven@v%pr_pl,ye@pron%pl_nom,ought@pron,don@v1%ppl,amis@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,Or,have,ye,oght,doon,amys
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,u,Su,S,u,S,uS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,or@conj,haven@v%pr_pl,ye@pron%pl_nom,ought@pron,don@v1%ppl,amis@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,Or,have,ye,oght,ydon,amis
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,u,Sx,u,S,uS,uS
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1141,,,8,or@conj,haven@v%pr_pl,ye@pron%pl_nom,ought@pron,don@v1%ppl,amis@adv
 
 That she hath left yow? Ys hyt this?,||,That she hath left yow? is it this?
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1142,,,8,That,she,hath,left,yow,Ys,hyt,this
@@ -9167,12 +9167,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1147,DIFF,,8,and@conj,yet@adv,she@pron%nom,witen@v1%pt_3_neg,hit@pron,never@adv,a@indef_art,del@n2
 
 "Noght longe tyme, leve hyt wel!",||,"Noght longe time, leve° hit wel."
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,Noght,longe,tyme,leve,hyt,wel
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,u,Su,Su,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,nought@adv,long@adj1,time@n,leven@v4%imp,hit@pron,wel@adv
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,Noght,longe,time,leve,hit,wel
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,u,Su,Su,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,DIFF,,8,nought@adv,long@adj1,time@n,leven@v4%imp,,wel@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,Noght,longe,tyme,leve,hyt,wel
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,u,Su,Su,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,nought@adv,long@adj1,time@n,leven@v4%imp,hit@pron,wel@adv
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,Noght,longe,time,leve,hit,wel
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,u,Su,Su,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1148,,,8,nought@adv,long@adj1,time@n,leven@v4%imp,hit@pron,wel@adv
 
 "For be ryght siker, I durste noght",||,"For be right siker, I durste° noght"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1149,,,8,For,be,ryght,siker,I,durste,noght
@@ -9407,12 +9407,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1177,,,8,that@pron,ben@v%pr_3,so@adv,semeli@adj,on@adv1,to@part,sen@v1%inf
 
 And wisshe to God hit myghte so bee,||,"And wissh to God it might so be,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,And,wisshe,to,God,hit,myghte,so,bee
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,u,Sx,u,S,u,Sx,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,and@conj,wishen@v%pr_1,to@prep,god@n1#propn,hit@pron,mouen@v3%pt_3,so@adv,ben@v%inf
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,And,wissh,to,God,it,might,so,be
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,u,S,u,S,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,DIFF,,8,and@conj,wishen@v%pr_1,to@prep,god@n1#propn,,mouen@v3%pt_3,so@adv,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,And,wisshe,to,God,hit,myghte,so,bee
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,u,Sx,u,S,u,Sx,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,and@conj,wishen@v%pr_1,to@prep,god@n1#propn,hit@pron,mouen@v3%pt_3,so@adv,ben@v%inf
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,And,wissh,to,God,it,might,so,be
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,u,S,u,S,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1178,,,8,and@conj,wishen@v%pr_1,to@prep,god@n1#propn,hit@pron,mouen@v3%pt_3,so@adv,ben@v%inf
 
 "That she wolde holde me for hir knyght,",||,"That she wold hold me for° hir knight,"
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1179,,,8,That,she,wolde,holde,me,for,hir,knyght
@@ -10047,12 +10047,12 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1257,,,8,for-whi@conj,ich@pron%nom,loven@v1%pt_1,hire@pron2%fem_obj,in@prep,no@gram_adj,gere@n
 
 """So hit befel, another yere",||,"¶“So it befel, another yere,"
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,So,hit,befel,another,yere
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,u,S,uS,uSx,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,so@adv,hit@pron,bifallen@v%pt_3,another@gram_adj,yer@n
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,So,it,befel,another,yere
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,u,S,uS,uSx,uSx
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,DIFF,,8,so@adv,,bifallen@v%pt_3,another@gram_adj,yer@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,So,hit,befel,another,yere
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,u,S,uS,uSx,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,so@adv,hit@pron,bifallen@v%pt_3,another@gram_adj,yer@n
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,So,it,befel,another,yere
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,u,S,uS,uSx,uSx
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1258,,,8,so@adv,hit@pron,bifallen@v%pt_3,another@gram_adj,yer@n
 
 I thoughte ones I wolde fonde,||,I thoughte ones I wolde fonde°
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1259,,,8,I,thoughte,ones,I,wolde,fonde
@@ -10655,10 +10655,10 @@ data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book 
 data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1333,,,8,as@conj,ich@pron%nom,connen@v%pr_1,best@adv%sup,and@conj,that@pron,an-on@adv
 
 This was my sweven; now hit ys doon.,||,This was my sweven;° now it is don.
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,This,was,my,sweven,now,hit,ys,doon
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,u,S,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,this@pron,ben@v%pt_3,min@pron%gen,sweven@n,nou@adv,hit@pron,ben@v%pr_3,don@v1%ppl
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,This,was,my,sweven,now,it,is,don
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,u,S,u,Sx,u,S,u,S
-data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,DIFF,,8,this@pron,ben@v%pt_3,min@pron%gen,sweven@n,nou@adv,,ben@v%pr_3,
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,This,was,my,sweven,now,hit,ys,doon
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,u,S,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,this@pron,ben@v%pt_3,min@pron%gen,sweven@n,nou@adv,hit@pron,ben@v%pr_3,don@v1%ppl
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,This,was,my,sweven,now,it,is,don
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,u,S,u,Sx,u,S,u,S
+data/riverside_cats/BD_riv.cat,data/oxford_txts/BD_oxford.txt,data/csvs/BD,Book of the Duchess 1334,,,8,this@pron,ben@v%pt_3,min@pron%gen,sweven@n,nou@adv,hit@pron,ben@v%pr_3,don@v1%ppl
 
