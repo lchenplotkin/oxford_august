@@ -233,6 +233,7 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 				flag = "yellow"
 			if matched == "DIFF":
 				riv_tags = list(tags)
+				remaining_riv_tags = list(tags)
 				tags = []
 				riv_words_normed = []
 				for word in riv_words:
@@ -272,6 +273,7 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 						
 						if found_index is not None:
 							tags.append(riv_tags[found_index])
+							remaining_riv_tags.remove(riv_tags[found_index])
 						else:
 							# All occurrences used, append empty
 							tags.append('')
@@ -296,9 +298,17 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 									# High confidence tag found
 									tags.append('{*' + most_common_tag + '*}')
 								else:
-									# No high confidence tag
-									flag = ""
-									tags.append('')
+									found_it = False
+									for sorted_tag in sorted_tags:
+										the_tag = sorted_tag[0]
+										if the_tag in remaining_riv_tags:
+											tags.append(the_tag)
+											found_it = True
+									
+									if not found_it:	
+										# No high confidence tag
+										flag = ""
+										tags.append('')
 						else:
 							# Word not found in oxford_prelim
 							flag = ""
