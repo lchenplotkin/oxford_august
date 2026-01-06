@@ -73,16 +73,7 @@
     "beren@v1#adj%ppl": 2
   },
   "of": {
-    "of@prep": 3999,
-    "yifte@n%pl": 1,
-    "man@n": 1,
-    "thanken@v%ppl": 1,
-    "ich@pron%nom": 2,
-    "of@adv": 20,
-    "oute@adv#prep": 2,
-    "most@adv%sup": 1,
-    "werste@adj%sup": 1,
-    "of@prep#adv": 2
+    "of@prep": 3999
   },
   "pavie": {
     "pavie@n#propn": 1
@@ -147,7 +138,6 @@
   },
   "his": {
     "his@pron1%gen": 2732,
-    "of@prep": 2,
     "his@pron2%gen": 9,
     "his@pron1%neut_gen": 1,
     "yeven@v%pr_3": 1,

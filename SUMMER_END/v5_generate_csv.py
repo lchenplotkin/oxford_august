@@ -4,7 +4,12 @@ import re
 import string
 import numpy as np
 from sheets_to_gui import *
+import json
 
+
+# Load the oxford_prelim.json file at the start
+with open('for_gui/oxford_prelim.json', 'r', encoding='utf-8') as f:
+	oxford_prelim = json.load(f)
 
 
 def norm_word(word):
@@ -70,8 +75,8 @@ def preprocess_variants(text):
 		'eighen': 'eyen',
 		'i':'ich',
 		'comen':'come',
-		'crewel':'cruel',
-		'cruwel':'cruel
+		'cruwel':'cruel',
+		'crewel':'cruel'
 	}
 	
 	words = text.lower().split()
@@ -182,6 +187,7 @@ def check_naught_not_only_diff(riv_words, ox_words, riv_line, ox_line):
 	return len(differences) > 0
 
 def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
+	tolerance = 100
 	cat_output = ""
 	with open(riverside_file, encoding='utf-8') as riv:
 		cat_lines = [line.rstrip('\n') for line in riv if line.strip() != '']
@@ -216,37 +222,9 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 				# Check if the only difference is naught/not
 				if check_naught_not_only_diff(riv_words, ox_words, riv_line, ox_line):
 					flag = 'green'
-
-			# Riverside words
-			stresses, num_sybs = scan(riv_line, target)
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(riv_words)
-			writer.writerow(row)
-
-			# Riverside stresses
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(stresses)
-			writer.writerow(row)
-
-			# Riverside tags
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(tag.strip("{}*") for tag in tags)
-			writer.writerow(row)
-
-			# Oxford words
-			stresses, num_sybs = scan(ox_line, target)
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(ox_words)
-			writer.writerow(row)
-
-			# Oxford stresses
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(stresses)
-			writer.writerow(row)
-
 			# Oxford tags
-			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			flag = "yellow"
+			if flag!="green":
+				flag = "yellow"
 			if matched == "DIFF":
 				riv_tags = list(tags)
 				tags = []
@@ -291,12 +269,67 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 						else:
 							# All occurrences used, append empty
 							tags.append('')
+							flag = ""
 					else:
-						flag = ""
-						tags.append('')
+						# Look through the oxford_prelim.json
+						if ox_clean in oxford_prelim:
+							word_tags = oxford_prelim[ox_clean]
+							
+							# Check if there's only one option or one option is much more likely
+							if len(word_tags) == 1:
+								# Only one option, use it
+								tag_name = list(word_tags.keys())[0]
+								tags.append('{*' + tag_name + '*}')
+							else:
+								# Find the most common tag and check if it's tolerance times more likely
+								sorted_tags = sorted(word_tags.items(), key=lambda x: x[1], reverse=True)
+								most_common_tag, most_common_count = sorted_tags[0]
+								second_most_common_count = sorted_tags[1][1] if len(sorted_tags) > 1 else 0
+								
+								if most_common_count >= tolerance * second_most_common_count:
+									# High confidence tag found
+									tags.append('{*' + most_common_tag + '*}')
+								else:
+									# No high confidence tag
+									flag = ""
+									tags.append('')
+						else:
+							# Word not found in oxford_prelim
+							flag = ""
+							tags.append('')
 			if flag == "yellow":
 				flag = "green"
 
+
+			
+			# Riverside words
+			stresses, num_sybs = scan(riv_line, target)
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
+			row.extend(riv_words)
+			writer.writerow(row)
+
+			# Riverside stresses
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
+			row.extend(stresses)
+			writer.writerow(row)
+
+			# Riverside tags
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
+			row.extend(tag.strip("{}*") for tag in tags)
+			writer.writerow(row)
+
+			# Oxford words
+			stresses, num_sybs = scan(ox_line, target)
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
+			row.extend(ox_words)
+			writer.writerow(row)
+
+			# Oxford stresses
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
+			row.extend(stresses)
+			writer.writerow(row)
+
+			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
 			row.extend(tag.strip("{}*") for tag in tags)
 			writer.writerow(row)
 
