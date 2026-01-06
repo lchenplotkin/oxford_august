@@ -69,7 +69,9 @@ def preprocess_variants(text):
 		'compaignye': 'companie',
 		'eighen': 'eyen',
 		'i':'ich',
-		'comen':'come'
+		'comen':'come',
+		'crewel':'cruel',
+		'cruwel':'cruel
 	}
 	
 	words = text.lower().split()
