@@ -50,6 +50,6 @@ def merge_with_green_flags(todo_file, in_progress_file, output_file):
 if __name__ == "__main__":
     merge_with_green_flags(
         todo_file='for_gui/to_do/TC5_gui.csv',
-        in_progress_file='for_gui/in_progress/TC5_gui_in_progress.csv',
+        in_progress_file='for_gui/in_progress/TC5_gui_workinprogress.csv',
         output_file='for_gui/to_do/TC5_gui_merged.csv'
     )
