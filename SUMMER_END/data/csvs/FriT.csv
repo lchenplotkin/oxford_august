@@ -33,7 +33,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Of wicchecraft, and eek of bawderye,",||,"Of wicchecraft, and eek of bauderie,°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,0,Of,wicchecraft,and,eek,of,bawderye
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,0,,,,,,
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,0,of@prep,wicchecraft@n,and@conj,ek@adv,of@prep,
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,0,of@prep,wicchecraft@n,and@conj,ek@adv,of@prep,bauderie@n1
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,10,Of,wicchecraft,and,eek,of,bauderie
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,10,u,SuS,u,S,u,SuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1305,DIFF,,10,of@prep,wicchecraft@n,and@conj,ek@adv,of@prep,
@@ -49,7 +49,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Of chirche reves, and of testamentz,",||,"Of chirche-reves,° and of testamentz,°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,Of,chirche,reves,and,of,testamentz
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,u,Su,Su,S,u,SuS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,of@prep,,and@conj,of@prep,testament@n%pl
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,of@prep,chirche@n#adj,ref@n1%pl,and@conj,of@prep,testament@n%pl
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,Of,chirchereves,and,of,testamentz
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,u,SuSu,S,u,SuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1307,DIFF,,10,of@prep,,and@conj,of@prep,testament@n%pl
@@ -145,7 +145,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Thanne hadde he, thurgh his jurisdiccioun,",||,"And hadde he, thurgh his jurisdiccioun,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,Thanne,hadde,he,thurgh,his,jurisdiccioun
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,ux,Sx,u,S,u,SuSuS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,and@conj,haven@v%pt_3,he@pron1%nom,thurgh@prep,his@pron1%gen,jurisdiccioun@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,thanne@adv,haven@v%pt_3,he@pron1%nom,thurgh@prep,his@pron1%gen,jurisdiccioun@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,And,hadde,he,thurgh,his,jurisdiccioun
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,u,Sx,u,S,u,SuSuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1319,DIFF,green,10,and@conj,haven@v%pt_3,he@pron1%nom,thurgh@prep,his@pron1%gen,jurisdiccioun@n
@@ -169,7 +169,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 A slyer boye nas noon in Engelond;,||,A slyer boy° was noon in Engelond;
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,0,A,slyer,boye,nas,noon,in,Engelond
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,0,,,,,,,
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,0,a@indef_art,sleigh@adj%comp,boie@n1,,non@pron,in@prep,engelond@n#propn
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,0,a@indef_art,sleigh@adj%comp,boie@n1,ben@v%pt_3_neg,non@pron,in@prep,engelond@n#propn
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,10,A,slyer,boy,was,noon,in,Engelond
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,10,u,Su,S,u,S,u,SuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1322,DIFF,,10,a@indef_art,sleigh@adj%comp,boie@n1,,non@pron,in@prep,engelond@n#propn
@@ -185,7 +185,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 That taughte hym wel wher that hym myghte availle.,||,That taughte° him wher that him mighte availle.°
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,That,taughte,hym,wel,wher,that,hym,myghte,availle
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,u,Sx,u,S,u,S,u,Sx,uSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,that@pron,techen@v%pt_3,him@pron%obj,wher@adv&conj,that@part,him@pron%obj,mouen@v3%pt_3,availen@v%inf
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,that@pron,techen@v%pt_3,him@pron%obj,wel@adv,wher@adv&conj,that@part,him@pron%obj,mouen@v3%pt_3,availen@v%inf
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,That,taughte,him,wher,that,him,mighte,availle
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,u,Su,S,u,S,u,Sx,uSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1324,DIFF,green,10,that@pron,techen@v%pt_3,him@pron%obj,wher@adv&conj,that@part,him@pron%obj,mouen@v3%pt_3,availen@v%inf
@@ -249,7 +249,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 """Peter! so been wommen of the styves,""",||,"¶“Peter! so been the wommen of the stives,”°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,Peter,so,been,wommen,of,the,styves
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,uS,u,S,uS,u,S,uS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,peter@n1#propn_interj,so@adv,ben@v%pr_pl,the@def_art,womman@n%pl,of@prep,,steue@n2%pl
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,peter@n1#propn_interj,so@adv,ben@v%pr_pl,womman@n%pl,of@prep,the@def_art,steue@n2%pl
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,Peter,so,been,the,wommen,of,the,stives
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,uS,u,S,u,Su,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1332,DIFF,,10,peter@n1#propn_interj,so@adv,ben@v%pr_pl,the@def_art,womman@n%pl,of@prep,,steue@n2%pl
@@ -257,7 +257,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Quod the Somonour, ""yput out of oure cure!""",||,"Quod the Somnour, “yput out of my cure!”"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,0,Quod,the,Somonour,yput,out,of,oure,cure
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,0,,,,,,,,
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,0,quethen@v%pt_3,the@def_art,somnour@n,putten@v%ppl,oute@adv#prep,of@prep,min@pron%gen,cure@n1
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,0,quethen@v%pt_3,the@def_art,somnour@n,putten@v%ppl,oute@adv#prep,of@prep,oure@pron%pl_gen,cure@n1
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,10,Quod,the,Somnour,yput,out,of,my,cure
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,10,u,S,uS,uS,u,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1333,DIFF,green,10,quethen@v%pt_3,the@def_art,somnour@n,putten@v%ppl,oute@adv#prep,of@prep,min@pron%gen,cure@n1
@@ -481,7 +481,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "And somne hem to chapitre bothe two,",||,"And somne hem to the chapitre° bothe two,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,And,somne,hem,to,chapitre,bothe,two
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,u,Sx,u,S,uSu,Su,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,and@conj,somnen@v%inf,hem@pron%pl_obj,to@prep,,chapitre@n,bothe@num_adj,two@num_adj
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,and@conj,somnen@v%inf,hem@pron%pl_obj,to@prep,chapitre@n,bothe@num_adj,two@num_adj
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,And,somne,hem,to,the,chapitre,bothe,two
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,u,Sx,u,S,u,Sux,Su,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1361,DIFF,,10,and@conj,somnen@v%inf,hem@pron%pl_obj,to@prep,,chapitre@n,bothe@num_adj,two@num_adj
@@ -609,7 +609,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Rood for to somne an old wydwe, a ribibe,",||,"Rood for to somne° a widwe, an old ribibe,°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,Rood,for,to,somne,an,old,wydwe,a,ribibe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,u,S,u,Sx,u,S,ux,S,uSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,riden@v%pt_3,for@prep#adv,to@part,somnen@v%inf,a@indef_art,widwe@n,a@indef_art,olde@adj,ribibe@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,riden@v%pt_3,for@prep#adv,to@part,somnen@v%inf,a@indef_art,olde@adj,widwe@n,a@indef_art,ribibe@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,Rood,for,to,somne,a,widwe,an,old,ribibe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,u,S,u,Sx,u,Sx,u,S,uSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1377,DIFF,green,10,riden@v%pt_3,for@prep#adv,to@part,somnen@v%inf,a@indef_art,widwe@n,a@indef_art,olde@adj,ribibe@n
@@ -681,7 +681,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Wher rydestow, under this grene-wode shawe?""",||,Wher ridestow under this grene shawe?’°
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,Wher,rydestow,under,this,grenewode,shawe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,u,SuS,uS,u,xSux,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,wher@adv&conj,riden@v%pr_2_pron,under@prep,this@gram_adj,,shaue@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,wher@adv&conj,riden@v%pr_2_pron,under@prep,this@gram_adj,grene-wode@n#adj,shaue@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,Wher,ridestow,under,this,grene,shawe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,u,SuS,uS,u,Su,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1386,DIFF,,10,wher@adv&conj,riden@v%pr_2_pron,under@prep,this@gram_adj,,shaue@n
@@ -777,7 +777,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Of thyn aqueyntance I wolde praye thee,",||,"Of thin aqueintance I wol praye thee,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,Of,thyn,aqueyntance,I,wolde,praye,thee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,S,u,SuSx,u,Sx,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,of@prep,thin@pron%gen,aqueintaunce@n,ich@pron%nom,,preien@v1%inf,the@pron2%obj
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,of@prep,thin@pron%gen,aqueintaunce@n,ich@pron%nom,willen@v%pt_1,preien@v1%inf,the@pron2%obj
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,Of,thin,aqueintance,I,wol,praye,thee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,S,u,SuSx,u,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1398,DIFF,,9,of@prep,thin@pron%gen,aqueintaunce@n,ich@pron%nom,,preien@v1%inf,the@pron2%obj
@@ -817,7 +817,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 """Grant mercy,"" quod this somonour, ""by my feith!""",||,"‘Grantmercy,’ quod this somnour, ‘by my feith!’"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,0,Grant,mercy,quod,this,somonour,by,my,feith
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,0,,,,,,,,
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,0,,quethen@v%pt_3,this@gram_adj,somnour@n,bi@prep,min@pron%gen,feith@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,0,graunt@adj,merci@n1,quethen@v%pt_3,this@gram_adj,somnour@n,bi@prep,min@pron%gen,feith@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,10,Grantmercy,quod,this,somnour,by,my,feith
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,10,uSu,S,u,Su,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1403,DIFF,,10,,quethen@v%pt_3,this@gram_adj,somnour@n,bi@prep,min@pron%gen,feith@n
@@ -841,7 +841,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 In daliance they ryden forth and pleye.,||,In daliance° they riden forth hir weye.
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,In,daliance,they,ryden,forth,and,pleye
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,u,SuSx,u,Su,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,in@prep,daliaunce@n,thei@pron%pl_nom,riden@v%pr_pl,forth@adv,,wei@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,in@prep,daliaunce@n,thei@pron%pl_nom,riden@v%pr_pl,forth@adv,and@conj,pleien@v1%pr_pl
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,In,daliance,they,riden,forth,hir,weye
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,u,SuSx,u,Su,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1406,DIFF,,10,in@prep,daliaunce@n,thei@pron%pl_nom,riden@v%pr_pl,forth@adv,,wei@n
@@ -905,7 +905,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 Whereas I hope som tyme I shal thee see.,||,"Where, as I hope,° somtime I shal thee see."
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,Whereas,I,hope,som,tyme,I,shal,thee,see
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,uS,u,Sx,u,Sx,u,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,,sen@v1%inf,ich@pron%nom,hopen@v1%pr_1,som-time@adv,ich@pron%nom,shulen@v1%pr_3,the@pron2%obj,
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,wher-as@adv,ich@pron%nom,hopen@v1%pr_1,som@gram_adj,time@n,ich@pron%nom,shulen@v1%pr_3,the@pron2%obj,sen@v1%inf
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,Where,as,I,hope,somtime,I,shal,thee,see
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,ux,S,u,Sx,uSx,u,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1414,DIFF,,10,,sen@v1%inf,ich@pron%nom,hopen@v1%pr_1,som-time@adv,ich@pron%nom,shulen@v1%pr_3,the@pron2%obj,
@@ -961,7 +961,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 In myn office how that I may moost wynne;,||,In min office how I may most winne;
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,In,myn,office,how,that,I,may,moost,wynne
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,u,S,uSx,u,S,u,S,u,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,in@prep,min@pron%gen,office@n,hou@adv&conj,ich@pron%nom,mouen@v3%pr_1,most@adv%sup,winnen@v%inf
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,in@prep,min@pron%gen,office@n,hou@adv&conj,that@part,ich@pron%nom,mouen@v3%pr_1,most@adv%sup,winnen@v%inf
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,In,min,office,how,I,may,most,winne
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,u,S,uSu,S,u,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1421,DIFF,green,10,in@prep,min@pron%gen,office@n,hou@adv&conj,ich@pron%nom,mouen@v3%pr_1,most@adv%sup,winnen@v%inf
@@ -1057,7 +1057,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "I kan no bettre telle, feithfully.""",||,I can no bettre tellen feithfully.’
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,I,kan,no,bettre,telle,feithfully
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,u,S,u,Su,Su,SuS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,ich@pron%nom,connen@v%pr_1,no@adv,bettre@adv%comp,,feithfulli@adv
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,ich@pron%nom,connen@v%pr_1,no@adv,bettre@adv%comp,tellen@v%inf,feithfulli@adv
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,I,can,no,bettre,tellen,feithfully
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,u,S,u,Su,Su,SuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1433,DIFF,,10,ich@pron%nom,connen@v%pr_1,no@adv,bettre@adv%comp,,feithfulli@adv
@@ -1153,7 +1153,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 Quod this somonour. In this meene while,||,"Quod this somnour; and in this menewhile,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,Quod,this,somonour,In,this,meene,while
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,u,S,uSu,S,u,Su,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,quethen@v%pt_3,this@gram_adj,somnour@n,and@conj,in@prep,this@gram_adj,
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,quethen@v%pt_3,this@gram_adj,somnour@n,in@prep,this@gram_adj,mene@adj2,whil@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,Quod,this,somnour,and,in,this,menewhile
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,u,S,uS,u,S,u,SuSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1445,DIFF,,10,quethen@v%pt_3,this@gram_adj,somnour@n,and@conj,in@prep,this@gram_adj,
@@ -1193,7 +1193,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 To wite wher men wol yeve me any thyng.,||,To wite° wher° men wolde yeve me any thing.
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,To,wite,wher,men,wol,yeve,me,any,thyng
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,u,Sx,u,S,u,Sx,u,Su,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,to@part,witen@v1%inf,wher@adv&conj,man@n%pl,,yeven@v%inf,me@pron2%obj,ani@gram_adj,thing@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,to@part,witen@v1%inf,wher@adv&conj,man@n%pl,willen@v%pr_2,yeven@v%inf,me@pron2%obj,ani@gram_adj,thing@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,To,wite,wher,men,wolde,yeve,me,any,thing
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,u,Sx,u,S,ux,Sx,u,Su,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1450,DIFF,,10,to@part,witen@v1%inf,wher@adv&conj,man@n%pl,,yeven@v%inf,me@pron2%obj,ani@gram_adj,thing@n
@@ -1201,7 +1201,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 My purchas is th' effect of al my rente.,||,My purchas° is th’effect° of al my rente.°
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,My,purchas,is,th,effect,of,al,my,rente
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,u,Su,S,,uS,u,S,u,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,min@pron%gen,purchase@n,ben@v%pr_3,,of@prep,al@gram_adj,min@pron%gen,rente@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,min@pron%gen,purchase@n,ben@v%pr_3,the@def_art,effect@n,of@prep,al@gram_adj,min@pron%gen,rente@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,My,purchas,is,theffect,of,al,my,rente
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,u,Su,S,uS,u,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1451,DIFF,,10,min@pron%gen,purchase@n,ben@v%pr_3,,of@prep,al@gram_adj,min@pron%gen,rente@n
@@ -1417,7 +1417,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "I wol entende to wynnyng, if I may,",||,"I wol entend to winnen,° if I may,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,I,wol,entende,to,wynnyng,if,I,may
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,u,S,uSx,u,Su,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,ich@pron%nom,willen@v%pr_1,entenden@v%inf,to@prep,winnen@v%inf,if@conj,ich@pron%nom,mouen@v3%pr_1
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,ich@pron%nom,willen@v%pr_1,entenden@v%inf,to@prep,winninge@ger1,if@conj,ich@pron%nom,mouen@v3%pr_1
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,I,wol,entend,to,winnen,if,I,may
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,u,S,uS,u,Su,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1478,DIFF,green,10,ich@pron%nom,willen@v%pr_1,entenden@v%inf,to@prep,winnen@v%inf,if@conj,ich@pron%nom,mouen@v3%pr_1
@@ -1585,7 +1585,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 Al be it that it was nat oure entente,||,Albeit that it was nat oure entente
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,10,Al,be,it,that,it,was,nat,oure,entente
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,10,u,S,u,S,u,S,u,Sx,uSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,10,,that@conj,hit@pron,ben@v%pt_3,not@adv,oure@pron%pl_gen,entente@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,10,al@conj,ben@v%pr_3,hit@pron,that@conj,hit@pron,ben@v%pt_3,not@adv,oure@pron%pl_gen,entente@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,9,Albeit,that,it,was,nat,oure,entente
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,9,Su,S,u,S,u,Sx,uSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1499,DIFF,,9,,that@conj,hit@pron,ben@v%pt_3,not@adv,oure@pron%pl_gen,entente@n
@@ -1929,7 +1929,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "The cartere smoot and cryde as he were wood,",||,"This carter smoot,° and cride, as he were wood,°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,The,cartere,smoot,and,cryde,as,he,were,wood
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,u,Sux,S,u,Sx,u,S,ux,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,,carter@n,smiten@v%pt_3,and@conj,crien@v%pt_3,as@conj,he@pron1%nom,ben@v%pt_3,wod@adj
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,the@def_art,carter@n,smiten@v%pt_3,and@conj,crien@v%pt_3,as@conj,he@pron1%nom,ben@v%pt_3,wod@adj
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,This,carter,smoot,and,cride,as,he,were,wood
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,u,Su,S,u,Sx,u,S,ux,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1542,DIFF,,10,,carter@n,smiten@v%pt_3,and@conj,crien@v%pt_3,as@conj,he@pron1%nom,ben@v%pt_3,wod@adj
@@ -2041,7 +2041,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "It is nat his entente, trust me weel.",||,"It is nat his entent, trust thou me weel."
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,It,is,nat,his,entente,trust,me,weel
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,u,S,u,S,uSu,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,hit@pron,ben@v%pr_3,not@adv,his@pron1%gen,entente@n,trusten@v%imp,thou@pron%nom,me@pron2%obj,wel@adv
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,hit@pron,ben@v%pr_3,not@adv,his@pron1%gen,entente@n,trusten@v%imp,me@pron2%obj,wel@adv
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,It,is,nat,his,entent,trust,thou,me,weel
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,u,S,u,S,uS,u,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1556,DIFF,green,10,hit@pron,ben@v%pr_3,not@adv,his@pron1%gen,entente@n,trusten@v%imp,thou@pron%nom,me@pron2%obj,wel@adv
@@ -2073,7 +2073,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 And they bigonne to drawen and to stoupe.,||,And they bigonne drawen° and to stoupe;°
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,And,they,bigonne,to,drawen,and,to,stoupe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,u,S,uSx,u,Su,S,u,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,and@conj,thei@pron%pl_nom,biginnen@v%pt_pl,drauen@v%inf,and@conj,to@part,stoupen@v%inf
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,and@conj,thei@pron%pl_nom,biginnen@v%pt_pl,to@part,drauen@v%inf,and@conj,to@part,stoupen@v%inf
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,And,they,bigonne,drawen,and,to,stoupe
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,u,S,uSu,Su,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1560,DIFF,green,10,and@conj,thei@pron%pl_nom,biginnen@v%pt_pl,drauen@v%inf,and@conj,to@part,stoupen@v%inf
@@ -2137,7 +2137,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "The carl spak oo thing, but he thoghte another.",||,"The carl° spak oon thing, but he thoghte another."
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,The,carl,spak,oo,thing,but,he,thoghte,another
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,u,S,u,S,u,S,u,Sx,uSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,the@def_art,carl@n,speken@v%pt_3,,thing@n,but@conj,he@pron1%nom,thinken@v2%pt_3,another@pron
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,the@def_art,carl@n,speken@v%pt_3,o@num_adj,thing@n,but@conj,he@pron1%nom,thinken@v2%pt_3,another@pron
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,The,carl,spak,oon,thing,but,he,thoghte,another
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,u,S,u,S,u,S,u,Sx,uSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1568,DIFF,,10,the@def_art,carl@n,speken@v%pt_3,,thing@n,but@conj,he@pron1%nom,thinken@v2%pt_3,another@pron
@@ -2265,7 +2265,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 """Who clappeth?"" seyde this wyf, ""benedicitee!",||,"¶‘Who clappeth?’ seid this widwe, ‘Benedicite!"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,Who,clappeth,seyde,this,wyf,benedicitee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,u,Su,Sx,u,S,uxSuS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,who@pron%nom,clappen@v%pr_3,seien@v1%pt_3,this@gram_adj,widwe@n,benedicite@interj
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,who@pron%nom,clappen@v%pr_3,seien@v1%pt_3,this@gram_adj,wif@n,benedicite@interj
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,Who,clappeth,seid,this,widwe,Benedicite
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,u,Su,S,u,Sx,uSuSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1584,DIFF,green,10,who@pron%nom,clappen@v%pr_3,seien@v1%pt_3,this@gram_adj,widwe@n,benedicite@interj
@@ -2281,7 +2281,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 """I have,"" quod he, ""of somonce here a bille;",||,"¶“ ‘I have,’ quod he, ‘of somonaunce° a bille;°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,I,have,quod,he,of,somonce,here,a,bille
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,u,Sx,u,S,u,Sux,Sx,u,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,ich@pron%nom,haven@v%pr_1,quethen@v%pt_3,he@pron1%nom,of@prep,,a@indef_art,bille@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,ich@pron%nom,haven@v%pr_1,quethen@v%pt_3,he@pron1%nom,of@prep,somouns@n,her@adv,a@indef_art,bille@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,I,have,quod,he,of,somonaunce,a,bille
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,u,Sx,u,S,u,SuSx,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1586,DIFF,,10,ich@pron%nom,haven@v%pr_1,quethen@v%pt_3,he@pron1%nom,of@prep,,a@indef_art,bille@n
@@ -2297,7 +2297,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 Tomorn bifore the erchedeknes knee,||,Tomorn biforn° the erchedeknes knee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,Tomorn,bifore,the,erchedeknes,knee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,uS,uSx,u,SuSu,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,to-morn@adv,,the@def_art,arche-deken@n%gen,kne@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,to-morn@adv,biforen@prep,the@def_art,arche-deken@n%gen,kne@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,Tomorn,biforn,the,erchedeknes,knee
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,uS,uS,u,SuSu,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1588,DIFF,,10,to-morn@adv,,the@def_art,arche-deken@n%gen,kne@n
@@ -2305,7 +2305,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "T' answere to the court of certeyn thynges.""",||,T’answer to the court of certein thinges.’
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,T,answere,to,the,court,of,certeyn,thynges
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,,uSx,u,S,u,S,uS,uS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,,to@part,the@def_art,court@n1,of@prep,certain@adj,thing@n%pl
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,to@part,answeren@v%inf,to@prep,the@def_art,court@n1,of@prep,certain@adj,thing@n%pl
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,Tanswer,to,the,court,of,certein,thinges
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,uS,u,S,u,S,uS,uS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1589,DIFF,,10,,to@part,the@def_art,court@n1,of@prep,certain@adj,thing@n%pl
@@ -2361,7 +2361,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 And answere there by my procuratour,||,"And answer there, by my procutour,°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,And,answere,there,by,my,procuratour
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,u,Sux,Sx,u,S,uSuS
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,and@conj,answeren@v%inf,ther@adv,bi@prep,min@pron%gen,
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,and@conj,answeren@v%inf,ther@adv,bi@prep,min@pron%gen,procuratour@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,And,answer,there,by,my,procutour
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,u,Su,Su,S,u,SuS
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1596,DIFF,,10,and@conj,answeren@v%inf,ther@adv,bi@prep,min@pron%gen,
@@ -2481,7 +2481,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "If I th' excuse, though thou shul be spilt!""",||,"If I th’excuse, though thou shul be spilt!’°"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,If,I,th,excuse,though,thou,shul,be,spilt
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,u,S,,uSu,S,u,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,if@conj,ich@pron%nom,,though@conj,the@pron2%obj,shulen@v1%pr_2,ben@v%inf,spillen@v%ppl
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,if@conj,ich@pron%nom,the@pron2%obj,excusen@v%pr_1,though@conj,thou@pron%nom,shulen@v1%pr_2,ben@v%inf,spillen@v%ppl
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,If,I,thexcuse,though,thou,shul,be,spilt
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,u,S,uSu,S,u,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1611,DIFF,,10,if@conj,ich@pron%nom,,though@conj,the@pron2%obj,shulen@v1%pr_2,ben@v%inf,spillen@v%ppl
@@ -2721,7 +2721,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 Where as that somonours han hir heritage.,||,Wheras that somnours han hir heritage.°
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,Where,as,that,somonours,han,hir,heritage
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,ux,S,u,SuS,u,S,xuSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,wher-as@adv,that@part,somnour@n%pl,haven@v%pr_pl,here@pron%pl_gen,heritage@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,wher@adv&conj,as@conj,that@part,somnour@n%pl,haven@v%pr_pl,here@pron%pl_gen,heritage@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,Wheras,that,somnours,han,hir,heritage
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,uS,u,Su,S,u,SuSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1641,DIFF,green,10,wher-as@adv,that@part,somnour@n%pl,haven@v%pr_pl,here@pron%pl_gen,heritage@n
@@ -2769,7 +2769,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "After the text of Crist, Poul, and John,",||,After the text of Crist and Poul and John
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,9,After,the,text,of,Crist,Poul,and,John
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,9,Su,S,u,S,u,S,u,S
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,9,after@prep,the@def_art,texte@n,of@prep,crist@n#propn,and@conj,poule@n#propn,,john@n1#propn
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,9,after@prep,the@def_art,texte@n,of@prep,crist@n#propn,poule@n#propn,and@conj,john@n1#propn
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,10,After,the,text,of,Crist,and,Poul,and,John
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,10,uS,u,S,u,S,u,S,u,S
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1647,DIFF,,10,after@prep,the@def_art,texte@n,of@prep,crist@n#propn,and@conj,poule@n#propn,,john@n1#propn
@@ -2793,7 +2793,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 "Al be it so no tonge may it devyse,",||,"Albeit so, no tonge may devise,"
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,10,Al,be,it,so,no,tonge,may,it,devyse
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,10,u,S,u,S,u,Sx,u,S,uSx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,10,,so@adv,no@gram_adj,tonge@n2,mouen@v3%pr_3,devisen@v%inf
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,10,al@conj,ben@v%pr_3,hit@pron,so@adv,no@gram_adj,tonge@n2,mouen@v3%pr_3,hit@pron,devisen@v%inf
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,9,Albeit,so,no,tonge,may,devise
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,9,Su,S,u,Su,S,uSx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1650,DIFF,,9,,so@adv,no@gram_adj,tonge@n2,mouen@v3%pr_3,devisen@v%inf
@@ -2809,7 +2809,7 @@ data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT
 The peynes of thilke cursed hous of helle.,||,The pein of thilke cursed hous of helle.
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,The,peynes,of,thilke,cursed,hous,of,helle
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,u,Su,S,ux,Su,S,u,Sx
-data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,the@def_art,peine@n,of@prep,thilke@gram_adj,cursed@ppl#adj,hous@n,of@prep,helle@n
+data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,the@def_art,peine@n%pl,of@prep,thilke@gram_adj,cursed@ppl#adj,hous@n,of@prep,helle@n
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,The,pein,of,thilke,cursed,hous,of,helle
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,u,S,u,Su,Su,S,u,Sx
 data/riverside_cats/FriT_riv.cat,data/oxford_txts/FriT_oxford.txt,data/csvs/FriT,The Friar's Tale 1652,DIFF,green,10,the@def_art,peine@n,of@prep,thilke@gram_adj,cursed@ppl#adj,hous@n,of@prep,helle@n

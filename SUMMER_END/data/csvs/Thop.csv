@@ -249,7 +249,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "They moorne for hym paramour,",||,"They moorne° for him, par amour,°"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,They,moorne,for,hym,paramour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,thei@pron%pl_nom,mornen@v%pr_pl,for@prep,him@pron%obj,par@prep,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,thei@pron%pl_nom,mornen@v%pr_pl,for@prep,him@pron%obj,par_amoure@adv
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,They,moorne,for,him,par,amour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 743,DIFF,,0,thei@pron%pl_nom,mornen@v%pr_pl,for@prep,him@pron%obj,par@prep,
@@ -273,7 +273,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 And sweete as is the brembul flour,||,And sweet as is the brambel-flour°
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,And,sweete,as,is,the,brembul,flour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,,,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,ben@v%pr_3,the@def_art,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,ben@v%pr_3,the@def_art,brembel@n,flour@n1
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,And,sweet,as,is,the,brambelflour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 746,DIFF,,0,and@conj,swete@adj,as@conj,ben@v%pr_3,the@def_art,
@@ -393,7 +393,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "The lycorys and the cetewale,",||,"The licoris and cetewale,°"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,9,The,lycorys,and,the,cetewale
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,9,S,uSu,S,u,SuSx
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,9,the@def_art,licoris@n,and@conj,setewale@n
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,9,the@def_art,licoris@n,and@conj,the@def_art,setewale@n
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,0,The,licoris,and,cetewale
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,0,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 761,DIFF,green,0,the@def_art,licoris@n,and@conj,setewale@n
@@ -457,7 +457,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "The thrustelcok made eek hir lay,",||,"The thrustelcok° made eek his lay,"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,The,thrustelcok,made,eek,hir,lay
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,S,uSu,Su,S,u,S
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,the@def_art,throstel-cok@n,maken@v1%pt_3,ek@adv,his@pron1%gen,lai@n2
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,the@def_art,throstel-cok@n,maken@v1%pt_3,ek@adv,hire@pron1%fem_gen,lai@n2
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,The,thrustelcok,made,eek,his,lay
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,S,uSu,Su,S,u,S
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 769,DIFF,green,9,the@def_art,throstel-cok@n,maken@v1%pt_3,ek@adv,his@pron1%gen,lai@n2
@@ -481,7 +481,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "Sire Thopas fil in love-longynge,",||,Sir Thopas fil° in luf-longinge
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,9,Sire,Thopas,fil,in,lovelongynge
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,9,Sx,uS,u,S,uSuSx
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,9,sire@n#adj,thopas@n#propn,fallen@v%pt_3,in@prep,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,9,sire@n#adj,thopas@n#propn,fallen@v%pt_3,in@prep,love-longinge@n
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,0,Sir,Thopas,fil,in,luflonginge
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,0,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 772,DIFF,,0,sire@n#adj,thopas@n#propn,fallen@v%pt_3,in@prep,
@@ -697,7 +697,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "An elf-queene for t' espye,",||,"    An elf-queen for t’espie,°"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,An,elfqueene,for,t,espye
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,a@indef_art,elf-queene@n,for@prep#adv,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,a@indef_art,elf-queene@n,for@prep#adv,to@part,aspien@v%inf
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,An,elfqueen,for,tespie
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 799,DIFF,,0,a@indef_art,elf-queene@n,for@prep#adv,
@@ -801,7 +801,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 Anon I sle thy steede,||,    Anon°I slee thy stede
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,Anon,I,sle,thy,steede
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,an-on@adv,slen@v%pr_1,thin@pron%gen,stede@n2
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,an-on@adv,ich@pron%nom,slen@v%pr_1,thin@pron%gen,stede@n2
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,AnonI,slee,thy,stede
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 812,DIFF,green,0,an-on@adv,slen@v%pr_1,thin@pron%gen,stede@n2
@@ -849,7 +849,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "Tomorwe wol I meete with thee,",||,Tomorwe wol I meete thee
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,Tomorwe,wol,I,meete,with,thee
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,to-morwe@adv,willen@v%pr_1,ich@pron%nom,meten@v4%inf,the@pron2%obj
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,to-morwe@adv,willen@v%pr_1,ich@pron%nom,meten@v4%inf,with@prep,the@pron2%obj
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,Tomorwe,wol,I,meete,thee
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 818,DIFF,green,0,to-morwe@adv,willen@v%pr_1,ich@pron%nom,meten@v4%inf,the@pron2%obj
@@ -1041,7 +1041,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "With a geaunt with hevedes three,",||,"With a geaunt with heedes three,"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,9,With,a,geaunt,with,hevedes,three
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,9,S,u,Su,S,uSu,S
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,9,with@prep,a@indef_art,geaunt@n,with@prep,,thre@num_adj
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,9,with@prep,a@indef_art,geaunt@n,with@prep,hed@n1%pl,thre@num_adj
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,0,With,a,geaunt,with,heedes,three
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,0,,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 842,DIFF,,0,with@prep,a@indef_art,geaunt@n,with@prep,,thre@num_adj
@@ -1105,7 +1105,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "And eek of love-likynge.""",||,    And eek of luf-likinge.”°
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,And,eek,of,lovelikynge
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,and@conj,ek@adv,of@prep,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,and@conj,ek@adv,of@prep,love-likinge@n
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,And,eek,of,luflikinge
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 850,DIFF,,0,and@conj,ek@adv,of@prep,
@@ -1329,7 +1329,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "His sadel was of rewel boon,",||,"His sadel was of rewel-boon,°"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,His,sadel,was,of,rewel,boon
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,,,,,,
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,his@pron1%gen,sadel@n,ben@v%pt_3,of@prep,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,his@pron1%gen,sadel@n,ben@v%pt_3,of@prep,rouel@n1#adj,bon@n1
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,His,sadel,was,of,rewelboon
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 878,DIFF,,0,his@pron1%gen,sadel@n,ben@v%pt_3,of@prep,
@@ -1457,7 +1457,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "Of bataille and of chivalry,",||,"Of batailles and of chivalry,"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,Of,bataille,and,of,chivalry
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,S,uSu,S,u,SuS
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,of@prep,bataille@n%pl,and@conj,of@prep,chevalrie@n
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,of@prep,bataille@n,and@conj,of@prep,chevalrie@n
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,Of,batailles,and,of,chivalry
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,S,uSu,S,u,SuS
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 894,DIFF,green,9,of@prep,bataille@n%pl,and@conj,of@prep,chevalrie@n
@@ -1465,7 +1465,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 And of ladyes love-drury,||,And of ladies luf-drury°
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,9,And,of,ladyes,lovedrury
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,9,S,u,SuS,uSuS
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,9,and@conj,of@prep,ladie@n%gen,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,9,and@conj,of@prep,ladie@n%gen,love-druri@n
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,0,And,of,ladies,lufdrury
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,0,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 895,DIFF,,0,and@conj,of@prep,ladie@n%gen,
@@ -1481,7 +1481,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 "Men speken of romances of prys,",||,"Men speke of romances of pris,°"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,9,Men,speken,of,romances,of,prys
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,9,S,uS,u,SuS,u,S
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,9,man@n%pl,,of@prep,romaunce@n%pl,of@prep,pris@n1
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,9,man@n%pl,speken@v%pr_pl,of@prep,romaunce@n%pl,of@prep,pris@n1
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,0,Men,speke,of,romances,of,pris
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,0,,,,,,
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 897,DIFF,,0,man@n%pl,,of@prep,romaunce@n%pl,of@prep,pris@n1
@@ -1561,7 +1561,7 @@ data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop
 And therinne stiked a lilie flour --,||,"And therin stiked° a lily-flour,"
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,And,therinne,stiked,a,lilie,flour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,S,uSx,uS,u,Su,S
-data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,and@conj,ther-inne@adv,stiken@v%pt_3,a@indef_art,
+data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,and@conj,ther-inne@adv,stiken@v%pt_3,a@indef_art,lilie@n#adj,flour@n1,--@dash
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,And,therin,stiked,a,lilyflour
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,S,uS,uS,u,SuS
 data/riverside_cats/Thop_riv.cat,data/oxford_txts/Thop_oxford.txt,data/csvs/Thop,Sir Thopas 907,DIFF,,9,and@conj,ther-inne@adv,stiken@v%pt_3,a@indef_art,

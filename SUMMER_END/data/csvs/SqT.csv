@@ -25,7 +25,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "This noble kyng was cleped Cambyuskan,",||,"This noble king was cleped Cambinskan,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,This,noble,kyng,was,cleped,Cambyuskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pt_3,clepen@v%ppl,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pt_3,clepen@v%ppl,cambiuskan@n#propn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,This,noble,king,was,cleped,Cambinskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,u,Su,S,u,Su,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 12,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pt_3,clepen@v%ppl,
@@ -41,7 +41,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 That ther was nowher in no regioun,||,That ther nas nowher° in no regioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,That,ther,was,nowher,in,no,regioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,u,S,u,Su,S,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,that@conj,ther@adv,,no-wher@adv,in@prep,no@gram_adj,regioune@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,that@conj,ther@adv,ben@v%pt_3,no-wher@adv,in@prep,no@gram_adj,regioune@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,That,ther,nas,nowher,in,no,regioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,u,S,u,Su,S,u,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 14,DIFF,,10,that@conj,ther@adv,,no-wher@adv,in@prep,no@gram_adj,regioune@n
@@ -89,7 +89,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And pitous and just, alwey yliche;",||,"Pitous° and just, and evermore iliche°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,9,And,pitous,and,just,alwey,yliche
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,9,S,uS,u,S,uS,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,9,pitous@adj,and@conj,juste@adj,and@conj,ever-mor@adv,iliche@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,9,and@conj,pitous@adj,and@conj,juste@adj,al-wei@adv,iliche@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,10,Pitous,and,just,and,evermore,iliche
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,10,uS,u,S,u,SuSx,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 20,DIFF,green,10,pitous@adj,and@conj,juste@adj,and@conj,ever-mor@adv,iliche@adv
@@ -153,7 +153,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "This noble kyng, this Tartre Cambyuskan,",||,"¶This noble king, this Tartre Cambinskan"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,This,noble,kyng,this,Tartre,Cambyuskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,this@gram_adj,noble@adj,king@n,this@gram_adj,tartar@n2#adj,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,this@gram_adj,noble@adj,king@n,this@gram_adj,tartar@n2#adj,cambiuskan@n#propn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,This,noble,king,this,Tartre,Cambinskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,u,Su,S,u,Su,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 28,DIFF,,10,this@gram_adj,noble@adj,king@n,this@gram_adj,tartar@n2#adj,
@@ -209,7 +209,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "It lyth nat in my tonge, n' yn my konnyng;",||,"It lith° nat in my tonge, n’in° my conning;°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,It,lyth,nat,in,my,tonge,n,yn,my,konnyng
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,u,S,u,S,u,Sx,,u,S,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,,min@pron%gen,conninge@ger
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,ne@conj1,in@prep,min@pron%gen,conninge@ger
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,It,lith,nat,in,my,tonge,nin,my,conning
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,u,S,u,S,u,Sx,u,S,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,,min@pron%gen,conninge@ger
@@ -265,7 +265,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And so bifel that whan this Cambyuskan,||,"¶And so bifel° that, whan this Cambinskan"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,And,so,bifel,that,whan,this,Cambyuskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,u,S,uS,u,S,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,whan@adv&conj,this@gram_adj,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,whan@adv&conj,this@gram_adj,cambiuskan@n#propn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,And,so,bifel,that,whan,this,Cambinskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,u,S,uS,u,S,u,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 42,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,whan@adv&conj,this@gram_adj,
@@ -393,7 +393,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "This Cambyuskan, of which I have yow toold,",||,"¶This Cambinskan, of which I have yow told,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,This,Cambyuskan,of,which,I,have,yow,toold
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,u,SuS,u,S,u,Sx,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,this@gram_adj,,of@prep,which@pron,ich@pron%nom,haven@v%pr_1,you@pron%pl_obj,tellen@v%ppl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,this@gram_adj,cambiuskan@n#propn,of@prep,which@pron,ich@pron%nom,haven@v%pr_1,you@pron%pl_obj,tellen@v%ppl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,This,Cambinskan,of,which,I,have,yow,told
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,u,SuS,u,S,u,Sx,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 58,DIFF,,10,this@gram_adj,,of@prep,which@pron,ich@pron%nom,haven@v%pr_1,you@pron%pl_obj,tellen@v%ppl
@@ -433,7 +433,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Of which if I shal tellen al th' array,",||,"Of which if I shal tellen al th’array,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,Of,which,if,I,shal,tellen,al,th,array
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,u,S,u,S,u,Su,S,,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,the@def_art,arrai@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,Of,which,if,I,shal,tellen,al,tharray
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,u,S,u,S,u,Su,S,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,
@@ -697,7 +697,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Though he were comen ayeyn out of Fairye,",||,"Though he were come agein out of Fairie,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,0,Though,he,were,comen,ayeyn,out,of,Fairye
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,0,,,,,,,,
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,0,though@conj,he@pron1%nom,ben@v%pt_3,,,oute@adv#prep,of@prep,fairie@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,0,though@conj,he@pron1%nom,ben@v%pt_3,comen@v%ppl,ayen@adv,oute@adv#prep,of@prep,fairie@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,10,Though,he,were,come,agein,out,of,Fairie
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,10,u,S,ux,Sx,uS,u,S,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 96,DIFF,,10,though@conj,he@pron1%nom,ben@v%pt_3,,,oute@adv#prep,of@prep,fairie@n
@@ -721,7 +721,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "He with a manly voys seide his message,",||,"He with a manly vois seith his message,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,He,with,a,manly,voys,seide,his,message
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,u,S,u,Su,S,ux,S,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,he@pron1%nom,with@prep,a@indef_art,manli@adj,voice@n,,his@pron1%gen,message@n1
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,he@pron1%nom,with@prep,a@indef_art,manli@adj,voice@n,seien@v1%pt_3,his@pron1%gen,message@n1
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,He,with,a,manly,vois,seith,his,message
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,u,S,u,Su,S,u,S,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 99,DIFF,,10,he@pron1%nom,with@prep,a@indef_art,manli@adj,voice@n,,his@pron1%gen,message@n1
@@ -769,7 +769,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Al be that I kan nat sowne his stile,",||,"Albeit that° I can nat soune° his style,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,Al,be,that,I,kan,nat,sowne,his,stile
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,S,u,S,u,S,u,Sx,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,,that@conj,ich@pron%nom,connen@v%pr_1,not@adv,sounen@v%inf,his@pron1%gen,stile@n2
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,al@conj,ben@v%pr_3,that@conj,ich@pron%nom,connen@v%pr_1,not@adv,sounen@v%inf,his@pron1%gen,stile@n2
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,Albeit,that,I,can,nat,soune,his,style
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,Su,S,u,S,u,Sx,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 105,DIFF,,9,,that@conj,ich@pron%nom,connen@v%pr_1,not@adv,sounen@v%inf,his@pron1%gen,stile@n2
@@ -1153,7 +1153,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And every gras that groweth upon roote,||,And every gras that groweth up on rote°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,And,every,gras,that,groweth,upon,roote
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,u,SuS,u,S,ux,Su,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,and@conj,everi@pron_gram_adj,gras@n,that@pron,grouen@v%pr_3,,,rote@n4
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,and@conj,everi@pron_gram_adj,gras@n,that@pron,grouen@v%pr_3,upon@prep,rote@n4
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,And,every,gras,that,groweth,up,on,rote
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,u,SuS,u,S,ux,S,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 153,DIFF,,10,and@conj,everi@pron_gram_adj,gras@n,that@pron,grouen@v%pr_3,,,rote@n4
@@ -1265,7 +1265,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "It failleth nat whils it is in youre hoold.""",||,It failleth nat whil it is in your hold.”°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,It,failleth,nat,whils,it,is,in,youre,hoold
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,u,Su,S,u,S,u,S,ux,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,hit@pron,failen@v%pr_3,not@adv,,hit@pron,ben@v%pr_3,in@prep,your@pron%pl_gen,hold@n2
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,hit@pron,failen@v%pr_3,not@adv,whiles@conj,hit@pron,ben@v%pr_3,in@prep,your@pron%pl_gen,hold@n2
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,It,failleth,nat,whil,it,is,in,your,hold
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,u,Su,S,u,S,u,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 167,DIFF,,10,hit@pron,failen@v%pr_3,not@adv,,hit@pron,ben@v%pr_3,in@prep,your@pron%pl_gen,hold@n2
@@ -1297,7 +1297,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Stant in the court, stille as any stoon.",||,"Stant° in the court,° as stille as any stoon."
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,9,Stant,in,the,court,stille,as,any,stoon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,9,S,u,S,u,Sx,u,Su,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,9,stonden@v1%pr_3,in@prep,the@def_art,court@n1,as@conj,stille@adv,,ani@gram_adj,ston@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,9,stonden@v1%pr_3,in@prep,the@def_art,court@n1,stille@adv,as@conj,ani@gram_adj,ston@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,10,Stant,in,the,court,as,stille,as,any,stoon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,10,u,S,u,S,u,Sx,u,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 171,DIFF,,10,stonden@v1%pr_3,in@prep,the@def_art,court@n1,as@conj,stille@adv,,ani@gram_adj,ston@n
@@ -1313,7 +1313,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And is unarmed, and to mete yset.",||,And is unarmed° and unto mete° yset.°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,And,is,unarmed,and,to,mete,yset
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,u,S,uSu,S,u,Sx,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,and@conj,ben@v%pr_3,unarmen@v%ppl,and@conj,,mete@n1,isetten@v%ppl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,and@conj,ben@v%pr_3,unarmen@v%ppl,and@conj,to@prep,mete@n1,isetten@v%ppl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,And,is,unarmed,and,unto,mete,yset
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,u,S,uSx,u,Su,Sx,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 173,DIFF,,10,and@conj,ben@v%pr_3,unarmen@v%ppl,and@conj,,mete@n1,isetten@v%ppl
@@ -1353,7 +1353,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And unto Canacee this ryng is bore,||,And unto Canacee this ring was bore°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,And,unto,Canacee,this,ryng,is,bore
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,u,Su,SuS,u,S,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,and@conj,unto@prep,canacee@n1#propn,this@gram_adj,ring@n,,beren@v1%ppl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,and@conj,unto@prep,canacee@n1#propn,this@gram_adj,ring@n,ben@v%pr_3,beren@v1%ppl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,And,unto,Canacee,this,ring,was,bore
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,u,Su,SuS,u,S,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 178,DIFF,,10,and@conj,unto@prep,canacee@n1#propn,this@gram_adj,ring@n,,beren@v1%ppl
@@ -1537,7 +1537,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "It was a fairye, as the peple semed.",||,"It was of Fairie,° as the peple semed.°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,It,was,a,fairye,as,the,peple,semed
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,u,S,u,Su,S,u,Sx,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,hit@pron,ben@v%pt_3,of@prep,fairie@n,as@conj,the@def_art,peple@n,semen@v2%pt_3
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,hit@pron,ben@v%pt_3,a@indef_art,fairie@n,as@conj,the@def_art,peple@n,semen@v2%pt_3
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,It,was,of,Fairie,as,the,peple,semed
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,u,S,u,Su,S,u,Sx,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 201,DIFF,green,10,hit@pron,ben@v%pt_3,of@prep,fairie@n,as@conj,the@def_art,peple@n,semen@v2%pt_3
@@ -1617,7 +1617,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 As men in thise olde geestes rede.,||,"As men may in thise olde gestes° rede,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,As,men,in,thise,olde,geestes,rede
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,u,S,u,Su,Su,Su,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,as@conj,man@n%pl,,in@prep,these@gram_adj%pl,olde@adj,geste@n1%pl,reden@v1%pr_pl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,as@conj,man@n%pl,in@prep,these@gram_adj%pl,olde@adj,geste@n1%pl,reden@v1%pr_pl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,As,men,may,in,thise,olde,gestes,rede
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,u,S,u,S,ux,Su,Su,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 211,DIFF,,10,as@conj,man@n%pl,,in@prep,these@gram_adj%pl,olde@adj,geste@n1%pl,reden@v1%pr_pl
@@ -1665,7 +1665,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And seyde, ""He lyeth, for it is rather lyk",||,"And seide, “He lieth, it is rather lik"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,And,seyde,He,lyeth,for,it,is,rather,lyk
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,u,Sx,u,Su,S,u,S,ux,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,and@conj,seien@v1%pt_3,he@pron1%nom,lien@v2%pr_3,hit@pron,ben@v%pr_3,rathere@adv%comp,like@prep
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,and@conj,seien@v1%pt_3,he@pron1%nom,lien@v2%pr_3,for@conj,hit@pron,ben@v%pr_3,rathere@adv%comp,like@prep
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,And,seide,He,lieth,it,is,rather,lik
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,u,Sx,u,Su,S,u,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 217,DIFF,green,10,and@conj,seien@v1%pt_3,he@pron1%nom,lien@v2%pr_3,hit@pron,ben@v%pr_3,rathere@adv%comp,like@prep
@@ -1737,7 +1737,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "That born was up into the maister-tour,",||,"That born was up into the maister tour,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,That,born,was,up,into,the,maistertour
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,u,S,u,S,uS,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,that@pron,beren@v1%ppl,ben@v%pt_3,up@adv,in-to@prep,the@def_art,,tour@n1
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,that@pron,beren@v1%ppl,ben@v%pt_3,up@adv,in-to@prep,the@def_art,maister-tour@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,That,born,was,up,into,the,maister,tour
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,u,S,u,S,uS,u,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 226,DIFF,,10,that@pron,beren@v1%ppl,ben@v%pt_3,up@adv,in-to@prep,the@def_art,,tour@n1
@@ -1777,7 +1777,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And seyde that in Rome was swich oon.,||,"And seiden, that in Rome was swich oon."
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,And,seyde,that,in,Rome,was,swich,oon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,and@conj,,that@conj,in@prep,rome@n#propn,ben@v%pt_3,swich@gram_adj,on@pron
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,and@conj,seien@v1%pt_3,that@conj,in@prep,rome@n#propn,ben@v%pt_3,swich@gram_adj,on@pron
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,And,seiden,that,in,Rome,was,swich,oon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,u,Su,S,u,Su,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 231,DIFF,,10,and@conj,,that@conj,in@prep,rome@n#propn,ben@v%pt_3,swich@gram_adj,on@pron
@@ -1825,7 +1825,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "That wolde percen thurghout every thyng,",||,That wolde percen thurghout everything;
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,That,wolde,percen,thurghout,every,thyng
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,u,Sx,uS,uS,uSu,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,that@pron,willen@v%pt_3,percen@v%inf,thurgh-oute@prep,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,that@pron,willen@v%pt_3,percen@v%inf,thurgh-oute@prep,everi@pron_gram_adj,thing@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,That,wolde,percen,thurghout,everything
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,u,Sx,uS,uS,uSuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 237,DIFF,,10,that@pron,willen@v%pt_3,percen@v%inf,thurgh-oute@prep,
@@ -2017,7 +2017,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Thus jangle they, and demen, and devyse",||,"¶Thus janglen° they and demen° and devise,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,Thus,jangle,they,and,demen,and,devyse
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,u,Su,S,u,Su,S,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,thus@adv,,thei@pron%pl_nom,and@conj,demen@v%pr_pl,and@conj,devisen@v%pr_pl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,thus@adv,janglen@v%pr_pl,thei@pron%pl_nom,and@conj,demen@v%pr_pl,and@conj,devisen@v%pr_pl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,Thus,janglen,they,and,demen,and,devise
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,u,Su,S,u,Su,S,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 261,DIFF,,10,thus@adv,,thei@pron%pl_nom,and@conj,demen@v%pr_pl,and@conj,devisen@v%pr_pl
@@ -2057,7 +2057,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Whan that this Tartre kyng, Cambyuskan,",||,"Whan that this Tartre king, this Cambinskan,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,0,Whan,that,this,Tartre,kyng,Cambyuskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,0,,,,,,
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,0,whan@adv&conj,that@part,this@gram_adj,tartar@n2#adj,king@n,,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,0,whan@adv&conj,that@part,this@gram_adj,tartar@n2#adj,king@n,cambiuskan@n#propn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,10,Whan,that,this,Tartre,king,this,Cambinskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,10,u,S,u,Su,S,u,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 266,DIFF,,10,whan@adv&conj,that@part,this@gram_adj,tartar@n2#adj,king@n,,
@@ -2065,7 +2065,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Roos fro his bord, ther as he sat ful hye.",||,"Roos fro his bord, ther that° he sat ful hie."
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,Roos,fro,his,bord,ther,as,he,sat,ful,hye
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,risen@v%pt_3,from@prep,his@pron1%gen,bord@n,ther@adv,,he@pron1%nom,sitten@v%pt_3,ful@adv,heighe@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,risen@v%pt_3,from@prep,his@pron1%gen,bord@n,ther@adv,as@conj,he@pron1%nom,sitten@v%pt_3,ful@adv,heighe@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,Roos,fro,his,bord,ther,that,he,sat,ful,hie
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,u,S,u,S,u,S,u,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 267,DIFF,,10,risen@v%pt_3,from@prep,his@pron1%gen,bord@n,ther@adv,,he@pron1%nom,sitten@v%pt_3,ful@adv,heighe@adv
@@ -2129,7 +2129,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 This noble kyng is set upon his trone.,||,This noble king is set up in his trone.°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,This,noble,kyng,is,set,upon,his,trone
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,u,Su,S,u,S,uS,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pr_3,setten@v%ppl,,,his@pron1%gen,trone@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pr_3,setten@v%ppl,upon@prep,his@pron1%gen,trone@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,This,noble,king,is,set,up,in,his,trone
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 275,DIFF,,10,this@gram_adj,noble@adj,king@n,ben@v%pr_3,setten@v%ppl,,,his@pron1%gen,trone@n
@@ -2201,7 +2201,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "So unkouthe, and swiche fresshe contenaunces,",||,"So uncouthe° and so fresshe contenaunces,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,So,unkouthe,and,swiche,fresshe,contenaunces
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,u,Sux,S,ux,Sx,uSuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,so@adv,uncouth@adj,and@conj,,fresh@adj,contenaunce@n%pl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,so@adv,uncouth@adj,and@conj,swich@gram_adj,fresh@adj,contenaunce@n%pl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,So,uncouthe,and,so,fresshe,contenaunces
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,u,Sux,S,u,Sx,uSuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 284,DIFF,,10,so@adv,uncouth@adj,and@conj,,fresh@adj,contenaunce@n%pl
@@ -2321,7 +2321,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Ech man woot wel that a kynges feeste,||,"Ech man wot wel, that eche kinges feeste"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,9,Ech,man,woot,wel,that,a,kynges,feeste
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,9,S,u,S,u,S,u,Su,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,9,ech@pron_gram_adj,man@n,witen@v1%pr_3,wel@adv,that@conj,,king@n%gen,feste@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,9,ech@pron_gram_adj,man@n,witen@v1%pr_3,wel@adv,that@conj,a@indef_art,king@n%gen,feste@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,10,Ech,man,wot,wel,that,eche,kinges,feeste
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,10,u,S,u,S,u,Su,Su,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 299,DIFF,,10,ech@pron_gram_adj,man@n,witen@v1%pr_3,wel@adv,that@conj,,king@n%gen,feste@n
@@ -2345,7 +2345,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 At after-soper gooth this noble kyng,||,¶At after° soper gooth this noble king
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,At,aftersoper,gooth,this,noble,kyng
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,u,SuSu,S,u,Su,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,at@prep,,sopere@n1,gon@v%pr_3,this@gram_adj,noble@adj,king@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,at@prep,after-soper@n,gon@v%pr_3,this@gram_adj,noble@adj,king@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,At,after,soper,gooth,this,noble,king
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,u,Su,Su,S,u,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 302,DIFF,,10,at@prep,,sopere@n1,gon@v%pr_3,this@gram_adj,noble@adj,king@n
@@ -2353,7 +2353,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "To seen this hors of bras, with al a route",||,"To seen this hors of bras, with al the route°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,To,seen,this,hors,of,bras,with,al,a,route
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,to@part,sen@v1%inf,this@gram_adj,hors@n,of@prep,bras@n,with@prep,al@gram_adj,,route@n1
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,to@part,sen@v1%inf,this@gram_adj,hors@n,of@prep,bras@n,with@prep,al@gram_adj,a@indef_art,route@n1
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,To,seen,this,hors,of,bras,with,al,the,route
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 303,DIFF,,10,to@part,sen@v1%inf,this@gram_adj,hors@n,of@prep,bras@n,with@prep,al@gram_adj,,route@n1
@@ -2465,7 +2465,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Which I shal yow telle bitwix us two.,||,Which I shall telle yow bitwix us two.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,9,Which,I,shal,yow,telle,bitwix,us,two
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,9,S,u,S,u,Sx,uS,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,9,which@pron,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,you@pron%pl_obj,bitwixe@prep,us@pron%pl_obj,two@num_adj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,9,which@pron,ich@pron%nom,shulen@v1%pr_1,you@pron%pl_obj,tellen@v%inf,bitwixe@prep,us@pron%pl_obj,two@num_adj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,10,Which,I,shall,telle,yow,bitwix,us,two
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,10,u,S,u,Su,S,uS,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 317,DIFF,green,10,which@pron,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,you@pron%pl_obj,bitwixe@prep,us@pron%pl_obj,two@num_adj
@@ -2633,7 +2633,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Ful glad and blithe, this noble doughty kyng",||,"Thus glad and blithe, this noble doughty° king"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,Ful,glad,and,blithe,this,noble,doughty,kyng
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,u,S,u,Sx,u,Su,Su,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,this@gram_adj,glad@adj,and@conj,blithe@adj,,noble@adj,doughti@adj,king@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,ful@adv,glad@adj,and@conj,blithe@adj,this@gram_adj,noble@adj,doughti@adj,king@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,Thus,glad,and,blithe,this,noble,doughty,king
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,u,S,u,Sx,u,Su,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 338,DIFF,,10,this@gram_adj,glad@adj,and@conj,blithe@adj,,noble@adj,doughti@adj,king@n
@@ -2657,7 +2657,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And kept among his jueles leeve and deere.,||,And kept among his jewels° leve° and dere.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,And,kept,among,his,jueles,leeve,and,deere
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,u,S,uS,u,Su,Sx,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,and@conj,kepen@v%ppl,amonges@prep,his@pron1%gen,,lef@adj,and@conj,dere@adj1
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,and@conj,kepen@v%ppl,amonges@prep,his@pron1%gen,jeuel@n%pl,lef@adj,and@conj,dere@adj1
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,And,kept,among,his,jewels,leve,and,dere
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,u,S,uS,u,Su,Sx,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 341,DIFF,,10,and@conj,kepen@v%ppl,amonges@prep,his@pron1%gen,,lef@adj,and@conj,dere@adj1
@@ -2689,7 +2689,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 This Cambyuskan his lordes festeiynge,||,"This Cambinskan his lordes festeyinge,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,9,This,Cambyuskan,his,lordes,festeiynge
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,9,S,uSu,S,uS,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,9,this@gram_adj,,his@pron1%gen,lord@n%pl,festen@v%prp_abs
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,9,this@gram_adj,cambiuskan@n#propn,his@pron1%gen,lord@n%pl,festen@v%prp_abs
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,10,This,Cambinskan,his,lordes,festeyinge
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,10,u,SuS,u,Su,SuSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 345,DIFF,,10,this@gram_adj,,his@pron1%gen,lord@n%pl,festen@v%prp_abs
@@ -2753,7 +2753,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 """Cherisseth blood, natures freend,"" quod he.",||,"“Cherissheth blood, natures freend,” quod he."
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,Cherisseth,blood,natures,freend,quod,he
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,uSu,S,uSu,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,,blod@n1,nature@n%gen,frend@n,quethen@v%pt_3,he@pron1%nom
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,cherishen@v%imp,blod@n1,nature@n%gen,frend@n,quethen@v%pt_3,he@pron1%nom
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,Cherissheth,blood,natures,freend,quod,he
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,uSu,S,uSu,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 353,DIFF,,10,,blod@n1,nature@n%gen,frend@n,quethen@v%pt_3,he@pron1%nom
@@ -2785,7 +2785,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Hire dremes shul nat now been toold for me;,||,Hir dremes shul nat been ytold for° me;
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,Hire,dremes,shul,nat,now,been,toold,for,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,ux,Su,S,u,S,u,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,here@pron%pl_gen,drem@n2%pl,shulen@v1%pr_pl,not@adv,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,here@pron%pl_gen,drem@n2%pl,shulen@v1%pr_pl,not@adv,nou@adv,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,Hir,dremes,shul,nat,been,ytold,for,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,u,Su,S,u,S,uS,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 357,DIFF,green,10,here@pron%pl_gen,drem@n2%pl,shulen@v1%pr_pl,not@adv,ben@v%inf,tellen@v%ppl,for@prep,me@pron2%obj
@@ -2857,7 +2857,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Ne on the morwe unfeestlich for to se,",||,Nor on the morwe unfestlich° for to see;°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,Ne,on,the,morwe,unfeestlich,for,to,se
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,u,S,u,Sx,uSu,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,nor@conj,ne@conj1,the@def_art,morwe@n,unfesteli@adj,for@prep#adv,to@part,sen@v1%inf
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,ne@conj1,on@prep,the@def_art,morwe@n,unfesteli@adj,for@prep#adv,to@part,sen@v1%inf
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,Nor,on,the,morwe,unfestlich,for,to,see
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,u,S,u,Sx,uSu,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 366,DIFF,green,10,nor@conj,ne@conj1,the@def_art,morwe@n,unfesteli@adj,for@prep#adv,to@part,sen@v1%inf
@@ -3017,7 +3017,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 That in the Ram is foure degrees up ronne --,||,That in the Ram° is four degrees upronne;°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,That,in,the,Ram,is,foure,degrees,up,ronne
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,u,S,u,S,u,Sx,uS,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,that@pron,in@prep,the@def_art,ram@n,ben@v%pr_3,four@num_adj,degre@n%pl,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,that@pron,in@prep,the@def_art,ram@n,ben@v%pr_3,four@num_adj,degre@n%pl,up@adv,rennen@v1%ppl,--@dash
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,That,in,the,Ram,is,four,degrees,upronne
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,u,S,u,S,u,S,uS,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 386,DIFF,,10,that@pron,in@prep,the@def_art,ram@n,ben@v%pr_3,four@num_adj,degre@n%pl,
@@ -3241,7 +3241,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Ybeten hadde she hirself so pitously,||,Ybeten hath she hirself so pitously
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,Ybeten,hadde,she,hirself,so,pitously
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,uSu,Sx,x,uS,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,beten@v1%ppl,haven@v%pr_3,she@pron%nom,hire-self@pron,so@adv,pitousli@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,beten@v1%ppl,haven@v%pt_3,she@pron%nom,hire-self@pron,so@adv,pitousli@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,Ybeten,hath,she,hirself,so,pitously
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,uSu,S,x,uS,u,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 414,DIFF,green,10,beten@v1%ppl,haven@v%pr_3,she@pron%nom,hire-self@pron,so@adv,pitousli@adv
@@ -3345,7 +3345,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Of shap, of al that myghte yrekened be.",||,"Of shap, and al that mighte yrekened° be."
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,Of,shap,of,al,that,myghte,yrekened,be
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,u,S,u,S,u,Sx,uSux,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,of@prep,shape@n,and@conj,al@gram_adjas_n,that@pron,mouen@v3%pt_3,rekenen@v%ppl,ben@v%inf
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,of@prep,shape@n,of@prep,al@gram_adjas_n,that@pron,mouen@v3%pt_3,rekenen@v%ppl,ben@v%inf
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,Of,shap,and,al,that,mighte,yrekened,be
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,u,S,u,S,u,Sx,uSux,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 427,DIFF,green,10,of@prep,shape@n,and@conj,al@gram_adjas_n,that@pron,mouen@v3%pt_3,rekenen@v%ppl,ben@v%inf
@@ -3417,7 +3417,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And koude answeren hym in his ledene ageyn,",||,"And coude answere him in his ledene agein,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,And,koude,answeren,hym,in,his,ledene,ageyn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,u,Sx,uSu,S,u,S,xxx,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,and@conj,connen@v%pt_3,,him@pron%obj,in@prep,his@pron1%gen,leden@n,ayen@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,and@conj,connen@v%pt_3,answeren@v%inf,him@pron%obj,in@prep,his@pron1%gen,leden@n,ayen@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,And,coude,answere,him,in,his,ledene,agein
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,u,Sx,uSx,u,S,u,Sxx,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 436,DIFF,,10,and@conj,connen@v%pt_3,,him@pron%obj,in@prep,his@pron1%gen,leden@n,ayen@adv
@@ -3433,7 +3433,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And wel neigh for the routhe almoost she deyde.,||,And wel neigh for the rewthe° almost she deide.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,And,wel,neigh,for,the,routhe,almoost,she,deyde
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,u,S,u,S,u,Sx,uS,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,and@conj,wel@adv,neigh@adv,for@prep,the@def_art,,al-most@adv,she@pron%nom,dien@v%pt_3
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,and@conj,wel@adv,neigh@adv,for@prep,the@def_art,reuthe@n,al-most@adv,she@pron%nom,dien@v%pt_3
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,And,wel,neigh,for,the,rewthe,almost,she,deide
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,u,S,u,S,u,Sx,uS,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 438,DIFF,,10,and@conj,wel@adv,neigh@adv,for@prep,the@def_art,,al-most@adv,she@pron%nom,dien@v%pt_3
@@ -3569,7 +3569,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Which proveth wel that outher ire or drede,||,"Which proveth wel, that either love or drede°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,Which,proveth,wel,that,outher,ire,or,drede
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,u,Su,S,u,Su,Sx,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,which@pron,preven@v%pr_3,wel@adv,that@conj,outher@conj,,ire@n,drede@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,which@pron,preven@v%pr_3,wel@adv,that@conj,outher@conj,ire@n,or@conj,drede@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,Which,proveth,wel,that,either,love,or,drede
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,u,Su,S,u,Su,Sx,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 455,DIFF,,10,which@pron,preven@v%pr_3,wel@adv,that@conj,outher@conj,,ire@n,drede@n
@@ -3609,7 +3609,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Ne saugh I nevere er now no bryd ne beest,||,Ne sey I never er now no brid° ne beest
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,Ne,saugh,I,nevere,er,now,no,bryd,ne,beest
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,u,S,u,Sxx,u,S,u,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,ne@adv,,ich@pron%nom,never@adv,er@prep,nou@n,no@conj1,brid@n,ne@conj1,beste@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,ne@adv,sen@v1%pt_1,ich@pron%nom,never@adv,er@prep,nou@n,no@conj1,brid@n,ne@conj1,beste@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,Ne,sey,I,never,er,now,no,brid,ne,beest
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,u,S,u,S,u,S,u,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 460,DIFF,,10,ne@adv,,ich@pron%nom,never@adv,er@prep,nou@n,no@conj1,brid@n,ne@conj1,beste@n
@@ -3673,7 +3673,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "I wolde amenden it er that it were nyght,",||,"I wolde amende° it, er that it were night,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,I,wolde,amenden,it,er,that,it,were,nyght
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,u,Sx,uSu,S,u,S,u,xx,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,ich@pron%nom,willen@v%pt_1,,hit@pron,er@conj1,that@part,hit@pron,ben@v%pt_3,night@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,ich@pron%nom,willen@v%pt_1,amenden@v%inf,hit@pron,er@conj1,that@part,hit@pron,ben@v%pt_3,night@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,I,wolde,amende,it,er,that,it,were,night
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,u,Sx,uSx,u,S,u,S,ux,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 468,DIFF,,10,ich@pron%nom,willen@v%pt_1,,hit@pron,er@conj1,that@part,hit@pron,ben@v%pt_3,night@n
@@ -3705,7 +3705,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Tho shrighte this faucon yet moore pitously,||,¶Tho shright° this faucon more pitously°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,Tho,shrighte,this,faucon,yet,moore,pitously
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,u,Sx,u,Su,S,ux,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,tho@adv,skriken@v%pt_3,this@gram_adj,faucoun@n,more@adv%comp,pitousli@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,tho@adv,skriken@v%pt_3,this@gram_adj,faucoun@n,yet@adv,more@adv%comp,pitousli@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,Tho,shright,this,faucon,more,pitously
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,u,S,u,Su,Su,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 472,DIFF,green,10,tho@adv,skriken@v%pt_3,this@gram_adj,faucoun@n,more@adv%comp,pitousli@adv
@@ -3849,7 +3849,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And for to maken othere be war by me,",||,"And for to maken othere ywar by° me,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,And,for,to,maken,othere,be,war,by,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,u,S,u,Su,Sux,S,u,S,x
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,and@conj,for@prep#adv,to@part,maken@v1%inf,other@pron,ware@adj,bi@prep,me@pron2%obj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,and@conj,for@prep#adv,to@part,maken@v1%inf,other@pron,ben@v%inf,ware@adj,bi@prep,me@pron2%obj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,And,for,to,maken,othere,ywar,by,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,u,S,u,Su,Sux,Su,S,x
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 490,DIFF,green,10,and@conj,for@prep#adv,to@part,maken@v1%inf,other@pron,ware@adj,bi@prep,me@pron2%obj
@@ -3921,7 +3921,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 """Ther I was bred -- allas, that ilke day! --",||,“Ther° I was bred (allas! that harde day!)
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,Ther,I,was,bred,allas,that,ilke,day
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,u,S,u,S,uS,u,Su,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,ther@adv,ich@pron%nom,ben@v%pt_1,breden@v3%ppl,--@dash,alas@interj,,ilke@pron_gram_adj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,ther@adv,ich@pron%nom,ben@v%pt_1,breden@v3%ppl,--@dash,alas@interj,that@art&gram_adj,ilke@pron_gram_adj,dai@n,--@dash
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,Ther,I,was,bred,allas,that,harde,day
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,u,S,u,S,uS,u,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 499,DIFF,,10,ther@adv,ich@pron%nom,ben@v%pt_1,breden@v3%ppl,--@dash,alas@interj,,ilke@pron_gram_adj
@@ -3937,7 +3937,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "So tendrely that no thyng eyled me,",||,"So tendrely, that nothing eiled° me,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,So,tendrely,that,no,thyng,eyled,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,u,SuS,u,S,u,Su,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,so@adv,tenderli@adv,that@conj,,eilen@v%pt_3,me@pron2%obj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,so@adv,tenderli@adv,that@conj,no@gram_adj,thing@n,eilen@v%pt_3,me@pron2%obj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,So,tendrely,that,nothing,eiled,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,u,SuS,u,Su,Su,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 501,DIFF,,10,so@adv,tenderli@adv,that@conj,,eilen@v%pt_3,me@pron2%obj
@@ -4041,7 +4041,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 Right so this god of loves ypocryte,||,"Right so this God of love, this ypocrite,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,Right,so,this,god,of,loves,ypocryte
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,u,S,u,S,u,Su,SuSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,righte@adv,so@adv,this@gram_adj,god@n1,of@prep,,,ipocrite@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,righte@adv,so@adv,this@gram_adj,god@n1,of@prep,love@n1%gen,ipocrite@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,Right,so,this,God,of,love,this,ypocrite
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,u,S,u,S,u,Sx,u,SuSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 514,DIFF,,10,righte@adv,so@adv,this@gram_adj,god@n1,of@prep,,,ipocrite@n
@@ -4065,7 +4065,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 That sownen into gentillesse of love.,||,That sowneth into° gentillesse of love.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,That,sownen,into,gentillesse,of,love
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,u,Su,Su,SuSx,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,that@pron,,in-to@prep,gentilesse@n,of@prep,love@n1
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,that@pron,sounen@v%pr_pl,in-to@prep,gentilesse@n,of@prep,love@n1
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,That,sowneth,into,gentillesse,of,love
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,u,Su,Su,SuSx,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 517,DIFF,,10,that@pron,,in-to@prep,gentilesse@n,of@prep,love@n1
@@ -4161,7 +4161,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Graunted hym love, upon this condicioun,",||,"Graunted him love, on this condicioun,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,Graunted,hym,love,upon,this,condicioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,ux,S,ux,Su,S,uSuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,graunten@v%pt_3,him@pron%obj,love@n1,,this@gram_adj,condicioun@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,graunten@v%pt_3,him@pron%obj,love@n1,upon@prep,this@gram_adj,condicioun@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,Graunted,him,love,on,this,condicioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,uS,u,Sx,u,S,uSuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 529,DIFF,,10,graunten@v%pt_3,him@pron%obj,love@n1,,this@gram_adj,condicioun@n
@@ -4209,7 +4209,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And took his herte in chaunge of myn for ay.,||,And took his herte in chaunge° for min for ay.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,And,took,his,herte,in,chaunge,of,myn,for,ay
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,u,S,u,Sx,u,Sx,u,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,and@conj,taken@v%pt_3,his@pron1%gen,herte@n,in@prep,chaunge@n,for@prep,min@pron%gen,,ai@adv
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,and@conj,taken@v%pt_3,his@pron1%gen,herte@n,in@prep,chaunge@n,of@prep,min@pron%gen,for@prep,ai@adv
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,And,took,his,herte,in,chaunge,for,min,for,ay
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,u,S,u,Sx,u,Sx,u,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 535,DIFF,,10,and@conj,taken@v%pt_3,his@pron1%gen,herte@n,in@prep,chaunge@n,for@prep,min@pron%gen,,ai@adv
@@ -4265,7 +4265,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "As he swoor he yaf his herte to me,",||,As he swoor he his herte yaf to me;
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,9,As,he,swoor,he,yaf,his,herte,to,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,9,S,u,S,u,S,u,Sx,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,9,as@conj,he@pron1%nom,sweren@v%pt_3,he@pron1%nom,his@pron1%gen,herte@n,yeven@v%pt_3,to@prep,me@pron2%obj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,9,as@conj,he@pron1%nom,sweren@v%pt_3,he@pron1%nom,yeven@v%pt_3,his@pron1%gen,herte@n,to@prep,me@pron2%obj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,10,As,he,swoor,he,his,herte,yaf,to,me
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,10,u,S,u,S,u,Su,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 542,DIFF,green,10,as@conj,he@pron1%nom,sweren@v%pt_3,he@pron1%nom,his@pron1%gen,herte@n,yeven@v%pt_3,to@prep,me@pron2%obj
@@ -4369,7 +4369,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Ne were worthy unbokelen his galoche,",||,"Ne were worthy unbokele° his galoche,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,Ne,were,worthy,unbokelen,his,galoche
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,u,Sx,uS,uSux,S,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,ne@conj1,ben@v%pt_3,worthi@adj,,his@pron1%gen,galoche@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,ne@conj1,ben@v%pt_3,worthi@adj,unbokelen@v%inf,his@pron1%gen,galoche@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,Ne,were,worthy,unbokele,his,galoche
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,u,Sx,uS,uSux,S,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 555,DIFF,,10,ne@conj1,ben@v%pt_3,worthi@adj,,his@pron1%gen,galoche@n
@@ -4409,7 +4409,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 So peynted he and kembde at point-devys,||,So peinted° he and kembde° at point devis°
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,So,peynted,he,and,kembde,at,pointdevys
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,u,Su,S,u,Sx,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,so@adv,peinten@v%pt_3,he@pron1%nom,and@conj,kemben@v%pt_3,at@prep,pointe@n1,devis@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,so@adv,peinten@v%pt_3,he@pron1%nom,and@conj,kemben@v%pt_3,at@prep,point-devis@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,So,peinted,he,and,kembde,at,point,devis
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,u,Su,S,u,Sx,u,S,uS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 560,DIFF,green,10,so@adv,peinten@v%pt_3,he@pron1%nom,and@conj,kemben@v%pt_3,at@prep,pointe@n1,devis@n
@@ -4569,7 +4569,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 I kan nat make of it discripsioun.,||,I can nat make of it discripcioun;
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,I,kan,nat,make,of,it,discripsioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,u,S,u,Sx,u,S,uSuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,ich@pron%nom,connen@v%pr_1,not@adv,maken@v1%inf,of@prep,hit@pron,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,ich@pron%nom,connen@v%pr_1,not@adv,maken@v1%inf,of@prep,hit@pron,descripcioun@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,I,can,nat,make,of,it,discripcioun
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,u,S,u,Sx,u,S,uSuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 580,DIFF,,10,ich@pron%nom,connen@v%pr_1,not@adv,maken@v1%inf,of@prep,hit@pron,
@@ -4745,7 +4745,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 `Therfore bihoveth hire a ful long spoon,||,‘Therfor bihoveth him° a ful long spoon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,Therfore,bihoveth,hire,a,ful,long,spoon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,uSx,uSu,Sx,u,S,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,ther-fore@adv,bihoven@v%pr_3,him@pron%obj,a@indef_art,ful@adv,long@adj1,spon@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,ther-fore@adv,bihoven@v%pr_3,hire@pron2%fem_obj,a@indef_art,ful@adv,long@adj1,spon@n
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,Therfor,bihoveth,him,a,ful,long,spoon
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,uS,uSu,S,u,S,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 602,DIFF,green,10,ther-fore@adv,bihoven@v%pr_3,him@pron%obj,a@indef_art,ful@adv,long@adj1,spon@n
@@ -4913,7 +4913,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And goodlich for to seen, and humble and free,",||,"And goodly for to seen, and humble and free,°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,And,goodlich,for,to,seen,and,humble,and,free
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,u,Su,S,u,S,u,Sx,u,S
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,and@conj,,for@prep#adv,to@part,sen@v1%inf,and@conj,humble@adj,and@conj,fre@adj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,and@conj,godli@adj2,for@prep#adv,to@part,sen@v1%inf,and@conj,humble@adj,and@conj,fre@adj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,And,goodly,for,to,seen,and,humble,and,free
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,u,Su,S,u,S,u,Sx,u,S
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 623,DIFF,,10,and@conj,,for@prep#adv,to@part,sen@v1%inf,and@conj,humble@adj,and@conj,fre@adj
@@ -5081,7 +5081,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "And covered it with veluettes blewe,",||,"And covered it with velvettes° blewe,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,And,covered,it,with,veluettes,blewe
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,u,SuS,u,S,uSu,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,and@conj,coveren@v1%pt_3,hit@pron,with@prep,,bleu@adj
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,and@conj,coveren@v1%pt_3,hit@pron,with@prep,velvet@n%pl,bleu@adj
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,And,covered,it,with,velvettes,blewe
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,u,SuS,u,S,uSu,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 644,DIFF,,10,and@conj,coveren@v1%pt_3,hit@pron,with@prep,,bleu@adj
@@ -5113,7 +5113,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "As ben thise tidyves, tercelettes, and owles;",||,"As beth thise tidifs,° tercelets, and oules,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,As,ben,thise,tidyves,tercelettes,and,owles
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,u,S,ux,Sux,SuSx,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,as@conj,ben@v%imp,these@gram_adj%pl,,tercelet@n%pl,and@conj,oule@n%pl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,as@conj,ben@v%pr_pl,these@gram_adj%pl,tidif@n%pl,tercelet@n%pl,and@conj,oule@n%pl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,As,beth,thise,tidifs,tercelets,and,oules
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,u,S,ux,Su,SuS,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 648,DIFF,,10,as@conj,ben@v%imp,these@gram_adj%pl,,tercelet@n%pl,and@conj,oule@n%pl
@@ -5121,7 +5121,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Right for despit were peynted hem bisyde,",||,"And pyes,° on hem for to crie and chide.°"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,Right,for,despit,were,peynted,hem,bisyde
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,u,S,uS,ux,Su,S,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,and@conj,,,hem@pron%pl_obj,for@prep,,,and@conj,chiden@v%inf
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,righte@adv,for@prep,despit@n,ben@v%pt_pl,peinten@v%ppl,hem@pron%pl_obj,bisides@prep
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,And,pyes,on,hem,for,to,crie,and,chide
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 649,DIFF,,10,and@conj,,,hem@pron%pl_obj,for@prep,,,and@conj,chiden@v%inf
@@ -5129,7 +5129,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "Pyes, on hem for to crie and chyde.",||,Right for despit were peinted hem biside.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,9,Pyes,on,hem,for,to,crie,and,chyde
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,9,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,9,,for@prep#adv,despit@n,,,hem@pron%pl_obj,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,9,pie@n1%pl,on@prep,hem@pron%pl_obj,for@prep#adv,to@part,crien@v%inf,and@conj,chiden@v%inf
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,10,Right,for,despit,were,peinted,hem,biside
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,10,u,S,uS,ux,Su,S,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 650,DIFF,,10,,for@prep#adv,despit@n,,,hem@pron%pl_obj,
@@ -5201,7 +5201,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 To speken of aventures and of batailles,||,"To speke of aventures and of batailles,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,To,speken,of,aventures,and,of,batailles
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,u,Sx,u,SuSx,u,S,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,to@part,,of@prep,aventure@n%pl,and@conj,of@prep,bataille@n%pl
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,to@part,speken@v%inf,of@prep,aventure@n%pl,and@conj,of@prep,bataille@n%pl
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,To,speke,of,aventures,and,of,batailles
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,u,Sx,u,SuSx,u,S,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 659,DIFF,,10,to@part,,of@prep,aventure@n%pl,and@conj,of@prep,bataille@n%pl
@@ -5217,7 +5217,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 "First wol I telle yow of Cambyuskan,",||,"First wol I telle yow of Cambinskan,"
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,First,wol,I,telle,yow,of,Cambyuskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,u,S,u,Su,S,u,SuS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,first@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,you@pron%pl_obj,of@prep,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,first@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,you@pron%pl_obj,of@prep,cambiuskan@n#propn
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,First,wol,I,telle,yow,of,Cambinskan
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,u,S,u,Su,S,u,SuS
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 661,DIFF,,10,first@adv,willen@v%pr_1,ich@pron%nom,tellen@v%inf,you@pron%pl_obj,of@prep,
@@ -5289,7 +5289,7 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 And ther I lefte I wol ayeyn bigynne.,||,And ther° I lefte° I wol agein biginne.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,And,ther,I,lefte,I,wol,ayeyn,bigynne
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,u,S,u,Sx,u,S,uS,uSx
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,and@conj,ther@adv,ich@pron%nom,leven@v1%pt_1,ich@pron%nom,willen@v%pr_1,,biginnen@v%inf
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,and@conj,ther@adv,ich@pron%nom,leven@v1%pt_1,ich@pron%nom,willen@v%pr_1,ayen@adv,biginnen@v%inf
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,And,ther,I,lefte,I,wol,agein,biginne
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,u,S,u,Sx,u,S,uS,uSx
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 670,DIFF,,10,and@conj,ther@adv,ich@pron%nom,leven@v1%pt_1,ich@pron%nom,willen@v%pr_1,,biginnen@v%inf

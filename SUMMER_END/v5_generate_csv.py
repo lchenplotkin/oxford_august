@@ -195,6 +195,10 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 	with open(oxford_file, 'r', encoding='utf-8') as oxford:
 		oxford_lines = [line.rstrip('\n') for line in oxford if line.strip()!='']
 
+
+	
+
+
 	with open(output_csv, 'w', newline='') as csvfile:
 		writer = csv.writer(csvfile)
 		for cat_line, ox_line in zip(cat_lines, oxford_lines):
@@ -202,15 +206,14 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 			line_num = numbering
 			og_riv_line = riv_line
 			og_ox_line = ox_line
-
-			row = [og_riv_line, "||", og_ox_line]
-			writer.writerow(row)
-
 			riv_line = ''.join(ch for ch in riv_line if ch in string.ascii_letters + ' \n')
 			ox_line = ''.join(ch for ch in ox_line if ch in string.ascii_letters + ' \n')
 			ox_words = ox_line.split()
 			riv_words = riv_line.split()
 			tags = extract_tags(cat_line)
+
+			row = [og_riv_line, "||", og_ox_line]
+			writer.writerow(row)
 
 			if normalize(ox_line) == normalize(riv_line):
 				matched = ''
@@ -222,6 +225,9 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 				# Check if the only difference is naught/not
 				if check_naught_not_only_diff(riv_words, ox_words, riv_line, ox_line):
 					flag = 'green'
+			
+			
+
 			# Oxford tags
 			if flag!="green":
 				flag = "yellow"
@@ -301,7 +307,13 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 				flag = "green"
 
 
-			
+						
+			riv_line = ''.join(ch for ch in riv_line if ch in string.ascii_letters + ' \n')
+			#ox_line = ''.join(ch for ch in ox_line if ch in string.ascii_letters + ' \n')
+			#ox_words = ox_line.split()
+			riv_words = riv_line.split()
+			tags_riv = extract_tags(cat_line)
+
 			# Riverside words
 			stresses, num_sybs = scan(riv_line, target)
 			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
@@ -315,7 +327,7 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 
 			# Riverside tags
 			row = [riverside_file, oxford_file, output_csv[:-4], line_num, matched, flag, num_sybs]
-			row.extend(tag.strip("{}*") for tag in tags)
+			row.extend(tag.strip("{}*") for tag in tags_riv)
 			writer.writerow(row)
 
 			# Oxford words

@@ -169,7 +169,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 I blame hym thus: that he considered noght,||,"I blame him thus, that he considereth noght"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,I,blame,hym,thus,that,he,considered,noght
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,u,Sx,u,S,u,S,uSux,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,ich@pron%nom,blamen@v%pr_1,him@pron%obj,thus@adv,that@conj,he@pron1%nom,,nought@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,ich@pron%nom,blamen@v%pr_1,him@pron%obj,thus@adv,that@conj,he@pron1%nom,consideren@v%pt_3,nought@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,I,blame,him,thus,that,he,considereth,noght
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,u,Sx,u,S,u,S,uSux,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 78,DIFF,,10,ich@pron%nom,blamen@v%pr_1,him@pron%obj,thus@adv,that@conj,he@pron1%nom,,nought@adv
@@ -313,7 +313,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Accepteth, lord, now of youre gentillesse",||,"Accepteth, lord, now for your gentillesse,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,Accepteth,lord,now,of,youre,gentillesse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,uSu,S,u,S,ux,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,accepten@v%imp,lord@n,nou@adv,,your@pron%pl_gen,gentilesse@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,accepten@v%imp,lord@n,nou@adv,of@prep,your@pron%pl_gen,gentilesse@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,Accepteth,lord,now,for,your,gentillesse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,uSu,S,u,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 96,DIFF,,10,accepten@v%imp,lord@n,nou@adv,,your@pron%pl_gen,gentilesse@n
@@ -537,7 +537,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 And al so certein as we knowe echoon,||,And also certein as we knowe echoon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,And,al,so,certein,as,we,knowe,echoon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,u,S,u,Su,S,u,Sx,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,and@conj,,certain@adv,so@adv,we@pron%pl_nom,knouen@v%pr_pl,ech_on@pron
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,and@conj,al@adv,so@adv,certain@adv,as@conj,we@pron%pl_nom,knouen@v%pr_pl,ech_on@pron
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,And,also,certein,as,we,knowe,echoon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,u,Su,Su,S,u,Sx,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 124,DIFF,,10,and@conj,,certain@adv,so@adv,we@pron%pl_nom,knouen@v%pr_pl,ech_on@pron
@@ -641,7 +641,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "That thurgh youre deeth youre lyne sholde slake,",||,"That thurgh your deeth your linage sholde slake,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,That,thurgh,youre,deeth,youre,lyne,sholde,slake
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,u,S,ux,S,ux,Su,Su,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,that@conj,thurgh@prep,your@pron%pl_gen,deth@n,your@pron%pl_gen,linage@n,shulen@v1%pt_3,slaken@v1%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,that@conj,thurgh@prep,your@pron%pl_gen,deth@n,your@pron%pl_gen,line@n1,shulen@v1%pt_3,slaken@v1%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,That,thurgh,your,deeth,your,linage,sholde,slake
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,u,S,u,S,u,Sux,Su,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 137,DIFF,green,10,that@conj,thurgh@prep,your@pron%pl_gen,deth@n,your@pron%pl_gen,linage@n,shulen@v1%pt_3,slaken@v1%inf
@@ -761,7 +761,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 But ther as ye han profred me to-day,||,But theras ye han profred me today
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,But,ther,as,ye,han,profred,me,today
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,u,S,u,S,u,Su,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,but@conj,ther-as@adv,ye@pron%pl_nom,haven@v%pr_pl,profren@v%ppl,me@pron2%obj,to-dai@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,but@conj,ther@adv,as@conj,ye@pron%pl_nom,haven@v%pr_pl,profren@v%ppl,me@pron2%obj,to-dai@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,But,theras,ye,han,profred,me,today
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,u,Su,S,u,Su,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 152,DIFF,green,10,but@conj,ther-as@adv,ye@pron%pl_nom,haven@v%pr_pl,profren@v%ppl,me@pron2%obj,to-dai@adv
@@ -865,7 +865,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "What wyf that I take, ye me assure",||,"That what wif that I take, ye me assure"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,9,What,wyf,that,I,take,ye,me,assure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,9,S,u,S,u,Sx,u,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,9,that@pron,what@gram_adj,wif@n,,ich@pron%nom,taken@v%pr_1,ye@pron%pl_nom,me@pron2%obj,assuren@v%pr_pl
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,9,what@gram_adj,wif@n,that@pron,ich@pron%nom,taken@v%pr_1,ye@pron%pl_nom,me@pron2%obj,assuren@v%pr_pl
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,10,That,what,wif,that,I,take,ye,me,assure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,10,u,S,u,S,u,Sx,u,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 165,DIFF,,10,that@pron,what@gram_adj,wif@n,,ich@pron%nom,taken@v%pr_1,ye@pron%pl_nom,me@pron2%obj,assuren@v%pr_pl
@@ -1001,7 +1001,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 Lest that the markys no wyf wolde wedde.,||,Lest that this markis no wif wolde wedde.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,Lest,that,the,markys,no,wyf,wolde,wedde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,leste@conj,that@part,,markis@n,no@gram_adj,wif@n,willen@v%pt_3,wedden@v%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,leste@conj,that@part,the@def_art,markis@n,no@gram_adj,wif@n,willen@v%pt_3,wedden@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,Lest,that,this,markis,no,wif,wolde,wedde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,u,S,u,Su,S,u,Su,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 182,DIFF,,10,leste@conj,that@part,,markis@n,no@gram_adj,wif@n,willen@v%pt_3,wedden@v%inf
@@ -1129,7 +1129,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Wher as this markys shoop his mariage,",||,"Theras° this markis shoop° his mariage,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,Wher,as,this,markys,shoop,his,mariage
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,u,S,u,Su,S,u,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,ther-as@adv,this@gram_adj,markis@n,shapen@v%pt_3,his@pron1%gen,mariage@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,wher@adv&conj,as@conj,this@gram_adj,markis@n,shapen@v%pt_3,his@pron1%gen,mariage@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,Theras,this,markis,shoop,his,mariage
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,uS,u,Su,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 198,DIFF,green,10,ther-as@adv,this@gram_adj,markis@n,shapen@v%pt_3,his@pron1%gen,mariage@n
@@ -1193,7 +1193,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 But hye God somtyme senden kan,||,But hye God som time senden can
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,But,hye,God,somtyme,senden,kan
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,S,u,S,uSu,Su,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,but@conj,heigh@adj,god@n1#propn,,time@n,senden@v2%inf,connen@v%pr_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,but@conj,heigh@adj,god@n1#propn,som-time@adv,senden@v2%inf,connen@v%pr_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,But,hye,God,som,time,senden,can
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,S,u,S,u,Su,Su,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 206,DIFF,,9,but@conj,heigh@adj,god@n1#propn,,time@n,senden@v2%inf,connen@v%pr_3
@@ -1665,7 +1665,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Ther maystow seen, of deyntevous vitaille",||,"Ther maystow seen of deinteuous vitaille,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,Ther,maystow,seen,of,deyntevous,vitaille
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,u,Su,S,u,SuS,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,ther@adv,mouen@v3%pr_2_pron,sen@v1%inf,of@prep,,vitaile@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,ther@adv,mouen@v3%pr_2_pron,sen@v1%inf,of@prep,deintevous@adj,vitaile@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,Ther,maystow,seen,of,deinteuous,vitaille
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,u,Su,S,u,SuS,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 265,DIFF,,10,ther@adv,mouen@v3%pr_2_pron,sen@v1%inf,of@prep,,vitaile@n
@@ -1697,7 +1697,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "The whiche that to the feeste weren yprayed,",||,"The whiche unto the feste were yprayed,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,The,whiche,that,to,the,feeste,weren,yprayed
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,u,Sx,u,S,u,Sx,ux,SuS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,the@def_art,which@pron,,the@def_art,feste@n,,ipreien@v%ppl
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,the@def_art,which@pron,that@pron,to@prep,the@def_art,feste@n,ben@v%pt_pl,ipreien@v%ppl
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,The,whiche,unto,the,feste,were,yprayed
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,u,Sx,uS,u,Sx,ux,SuS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 269,DIFF,,10,the@def_art,which@pron,,the@def_art,feste@n,,ipreien@v%ppl
@@ -1865,7 +1865,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And she set doun hir water pot anon,",||,And she sette doun hir water-pot anoon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,And,she,set,doun,hir,water,pot,anon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,u,S,u,S,u,Su,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,and@conj,she@pron%nom,setten@v%pt_3,doun@adv,hire@pron1%fem_gen,,an-on@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,and@conj,she@pron%nom,setten@v%pt_3,doun@adv,hire@pron1%fem_gen,water@n,pote@n1,an-on@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,And,she,sette,doun,hir,waterpot,anoon
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,u,x,Su,S,u,SuS,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 290,DIFF,,10,and@conj,she@pron%nom,setten@v%pt_3,doun@adv,hire@pron1%fem_gen,,an-on@adv
@@ -1921,7 +1921,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """Where is youre fader, O Grisildis?"" he sayde.",||,"“Wher is your fader, Grisildis?” he saide,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,Where,is,youre,fader,O,Grisildis,he,sayde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,ux,S,ux,Sx,u,SuS,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,wher@adv&conj,ben@v%pr_3,your@pron%pl_gen,fader@n,grisilde@n#propn,he@pron1%nom,seien@v1%pt_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,wher@adv&conj,ben@v%pr_3,your@pron%pl_gen,fader@n,o@interj,grisilde@n#propn,he@pron1%nom,seien@v1%pt_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,Wher,is,your,fader,Grisildis,he,saide
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,u,S,u,Su,SuS,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 297,DIFF,green,10,wher@adv&conj,ben@v%pr_3,your@pron%pl_gen,fader@n,grisilde@n#propn,he@pron1%nom,seien@v1%pt_3
@@ -1993,7 +1993,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "If that thou vouche sauf, what so bityde,",||,"If that thou vouche-sauf, whatso° bitide,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,If,that,thou,vouche,sauf,what,so,bityde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,u,S,u,Su,S,u,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,if@conj,that@part,thou@pron%nom,,,bitiden@v%pr_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,if@conj,that@part,thou@pron%nom,vouchen@v%pr_2,sauf@adv,what@pron,so@adv,bitiden@v%pr_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,If,that,thou,vouchesauf,whatso,bitide
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,u,S,u,SuS,uS,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 306,DIFF,,10,if@conj,that@part,thou@pron%nom,,,bitiden@v%pr_3
@@ -2273,7 +2273,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But shortly forth this matere for to chace,",||,"But shortly forth this tale for to chace,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,But,shortly,forth,this,matere,for,to,chace
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,u,Su,S,u,Sux,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,but@conj,shortli@adv,forth@adv,this@gram_adj,,for@prep#adv,to@part,chacen@v%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,but@conj,shortli@adv,forth@adv,this@gram_adj,matere@n,for@prep#adv,to@part,chacen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,But,shortly,forth,this,tale,for,to,chace
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,u,Su,S,u,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 341,DIFF,,10,but@conj,shortli@adv,forth@adv,this@gram_adj,,for@prep#adv,to@part,chacen@v%inf
@@ -2649,7 +2649,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Upon an hors, snow-whit and wel amblyng,",||,"Upon an hors, snow whit and wel ambling,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,Upon,an,hors,snowwhit,and,wel,amblyng
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,uS,u,S,uS,u,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,upon@prep,a@indef_art,hors@n,snou@n,,and@conj,wel@adv,amblen@v#adj%prp
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,upon@prep,a@indef_art,hors@n,snou-whit@adj,and@conj,wel@adv,amblen@v#adj%prp
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,Upon,an,hors,snow,whit,and,wel,ambling
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,uS,u,S,u,S,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 388,DIFF,,10,upon@prep,a@indef_art,hors@n,snou@n,,and@conj,wel@adv,amblen@v#adj%prp
@@ -2737,7 +2737,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 But norissed in an emperoures halle.,||,But norished° in an emperoures halle.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,But,norissed,in,an,emperoures,halle
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,u,SuS,u,S,uSux,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,but@conj,,in@prep,a@indef_art,emperour@n%gen,halle@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,but@conj,norishen@v%ppl,in@prep,a@indef_art,emperour@n%gen,halle@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,But,norished,in,an,emperoures,halle
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,u,SuS,u,S,uSux,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 399,DIFF,,10,but@conj,,in@prep,a@indef_art,emperour@n%gen,halle@n
@@ -2785,7 +2785,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "She doghter were, for, as by conjecture,",||,"She doghter nas, for, as by conjecture,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,She,doghter,were,for,as,by,conjecture
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,u,Su,Sx,u,S,u,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,she@pron%nom,doughter@n,,for@conj,as@conj,bi@prep,conjecture@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,she@pron%nom,doughter@n,ben@v%pt_3,for@conj,as@conj,bi@prep,conjecture@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,She,doghter,nas,for,as,by,conjecture
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,u,Su,S,u,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 405,DIFF,,10,she@pron%nom,doughter@n,,for@conj,as@conj,bi@prep,conjecture@n
@@ -3073,7 +3073,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 Peple to save and every wrong t' amende.,||,Peple to save and every wrong t’amende.°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,Peple,to,save,and,every,wrong,t,amende
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,ux,S,ux,S,uSu,S,,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,peple@n,to@part,saven@v%inf,and@conj,everi@pron_gram_adj,wrong@n2,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,peple@n,to@part,saven@v%inf,and@conj,everi@pron_gram_adj,wrong@n2,to@part,amenden@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,Peple,to,save,and,every,wrong,tamende
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,ux,S,ux,S,uSu,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 441,DIFF,,10,peple@n,to@part,saven@v%inf,and@conj,everi@pron_gram_adj,wrong@n2,
@@ -3177,7 +3177,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 This merveillous desir his wyf t' assaye;,||,"This merveillous° desir, his wif t’assaye,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,This,merveillous,desir,his,wyf,t,assaye
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,this@gram_adj,merveillous@adj,desir@n,his@pron1%gen,wif@n,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,this@gram_adj,merveillous@adj,desir@n,his@pron1%gen,wif@n,to@part,assaien@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,This,merveillous,desir,his,wif,tassaye
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,,,,,,
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 454,DIFF,,0,this@gram_adj,merveillous@adj,desir@n,his@pron1%gen,wif@n,
@@ -3185,7 +3185,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Nedelees, God woot, he thoghte hire for t' affraye.",||,"Needless, God woot,° he thoughte hir for t’affraie.°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,0,Nedelees,God,woot,he,thoghte,hire,for,t,affraye
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,0,,,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,0,nedeles@adv,god@n1#propn,witen@v1%pr_3,he@pron1%nom,thinken@v2%pt_3,hire@pron2%fem_obj,for@prep#adv,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,0,nedeles@adv,god@n1#propn,witen@v1%pr_3,he@pron1%nom,thinken@v2%pt_3,hire@pron2%fem_obj,for@prep#adv,to@part,affraien@v1%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,10,Needless,God,woot,he,thoughte,hir,for,taffraie
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,10,uS,u,S,u,Sx,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 455,DIFF,,10,nedeles@adv,god@n1#propn,witen@v1%pr_3,he@pron1%nom,thinken@v2%pt_3,hire@pron2%fem_obj,for@prep#adv,
@@ -3233,7 +3233,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "To assaye a wyf whan that it is no nede,",||,"T’assaye a wif whan that it is no nede,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,10,To,assaye,a,wyf,whan,that,it,is,no,nede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,10,u,Su,S,u,S,u,S,u,S,xx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,10,,a@indef_art,wif@n,whan@adv&conj,that@part,hit@pron,assaien@v%inf,no@gram_adj,nede@n1
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,10,to@part,assaien@v%inf,a@indef_art,wif@n,whan@adv&conj,that@part,hit@pron,ben@v%pr_3,no@gram_adj,nede@n1
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,9,Tassaye,a,wif,whan,that,it,is,no,nede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,9,Su,S,u,S,u,S,u,S,xx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 461,DIFF,,9,,a@indef_art,wif@n,whan@adv&conj,that@part,hit@pron,assaien@v%inf,no@gram_adj,nede@n1
@@ -3241,7 +3241,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 And putten hire in angwyssh and in drede.,||,And putten her in anguish and in drede.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,And,putten,hire,in,angwyssh,and,in,drede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,u,Su,Sx,u,Su,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,and@conj,putten@v%inf,hire@pron2%fem_obj,in@prep,,and@conj,in@prep,drede@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,and@conj,putten@v%inf,hire@pron2%fem_obj,in@prep,angwisshe@n,and@conj,in@prep,drede@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,And,putten,her,in,anguish,and,in,drede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,u,Su,S,u,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 462,DIFF,,10,and@conj,putten@v%inf,hire@pron2%fem_obj,in@prep,,and@conj,in@prep,drede@n
@@ -3385,7 +3385,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 Unto my gentils ye be no thyng so.,||,Unto my gentils° ye be nothing so;
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,Unto,my,gentils,ye,be,no,thyng,so
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,uS,u,Su,S,u,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,unto@prep,min@pron%gen,gentil@n%pl,ye@pron%pl_nom,ben@v%pr_pl,,so@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,unto@prep,min@pron%gen,gentil@n%pl,ye@pron%pl_nom,ben@v%pr_pl,no@gram_adj,thing@n,so@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,Unto,my,gentils,ye,be,nothing,so
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,uS,u,Su,S,u,Su,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 480,DIFF,,10,unto@prep,min@pron%gen,gentil@n%pl,ye@pron%pl_nom,ben@v%pr_pl,,so@adv
@@ -3841,7 +3841,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Grisildis moot al suffre and al consente,",||,Grisildis mot al suffren° and consente;
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,Grisildis,moot,al,suffre,and,al,consente
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,uSu,S,u,Sx,u,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,grisilde@n#propn,moten@v2%pr_3,al@gram_adjas_n,,and@conj,consenten@v%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,grisilde@n#propn,moten@v2%pr_3,al@gram_adjas_n,sufferen@v%inf,and@conj,al@gram_adjas_n,consenten@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,Grisildis,mot,al,suffren,and,consente
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,uSu,S,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 537,DIFF,,10,grisilde@n#propn,moten@v2%pr_3,al@gram_adjas_n,,and@conj,consenten@v%inf
@@ -3913,7 +3913,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 Conformynge hire to that the markys lyked.,||,Consenting hir to that the markis liked.°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,Conformynge,hire,to,that,the,markys,lyked
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,uSux,Sx,u,S,u,Su,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,,hire@pron2%fem_obj,to@prep,that@pron,the@def_art,markis@n,liken@v1%pt_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,conformen@v%prp_abs,hire@pron2%fem_obj,to@prep,that@pron,the@def_art,markis@n,liken@v1%pt_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,Consenting,hir,to,that,the,markis,liked
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,uSu,S,u,S,u,Su,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 546,DIFF,,10,,hire@pron2%fem_obj,to@prep,that@pron,the@def_art,markis@n,liken@v1%pt_3
@@ -3921,7 +3921,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But atte laste to speken she bigan,",||,"But atte laste speken she bigan,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,But,atte,laste,to,speken,she,bigan
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,u,Su,Sx,u,Su,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,but@conj,atte@prep,laste@adj#n%sup,speken@v%inf,she@pron%nom,biginnen@v%pt_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,but@conj,atte@prep,laste@adj#n%sup,to@part,speken@v%inf,she@pron%nom,biginnen@v%pt_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,But,atte,laste,speken,she,bigan
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,u,Su,Su,Su,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 547,DIFF,green,10,but@conj,atte@prep,laste@adj#n%sup,speken@v%inf,she@pron%nom,biginnen@v%pt_3
@@ -3961,7 +3961,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "With ful sad face, and gan the child to blisse,",||,"With ful sad face, and gan the child to kisse"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,With,ful,sad,face,and,gan,the,child,to,blisse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,u,S,u,Sx,u,S,u,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,with@prep,ful@adv,sad@adj,face@n,and@conj,ginnen@v%pt_3,the@def_art,child@n,to@part,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,with@prep,ful@adv,sad@adj,face@n,and@conj,ginnen@v%pt_3,the@def_art,child@n,to@part,blessen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,With,ful,sad,face,and,gan,the,child,to,kisse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,u,S,u,Sx,u,S,u,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 552,DIFF,,10,with@prep,ful@adv,sad@adj,face@n,and@conj,ginnen@v%pt_3,the@def_art,child@n,to@part,
@@ -3969,7 +3969,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And lulled it, and after gan it kisse.",||,"And lulled it, and after gan it blisse.°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,And,lulled,it,and,after,gan,it,kisse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,u,Su,S,u,Su,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,and@conj,lullen@v%pt_3,hit@pron,and@conj,after@adv,ginnen@v%pt_3,hit@pron,blisse@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,and@conj,lullen@v%pt_3,hit@pron,and@conj,after@adv,ginnen@v%pt_3,hit@pron,kissen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,And,lulled,it,and,after,gan,it,blisse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,u,Su,S,u,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 553,DIFF,green,10,and@conj,lullen@v%pt_3,hit@pron,and@conj,after@adv,ginnen@v%pt_3,hit@pron,blisse@n
@@ -3985,7 +3985,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """Fareweel my child! I shal thee nevere see.",||,"“Far weel, my child; I shal thee never see."
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,Fareweel,my,child,I,shal,thee,nevere,see
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,uSu,S,u,S,u,S,uxx,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,,,min@pron%gen,child@n,ich@pron%nom,shulen@v1%pr_1,the@pron2%obj,never@adv,sen@v1%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,farewel@interj,min@pron%gen,child@n,ich@pron%nom,shulen@v1%pr_1,the@pron2%obj,never@adv,sen@v1%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,Far,weel,my,child,I,shal,thee,never,see
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,u,S,u,S,u,S,u,Su,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 555,DIFF,,10,,,min@pron%gen,child@n,ich@pron%nom,shulen@v1%pr_1,the@pron2%obj,never@adv,sen@v1%inf
@@ -4041,7 +4041,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 It had been hard this reuthe for to se;,||,It had ben hard this rewthe° for to se;
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,It,had,been,hard,this,reuthe,for,to,se
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,hit@pron,haven@v%pt_3,,hard@adj,this@gram_adj,,for@prep#adv,to@part,sen@v1%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,hit@pron,haven@v%pt_3,ben@v%ppl,hard@adj,this@gram_adj,reuthe@n,for@prep#adv,to@part,sen@v1%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,It,had,ben,hard,this,rewthe,for,to,se
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,u,S,u,S,u,Su,S,u,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 562,DIFF,,10,hit@pron,haven@v%pt_3,,hard@adj,this@gram_adj,,for@prep#adv,to@part,sen@v1%inf
@@ -4177,7 +4177,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Somwhat this lord hadde routhe in his manere,",||,Somwhat this lord hath rewthe in his manere;
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,Somwhat,this,lord,hadde,routhe,in,his,manere
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,uS,u,S,ux,Sx,u,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,som-what@adv,this@gram_adj,lord@n,haven@v%pr_3,,in@prep,his@pron1%gen,manere@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,som-what@adv,this@gram_adj,lord@n,haven@v%pt_3,reuthe@n,in@prep,his@pron1%gen,manere@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,Somwhat,this,lord,hath,rewthe,in,his,manere
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,uS,u,S,u,Sx,u,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 579,DIFF,,10,som-what@adv,this@gram_adj,lord@n,haven@v%pr_3,,in@prep,his@pron1%gen,manere@n
@@ -4201,7 +4201,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 And bad this sergeant that he pryvely,||,And bad his sergeant that he prively
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,And,bad,this,sergeant,that,he,pryvely
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,and@conj,bidden@v%pt_3,his@pron1%gen,sergeaunt@n,that@conj,he@pron1%nom,privelie@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,and@conj,bidden@v%pt_3,this@gram_adj,sergeaunt@n,that@conj,he@pron1%nom,privelie@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,And,bad,his,sergeant,that,he,prively
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,,,,,,,
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 582,DIFF,green,0,and@conj,bidden@v%pt_3,his@pron1%gen,sergeaunt@n,that@conj,he@pron1%nom,privelie@adv
@@ -4209,7 +4209,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Sholde this child softe wynde and wrappe,",||,Shold this child ful softe° winde and wrappe°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,Sholde,this,child,softe,wynde,and,wrappe
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,Su,S,u,Su,Sx,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,shulen@v1%pt_3,this@gram_adj,child@n,,softe@adv,winden@v1%inf,and@conj,wrappen@v%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,shulen@v1%pt_3,this@gram_adj,child@n,softe@adv,winden@v1%inf,and@conj,wrappen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,Shold,this,child,ful,softe,winde,and,wrappe
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,S,u,S,u,Su,Sx,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 583,DIFF,,9,shulen@v1%pt_3,this@gram_adj,child@n,,softe@adv,winden@v1%inf,and@conj,wrappen@v%inf
@@ -4257,7 +4257,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But at Boloigne to his suster deere,",||,"But at Boloigne° he to his suster dere,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,But,at,Boloigne,to,his,suster,deere
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,u,S,uSu,S,u,Su,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,but@conj,at@prep,boloigne@n2#propn,he@pron1%nom,to@prep,his@pron1%gen,suster@n,dere@adj1
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,but@conj,at@prep,boloigne@n2#propn,to@prep,his@pron1%gen,suster@n,dere@adj1
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,But,at,Boloigne,he,to,his,suster,dere
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,u,S,uSx,u,S,u,Su,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 589,DIFF,green,10,but@conj,at@prep,boloigne@n2#propn,he@pron1%nom,to@prep,his@pron1%gen,suster@n,dere@adj1
@@ -5041,7 +5041,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "This markys wondred, evere lenger the moore,",||,This markis wondreth° ever lenger the more
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,This,markys,wondred,evere,lenger,the,moore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,u,Su,Su,Sux,Sx,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,this@gram_adj,markis@n,wondren@v%pr_3,ever@adv,lengere@adv%comp,the@adv,more@adv%comp
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,this@gram_adj,markis@n,wondren@v%pt_3,ever@adv,lengere@adv%comp,the@adv,more@adv%comp
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,This,markis,wondreth,ever,lenger,the,more
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,u,Su,Su,Su,Sx,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 687,DIFF,green,10,this@gram_adj,markis@n,wondren@v%pr_3,ever@adv,lengere@adv%comp,the@adv,more@adv%comp
@@ -5177,7 +5177,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But, right as they were bounden to that stake,",||,"But, right as° they were bounden to a stake,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,But,right,as,they,were,bounden,to,that,stake
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,u,S,u,S,ux,Su,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,but@conj,righte@adv,as@conj,thei@pron%pl_nom,ben@v%pt_pl,binden@v%ppl,to@prep,,stake@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,but@conj,righte@adv,as@conj,thei@pron%pl_nom,ben@v%pt_pl,binden@v%ppl,to@prep,that@art&gram_adj,stake@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,But,right,as,they,were,bounden,to,a,stake
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,u,S,u,S,ux,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 704,DIFF,,10,but@conj,righte@adv,as@conj,thei@pron%pl_nom,ben@v%pt_pl,binden@v%ppl,to@prep,,stake@n
@@ -5305,7 +5305,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "A wyf, as of hirself, nothing ne sholde",||,"A wif, as of hirself, no thing ne sholde"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,A,wyf,as,of,hirself,nothing,ne,sholde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,u,S,u,S,uS,uS,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,a@indef_art,wif@n,as@conj,of@prep,hire-self@pron,ne@adv,thing@n,,shulen@v1%pt_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,a@indef_art,wif@n,as@conj,of@prep,hire-self@pron,no-thing@adv,ne@adv,shulen@v1%pt_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,A,wif,as,of,hirself,no,thing,ne,sholde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,u,S,u,S,uS,u,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 720,DIFF,,10,a@indef_art,wif@n,as@conj,of@prep,hire-self@pron,ne@adv,thing@n,,shulen@v1%pt_3
@@ -5377,7 +5377,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "For which, where as his peple therbifore",||,"For which, wheras his peple therbifore"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,For,which,where,as,his,peple,therbifore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,u,S,ux,S,u,Su,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,for@prep,which@pron,wher-as@adv,his@pron1%gen,peple@n,ther-biforen@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,for@prep,which@pron,wher@adv&conj,as@conj,his@pron1%gen,peple@n,ther-biforen@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,For,which,wheras,his,peple,therbifore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,u,S,uS,u,Su,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 729,DIFF,green,10,for@prep,which@pron,wher-as@adv,his@pron1%gen,peple@n,ther-biforen@adv
@@ -5593,7 +5593,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "The adversitee of Fortune al t' endure,",||,Th’adversitee of fortune al t’endure.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,0,The,adversitee,of,Fortune,al,t,endure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,0,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,0,,of@prep,fortune@n#propn,al@gram_adj,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,0,the@def_art,adversite@n,of@prep,fortune@n#propn,al@gram_adj,to@part,enduren@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,10,Thadversitee,of,fortune,al,tendure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,10,uSuS,u,Sux,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 756,DIFF,,10,,of@prep,fortune@n#propn,al@gram_adj,
@@ -6033,7 +6033,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 With evene herte I rede yow t' endure,||,With evene° herte I rede° yow t’endure°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,With,evene,herte,I,rede,yow,t,endure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,u,Sux,Sx,u,Su,S,,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,with@prep,even@adj,herte@n,ich@pron%nom,reden@v1%pr_1,you@pron%pl_obj,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,with@prep,even@adj,herte@n,ich@pron%nom,reden@v1%pr_1,you@pron%pl_obj,to@part,enduren@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,With,evene,herte,I,rede,yow,tendure
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,u,Sux,Sx,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 811,DIFF,,10,with@prep,even@adj,herte@n,ich@pron%nom,reden@v1%pr_1,you@pron%pl_obj,
@@ -6049,7 +6049,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 And she agayn answerde in pacience:,||,"And she answerde again in pacience,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,And,she,agayn,answerde,in,pacience
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,u,S,uS,uSx,u,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,and@conj,she@pron%nom,answeren@v%pt_3,ayen@adv,in@prep,pacience@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,and@conj,she@pron%nom,ayen@adv,answeren@v%pt_3,in@prep,pacience@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,And,she,answerde,again,in,pacience
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,u,S,uSx,uS,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 813,DIFF,green,10,and@conj,she@pron%nom,answeren@v%pt_3,ayen@adv,in@prep,pacience@n
@@ -6177,7 +6177,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Where as I was noght worthy for to bee,",||,"Wheras I was noght worthy for to be,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,Where,as,I,was,noght,worthy,for,to,bee
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,ux,S,u,S,u,Su,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,wher-as@adv,ich@pron%nom,ben@v%pt_1,nought@adv,worthi@adj,for@prep#adv,to@part,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,wher@adv&conj,as@conj,ich@pron%nom,ben@v%pt_1,nought@adv,worthi@adj,for@prep#adv,to@part,ben@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,Wheras,I,was,noght,worthy,for,to,be
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,uS,u,S,u,Su,S,u,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 829,DIFF,,10,wher-as@adv,ich@pron%nom,ben@v%pt_1,nought@adv,worthi@adj,for@prep#adv,to@part,
@@ -6329,7 +6329,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """But ther as ye me profre swich dowaire",||,But theras ye me profre swich dowaire
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,But,ther,as,ye,me,profre,swich,dowaire
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,u,S,u,S,u,Su,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,but@conj,ther-as@adv,ye@pron%pl_nom,me@pron2%obj,profren@v%pr_pl,swich@gram_adj,douere@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,but@conj,ther@adv,as@conj,ye@pron%pl_nom,me@pron2%obj,profren@v%pr_pl,swich@gram_adj,douere@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,But,theras,ye,me,profre,swich,dowaire
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,u,Su,S,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 848,DIFF,green,10,but@conj,ther-as@adv,ye@pron%pl_nom,me@pron2%obj,profren@v%pr_pl,swich@gram_adj,douere@n
@@ -6345,7 +6345,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "It were my wrecched clothes, nothyng faire,",||,"It were my wrecched clothes, no thing faire,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,It,were,my,wrecched,clothes,nothyng,faire
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,u,Sx,u,Su,Su,Su,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,hit@pron,ben@v%pt_3,min@pron%gen,wrecched@adj,cloth@n%pl,,thing@n,fair@adj
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,hit@pron,ben@v%pt_3,min@pron%gen,wrecched@adj,cloth@n%pl,no-thing@adv,fair@adj
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,It,were,my,wrecched,clothes,no,thing,faire
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,u,Sx,u,Su,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 850,DIFF,,10,hit@pron,ben@v%pt_3,min@pron%gen,wrecched@adj,cloth@n%pl,,thing@n,fair@adj
@@ -6481,7 +6481,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And heere agayn your clothyng I restoore,",||,"And here again my clothing I restore,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,And,heere,agayn,your,clothyng,I,restoore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,u,Sx,uS,u,Su,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,and@conj,her@adv,ayen@adv,min@pron%gen,clothing@ger,ich@pron%nom,restoren@v%pr_1
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,and@conj,her@adv,ayen@adv,your@pron%pl_gen,clothing@ger,ich@pron%nom,restoren@v%pr_1
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,And,here,again,my,clothing,I,restore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,u,Sx,uS,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 867,DIFF,green,10,and@conj,her@adv,ayen@adv,min@pron%gen,clothing@ger,ich@pron%nom,restoren@v%pr_1
@@ -6489,7 +6489,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And eek your weddyng ryng, for everemore.",||,"And eek my wedding-ring, for evermore."
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,And,eek,your,weddyng,ryng,for,everemore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,u,S,u,Su,S,u,SxuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,and@conj,ek@adv,min@pron%gen,,for@prep,ever-mor@adv
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,and@conj,ek@adv,your@pron%pl_gen,weddinge@ger#adj,ring@n,for@prep,ever-mor@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,And,eek,my,weddingring,for,evermore
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,u,S,u,SuS,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 868,DIFF,,10,and@conj,ek@adv,min@pron%gen,,for@prep,ever-mor@adv
@@ -6497,7 +6497,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """The remenant of youre jueles redy be",||,The remenant of your jewels redy be
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,The,remenant,of,youre,jueles,redy,be
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,u,SuS,u,Sx,uS,xu,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,the@def_art,remenaunt@n,of@prep,your@pron%pl_gen,,redi@adj3,ben@v%pr_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,the@def_art,remenaunt@n,of@prep,your@pron%pl_gen,jeuel@n%pl,redi@adj3,ben@v%pr_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,The,remenant,of,your,jewels,redy,be
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,u,SuS,u,S,uS,xu,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 869,DIFF,,10,the@def_art,remenaunt@n,of@prep,your@pron%pl_gen,,redi@adj3,ben@v%pr_3
@@ -6665,7 +6665,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """The smok,"" quod he, ""that thou hast on thy bak,",||,"“The smok,” quod he, &apos;that thou hast on thy bak,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,10,The,smok,quod,he,that,thou,hast,on,thy,bak
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,10,the@def_art,smok@n,quethen@v%pt_3,he@pron1%nom,,thou@pron%nom,haven@v%pr_2,on@prep,thin@pron%gen,bak@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,10,the@def_art,smok@n,quethen@v%pt_3,he@pron1%nom,that@pron,thou@pron%nom,haven@v%pr_2,on@prep,thin@pron%gen,bak@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,0,The,smok,quod,he,aposthat,thou,hast,on,thy,bak
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,0,,,,,,,,,,
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 890,DIFF,,0,the@def_art,smok@n,quethen@v%pt_3,he@pron1%nom,,thou@pron%nom,haven@v%pr_2,on@prep,thin@pron%gen,bak@n
@@ -6689,7 +6689,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But wente his wey, for routhe and for pitee.",||,But wente his wey for rewthe and for pitee.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,But,wente,his,wey,for,routhe,and,for,pitee
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,u,Sx,u,S,u,Sx,u,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,but@conj,wenden@v%pt_3,his@pron1%gen,wei@n,for@prep,,and@conj,for@prep,pite@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,but@conj,wenden@v%pt_3,his@pron1%gen,wei@n,for@prep,reuthe@n,and@conj,for@prep,pite@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,But,wente,his,wey,for,rewthe,and,for,pitee
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,u,Sx,u,S,u,Sx,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 893,DIFF,,10,but@conj,wenden@v%pt_3,his@pron1%gen,wei@n,for@prep,,and@conj,for@prep,pite@n
@@ -6817,7 +6817,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "To his estaat so lowe for t' alighte,",||,"To his estaat so lowe for t’alighte,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,To,his,estaat,so,lowe,for,t,alighte
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,u,S,uS,u,Su,S,,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,to@prep,his@pron1%gen,estat@n,so@adv,loue@adv,for@prep#adv,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,to@prep,his@pron1%gen,estat@n,so@adv,loue@adv,for@prep#adv,to@part,alighten@v1%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,To,his,estaat,so,lowe,for,talighte
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,u,S,uS,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 909,DIFF,,10,to@prep,his@pron1%gen,estat@n,so@adv,loue@adv,for@prep#adv,
@@ -6833,7 +6833,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Agayns his doghter hastily goth he,",||,"Agains° his doghter hastilich goth he,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,Agayns,his,doghter,hastily,goth,he
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,uS,u,Su,SuS,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,ayenes@prep,his@pron1%gen,doughter@n,,gon@v%pr_3,he@pron1%nom
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,ayenes@prep,his@pron1%gen,doughter@n,hastilie@adv,gon@v%pr_3,he@pron1%nom
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,Agains,his,doghter,hastilich,goth,he
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,uS,u,Su,SuS,u,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 911,DIFF,,10,ayenes@prep,his@pron1%gen,doughter@n,,gon@v%pr_3,he@pron1%nom
@@ -6881,7 +6881,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 By dayes fele than at hire mariage.,||,By dayes fele° than hir mariage.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,By,dayes,fele,than,at,hire,mariage
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,u,Su,Sx,u,S,ux,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,bi@prep,dai@n%pl,fele@num_adj,than@conj,hire@pron1%fem_gen,mariage@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,bi@prep,dai@n%pl,fele@num_adj,than@conj,at@prep,hire@pron1%fem_gen,mariage@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,By,dayes,fele,than,hir,mariage
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,u,Su,Su,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 917,DIFF,green,10,bi@prep,dai@n%pl,fele@num_adj,than@conj,hire@pron1%fem_gen,mariage@n
@@ -7065,7 +7065,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Of which the fame up sprang to moore and lesse,",||,"Of which the fame upsprang to more and lesse,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,Of,which,the,fame,up,sprang,to,moore,and,lesse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,u,S,u,Sx,u,S,u,Sx,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,of@prep,which@pron,the@def_art,fame@n1,,to@prep,more@n3,and@conj,lesse@n2
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,of@prep,which@pron,the@def_art,fame@n1,up@adv,springen@v%pt_3,to@prep,more@n3,and@conj,lesse@n2
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,Of,which,the,fame,upsprang,to,more,and,lesse
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,u,S,u,Sx,uS,u,Sx,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 940,DIFF,,10,of@prep,which@pron,the@def_art,fame@n1,,to@prep,more@n3,and@conj,lesse@n2
@@ -7073,7 +7073,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And to the peples eres, alle and some,",||,And in the peples eres alle and some
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,And,to,the,peples,eres,alle,and,some
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,u,S,u,Su,Su,Sx,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,and@conj,,the@def_art,peple@n%gen,ere@n1%pl,al@gram_adjas_n,and@conj,som@pron
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,and@conj,to@prep,the@def_art,peple@n%gen,ere@n1%pl,al@gram_adjas_n,and@conj,som@pron
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,And,in,the,peples,eres,alle,and,some
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,u,S,u,Su,Su,Sx,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 941,DIFF,,10,and@conj,,the@def_art,peple@n%gen,ere@n1%pl,al@gram_adjas_n,and@conj,som@pron
@@ -7233,7 +7233,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 The chambres for t' arraye in ordinaunce,||,The chambres for t’arraye in ordinaunce°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,The,chambres,for,t,arraye,in,ordinaunce
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,the@def_art,chaumbre@n%pl,for@prep#adv,,in@prep,ordinaunce@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,the@def_art,chaumbre@n%pl,for@prep#adv,to@part,arraien@v%inf,in@prep,ordinaunce@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,The,chambres,for,tarraye,in,ordinaunce
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,,,,,,
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 961,DIFF,,0,the@def_art,chaumbre@n%pl,for@prep#adv,,in@prep,ordinaunce@n
@@ -7513,7 +7513,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 Ay undiscreet and chaungynge as a fane!,||,"Ay undiscreet° and chaunging as a vane,°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,Ay,undiscreet,and,chaungynge,as,a,fane
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,u,SuS,u,Sux,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,ai@adv,undiscrete@adj,and@conj,chaungen@v#adj%prp,as@conj,a@indef_art,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,ai@adv,undiscrete@adj,and@conj,chaungen@v#adj%prp,as@conj,a@indef_art,fane@n1
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,Ay,undiscreet,and,chaunging,as,a,vane
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,u,SuS,u,Su,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 996,DIFF,,10,ai@adv,undiscrete@adj,and@conj,chaungen@v#adj%prp,as@conj,a@indef_art,
@@ -7681,7 +7681,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And so konnyngly, everich in his degree,",||,"And conningly,° everich in his degree,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,And,so,konnyngly,everich,in,his,degree
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,u,S,uSx,uxS,u,S,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,and@conj,conningli@adv,everi@pron,in@prep,his@pron1%gen,degre@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,and@conj,so@adv,conningli@adv,everi@pron,in@prep,his@pron1%gen,degre@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,And,conningly,everich,in,his,degree
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,u,SuS,uxS,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1017,DIFF,green,10,and@conj,conningli@adv,everi@pron,in@prep,his@pron1%gen,degre@n
@@ -7809,7 +7809,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 A fairer saugh I nevere noon than she.,||,A fairer say° I never noon than she.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,A,fairer,saugh,I,nevere,noon,than,she
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,u,Su,S,u,Sux,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,a@indef_art,fair@adj%comp,,ich@pron%nom,never@adv,non@pron,than@conj,she@pron%nom
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,a@indef_art,fair@adj%comp,sen@v1%pt_1,ich@pron%nom,never@adv,non@pron,than@conj,she@pron%nom
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,A,fairer,say,I,never,noon,than,she
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,u,Su,S,u,Su,S,u,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1033,DIFF,,10,a@indef_art,fair@adj%comp,,ich@pron%nom,never@adv,non@pron,than@conj,she@pron%nom
@@ -7865,7 +7865,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 For she is fostred in hire norissynge,||,For she is fostred in hir norishinge°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,For,she,is,fostred,in,hire,norissynge
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,u,x,S,uS,u,Su,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,for@conj,she@pron%nom,ben@v%pr_3,fostren@v%ppl,in@prep,hire@pron1%fem_gen,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,for@conj,she@pron%nom,ben@v%pr_3,fostren@v%ppl,in@prep,hire@pron1%fem_gen,norishinge@ger
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,For,she,is,fostred,in,hir,norishinge
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,u,S,u,Su,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1040,DIFF,,10,for@conj,she@pron%nom,ben@v%pr_3,fostren@v%ppl,in@prep,hire@pron1%fem_gen,
@@ -7897,7 +7897,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "And whan this Walter saugh hire pacience,",||,"And whan this Walter say° hir pacience,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,And,whan,this,Walter,saugh,hire,pacience
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,u,S,u,Su,S,ux,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,and@conj,whan@adv&conj,this@gram_adj,walter@n#propn,,hire@pron1%fem_gen,pacience@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,and@conj,whan@adv&conj,this@gram_adj,walter@n#propn,sen@v1%pt_3,hire@pron1%fem_gen,pacience@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,And,whan,this,Walter,say,hir,pacience
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,u,S,u,Su,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1044,DIFF,,10,and@conj,whan@adv&conj,this@gram_adj,walter@n#propn,,hire@pron1%fem_gen,pacience@n
@@ -8081,7 +8081,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Shal be myn heir, as I have ay disposed;",||,"Shal be min heir, as I have ay supposed;°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,Shal,be,myn,heir,as,I,have,ay,disposed
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,u,S,u,S,u,S,ux,S,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,shulen@v1%pr_3,ben@v%inf,min@pron%gen,heir@n,as@conj,ich@pron%nom,haven@v%pr_1,ai@adv,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,shulen@v1%pr_3,ben@v%inf,min@pron%gen,heir@n,as@conj,ich@pron%nom,haven@v%pr_1,ai@adv,disposen@v%ppl
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,Shal,be,min,heir,as,I,have,ay,supposed
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,u,S,u,S,u,S,ux,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1067,DIFF,,10,shulen@v1%pr_3,ben@v%inf,min@pron%gen,heir@n,as@conj,ich@pron%nom,haven@v%pr_1,ai@adv,
@@ -8145,7 +8145,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "But for t' assaye in thee thy wommanheede,",||,"But for t’assaie° in thee thy wommanhede,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,0,But,for,t,assaye,in,thee,thy,wommanheede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,0,,,,,,,,
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,0,but@conj,for@prep#adv,,in@prep,the@pron2%obj,thin@pron%gen,wommanhede@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,0,but@conj,for@prep#adv,to@part,assaien@v%inf,in@prep,the@pron2%obj,thin@pron%gen,wommanhede@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,10,But,for,tassaie,in,thee,thy,wommanhede
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,10,u,S,uS,u,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1075,DIFF,,10,but@conj,for@prep#adv,,in@prep,the@pron2%obj,thin@pron%gen,wommanhede@n
@@ -8193,7 +8193,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "She bothe hire yonge children to hire calleth,",||,"She bothe hir yonge children unto hir calleth,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,She,bothe,hire,yonge,children,to,hire,calleth
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,x,ux,Su,Sx,uS,u,Sx,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,she@pron%nom,bothe@num_adj,hire@pron1%fem_gen,yong@adj,child@n%pl,,hire@pron2%fem_obj,callen@v%pr_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,she@pron%nom,bothe@num_adj,hire@pron1%fem_gen,yong@adj,child@n%pl,to@prep,hire@pron2%fem_obj,callen@v%pr_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,She,bothe,hir,yonge,children,unto,hir,calleth
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,x,ux,S,ux,Su,Su,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1081,DIFF,,10,she@pron%nom,bothe@num_adj,hire@pron1%fem_gen,yong@adj,child@n%pl,,hire@pron2%fem_obj,callen@v%pr_3
@@ -8225,7 +8225,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 She bathed bothe hire visage and hire heeres.,||,She batheth bothe hir visage and hir heres.
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,She,bathed,bothe,hire,visage,and,hire,heeres
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,x,uS,ux,Sx,uSx,u,Sx,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,she@pron%nom,,bothe@num_conj,here@pron%pl_gen,visage@n,and@conj,here@pron%pl_gen,her@n%pl
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,she@pron%nom,bathen@v%pt_3,bothe@num_conj,here@pron%pl_gen,visage@n,and@conj,here@pron%pl_gen,her@n%pl
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,She,batheth,bothe,hir,visage,and,hir,heres
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,x,uS,ux,S,uSx,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1085,DIFF,,10,she@pron%nom,,bothe@num_conj,here@pron%pl_gen,visage@n,and@conj,here@pron%pl_gen,her@n%pl
@@ -8249,7 +8249,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 """Grauntmercy, lord, God thanke it yow,"" quod she,",||,"“Grauntmercy, lord, that thanke I yow,” quod she,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,Grauntmercy,lord,God,thanke,it,yow,quod,she
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,uSu,S,u,Sx,u,S,u,S
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,gramerci@interj,lord@n,,thanken@v%pr_3,you@pron%pl_obj,,quethen@v%pt_3,she@pron%nom
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,gramerci@interj,lord@n,god@n1#propn,thanken@v%pr_3,hit@pron,you@pron%pl_obj,quethen@v%pt_3,she@pron%nom
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,Grauntmercy,lord,that,thanke,I,yow,quod,she
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,uSu,S,u,Sx,u,S,u,S
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1088,DIFF,,10,gramerci@interj,lord@n,,thanken@v%pr_3,you@pron%pl_obj,,quethen@v%pt_3,she@pron%nom
@@ -8353,7 +8353,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Hire children two, whan she gan hem t' embrace,",||,"Hir children two, whan she gan hem t’embrace,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,Hire,children,two,whan,she,gan,hem,t,embrace
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,ux,Su,S,u,S,u,S,,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,hire@pron1%fem_gen,child@n%pl,two@num_adj,whan@adv&conj,she@pron%nom,ginnen@v%pt_3,hem@pron%pl_obj,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,hire@pron1%fem_gen,child@n%pl,two@num_adj,whan@adv&conj,she@pron%nom,ginnen@v%pt_3,hem@pron%pl_obj,to@part,embracen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,Hir,children,two,whan,she,gan,hem,tembrace
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,u,Su,S,u,S,u,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1101,DIFF,,10,hire@pron1%fem_gen,child@n%pl,two@num_adj,whan@adv&conj,she@pron%nom,ginnen@v%pt_3,hem@pron%pl_obj,
@@ -8697,7 +8697,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "For it were inportable, though they wolde,",||,"For it were importable,° though they wolde;°"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,For,it,were,inportable,though,they,wolde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,u,S,ux,SuSu,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,for@conj,hit@pron,ben@v%pt_3,,though@conj,thei@pron%pl_nom,willen@v%pt_pl
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,for@conj,hit@pron,ben@v%pt_3,importable@adj,though@conj,thei@pron%pl_nom,willen@v%pt_pl
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,For,it,were,importable,though,they,wolde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,u,S,ux,SuSu,S,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1144,DIFF,,10,for@conj,hit@pron,ben@v%pt_3,,though@conj,thei@pron%pl_nom,willen@v%pt_pl
@@ -8721,7 +8721,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 As was Grisilde; therfore Petrak writeth,||,As was Grisilde; therfor Petrark writeth
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,As,was,Grisilde,therfore,Petrak,writeth
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,u,S,uSx,uSx,uS,uS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,as@conj,ben@v%pt_3,grisilde@n#propn,ther-fore@adv,,writen@v%pr_3
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,as@conj,ben@v%pt_3,grisilde@n#propn,ther-fore@adv,petrak@n#propn,writen@v%pr_3
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,As,was,Grisilde,therfor,Petrark,writeth
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,u,S,uSx,uS,uS,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1147,DIFF,,10,as@conj,ben@v%pt_3,grisilde@n#propn,ther-fore@adv,,writen@v%pr_3
@@ -8857,7 +8857,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 It were ful hard to fynde now-a-dayes,||,It were ful hard to finde now a dayes
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,It,were,ful,hard,to,fynde,nowadayes
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,u,Sx,u,S,u,Sx,uSuS
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,hit@pron,ben@v%pt_3,ful@adv,hard@adj,to@part,finden@v%inf,,,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,hit@pron,ben@v%pt_3,ful@adv,hard@adj,to@part,finden@v%inf,nou-a-daies@adv
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,It,were,ful,hard,to,finde,now,a,dayes
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,u,Sx,u,S,u,Sx,u,S,uS
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1164,DIFF,,10,hit@pron,ben@v%pt_3,ful@adv,hard@adj,to@part,finden@v%inf,,,
@@ -8985,7 +8985,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 No wedded man so hardy be t' assaille,||,No wedded man so hardy° be t’assaille°
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,No,wedded,man,so,hardy,be,t,assaille
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,u,Su,S,u,Su,S,,uSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,no@gram_adj,wedden@v#adj%ppl,man@n,so@adv,hardi@adj,ben@v%pr_3,
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,no@gram_adj,wedden@v#adj%ppl,man@n,so@adv,hardi@adj,ben@v%pr_3,to@part,assaillen@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,No,wedded,man,so,hardy,be,tassaille
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,u,Su,S,u,Su,S,uSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1180,DIFF,,10,no@gram_adj,wedden@v#adj%ppl,man@n,so@adv,hardi@adj,ben@v%pr_3,
@@ -8993,7 +8993,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 His wyves pacience in trust to fynde,||,"His wives pacience, in hope to finde,"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,His,wyves,pacience,in,trust,to,fynde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,u,Su,SuSx,u,S,u,Sx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,his@pron1%gen,wif@n%gen,pacience@n,in@prep,,to@part,finden@v%inf
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,his@pron1%gen,wif@n%gen,pacience@n,in@prep,trust@n,to@part,finden@v%inf
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,His,wives,pacience,in,hope,to,finde
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,u,Su,SuSx,u,Sx,u,Sx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1181,DIFF,,10,his@pron1%gen,wif@n%gen,pacience@n,in@prep,,to@part,finden@v%inf
@@ -9153,7 +9153,7 @@ data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,Th
 "Ne dreed hem nat; doth hem no reverence,",||,"Ne dreed hem nat, do hem no reverence;"
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,Ne,dreed,hem,nat,doth,hem,no,reverence
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,ne@adv,dreden@v%imp,hem@pron%pl_obj,not@adv,,hem@pron%pl_obj,no@gram_adj,reverence@n
+data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,ne@adv,dreden@v%imp,hem@pron%pl_obj,not@adv,don@v1%imp,hem@pron%pl_obj,no@gram_adj,reverence@n
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,Ne,dreed,hem,nat,do,hem,no,reverence
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,u,S,u,S,u,S,u,SuSx
 data/riverside_cats/ClT_riv.cat,data/oxford_txts/ClT_oxford.txt,data/csvs/ClT,The Clerk's Tale 1201,DIFF,,10,ne@adv,dreden@v%imp,hem@pron%pl_obj,not@adv,,hem@pron%pl_obj,no@gram_adj,reverence@n

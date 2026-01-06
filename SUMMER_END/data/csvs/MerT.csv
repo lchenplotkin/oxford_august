@@ -41,7 +41,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "On wommen, ther as was his appetyt,",||,"On wommen, theras° was his appetit,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,On,wommen,ther,as,was,his,appetyt
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,u,Su,S,u,S,u,SuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,on@prep,womman@n%pl,ther-as@adv,ben@v%pt_3,his@pron1%gen,appetit@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,on@prep,womman@n%pl,ther@adv,as@conj,ben@v%pt_3,his@pron1%gen,appetit@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,On,wommen,theras,was,his,appetit
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,u,Su,Su,S,u,SuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1250,DIFF,green,10,on@prep,womman@n%pl,ther-as@adv,ben@v%pt_3,his@pron1%gen,appetit@n
@@ -97,7 +97,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "T' espien where he myghte wedded be,",||,T’espien° where he mighte wedded be;
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,T,espien,where,he,myghte,wedded,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,,uSu,Sx,u,Su,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,,wher@adv&conj,he@pron1%nom,mouen@v3%pt_3,wedden@v%ppl,ben@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,to@part,aspien@v%inf,wher@adv&conj,he@pron1%nom,mouen@v3%pt_3,wedden@v%ppl,ben@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,Tespien,where,he,mighte,wedded,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,uSu,Sx,u,Su,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1257,DIFF,,10,,wher@adv&conj,he@pron1%nom,mouen@v3%pt_3,wedden@v%ppl,ben@v%inf
@@ -233,7 +233,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Where as thise bacheleris synge ""allas,""",||,"Wheras° thise bacheleres singe “Allas,”"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,Where,as,thise,bacheleris,synge,allas
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,ux,S,ux,SuSu,Sx,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,wher-as@adv,these@gram_adj%pl,bacheler@n%pl,singen@v%pr_pl,alas@interj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,wher@adv&conj,as@conj,these@gram_adj%pl,bacheler@n%pl,singen@v%pr_pl,alas@interj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,Wheras,thise,bacheleres,singe,Allas
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,uS,ux,SuSu,Sx,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1274,DIFF,green,10,wher-as@adv,these@gram_adj%pl,bacheler@n%pl,singen@v%pr_pl,alas@interj
@@ -305,7 +305,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ther as a wedded man in his estaat,||,Theras° a wedded man in his estaat°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,Ther,as,a,wedded,man,in,his,estaat
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,u,S,u,Su,S,u,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,ther-as@adv,a@indef_art,wedden@v#adj%ppl,man@n,in@prep,his@pron1%gen,estat@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,ther@adv,as@conj,a@indef_art,wedden@v#adj%ppl,man@n,in@prep,his@pron1%gen,estat@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,Theras,a,wedded,man,in,his,estaat
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,uS,u,Su,S,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1283,DIFF,green,10,ther-as@adv,a@indef_art,wedden@v#adj%ppl,man@n,in@prep,his@pron1%gen,estat@n
@@ -449,7 +449,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And if thou be syk, so God me save,",||,"And if that thou be sik, so God me save,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,9,And,if,thou,be,syk,so,God,me,save
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,9,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,9,and@conj,if@conj,,thou@pron%nom,ben@v%pr_2,sik@adj,so@adv,god@n1#propn,me@pron2%obj,saven@v%pr_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,9,and@conj,if@conj,thou@pron%nom,ben@v%pr_2,sik@adj,so@adv,god@n1#propn,me@pron2%obj,saven@v%pr_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,10,And,if,that,thou,be,sik,so,God,me,save
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1301,DIFF,,10,and@conj,if@conj,,thou@pron%nom,ben@v%pr_2,sik@adj,so@adv,god@n1#propn,me@pron2%obj,saven@v%pr_3
@@ -569,7 +569,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "But drede nat, if pleynly speke I shal:",||,"But dredelees,° if pleinly speke I shal,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,But,drede,nat,if,pleynly,speke,I,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,u,Su,S,u,Su,Sx,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,but@conj,dredeles@adv,if@conj,plainlie@adv,speken@v%inf,ich@pron%nom,shulen@v1%pr_1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,but@conj,dreden@v%imp,not@adv,if@conj,plainlie@adv,speken@v%inf,ich@pron%nom,shulen@v1%pr_1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,But,dredelees,if,pleinly,speke,I,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,u,SuS,u,Su,Sx,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1316,DIFF,green,10,but@conj,dredeles@adv,if@conj,plainlie@adv,speken@v%inf,ich@pron%nom,shulen@v1%pr_1
@@ -905,7 +905,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Thanne may he boldely beren up his heed,",||,"Than may he boldly kepen up° his heed,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,Thanne,may,he,boldely,beren,up,his,heed
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,ux,S,u,SuS,ux,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,thanne@adv,mouen@v3%pr_3,he@pron1%nom,boldeliche@adv,,up@adv,his@pron1%gen,hed@n1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,thanne@adv,mouen@v3%pr_3,he@pron1%nom,boldeliche@adv,beren@v1%inf,up@adv,his@pron1%gen,hed@n1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,Than,may,he,boldly,kepen,up,his,heed
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,u,S,u,Su,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1358,DIFF,,10,thanne@adv,mouen@v3%pr_3,he@pron1%nom,boldeliche@adv,,up@adv,his@pron1%gen,hed@n1
@@ -961,7 +961,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 For which his fadres benyson he wan.,||,Thurgh which his fadres benisoun° he wan.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,For,which,his,fadres,benyson,he,wan
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,u,S,u,Su,SuS,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,thurgh@prep,which@pron,his@pron1%gen,fader@n%gen,benisoun@n,he@pron1%nom,winnen@v%pt_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,for@prep,which@pron,his@pron1%gen,fader@n%gen,benisoun@n,he@pron1%nom,winnen@v%pt_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,Thurgh,which,his,fadres,benisoun,he,wan
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,u,S,u,Su,SuS,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1365,DIFF,green,10,thurgh@prep,which@pron,his@pron1%gen,fader@n%gen,benisoun@n,he@pron1%nom,winnen@v%pt_3
@@ -1097,7 +1097,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ther as ther nys no wyf the hous to kepe.,||,Theras° ther nis no° wif the hous to kepe.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,Ther,as,ther,nys,no,wyf,the,hous,to,kepe
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,ther-as@adv,ther@adv,ben@v%pr_3_neg,no@gram_adj,wif@n,the@def_art,hous@n,to@part,kepen@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,ther@adv,as@conj,ther@adv,ben@v%pr_3_neg,no@gram_adj,wif@n,the@def_art,hous@n,to@part,kepen@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,Theras,ther,nis,no,wif,the,hous,to,kepe
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,uS,u,S,u,S,u,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1382,DIFF,green,10,ther-as@adv,ther@adv,ben@v%pr_3_neg,no@gram_adj,wif@n,the@def_art,hous@n,to@part,kepen@v%inf
@@ -1113,7 +1113,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Love wel thy wyf, as Crist loved his chirche.",||,"Love wel thy wif, as Crist loveth his chirche."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,Love,wel,thy,wyf,as,Crist,loved,his,chirche
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,ux,S,u,S,u,S,uS,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,loven@v1%imp,wel@adv,thin@pron%gen,wif@n,as@conj,crist@n#propn,,his@pron1%gen,chirche@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,loven@v1%imp,wel@adv,thin@pron%gen,wif@n,as@conj,crist@n#propn,loven@v1%pt_3,his@pron1%gen,chirche@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,Love,wel,thy,wif,as,Crist,loveth,his,chirche
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,ux,S,u,S,u,S,uS,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1384,DIFF,,10,loven@v1%imp,wel@adv,thin@pron%gen,wif@n,as@conj,crist@n#propn,,his@pron1%gen,chirche@n
@@ -1225,7 +1225,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 To tellen hem th' effect of his entente.,||,To tellen hem th’effect° of his entente.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,To,tellen,hem,th,effect,of,his,entente
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,u,Su,S,,uS,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,to@part,tellen@v%inf,hem@pron%pl_obj,,of@prep,his@pron1%gen,entente@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,to@part,tellen@v%inf,hem@pron%pl_obj,the@def_art,effect@n,of@prep,his@pron1%gen,entente@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,To,tellen,hem,theffect,of,his,entente
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,u,Su,S,uS,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1398,DIFF,,10,to@part,tellen@v%inf,hem@pron%pl_obj,,of@prep,his@pron1%gen,entente@n
@@ -1321,7 +1321,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And I wol fonde t' espien, on my syde,",||,"And I wol fond t’espien,° on my side,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,And,I,wol,fonde,t,espien,on,my,syde
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,u,S,u,Sx,,uSu,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,and@conj,ich@pron%nom,willen@v%pr_1,fonden@v%inf,,on@prep,min@pron%gen,side@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,and@conj,ich@pron%nom,willen@v%pr_1,fonden@v%inf,to@part,aspien@v%inf,on@prep,min@pron%gen,side@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,And,I,wol,fond,tespien,on,my,side
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,u,S,u,S,uSu,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1410,DIFF,,10,and@conj,ich@pron%nom,willen@v%pr_1,fonden@v%inf,,on@prep,min@pron%gen,side@n
@@ -1385,7 +1385,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Oold fissh and yong flessh wolde I have fayn.,||,Old fish and yong flesh wolde I have ful fain.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,Oold,fissh,and,yong,flessh,wolde,I,have,fayn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,u,S,u,S,u,Sx,u,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,olde@adj,fish@n,and@conj,yong@adj,flesh@n,willen@v%pt_1,ich@pron%nom,haven@v%inf,,fain@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,olde@adj,fish@n,and@conj,yong@adj,flesh@n,willen@v%pt_1,ich@pron%nom,haven@v%inf,fain@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,Old,fish,and,yong,flesh,wolde,I,have,ful,fain
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,u,S,u,S,u,Sx,u,Sx,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1418,DIFF,,10,olde@adj,fish@n,and@conj,yong@adj,flesh@n,willen@v%pt_1,ich@pron%nom,haven@v%inf,,fain@adv
@@ -1633,7 +1633,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Of children to th' onour of God above,",||,"Of children, to th’onour of God above,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,Of,children,to,th,onour,of,God,above
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,u,Su,S,,uS,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,of@prep,child@n%pl,to@prep,,of@prep,god@n1#propn,aboven@advas_adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,of@prep,child@n%pl,to@prep,the@def_art,honour@n,of@prep,god@n1#propn,aboven@advas_adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,Of,children,to,thonour,of,God,above
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,u,Su,S,uS,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1449,DIFF,,10,of@prep,child@n%pl,to@prep,,of@prep,god@n1#propn,aboven@advas_adj
@@ -1657,7 +1657,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 And yelde hir dette whan that it is due;,||,And yelde° hir dettes° whan that they ben due;
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,And,yelde,hir,dette,whan,that,it,is,due
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,u,Sx,u,Su,S,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,and@conj,yelden@v%inf,here@pron%pl_gen,,whan@adv&conj,that@part,thei@pron%pl_nom,,due@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,and@conj,yelden@v%inf,here@pron%pl_gen,dette@n,whan@adv&conj,that@part,hit@pron,ben@v%pr_3,due@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,And,yelde,hir,dettes,whan,that,they,ben,due
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,u,Sx,u,Su,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1452,DIFF,,10,and@conj,yelden@v%inf,here@pron%pl_gen,,whan@adv&conj,that@part,thei@pron%pl_nom,,due@adj
@@ -1745,7 +1745,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 And blosmy tree nys neither drye ne deed.,||,A blosmy tree° nis neither drie ne deed.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,And,blosmy,tree,nys,neither,drye,ne,deed
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,,blosmi@adj,tre@n,ben@v%pr_3_neg,neither@conj,drie@adj1,ne@conj1,ded@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,and@conj,blosmi@adj,tre@n,ben@v%pr_3_neg,neither@conj,drie@adj1,ne@conj1,ded@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,A,blosmy,tree,nis,neither,drie,ne,deed
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,u,Su,S,u,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1463,DIFF,,10,,blosmi@adj,tre@n,ben@v%pr_3_neg,neither@conj,drie@adj1,ne@conj1,ded@adj
@@ -1761,7 +1761,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Myn herte and alle my lymes been as grene,||,Min herte and my limes been as grene
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,Myn,herte,and,alle,my,lymes,been,as,grene
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,u,Sx,u,Sx,u,Su,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,min@pron%gen,herte@n,and@conj,min@pron%gen,lim@n1%pl,ben@v%pr_pl,as@conj,grene@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,min@pron%gen,herte@n,and@conj,al@gram_adj,min@pron%gen,lim@n1%pl,ben@v%pr_pl,as@conj,grene@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,Min,herte,and,my,limes,been,as,grene
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,u,Su,S,u,Su,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1465,DIFF,green,10,min@pron%gen,herte@n,and@conj,min@pron%gen,lim@n1%pl,ben@v%pr_pl,as@conj,grene@adj
@@ -1977,7 +1977,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "I have now been a court-man al my lyf,",||,I have now been a court man° al my lif.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,I,have,now,been,a,courtman,al,my,lyf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,u,Sx,u,S,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,ich@pron%nom,haven@v%pr_1,nou@adv,ben@v%ppl,a@indef_art,court@n1,man@n,al@gram_adj,min@pron%gen,lif@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,ich@pron%nom,haven@v%pr_1,nou@adv,ben@v%ppl,a@indef_art,court-man@n,al@gram_adj,min@pron%gen,lif@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,I,have,now,been,a,court,man,al,my,lif
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,u,Sx,u,S,u,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1492,DIFF,green,10,ich@pron%nom,haven@v%pr_1,nou@adv,ben@v%ppl,a@indef_art,court@n1,man@n,al@gram_adj,min@pron%gen,lif@n
@@ -2105,7 +2105,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 That I consente and conferme everydeel,||,That I consente and conferme every deel°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,That,I,consente,and,conferme,everydeel
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,u,S,uSx,u,Sux,SxuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,that@conj,ich@pron%nom,consenten@v%pr_1,and@conj,confermen@v%pr_1,everi@pron_gram_adj,del@n2
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,that@conj,ich@pron%nom,consenten@v%pr_1,and@conj,confermen@v%pr_1,everi-del@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,That,I,consente,and,conferme,every,deel
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,u,S,uSx,u,Sux,Sxu,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1508,DIFF,green,10,that@conj,ich@pron%nom,consenten@v%pr_1,and@conj,confermen@v%pr_1,everi@pron_gram_adj,del@n2
@@ -2129,7 +2129,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Ne in Ytaille, that koude bet han sayd!",||,"N’in° al° Itaille, that coude bet° han said;"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,Ne,in,Ytaille,that,koude,bet,han,sayd
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,u,S,uSx,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,,,itaille@n#propn,that@pron,connen@v%pt_3,bet@adv%comp,haven@v%inf,seien@v1%ppl
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,ne@conj1,in@prep,itaille@n#propn,that@pron,connen@v%pt_3,bet@adv%comp,haven@v%inf,seien@v1%ppl
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,Nin,al,Itaille,that,coude,bet,han,said
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,u,S,uSx,u,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1511,DIFF,,10,,,itaille@n#propn,that@pron,connen@v%pt_3,bet@adv%comp,haven@v%inf,seien@v1%ppl
@@ -2137,7 +2137,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Crist halt hym of this conseil ful wel apayd.,||,Crist halt him° of this conseil wel apaid.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,0,Crist,halt,hym,of,this,conseil,ful,wel,apayd
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,0,,,,,,,,,
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,0,crist@n#propn,holden@v1%pr_3,him@pron%obj,of@prep,this@gram_adj,counseil@n,wel@adv,apaien@v%ppl_abs
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,0,crist@n#propn,holden@v1%pr_3,him@pron%obj,of@prep,this@gram_adj,counseil@n,ful@adv,wel@adv,apaien@v%ppl_abs
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,10,Crist,halt,him,of,this,conseil,wel,apaid
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,10,u,S,u,S,u,Su,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1512,DIFF,green,10,crist@n#propn,holden@v1%pr_3,him@pron%obj,of@prep,this@gram_adj,counseil@n,wel@adv,apaien@v%ppl_abs
@@ -2201,7 +2201,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Right in this wise he to Placebo answerde:,||,Right in this wise° to Placebo answerde:
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,Right,in,this,wise,he,to,Placebo,answerde
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,u,S,u,Sx,u,S,uSx,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,righte@adv,in@prep,this@gram_adj,wise@n2,to@prep,placebo@n2#propn,answeren@v%pt_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,righte@adv,in@prep,this@gram_adj,wise@n2,he@pron1%nom,to@prep,placebo@n2#propn,answeren@v%pt_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,Right,in,this,wise,to,Placebo,answerde
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,u,S,u,Sx,u,SuS,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1520,DIFF,green,10,righte@adv,in@prep,this@gram_adj,wise@n2,to@prep,placebo@n2#propn,answeren@v%pt_3
@@ -2225,7 +2225,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Senek, amonges othere wordes wyse,",||,Senek° among his othere wordes wise
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,Senek,amonges,othere,wordes,wyse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,uS,uSu,Sux,Su,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,senec@n#propn,,his@pron1%gen,other@gram_adj,word@n%pl,wise@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,senec@n#propn,amonges@prep,other@gram_adj,word@n%pl,wise@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,Senek,among,his,othere,wordes,wise
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,uS,uS,u,Sux,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1523,DIFF,,10,senec@n#propn,,his@pron1%gen,other@gram_adj,word@n%pl,wise@adj
@@ -2289,7 +2289,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 To take a wyf withouten avysement.,||,To take a wif withoute avisement.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,To,take,a,wyf,withouten,avysement
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,u,Sx,u,S,uSx,uSuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,to@part,taken@v%inf,a@indef_art,wif@n,,avisement@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,to@part,taken@v%inf,a@indef_art,wif@n,withouten@prep,avisement@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,To,take,a,wif,withoute,avisement
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,u,Sx,u,S,uSx,uSuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1531,DIFF,,10,to@part,taken@v%inf,a@indef_art,wif@n,,avisement@n
@@ -2337,7 +2337,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Al be it so that no man fynden shal,||,Albeit so that no man finden shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,10,Al,be,it,so,that,no,man,fynden,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,10,,so@adv,that@conj,no@gram_adj,man@n,finden@v%inf,shulen@v1%pr_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,10,al@conj,ben@v%pr_3,hit@pron,so@adv,that@conj,no@gram_adj,man@n,finden@v%inf,shulen@v1%pr_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,9,Albeit,so,that,no,man,finden,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,9,Su,S,u,S,u,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1537,DIFF,,9,,so@adv,that@conj,no@gram_adj,man@n,finden@v%inf,shulen@v1%pr_3
@@ -2385,7 +2385,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 And al this axeth leyser for t' enquere.,||,And al this axeth° leiser° for t’enquere.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,And,al,this,axeth,leyser,for,t,enquere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,u,S,u,Su,Su,S,,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,and@conj,al@gram_adj,this@pron,asken@v%pr_3,leiser@n,for@prep#adv,
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,and@conj,al@gram_adj,this@pron,asken@v%pr_3,leiser@n,for@prep#adv,to@part,enqueren@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,And,al,this,axeth,leiser,for,tenquere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,u,S,u,Su,Su,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1543,DIFF,,10,and@conj,al@gram_adj,this@pron,asken@v%pr_3,leiser@n,for@prep#adv,
@@ -2537,7 +2537,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ye shul nat plesen hire fully yeres thre --,||,"Ye shul nat plese hir fully yeres three,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,Ye,shul,nat,plesen,hire,fully,yeres,thre
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,u,S,u,Su,Sx,uS,uSx,x
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,not@adv,,hire@pron2%fem_obj,fulli@adv,yer@n%pl,thre@num_adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,not@adv,plesen@v%inf,hire@pron2%fem_obj,fulli@adv,yer@n%pl,thre@num_adj,--@dash
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,Ye,shul,nat,plese,hir,fully,yeres,three
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,u,S,u,Sx,u,Su,Sux,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1562,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,not@adv,,hire@pron2%fem_obj,fulli@adv,yer@n%pl,thre@num_adj
@@ -2625,7 +2625,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 """That letteth matrimoigne, sikerly.""",||,"“That letteth° matrimoine, sikerly.”°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,That,letteth,matrimoigne,sikerly
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,u,Su,SuSu,SuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,that@pron,letten@v%pr_3,,sikerli@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,that@pron,letten@v%pr_3,matrimoine@n,sikerli@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,That,letteth,matrimoine,sikerly
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,u,Su,SuSu,SuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1573,DIFF,,10,that@pron,letten@v%pr_3,,sikerli@adv
@@ -2713,7 +2713,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Thanne sholde he se ful many a figure pace,||,Than sholde he see many a figure pace°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,Thanne,sholde,he,se,ful,many,a,figure,pace
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,ux,Sx,u,x,S,uS,u,Sux,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,thanne@adv,shulen@v1%pt_3,he@pron1%nom,sen@v1%inf,mani@gram_adj,a@indef_art,figure@n,passen@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,thanne@adv,shulen@v1%pt_3,he@pron1%nom,sen@v1%inf,ful@adv,mani@gram_adj,a@indef_art,figure@n,passen@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,Than,sholde,he,see,many,a,figure,pace
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,u,Sx,u,S,uS,u,Sux,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1584,DIFF,green,10,thanne@adv,shulen@v1%pt_3,he@pron1%nom,sen@v1%inf,mani@gram_adj,a@indef_art,figure@n,passen@v%inf
@@ -2825,7 +2825,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "For love is blynd alday, and may nat see.",||,"For love is blind al day,° and may nat see."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,For,love,is,blynd,alday,and,may,nat,see
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,u,Sx,u,S,uS,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,for@conj,love@n1,ben@v%pr_3,blind@adj,,dai@n,and@conj,mouen@v3%pr_3,not@adv,sen@v1%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,for@conj,love@n1,ben@v%pr_3,blind@adj,al_dai@adv,and@conj,mouen@v3%pr_3,not@adv,sen@v1%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,For,love,is,blind,al,day,and,may,nat,see
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,u,Sx,u,S,u,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1598,DIFF,,10,for@conj,love@n1,ben@v%pr_3,blind@adj,,dai@n,and@conj,mouen@v3%pr_3,not@adv,sen@v1%inf
@@ -2889,7 +2889,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Hym thoughte his choys myghte nat ben amended.,||,Him thoughte his chois ne might nat ben amended.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,Hym,thoughte,his,choys,myghte,nat,ben,amended
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,u,Sx,u,S,ux,S,u,SuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,him@pron%obj,thinken@v1%pt_3,his@pron1%gen,chois@n,,mouen@v3%pt_3,not@adv,ben@v%inf,amenden@v%ppl
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,him@pron%obj,thinken@v1%pt_3,his@pron1%gen,chois@n,mouen@v3%pt_3,not@adv,ben@v%inf,amenden@v%ppl
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,Him,thoughte,his,chois,ne,might,nat,ben,amended
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,u,Sx,u,S,u,S,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1606,DIFF,,10,him@pron%obj,thinken@v1%pt_3,his@pron1%gen,chois@n,,mouen@v3%pt_3,not@adv,ben@v%inf,amenden@v%ppl
@@ -3081,7 +3081,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 That no wight his blisse parten shal.,||,That no wight of his blisse parten° shal.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,9,That,no,wight,his,blisse,parten,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,9,S,u,S,u,Su,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,9,that@conj,no@gram_adj,wight@n,of@prep,his@pron1%gen,blisse@n,parten@v%inf,shulen@v1%pr_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,9,that@conj,no@gram_adj,wight@n,his@pron1%gen,blisse@n,parten@v%inf,shulen@v1%pr_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,10,That,no,wight,of,his,blisse,parten,shal
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,10,u,S,u,S,u,Su,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1630,DIFF,green,10,that@conj,no@gram_adj,wight@n,of@prep,his@pron1%gen,blisse@n,parten@v%inf,shulen@v1%pr_3
@@ -3089,7 +3089,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And preyed hem to laboure in this nede,",||,"And preide hem° to labouren in this nede,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,And,preyed,hem,to,laboure,in,this,nede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,u,Su,S,u,Sux,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,and@conj,preien@v1%pt_3,hem@pron%pl_obj,to@part,,in@prep,this@gram_adj,nede@n1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,and@conj,preien@v1%pt_3,hem@pron%pl_obj,to@part,labouren@v%inf,in@prep,this@gram_adj,nede@n1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,And,preide,hem,to,labouren,in,this,nede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,u,Sx,u,S,uSu,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1631,DIFF,,10,and@conj,preien@v1%pt_3,hem@pron%pl_obj,to@part,,in@prep,this@gram_adj,nede@n1
@@ -3121,7 +3121,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Save o thyng priketh in my conscience,",||,"Saue o° thing priketh in° my conscience,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,Save,o,thyng,priketh,in,my,conscience
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,ux,S,u,Su,S,u,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,,o@num_adj,thing@n,priken@v%pr_3,in@prep,min@pron%gen,conscience@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,sauf@prep,o@num_adj,thing@n,priken@v%pr_3,in@prep,min@pron%gen,conscience@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,Saue,o,thing,priketh,in,my,conscience
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,u,S,u,Su,S,u,SuSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1635,DIFF,,10,,o@num_adj,thing@n,priken@v%pr_3,in@prep,min@pron%gen,conscience@n
@@ -3321,7 +3321,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Oother than this, God of his hygh myracle",||,"Other than this, God of° his hie miracle°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,Oother,than,this,God,of,his,hygh,myracle
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,uS,u,S,u,S,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,other@gram_adj,than@conj,this@pron,god@n1#propn,of@prep,his@pron1%gen,,miracle@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,other@gram_adj,than@conj,this@pron,god@n1#propn,of@prep,his@pron1%gen,heigh@adj,miracle@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,Other,than,this,God,of,his,hie,miracle
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,uS,u,S,u,S,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1660,DIFF,,10,other@gram_adj,than@conj,this@pron,god@n1#propn,of@prep,his@pron1%gen,,miracle@n
@@ -3425,7 +3425,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Swifter than dooth an arwe out of a bowe.,||,Swifter than dooth an arwe out of the bowe!
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,Swifter,than,dooth,an,arwe,out,of,a,bowe
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,uS,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,swifte@adv,than@conj,don@v1%pr_3,a@indef_art,arwe@n,oute@adv#prep,of@prep,,boue@n1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,swifte@adv,than@conj,don@v1%pr_3,a@indef_art,arwe@n,oute@adv#prep,of@prep,a@indef_art,boue@n1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,Swifter,than,dooth,an,arwe,out,of,the,bowe
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,uS,u,S,u,Sx,u,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1673,DIFF,,10,swifte@adv,than@conj,don@v1%pr_3,a@indef_art,arwe@n,oute@adv#prep,of@prep,,boue@n1
@@ -3497,7 +3497,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "My tale is doon, for my wit is thynne.",||,My tale° is done:—for my wit is thinne.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,My,tale,is,doon,for,my,wit,is,thynne
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,min@pron%gen,tale@n,ben@v%pr_3,,min@pron%gen,wit@n,ben@v%pr_3,thinne@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,min@pron%gen,tale@n,ben@v%pr_3,don@v1%ppl,for@conj,min@pron%gen,wit@n,ben@v%pr_3,thinne@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,My,tale,is,donefor,my,wit,is,thinne
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,u,Sx,u,SuS,u,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1682,DIFF,,10,min@pron%gen,tale@n,ben@v%pr_3,,min@pron%gen,wit@n,ben@v%pr_3,thinne@adj
@@ -3569,7 +3569,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "For whan they saughe that it moste nedes be,",||,"For whan they sawe it moste nedes be,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,For,whan,they,saughe,that,it,moste,nedes,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,u,S,u,Sx,u,S,ux,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,for@conj,whan@adv&conj,thei@pron%pl_nom,sen@v1%pt_pl,hit@pron,moten@v2%pt_3,nedes@adv,ben@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,for@conj,whan@adv&conj,thei@pron%pl_nom,sen@v1%pt_pl,that@conj,hit@pron,moten@v2%pt_3,nedes@adv,ben@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,For,whan,they,sawe,it,moste,nedes,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,u,S,u,Sx,u,Su,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1691,DIFF,green,10,for@conj,whan@adv&conj,thei@pron%pl_nom,sen@v1%pt_pl,hit@pron,moten@v2%pt_3,nedes@adv,ben@v%inf
@@ -3697,7 +3697,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And croucheth hem, and bad God sholde hem blesse,",||,"And crouched hem,° and bad God sholde hem blesse,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,And,croucheth,hem,and,bad,God,sholde,hem,blesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,and@conj,,hem@pron%pl_obj,and@conj,bidden@v%pt_3,god@n1#propn,shulen@v1%pt_3,hem@pron%pl_obj,blessen@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,and@conj,crouchen@v1%pr_3,hem@pron%pl_obj,and@conj,bidden@v%pt_3,god@n1#propn,shulen@v1%pt_3,hem@pron%pl_obj,blessen@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,And,crouched,hem,and,bad,God,sholde,hem,blesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1707,DIFF,,10,and@conj,,hem@pron%pl_obj,and@conj,bidden@v%pt_3,god@n1#propn,shulen@v1%pt_3,hem@pron%pl_obj,blessen@v%inf
@@ -3753,7 +3753,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 The mooste deyntevous of al Ytaille.,||,The moste deinteuous° of al Itaille.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,The,mooste,deyntevous,of,al,Ytaille
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,u,Su,SuS,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,the@def_art,most@adv%sup,,of@prep,al@gram_adj,itaille@n#propn
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,the@def_art,most@adv%sup,deintevous@adj,of@prep,al@gram_adj,itaille@n#propn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,The,moste,deinteuous,of,al,Itaille
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,u,Su,SuS,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1714,DIFF,,10,the@def_art,most@adv%sup,,of@prep,al@gram_adj,itaille@n#propn
@@ -3761,7 +3761,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Biforn hem stoode instrumentz of swich soun,||,"Biforn hem stood swiche instruments of soun,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,Biforn,hem,stoode,instrumentz,of,swich,soun
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,uS,u,Sx,uSu,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,biforen@prep,hem@pron%pl_obj,stonden@v1%pt_pl,,instrument@n%pl,of@prep,soun@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,biforen@prep,hem@pron%pl_obj,stonden@v1%pt_pl,instrument@n%pl,of@prep,swich@gram_adj,soun@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,Biforn,hem,stood,swiche,instruments,of,soun
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,uS,u,S,ux,SuS,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1715,DIFF,,10,biforen@prep,hem@pron%pl_obj,stonden@v1%pt_pl,,instrument@n%pl,of@prep,soun@n
@@ -3817,7 +3817,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Bacus the wyn hem shynketh al aboute,",||,"Bacus the win hem skinketh° al aboute,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,Bacus,the,wyn,hem,shynketh,al,aboute
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,uS,u,S,u,Su,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,bachus@n#propn,the@def_art,win@n,hem@pron%pl_obj,,al@adv,abouten@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,bachus@n#propn,the@def_art,win@n,hem@pron%pl_obj,shenchen@v%pr_3,al@adv,abouten@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,Bacus,the,win,hem,skinketh,al,aboute
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,uS,u,S,u,Su,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1722,DIFF,,10,bachus@n#propn,the@def_art,win@n,hem@pron%pl_obj,,al@adv,abouten@adv
@@ -4281,7 +4281,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Namoore of hym at this tyme speke I,",||,Namore of him as at this time speke I.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,Namoore,of,hym,at,this,tyme,speke,I
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,uSx,u,S,u,S,ux,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,no_more@n,of@prep,him@pron%obj,as@conj,at@prep,this@gram_adj,time@n,speken@v%pr_1,ich@pron%nom
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,no_more@n,of@prep,him@pron%obj,at@prep,this@gram_adj,time@n,speken@v%pr_1,ich@pron%nom
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,Namore,of,him,as,at,this,time,speke,I
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,uSx,u,S,u,S,u,Sx,ux,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1780,DIFF,green,10,no_more@n,of@prep,him@pron%obj,as@conj,at@prep,this@gram_adj,time@n,speken@v%pr_1,ich@pron%nom
@@ -4353,7 +4353,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "In mariage, se how thy Damyan,",||,"Of mariage, see how thy Damian,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,In,mariage,se,how,thy,Damyan
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,u,SuSx,u,S,u,SuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,of@prep,mariage@n,sen@v1%imp,hou@adv&conj,thin@pron%gen,damian@n#propn
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,in@prep,mariage@n,sen@v1%imp,hou@adv&conj,thin@pron%gen,damian@n#propn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,Of,mariage,see,how,thy,Damian
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,u,SuSx,u,S,u,SuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1789,DIFF,green,10,of@prep,mariage@n,sen@v1%imp,hou@adv&conj,thin@pron%gen,damian@n#propn
@@ -4377,7 +4377,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 God graunte thee thyn hoomly fo t' espye!,||,God graunte thee thin hoomly fo t’espie.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,0,God,graunte,thee,thyn,hoomly,fo,t,espye
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,0,,,,,,,,
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,0,god@n1#propn,graunten@v%pr_3,the@pron2%obj,thin@pron%gen,homli@adj,fo@n,
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,0,god@n1#propn,graunten@v%pr_3,the@pron2%obj,thin@pron%gen,homli@adj,fo@n,to@part,aspien@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,10,God,graunte,thee,thin,hoomly,fo,tespie
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,10,u,Su,S,u,Su,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1792,DIFF,,10,god@n1#propn,graunten@v%pr_3,the@pron2%obj,thin@pron%gen,homli@adj,fo@n,
@@ -4417,7 +4417,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "On th' orisonte, as in that latitude.",||,"On th’orisonte,° as in that latitude."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,On,th,orisonte,as,in,that,latitude
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,u,,SuSx,u,S,u,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,on@prep,,as@conj,in@prep,that@art&gram_adj,latitude@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,on@prep,the@def_art,orisonte@n,as@conj,in@prep,that@art&gram_adj,latitude@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,On,thorisonte,as,in,that,latitude
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,u,SuSx,u,S,u,SuSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1797,DIFF,,10,on@prep,,as@conj,in@prep,that@art&gram_adj,latitude@n
@@ -4465,7 +4465,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Where as they doon hir thynges as hem leste,",||,"Wheras° they doon hir thinges as hem leste,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,Where,as,they,doon,hir,thynges,as,hem,leste
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,ux,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,wher-as@adv,thei@pron%pl_nom,don@v1%pr_pl,here@pron%pl_gen,thing@n%pl,as@conj,hem@pron%pl_obj,listen@v1%pt_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,wher@adv&conj,as@conj,thei@pron%pl_nom,don@v1%pr_pl,here@pron%pl_gen,thing@n%pl,as@conj,hem@pron%pl_obj,listen@v1%pt_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,Wheras,they,doon,hir,thinges,as,hem,leste
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,uS,u,S,u,Su,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1803,DIFF,green,10,wher-as@adv,thei@pron%pl_nom,don@v1%pr_pl,here@pron%pl_gen,thing@n%pl,as@conj,hem@pron%pl_obj,listen@v1%pt_3
@@ -4489,7 +4489,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Wolde go to bedde; he wolde no lenger tarye.,||,"Wol go to bedde, he wol no lenger tarie."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,0,Wolde,go,to,bedde,he,wolde,no,lenger,tarye
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,0,,,,,,,,,
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,0,,gon@v%inf,to@prep,bed@n1,he@pron1%nom,,no@adv,lengere@adv%comp,tarien@v1%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,0,willen@v%pt_3,gon@v%inf,to@prep,bed@n1,he@pron1%nom,willen@v%pt_3,no@adv,lengere@adv%comp,tarien@v1%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,10,Wol,go,to,bedde,he,wol,no,lenger,tarie
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,10,u,S,u,Sx,u,S,u,Sx,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1806,DIFF,,10,,gon@v%inf,to@prep,bed@n1,he@pron1%nom,,no@adv,lengere@adv%comp,tarien@v1%inf
@@ -4505,7 +4505,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Of spices hoote t' encreessen his corage;,||,"Of spices hote,° t’encresen his corage;°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,Of,spices,hoote,t,encreessen,his,corage
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,u,Su,Sx,,uSu,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,of@prep,spice@n1%pl,hot@adj,,his@pron1%gen,corage@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,of@prep,spice@n1%pl,hot@adj,to@part,encresen@v%inf,his@pron1%gen,corage@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,Of,spices,hote,tencresen,his,corage
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,u,Su,Sx,uSu,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1808,DIFF,,10,of@prep,spice@n1%pl,hot@adj,,his@pron1%gen,corage@n
@@ -4513,7 +4513,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And many a letuarie hath he ful fyn,",||,"And many a letuarie° hadde he ful fin,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,And,many,a,letuarie,hath,he,ful,fyn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,,,,,,,,
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,and@conj,mani@gram_adj,a@indef_art,letuarie@n,,he@pron1%nom,ful@adv,fin@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,and@conj,mani@gram_adj,a@indef_art,letuarie@n,haven@v%pr_3,he@pron1%nom,ful@adv,fin@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,And,many,a,letuarie,hadde,he,ful,fin
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,,,,,,,,
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1809,DIFF,,0,and@conj,mani@gram_adj,a@indef_art,letuarie@n,,he@pron1%nom,ful@adv,fin@adj
@@ -4537,7 +4537,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 To eten hem alle he nas no thyng eschu.,||,"To eten hem alle, he nas nothing° eschu.°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,To,eten,hem,alle,he,nas,no,thyng,eschu
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,u,Sx,u,Sx,u,S,u,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,to@part,eten@v%inf,hem@pron%pl_obj,al@gram_adj,he@pron1%nom,ben@v%pt_3_neg,,escheu@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,to@part,eten@v%inf,hem@pron%pl_obj,al@gram_adj,he@pron1%nom,ben@v%pt_3_neg,no@gram_adj,thing@n,escheu@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,To,eten,hem,alle,he,nas,nothing,eschu
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,u,Sx,u,Sx,u,S,uS,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1812,DIFF,,10,to@part,eten@v%inf,hem@pron%pl_obj,al@gram_adj,he@pron1%nom,ben@v%pt_3_neg,,escheu@adj
@@ -4729,7 +4729,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "In trewe wedlok coupled be we tweye,",||,In trewe wedlok wedded be we tweye;
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,In,trewe,wedlok,coupled,be,we,tweye
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,u,Su,Su,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,in@prep,treu@adj,wedlok@n,,ben@v%pr_pl,we@pron%pl_nom,twein@num_n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,in@prep,treu@adj,wedlok@n,couplen@v%ppl,ben@v%pr_pl,we@pron%pl_nom,twein@num_n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,In,trewe,wedlok,wedded,be,we,tweye
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,u,Su,Su,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1836,DIFF,,10,in@prep,treu@adj,wedlok@n,,ben@v%pr_pl,we@pron%pl_nom,twein@num_n
@@ -4865,7 +4865,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "In his nyght-cappe, and with his nekke lene;",||,"In his night cappe, and with his nekke lene;°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,In,his,nyghtcappe,and,with,his,nekke,lene
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,u,S,uSx,u,S,u,Su,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,in@prep,his@pron1%gen,night@n,cappe@n,and@conj,with@prep,his@pron1%gen,nekke@n,lene@adj1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,in@prep,his@pron1%gen,night-cappe@n,and@conj,with@prep,his@pron1%gen,nekke@n,lene@adj1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,In,his,night,cappe,and,with,his,nekke,lene
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,u,S,u,Sx,u,S,u,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1853,DIFF,green,10,in@prep,his@pron1%gen,night@n,cappe@n,and@conj,with@prep,his@pron1%gen,nekke@n,lene@adj1
@@ -4921,7 +4921,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Heeld hire chambre unto the fourthe day,",||,"Holdeth hir° chambre unto the fourthe day,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,Heeld,hire,chambre,unto,the,fourthe,day
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,u,Su,Sx,uS,u,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,,hire@pron1%fem_gen,chaumbre@n,unto@prep,the@def_art,ferthe@num_adj,dai@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,holden@v1%pt_3,hire@pron1%fem_gen,chaumbre@n,unto@prep,the@def_art,ferthe@num_adj,dai@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,Holdeth,hir,chambre,unto,the,fourthe,day
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,uS,u,Sx,uS,u,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1860,DIFF,,10,,hire@pron1%fem_gen,chaumbre@n,unto@prep,the@def_art,ferthe@num_adj,dai@n
@@ -4977,7 +4977,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "That langwissheth for love, as ye shul heere;",||,"That languissheth for love, as ye shul here;"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,That,langwissheth,for,love,as,ye,shul,heere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,u,SuS,u,Sx,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,that@pron,,for@prep,love@n1,as@conj,ye@pron%pl_nom,shulen@v1%pr_pl,heren@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,that@pron,languishen@v%pr_3,for@prep,love@n1,as@conj,ye@pron%pl_nom,shulen@v1%pr_pl,heren@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,That,languissheth,for,love,as,ye,shul,here
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,u,SuS,u,Sx,u,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1867,DIFF,,10,that@pron,,for@prep,love@n1,as@conj,ye@pron%pl_nom,shulen@v1%pr_pl,heren@v%inf
@@ -5001,7 +5001,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Andswere to my demaunde, as in this cas.",||,"Answer to my demaunde,° as in this cas,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,Andswere,to,my,demaunde,as,in,this,cas
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,uSx,u,S,uSx,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,,to@prep,min@pron%gen,demaunde@n,as@conj,in@prep,this@gram_adj,cas@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,answeren@v%imp,to@prep,min@pron%gen,demaunde@n,as@conj,in@prep,this@gram_adj,cas@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,Answer,to,my,demaunde,as,in,this,cas
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,uS,u,S,uSx,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1870,DIFF,,10,,to@prep,min@pron%gen,demaunde@n,as@conj,in@prep,this@gram_adj,cas@n
@@ -5265,7 +5265,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Excused hym by cause of his siknesse,",||,"Excused him bicause of his siknesse,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,Excused,hym,by,cause,of,his,siknesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,uSu,S,u,Sx,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,excusen@v%pt_pl,him@pron%obj,,of@prep,his@pron1%gen,siknesse@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,excusen@v%pt_pl,him@pron%obj,bi@prep,cause@n,of@prep,his@pron1%gen,siknesse@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,Excused,him,bicause,of,his,siknesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,uSu,S,uSx,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1903,DIFF,,10,excusen@v%pt_pl,him@pron%obj,,of@prep,his@pron1%gen,siknesse@n
@@ -5313,7 +5313,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "He is as wys, discreet, and as secree",||,"He is as wis,° discreet, and eek secree°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,He,is,as,wys,discreet,and,as,secree
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,u,S,u,S,uS,u,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,he@pron1%nom,ben@v%pr_3,as@conj,wise@adj,discrete@adj,and@conj,ek@adv,secre@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,he@pron1%nom,ben@v%pr_3,as@conj,wise@adj,discrete@adj,and@conj,as@conj,secre@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,He,is,as,wis,discreet,and,eek,secree
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,u,S,u,S,uS,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1909,DIFF,green,10,he@pron1%nom,ben@v%pr_3,as@conj,wise@adj,discrete@adj,and@conj,ek@adv,secre@adj
@@ -5409,7 +5409,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "At after-mete ye with youre wommen alle,",||,"At after° noon ye, with your wommen alle,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,At,aftermete,ye,with,youre,wommen,alle
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,u,SuSx,u,S,ux,Su,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,at@prep,,,ye@pron%pl_nom,with@prep,your@pron%pl_gen,womman@n%pl,al@gram_adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,at@prep,after-mete@n,ye@pron%pl_nom,with@prep,your@pron%pl_gen,womman@n%pl,al@gram_adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,At,after,noon,ye,with,your,wommen,alle
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,u,Su,S,u,S,u,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1921,DIFF,,10,at@prep,,,ye@pron%pl_nom,with@prep,your@pron%pl_gen,womman@n%pl,al@gram_adj
@@ -5649,7 +5649,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ther as ye woot that every wight moot neede;,||,Theras° ye woot° that every wight mot nede.°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,Ther,as,ye,woot,that,every,wight,moot,neede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,u,S,u,S,u,Sxu,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,ther-as@adv,ye@pron%pl_nom,witen@v1%pr_pl,that@conj,everi@pron_gram_adj,wight@n,moten@v2%pr_3,nede@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,ther@adv,as@conj,ye@pron%pl_nom,witen@v1%pr_pl,that@conj,everi@pron_gram_adj,wight@n,moten@v2%pr_3,nede@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,Theras,ye,woot,that,every,wight,mot,nede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,uS,u,S,u,SuS,u,S,xx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1951,DIFF,green,10,ther-as@adv,ye@pron%pl_nom,witen@v1%pr_pl,that@conj,everi@pron_gram_adj,wight@n,moten@v2%pr_3,nede@adv
@@ -5721,7 +5721,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "He seyde hir clothes dide hym encombraunce,",||,"And seide, hir clothes dide him encombraunce,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,He,seyde,hir,clothes,dide,hym,encombraunce
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,u,Sx,u,Su,Sx,u,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,and@conj,seien@v1%pt_3,hire@pron1%fem_gen,cloth@n%pl,don@v1%pt_3,him@pron%obj,encombraunce@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,he@pron1%nom,seien@v1%pt_3,hire@pron1%fem_gen,cloth@n%pl,don@v1%pt_3,him@pron%obj,encombraunce@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,And,seide,hir,clothes,dide,him,encombraunce
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,u,Sx,u,Su,Sx,u,SuSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1960,DIFF,green,10,and@conj,seien@v1%pt_3,hire@pron1%fem_gen,cloth@n%pl,don@v1%pt_3,him@pron%obj,encombraunce@n
@@ -5777,7 +5777,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Were it by destynee or by aventure,",||,"¶Were it by destinee or aventure,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,Were,it,by,destynee,or,by,aventure
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,ux,S,u,SuS,u,x,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,ben@v%pt_3,hit@pron,bi@prep,destine@n,or@conj,aventure@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,ben@v%pt_3,hit@pron,bi@prep,destine@n,or@conj,bi@prep,aventure@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,Were,it,by,destinee,or,aventure
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,ux,S,u,SuS,u,SuSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1967,DIFF,green,10,ben@v%pt_3,hit@pron,bi@prep,destine@n,or@conj,aventure@n
@@ -5873,7 +5873,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Of pitee of this sike Damyan,||,"For pitee° of this sike Damian,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,Of,pitee,of,this,sike,Damyan
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,,pite@n,of@prep,this@gram_adj,sik@adj,damian@n#propn
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,of@prep,pite@n,of@prep,this@gram_adj,sik@adj,damian@n#propn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,For,pitee,of,this,sike,Damian
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,u,Su,S,u,Su,SuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1979,DIFF,,10,,pite@n,of@prep,this@gram_adj,sik@adj,damian@n#propn
@@ -6025,7 +6025,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ther lakketh noght oonly but day and place,||,"Ther lakketh noght but only day and place,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,Ther,lakketh,noght,oonly,but,day,and,place
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,u,Su,S,uS,u,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,ther@adv,lakken@v%pr_3,nought@pron,but@conj,onli@adv,dai@n,and@conj,place@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,ther@adv,lakken@v%pr_3,nought@pron,onli@adv,but@conj,dai@n,and@conj,place@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,Ther,lakketh,noght,but,only,day,and,place
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,u,Su,S,u,Su,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 1998,DIFF,green,10,ther@adv,lakken@v%pr_3,nought@pron,but@conj,onli@adv,dai@n,and@conj,place@n
@@ -6409,7 +6409,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "He baar alwey of silver a clyket,",||,"He bar alwey of silver a smal cliket,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,He,baar,alwey,of,silver,a,clyket
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,u,S,uS,u,Su,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,he@pron1%nom,beren@v1%pt_3,al-wei@adv,of@prep,silver@n,a@indef_art,,cliket@n1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,he@pron1%nom,beren@v1%pt_3,al-wei@adv,of@prep,silver@n,a@indef_art,cliket@n1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,He,bar,alwey,of,silver,a,smal,cliket
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,u,S,uS,u,Sx,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2046,DIFF,,10,he@pron1%nom,beren@v1%pt_3,al-wei@adv,of@prep,silver@n,a@indef_art,,cliket@n1
@@ -6649,7 +6649,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 That som man bothe hire and hym had slayn.,||,That som man bothe him and hir had slain.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,That,som,man,bothe,hire,and,hym,had,slayn
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,u,S,u,Su,Sx,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,that@conj,som@gram_adj,man@n,bothe@num_conj,him@pron%obj,and@conj,hire@pron2%fem_obj,haven@v%pt_3,slen@v%ppl
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,that@conj,som@gram_adj,man@n,bothe@num_conj,hire@pron2%fem_obj,and@conj,him@pron%obj,haven@v%pt_3,slen@v%ppl
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,That,som,man,bothe,him,and,hir,had,slain
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,u,S,u,Su,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2076,DIFF,green,10,that@conj,som@gram_adj,man@n,bothe@num_conj,him@pron%obj,and@conj,hire@pron2%fem_obj,haven@v%pt_3,slen@v%ppl
@@ -6745,7 +6745,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "That neither in halle, n' yn noon oother hous,",||,"That neither in halle, n&apos;in° noon other hous,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,That,neither,in,halle,n,yn,noon,oother,hous
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,u,Su,S,ux,,S,u,Su,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,that@conj,neither@conj,in@prep,halle@n,,non@gram_adj,other@gram_adj,hous@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,that@conj,neither@conj,in@prep,halle@n,ne@conj1,in@prep,non@gram_adj,other@gram_adj,hous@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,That,neither,in,halle,naposin,noon,other,hous
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,u,Sx,u,Sx,uSu,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2088,DIFF,,10,that@conj,neither@conj,in@prep,halle@n,,non@gram_adj,other@gram_adj,hous@n
@@ -6905,7 +6905,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Thogh thou myghtest se as fer as shippes saille?,||,Thou mightest° see as fer as shippes saille?
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,Thogh,thou,myghtest,se,as,fer,as,shippes,saille
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,u,S,uS,x,u,S,u,Su,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,thou@pron%nom,mouen@v3%pt_2,sen@v1%inf,as@conj,fer@adv,as@conj,ship@n%pl,seilen@v%pr_pl
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,though@conj,thou@pron%nom,mouen@v3%pt_2,sen@v1%inf,as@conj,fer@adv,as@conj,ship@n%pl,seilen@v%pr_pl
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,Thou,mightest,see,as,fer,as,shippes,saille
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,u,Su,S,u,S,u,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2108,DIFF,green,10,thou@pron%nom,mouen@v3%pt_2,sen@v1%inf,as@conj,fer@adv,as@conj,ship@n%pl,seilen@v%pr_pl
@@ -6913,7 +6913,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 For as good is blynd deceyved be,||,"For also good° is blind deceived be,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,9,For,as,good,is,blynd,deceyved,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,9,S,u,S,u,S,uSu,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,9,for@conj,,god@adj,as@conj,blind@adj,deceiven@v%ppl,ben@v%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,9,for@conj,as@conj,god@adj,ben@v%pr_3,blind@adj,deceiven@v%ppl,ben@v%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,10,For,also,good,is,blind,deceived,be
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,10,u,Su,S,u,S,uSu,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2109,DIFF,,10,for@conj,,god@adj,as@conj,blind@adj,deceiven@v%ppl,ben@v%inf
@@ -6921,7 +6921,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 As to be deceyved whan a man may se.,||,As be deceived whan a man may se.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,As,to,be,deceyved,whan,a,man,may,se
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,u,S,u,SuS,u,S,u,S,x
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,as@conj,ben@v%inf,deceiven@v%ppl,whan@adv&conj,a@indef_art,man@n,mouen@v3%pr_3,sen@v1%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,as@conj,to@part,ben@v%inf,deceiven@v%ppl,whan@adv&conj,a@indef_art,man@n,mouen@v3%pr_3,sen@v1%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,As,be,deceived,whan,a,man,may,se
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,u,S,uSu,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2110,DIFF,green,10,as@conj,ben@v%inf,deceiven@v%ppl,whan@adv&conj,a@indef_art,man@n,mouen@v3%pr_3,sen@v1%inf
@@ -7057,7 +7057,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 That Love nyl fynde it out in som manere?,||,That he° nil° finde it out in som manere?
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,That,Love,nyl,fynde,it,out,in,som,manere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,u,Sx,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,that@pron,he@pron1%nom,willen@v%pr_3_neg,finden@v%inf,hit@pron,oute@adv,in@prep,som@gram_adj,manere@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,that@pron,love@n1#propn,willen@v%pr_3_neg,finden@v%inf,hit@pron,oute@adv,in@prep,som@gram_adj,manere@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,That,he,nil,finde,it,out,in,som,manere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2127,DIFF,green,10,that@pron,he@pron1%nom,willen@v%pr_3_neg,finden@v%inf,hit@pron,oute@adv,in@prep,som@gram_adj,manere@n
@@ -7105,7 +7105,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Were passed [of] the month of [Juyn], bifil",||,"Were passed, er the monthe of Juil,° bifil°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,Were,passed,of,the,month,of,Juyn,bifil
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,ux,Su,S,u,S,u,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,ben@v%pt_pl,passen@v%ppl,,the@def_art,month@n,of@prep,,bifallen@v%pt_3
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,ben@v%pt_pl,passen@v%ppl,of@prep,the@def_art,month@n,of@prep,juin@n,bifallen@v%pt_3
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,Were,passed,er,the,monthe,of,Juil,bifil
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,ux,Su,S,u,Sx,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2133,DIFF,,10,ben@v%pt_pl,passen@v%ppl,,the@def_art,month@n,of@prep,,bifallen@v%pt_3
@@ -7137,7 +7137,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 That in a morwe unto his May seith he:,||,That in a morwe° unto this May seith he:
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,That,in,a,morwe,unto,his,May,seith,he
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,u,S,u,Sx,uS,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,that@conj,in@prep,a@indef_art,morwe@n,unto@prep,,mai@n3#propn,seien@v1%pr_3,he@pron1%nom
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,that@conj,in@prep,a@indef_art,morwe@n,unto@prep,his@pron1%gen,mai@n3#propn,seien@v1%pr_3,he@pron1%nom
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,That,in,a,morwe,unto,this,May,seith,he
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,u,S,u,Sx,uS,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2137,DIFF,,10,that@conj,in@prep,a@indef_art,morwe@n,unto@prep,,mai@n3#propn,seien@v1%pr_3,he@pron1%nom
@@ -7345,7 +7345,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Levere ich hadde to dyen on a knyf,||,"Lever ich hadde° dyen on a knif,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,Levere,ich,hadde,to,dyen,on,a,knyf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,uSx,u,Sx,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,lef@adj%comp,ich@pron%nom,haven@v%pt_1,dien@v%inf,on@prep,a@indef_art,knif@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,lef@adj%comp,ich@pron%nom,haven@v%pt_1,to@part,dien@v%inf,on@prep,a@indef_art,knif@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,Lever,ich,hadde,dyen,on,a,knif
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,uS,u,Su,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2163,DIFF,green,10,lef@adj%comp,ich@pron%nom,haven@v%pt_1,dien@v%inf,on@prep,a@indef_art,knif@n
@@ -7393,7 +7393,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Beth to me trewe, and I wol telle yow why.",||,"Beth to me trewe, and I shal telle yow why."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,Beth,to,me,trewe,and,I,wol,telle,yow,why
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,u,S,u,Sx,u,S,u,Sx,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,ben@v%imp,to@prep,me@pron2%obj,treu@adj,and@conj,ich@pron%nom,,tellen@v%inf,you@pron%pl_obj,whi@pron
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,ben@v%imp,to@prep,me@pron2%obj,treu@adj,and@conj,ich@pron%nom,willen@v%pr_1,tellen@v%inf,you@pron%pl_obj,whi@pron
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,Beth,to,me,trewe,and,I,shal,telle,yow,why
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,u,S,u,Sx,u,S,u,Sx,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2169,DIFF,,10,ben@v%imp,to@prep,me@pron2%obj,treu@adj,and@conj,ich@pron%nom,,tellen@v%inf,you@pron%pl_obj,whi@pron
@@ -7409,7 +7409,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "First, love of Crist, and to youreself honour,",||,"First, love of Crist, and to your self honour,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,First,love,of,Crist,and,to,youreself,honour
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,u,Sx,u,S,u,S,uxS,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,first@adv,love@n1,of@prep,crist@n#propn,and@conj,to@prep,your@pron%pl_gen,self@adj,honour@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,first@adv,love@n1,of@prep,crist@n#propn,and@conj,to@prep,yourself@pron,honour@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,First,love,of,Crist,and,to,your,self,honour
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,u,Sx,u,S,u,S,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2171,DIFF,green,10,first@adv,love@n1,of@prep,crist@n#propn,and@conj,to@prep,your@pron%pl_gen,self@adj,honour@n
@@ -7801,7 +7801,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Phebus hath of gold his stremes doun ysent,||,"Phebus° of gold his stremes° doun hath sent,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,Phebus,hath,of,gold,his,stremes,doun,ysent
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,uS,u,S,u,S,ux,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,phebus@n#propn,of@prep,gold@n,his@pron1%gen,strem@n%pl,doun@adv,haven@v%pr_3,isenden@v%ppl
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,phebus@n#propn,haven@v%pr_3,of@prep,gold@n,his@pron1%gen,strem@n%pl,doun@adv,isenden@v%ppl
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,Phebus,of,gold,his,stremes,doun,hath,sent
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,uS,u,S,u,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2220,DIFF,green,10,phebus@n#propn,of@prep,gold@n,his@pron1%gen,strem@n%pl,doun@adv,haven@v%pr_3,isenden@v%ppl
@@ -7841,7 +7841,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And so bifel, that brighte morwe-tyde",||,"And so bifel that brighte morwe tide,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,And,so,bifel,that,brighte,morwetyde
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,u,S,uS,u,Su,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@art&gram_adj,bright@adj,,tide@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@art&gram_adj,bright@adj,morwe-tide@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,And,so,bifel,that,brighte,morwe,tide
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,u,S,uS,u,Su,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2225,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@art&gram_adj,bright@adj,,tide@n
@@ -7857,7 +7857,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Pluto, that is kyng of Fayerye,",||,"Pluto, that is the king of faiërie,°"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,0,Pluto,that,is,kyng,of,Fayerye
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,0,,,,,,
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,0,pluto@n#propn,that@pron,ben@v%pr_3,,king@n,of@prep,fairie@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,0,pluto@n#propn,that@pron,ben@v%pr_3,king@n,of@prep,fairie@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,9,Pluto,that,is,the,king,of,fairie
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,9,Su,S,u,S,u,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2227,DIFF,,9,pluto@n#propn,that@pron,ben@v%pr_3,,king@n,of@prep,fairie@n
@@ -7897,7 +7897,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "In Claudyan ye may the stories rede,",||,"In Claudian ye may the story rede,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,In,Claudyan,ye,may,the,stories,rede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,u,SuS,u,S,u,SuS,xx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,in@prep,claudian@n#propn,ye@pron%pl_nom,mouen@v3%pr_pl,the@def_art,storie@n1,reden@v1%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,in@prep,claudian@n#propn,ye@pron%pl_nom,mouen@v3%pr_pl,the@def_art,storie@n1%pl,reden@v1%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,In,Claudian,ye,may,the,story,rede
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,u,SuS,u,S,u,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2232,DIFF,green,10,in@prep,claudian@n#propn,ye@pron%pl_nom,mouen@v3%pr_pl,the@def_art,storie@n1,reden@v1%inf
@@ -7945,7 +7945,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Th' experience so preveth every day,||,Th’experience so preveth° every day
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,Th,experience,so,preveth,every,day
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,,uSuSx,u,Su,Sxu,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,,so@adv,preven@v%pr_3,everi@pron_gram_adj,dai@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,the@def_art,experience@n,so@adv,preven@v%pr_3,everi@pron_gram_adj,dai@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,Thexperience,so,preveth,every,day
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,uSuSx,u,Su,Sxu,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2238,DIFF,,10,,so@adv,preven@v%pr_3,everi@pron_gram_adj,dai@n
@@ -7953,7 +7953,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 The tresons whiche that wommen doon to man.,||,The treson° whiche that women doon to man.
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,The,tresons,whiche,that,wommen,doon,to,man
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,u,Su,Sx,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,the@def_art,treisoun@n,which@pron,that@pron,womman@n%pl,don@v1%pr_pl,to@prep,man@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,the@def_art,treisoun@n%pl,which@pron,that@pron,womman@n%pl,don@v1%pr_pl,to@prep,man@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,The,treson,whiche,that,women,doon,to,man
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,u,Su,Sx,u,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2239,DIFF,green,10,the@def_art,treisoun@n,which@pron,that@pron,womman@n%pl,don@v1%pr_pl,to@prep,man@n
@@ -7961,7 +7961,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Ten hondred thousand [tales] tellen I kan,||,Ten hondred thousand stories telle I can
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,Ten,hondred,thousand,tales,tellen,I,kan
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,u,Su,Su,Su,Sx,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,ten@num_adj,hundred@num_adj,thousand@num_adj,storie@n1%pl,,ich@pron%nom,connen@v%pr_1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,ten@num_adj,hundred@num_adj,thousand@num_adj,tale@n%pl,tellen@v%inf,ich@pron%nom,connen@v%pr_1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,Ten,hondred,thousand,stories,telle,I,can
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,u,Sx,uS,uSu,Sx,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2240,DIFF,,10,ten@num_adj,hundred@num_adj,thousand@num_adj,storie@n1%pl,,ich@pron%nom,connen@v%pr_1
@@ -7977,7 +7977,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "O Salomon, wys, and richest of richesse,",||,"O Salomon, wis, richest of richesse,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,O,Salomon,wys,and,richest,of,richesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,u,SuS,u,S,ux,S,uSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,o@interj,salomon@n#propn,wise@adj,riche@adj%sup,of@prep,richesse@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,o@interj,salomon@n#propn,wise@adj,and@conj,riche@adj%sup,of@prep,richesse@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,O,Salomon,wis,richest,of,richesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,u,SuS,u,Su,S,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2242,DIFF,green,10,o@interj,salomon@n#propn,wise@adj,riche@adj%sup,of@prep,richesse@n
@@ -8041,7 +8041,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And Jhesus, filius Syrak, as I gesse,",||,"And Jesus filius Syrak, as I gesse,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,And,Jhesus,filius,Syrak,as,I,gesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,u,xS,uSu,Su,S,u,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,and@conj,,filius@lat_n,sirak@n#propn,as@conj,ich@pron%nom,gessen@v%pr_1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,and@conj,jesu@n2#propn,filius@lat_n,sirak@n#propn,as@conj,ich@pron%nom,gessen@v%pr_1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,And,Jesus,filius,Syrak,as,I,gesse
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,u,xS,uSu,Su,S,u,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2250,DIFF,,10,and@conj,,filius@lat_n,sirak@n#propn,as@conj,ich@pron%nom,gessen@v%pr_1
@@ -8169,7 +8169,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "That I shal yeven hire suffisant answere,",||,"That I shal yeve° hir suffisant° answere,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,That,I,shal,yeven,hire,suffisant,answere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,u,S,u,Su,Sx,uSu,Sxx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,that@conj,ich@pron%nom,shulen@v1%pr_1,,hire@pron2%fem_obj,suffisaunt@adj,answere@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,that@conj,ich@pron%nom,shulen@v1%pr_1,yeven@v%inf,hire@pron2%fem_obj,suffisaunt@adj,answere@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,That,I,shal,yeve,hir,suffisant,answere
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,u,S,u,Sx,u,SuS,uSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2266,DIFF,,10,that@conj,ich@pron%nom,shulen@v1%pr_1,,hire@pron2%fem_obj,suffisaunt@adj,answere@n
@@ -8313,7 +8313,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 The Romayn geestes eek make remembrance,||,The Romain gestes° maken remembrance°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,The,Romayn,geestes,eek,make,remembrance
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,u,Su,Su,S,ux,SuSx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,the@def_art,romain@adj,geste@n1%pl,,remembraunce@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,the@def_art,romain@adj,geste@n1%pl,ek@adv,maken@v1%pr_pl,remembraunce@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,The,Romain,gestes,maken,remembrance
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,u,Su,Su,Su,SuSx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2284,DIFF,,10,the@def_art,romain@adj,geste@n1%pl,,remembraunce@n
@@ -8329,7 +8329,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "But, sire, ne be nat wrooth, al be it so,",||,"But sire, ne be nat wrooth,° albeit so,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,But,sire,ne,be,nat,wrooth,al,be,it,so
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,u,Sx,u,S,u,S,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,but@conj,sire@n,ne@adv,ben@v%imp,not@adv,wroth@adj,,so@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,but@conj,sire@n,ne@adv,ben@v%imp,not@adv,wroth@adj,al@conj,ben@v%pr_3,hit@pron,so@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,But,sire,ne,be,nat,wrooth,albeit,so
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,u,Su,S,u,S,u,Su,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2286,DIFF,,10,but@conj,sire@n,ne@adv,ben@v%imp,not@adv,wroth@adj,,so@adv
@@ -8361,7 +8361,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Nis noon but God, but neither he ne she.",||,"Nis noon but° God, that sit° in Trinitee."
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,Nis,noon,but,God,but,neither,he,ne,she
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,ben@v%pr_3_neg,non@pron,but@conj,god@n1#propn,,,ne@conj1,trinite@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,ben@v%pr_3_neg,non@pron,but@conj,god@n1#propn,but@conj,neither@conj,he@pron1%indef,ne@conj1,she@pron%indef
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,Nis,noon,but,God,that,sit,in,Trinitee
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,u,S,u,S,u,S,u,SuS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2290,DIFF,,10,ben@v%pr_3_neg,non@pron,but@conj,god@n1#propn,,,ne@conj1,trinite@n
@@ -8441,7 +8441,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "And if God ne hadde, as seith the book,",||,"And if that God ne hadde,° as seith the book,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,9,And,if,God,ne,hadde,as,seith,the,book
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,9,S,u,S,u,Sx,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,9,and@conj,if@conj,,god@n1#propn,ne@adv,haven@v%pt_3,as@conj,seien@v1%pr_3,the@def_art,bok@n1
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,9,and@conj,if@conj,god@n1#propn,ne@adv,haven@v%pt_3,as@conj,seien@v1%pr_3,the@def_art,bok@n1
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,10,And,if,that,God,ne,hadde,as,seith,the,book
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,10,u,S,u,S,u,Sx,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2300,DIFF,,10,and@conj,if@conj,,god@n1#propn,ne@adv,haven@v%pt_3,as@conj,seien@v1%pr_3,the@def_art,bok@n1
@@ -8649,7 +8649,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 Where as this Damyan sitteth ful myrie,||,Wheras° this Damian sitteth ful mirie°
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,Where,as,this,Damyan,sitteth,ful,myrie
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,ux,S,u,SuS,ux,S,uS
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,wher-as@adv,this@gram_adj,damian@n#propn,sitten@v%pr_3,ful@adv,mirie@adv
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,wher@adv&conj,as@conj,this@gram_adj,damian@n#propn,sitten@v%pr_3,ful@adv,mirie@adv
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,Wheras,this,Damian,sitteth,ful,mirie
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,uS,u,SuS,ux,S,uS
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2326,DIFF,green,10,wher-as@adv,this@gram_adj,damian@n#propn,sitten@v%pr_3,ful@adv,mirie@adv
@@ -8761,7 +8761,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 """For I am blynd!"" ""Ye, sire, no fors,"" quod she;",||,"“That I am blind.” “Ye, sir, no fors,”° quod she:"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,For,I,am,blynd,Ye,sire,no,fors,quod,she
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,u,S,u,S,u,Sx,u,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,,ich@pron%nom,ben@v%pr_1,blind@adj,ye@adv,sire@n,no@gram_adj,force@n,quethen@v%pt_3,she@pron%nom
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,for@conj,ich@pron%nom,ben@v%pr_1,blind@adj,ye@adv,sire@n,no@gram_adj,force@n,quethen@v%pt_3,she@pron%nom
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,That,I,am,blind,Ye,sir,no,fors,quod,she
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,u,S,u,S,u,S,u,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2340,DIFF,,10,,ich@pron%nom,ben@v%pr_1,blind@adj,ye@adv,sire@n,no@gram_adj,force@n,quethen@v%pt_3,she@pron%nom
@@ -8769,7 +8769,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 """But wolde ye vouche sauf, for Goddes sake,",||,"“But wold ye vouchesauf,° for Goddes sake,"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,But,wolde,ye,vouche,sauf,for,Goddes,sake
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,u,Sx,u,Su,S,u,Su,Sx
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,but@conj,willen@v%pt_pl,ye@pron%pl_nom,,for@prep,god@n1#propn%gen,sake@n
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,but@conj,willen@v%pt_pl,ye@pron%pl_nom,vouchen@v%inf,sauf@adv,for@prep,god@n1#propn%gen,sake@n
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,But,wold,ye,vouchesauf,for,Goddes,sake
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,u,S,u,SuS,u,Su,Sx
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2341,DIFF,,10,but@conj,willen@v%pt_pl,ye@pron%pl_nom,,for@prep,god@n1#propn%gen,sake@n
@@ -9025,7 +9025,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 "Was no thyng bet, to make yow to see,",||,Was nothing° bet° to make yow to see
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,Was,no,thyng,bet,to,make,yow,to,see
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,ben@v%pt_3,,bet@adj%comp,to@part,maken@v1%inf,you@pron%pl_obj,to@part,sen@v1%inf
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,ben@v%pt_3,no@gram_adj,thing@n,bet@adj%comp,to@part,maken@v1%inf,you@pron%pl_obj,to@part,sen@v1%inf
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,Was,nothing,bet,to,make,yow,to,see
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,u,Su,S,u,Su,S,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2373,DIFF,,10,ben@v%pt_3,,bet@adj%comp,to@part,maken@v1%inf,you@pron%pl_obj,to@part,sen@v1%inf
@@ -9081,7 +9081,7 @@ data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT
 """Thanne is,"" quod she, ""my medicyne fals;",||,"“Thanne is,” quod she, “my medicine al fals;"
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,Thanne,is,quod,she,my,medicyne,fals
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,ux,S,u,S,u,SuSu,S
-data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,thanne@adv,ben@v%pr_3,quethen@v%pt_3,she@pron%nom,min@pron%gen,medicine@n,,fals@adj
+data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,thanne@adv,ben@v%pr_3,quethen@v%pt_3,she@pron%nom,min@pron%gen,medicine@n,fals@adj
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,Thanne,is,quod,she,my,medicine,al,fals
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,ux,S,u,S,u,SuSx,u,S
 data/riverside_cats/MerT_riv.cat,data/oxford_txts/MerT_oxford.txt,data/csvs/MerT,The Merchant's Tale 2380,DIFF,,10,thanne@adv,ben@v%pr_3,quethen@v%pt_3,she@pron%nom,min@pron%gen,medicine@n,,fals@adj

@@ -65,7 +65,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "If that men asked hym, in certein houres",||,"If that men axed him in certein houres,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,If,that,men,asked,hym,in,certein,houres
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,if@conj,that@part,man@n%pl,,him@pron%obj,in@prep,certain@adj,houre@n%pl
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,if@conj,that@part,man@n%pl,asken@v%pt_pl,him@pron%obj,in@prep,certain@adj,houre@n%pl
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,If,that,men,axed,him,in,certein,houres
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,u,S,u,Su,S,u,Su,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3195,DIFF,,10,if@conj,that@part,man@n%pl,,him@pron%obj,in@prep,certain@adj,houre@n%pl
@@ -81,7 +81,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Or if men asked hym what sholde bifalle,||,Or if men axed him what shold bifalle
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,Or,if,men,asked,hym,what,sholde,bifalle
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,u,S,u,Su,S,u,Sx,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,or@conj,if@conj,man@n%pl,,him@pron%obj,what@pron,shulen@v1%pt_3,bifallen@v%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,or@conj,if@conj,man@n%pl,asken@v%pt_pl,him@pron%obj,what@pron,shulen@v1%pt_3,bifallen@v%inf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,Or,if,men,axed,him,what,shold,bifalle
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,u,S,u,Su,S,u,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3197,DIFF,,10,or@conj,if@conj,man@n%pl,,him@pron%obj,what@pron,shulen@v1%pt_3,bifallen@v%inf
@@ -185,7 +185,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "His augrym stones layen faire apart,",||,His augrimstones° layen faire apart
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,His,augrym,stones,layen,faire,apart
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,u,Su,Su,Su,Sx,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,his@pron1%gen,,lien@v1%pt_pl,faire@adv,apart@adv
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,his@pron1%gen,augrim@n#adj,ston@n%pl,lien@v1%pt_pl,faire@adv,apart@adv
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,His,augrimstones,layen,faire,apart
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,u,SuSu,Su,Sx,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3210,DIFF,,10,his@pron1%gen,,lien@v1%pt_pl,faire@adv,apart@adv
@@ -217,7 +217,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 On which he made a-nyghtes melodie,||,On which he made a nightes° melodie
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,On,which,he,made,anyghtes,melodie
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,u,S,u,Sx,uSu,SuS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,on@prep,which@pron,he@pron1%nom,maken@v1%pt_3,,anightes@adv,melodie@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,on@prep,which@pron,he@pron1%nom,maken@v1%pt_3,anightes@adv,melodie@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,On,which,he,made,a,nightes,melodie
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,u,S,u,Sx,u,Su,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3214,DIFF,,10,on@prep,which@pron,he@pron1%nom,maken@v1%pt_3,,anightes@adv,melodie@n
@@ -393,7 +393,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 A barmclooth as whit as morne milk,||,A barmclooth° eek as whit as morne milk
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,9,A,barmclooth,as,whit,as,morne,milk
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,9,S,uS,u,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,9,a@indef_art,barmcloth@n,ek@adv,as@conj,whit@adj,as@conj,morn@n#adj,milk@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,9,a@indef_art,barmcloth@n,as@conj,whit@adj,as@conj,morn@n#adj,milk@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,10,A,barmclooth,eek,as,whit,as,morne,milk
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,10,u,Su,S,u,S,u,Su,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3236,DIFF,green,10,a@indef_art,barmcloth@n,ek@adv,as@conj,whit@adj,as@conj,morn@n#adj,milk@n
@@ -817,7 +817,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "And spak so faire, and profred him so faste,",||,"And spak so faire, and profred° hir so faste,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,And,spak,so,faire,and,profred,him,so,faste
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,u,S,u,Sx,u,Su,S,u,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,and@conj,speken@v%pt_3,so@adv,faire@adv,and@conj,profren@v%pt_3,,so@adv,faste@adv
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,and@conj,speken@v%pt_3,so@adv,faire@adv,and@conj,profren@v%pt_3,him@pron%obj,so@adv,faste@adv
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,And,spak,so,faire,and,profred,hir,so,faste
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,u,S,u,Sx,u,Su,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3289,DIFF,,10,and@conj,speken@v%pt_3,so@adv,faire@adv,and@conj,profren@v%pt_3,,so@adv,faste@adv
@@ -961,7 +961,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Thanne fil it thus, that to the paryssh chirche,",||,"¶Than fil it thus, that to the parish-chirche,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,Thanne,fil,it,thus,that,to,the,paryssh,chirche
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,ux,S,u,S,u,S,u,Su,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,thanne@adv,fallen@v%pt_3,hit@pron,thus@adv,that@conj,to@prep,the@def_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,thanne@adv,fallen@v%pt_3,hit@pron,thus@adv,that@conj,to@prep,the@def_art,parishe@n#adj,chirche@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,Than,fil,it,thus,that,to,the,parishchirche
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,u,S,u,S,u,S,u,SuSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3307,DIFF,,10,thanne@adv,fallen@v%pt_3,hit@pron,thus@adv,that@conj,to@prep,the@def_art,
@@ -1001,7 +1001,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Now was ther of that chirche a parissh clerk,",||,"Now was ther of that chirche a parish-clerk,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,Now,was,ther,of,that,chirche,a,parissh,clerk
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,u,S,u,S,u,Sx,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,nou@adv,ben@v%pt_3,ther@adv,of@prep,that@art&gram_adj,chirche@n,a@indef_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,nou@adv,ben@v%pt_3,ther@adv,of@prep,that@art&gram_adj,chirche@n,a@indef_art,parishe@n#adj,clerk@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,Now,was,ther,of,that,chirche,a,parishclerk
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,u,S,u,S,u,Sx,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3312,DIFF,,10,nou@adv,ben@v%pt_3,ther@adv,of@prep,that@art&gram_adj,chirche@n,a@indef_art,
@@ -1121,7 +1121,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And maken a chartre of lond or acquitaunce.,||,And make a chartre of lond or acquitaunce.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,And,maken,a,chartre,of,lond,or,acquitaunce
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,u,Sx,u,Sx,u,S,u,SuSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,and@conj,,a@indef_art,chartre@n1,of@prep,lond@n,or@conj,aquitaunce@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,and@conj,maken@v1%inf,a@indef_art,chartre@n1,of@prep,lond@n,or@conj,aquitaunce@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,And,make,a,chartre,of,lond,or,acquitaunce
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,u,Sx,u,Sx,u,S,u,SuSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3327,DIFF,,10,and@conj,,a@indef_art,chartre@n1,of@prep,lond@n,or@conj,aquitaunce@n
@@ -1161,7 +1161,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Therto he song som tyme a loud quynyble;,||,Therto he song somtime a loud quinible;°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,Therto,he,song,som,tyme,a,loud,quynyble
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,uS,u,S,u,Sx,u,S,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,ther-to@adv,he@pron1%nom,singen@v%pt_3,som-time@adv,a@indef_art,loud@adj,quinible@adj#n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,ther-to@adv,he@pron1%nom,singen@v%pt_3,som@gram_adj,time@n,a@indef_art,loud@adj,quinible@adj#n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,Therto,he,song,somtime,a,loud,quinible
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,uS,u,S,uSx,u,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3332,DIFF,green,10,ther-to@adv,he@pron1%nom,singen@v%pt_3,som-time@adv,a@indef_art,loud@adj,quinible@adj#n
@@ -1169,7 +1169,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And as wel koude he pleye on a giterne.,||,And as wel coude he pleye on his giterne.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,And,as,wel,koude,he,pleye,on,a,giterne
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,and@conj,as@conj,wel@adv,connen@v%pt_3,he@pron1%nom,pleien@v1%inf,on@prep,his@pron1%gen,giterne@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,and@conj,as@conj,wel@adv,connen@v%pt_3,he@pron1%nom,pleien@v1%inf,on@prep,a@indef_art,giterne@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,And,as,wel,coude,he,pleye,on,his,giterne
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3333,DIFF,green,10,and@conj,as@conj,wel@adv,connen@v%pt_3,he@pron1%nom,pleien@v1%inf,on@prep,his@pron1%gen,giterne@n
@@ -1289,7 +1289,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "This parissh clerk, this joly Absolon,",||,"This parish-clerk, this joly Absolon,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,This,parissh,clerk,this,joly,Absolon
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,u,Su,S,u,Su,SuS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,this@gram_adj,,this@gram_adj,joli@adj,absolon@n1#propn
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,this@gram_adj,parishe@n#adj,clerk@n,this@gram_adj,joli@adj,absolon@n1#propn
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,This,parishclerk,this,joly,Absolon
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,u,SuS,u,Su,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3348,DIFF,,10,this@gram_adj,,this@gram_adj,joli@adj,absolon@n1#propn
@@ -1297,7 +1297,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Hath in his herte swich a love-longynge,||,"Hath in his herte swich a luf-longinge,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,Hath,in,his,herte,swich,a,lovelongynge
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,u,S,u,Sx,u,S,uSuSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,haven@v%pr_3,in@prep,his@pron1%gen,herte@n,swich@gram_adj,a@indef_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,haven@v%pr_3,in@prep,his@pron1%gen,herte@n,swich@gram_adj,a@indef_art,love-longinge@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,Hath,in,his,herte,swich,a,luflonginge
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,u,S,u,Su,S,u,SuSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3349,DIFF,,10,haven@v%pr_3,in@prep,his@pron1%gen,herte@n,swich@gram_adj,a@indef_art,
@@ -1305,7 +1305,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 That of no wyf took he noon offrynge;,||,That of no wif ne took he noon offringe;
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,9,That,of,no,wyf,took,he,noon,offrynge
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,9,S,u,S,u,S,u,S,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,9,that@conj,of@prep,no@gram_adj,wif@n,,taken@v%pt_3,he@pron1%nom,non@gram_adj,offringe@ger
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,9,that@conj,of@prep,no@gram_adj,wif@n,taken@v%pt_3,he@pron1%nom,non@gram_adj,offringe@ger
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,10,That,of,no,wif,ne,took,he,noon,offringe
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,10,u,S,u,S,u,S,u,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3350,DIFF,,10,that@conj,of@prep,no@gram_adj,wif@n,,taken@v%pt_3,he@pron1%nom,non@gram_adj,offringe@ger
@@ -1457,7 +1457,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 """Yis, God woot, John, I heere it every deel.""",||,"“Yis, God wot,° John, I here it everydel.”°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,Yis,God,woot,John,I,heere,it,every,deel
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,u,S,u,S,u,Sx,u,Sxu,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,yis@adv,god@n1#propn,witen@v1%pr_3,john@n2#propn,ich@pron%nom,heren@v%pr_1,hit@pron,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,yis@adv,god@n1#propn,witen@v1%pr_3,john@n2#propn,ich@pron%nom,heren@v%pr_1,hit@pron,everi@pron_gram_adj,del@n2
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,Yis,God,wot,John,I,here,it,everydel
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,u,S,u,S,u,Sx,u,SxuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3369,DIFF,,10,yis@adv,god@n1#propn,witen@v1%pr_3,john@n2#propn,ich@pron%nom,heren@v%pr_1,hit@pron,
@@ -1497,7 +1497,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "He kembeth his lokkes brode, and made hym gay;",||,"He kembed° hise lokkes brode, and made him gay;"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,He,kembeth,his,lokkes,brode,and,made,hym,gay
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,u,Su,S,ux,Sx,u,Sx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,he@pron1%nom,,his@pron1%gen,lok@n1%pl,brod@adj,and@conj,maken@v1%pt_3,him@pron%obj,gai@adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,he@pron1%nom,kemben@v%pr_3,his@pron1%gen,lok@n1%pl,brod@adj,and@conj,maken@v1%pt_3,him@pron%obj,gai@adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,He,kembed,hise,lokkes,brode,and,made,him,gay
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,u,Su,Sx,ux,Sx,u,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3374,DIFF,,10,he@pron1%nom,,his@pron1%gen,lok@n1%pl,brod@adj,and@conj,maken@v1%pt_3,him@pron%obj,gai@adj
@@ -1577,7 +1577,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 He pleyeth Herodes upon a scaffold hye.,||,He pleyeth Herodes on a scaffold hie.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,He,pleyeth,Herodes,upon,a,scaffold,hye
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,u,Su,xSx,uS,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,he@pron1%nom,pleien@v1%pr_3,herodes@n#propn,,a@indef_art,scaffold@n,heigh@adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,he@pron1%nom,pleien@v1%pr_3,herodes@n#propn,upon@prep,a@indef_art,scaffold@n,heigh@adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,He,pleyeth,Herodes,on,a,scaffold,hie
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,u,Su,Sux,S,u,Su,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3384,DIFF,,10,he@pron1%nom,pleien@v1%pr_3,herodes@n#propn,,a@indef_art,scaffold@n,heigh@adj
@@ -1609,7 +1609,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 He ne hadde for his labour but a scorn.,||,He nadde° for his labour but° a scorn;
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,He,ne,hadde,for,his,labour,but,a,scorn
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,u,S,ux,S,u,Su,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,he@pron1%nom,,for@prep,his@pron1%gen,labour@n,but@conj,a@indef_art,scorn@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,he@pron1%nom,ne@adv,haven@v%pt_3,for@prep,his@pron1%gen,labour@n,but@conj,a@indef_art,scorn@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,He,nadde,for,his,labour,but,a,scorn
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,u,Su,S,u,Su,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3388,DIFF,,10,he@pron1%nom,,for@prep,his@pron1%gen,labour@n,but@conj,a@indef_art,scorn@n
@@ -1665,7 +1665,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "By cause that he fer was from hire sight,",||,"Bicause that he fer was from hir sighte,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,By,cause,that,he,fer,was,from,hire,sight
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,u,Sx,u,S,u,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,,that@part,he@pron1%nom,fer@adv,ben@v%pt_3,from@prep,hire@pron1%fem_gen,sighte@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,bi@prep,cause@n,that@part,he@pron1%nom,fer@adv,ben@v%pt_3,from@prep,hire@pron1%fem_gen,sighte@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,Bicause,that,he,fer,was,from,hir,sighte
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,uSu,S,u,S,u,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3395,DIFF,,10,,that@part,he@pron1%nom,fer@adv,ben@v%pt_3,from@prep,hire@pron1%fem_gen,sighte@n
@@ -1761,7 +1761,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 For this was his desir and hire also.,||,For this was hir desir and his also.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,For,this,was,his,desir,and,hire,also
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,u,S,u,S,uS,u,Sx,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,for@conj,this@pron,ben@v%pt_3,hire@pron1%fem_gen,desir@n,and@conj,his@pron1%gen,as@conj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,for@conj,this@pron,ben@v%pt_3,his@pron1%gen,desir@n,and@conj,hire@pron1%fem_gen,as@conj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,For,this,was,hir,desir,and,his,also
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,u,S,u,S,uS,u,S,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3407,DIFF,green,10,for@conj,this@pron,ben@v%pt_3,hire@pron1%fem_gen,desir@n,and@conj,his@pron1%gen,as@conj
@@ -1985,7 +1985,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "And at the chambre dore whil that he stood,",||,"And at the chambre-dore, whil that he stood,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,And,at,the,chambre,dore,whil,that,he,stood
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,u,S,u,Su,Sx,u,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,and@conj,at@prep,the@def_art,,whil@conj,that@part,he@pron1%nom,stonden@v1%pt_3
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,and@conj,at@prep,the@def_art,chaumbre@n,dore@n1,whil@conj,that@part,he@pron1%nom,stonden@v1%pt_3
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,And,at,the,chambredore,whil,that,he,stood
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,u,S,u,SuSx,u,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3435,DIFF,,10,and@conj,at@prep,the@def_art,,whil@conj,that@part,he@pron1%nom,stonden@v1%pt_3
@@ -2049,7 +2049,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And at the laste he hadde of hym a sight.,||,And atte laste he hadde of him a sighte.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,And,at,the,laste,he,hadde,of,hym,a,sight
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,u,S,u,Sx,u,Sx,u,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,and@conj,at@prep,laste@adj#n%sup,he@pron1%nom,haven@v%pt_3,of@prep,him@pron%obj,a@indef_art,sighte@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,and@conj,at@prep,the@def_art,laste@adj#n%sup,he@pron1%nom,haven@v%pt_3,of@prep,him@pron%obj,a@indef_art,sighte@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,And,atte,laste,he,hadde,of,him,a,sighte
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,u,Su,Sx,u,Sx,u,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3443,DIFF,green,10,and@conj,at@prep,laste@adj#n%sup,he@pron1%nom,haven@v%pt_3,of@prep,him@pron%obj,a@indef_art,sighte@n
@@ -2057,7 +2057,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "This Nicholas sat evere capyng upright,",||,"This Nicholas sat caping° ever uprighte,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,This,Nicholas,sat,evere,capyng,upright
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,u,SuS,u,Sxx,uS,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,this@gram_adj,nicholas@n1#propn,sitten@v%pt_3,capen@v%prp_abs,ever@adv,uprighte@adv
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,this@gram_adj,nicholas@n1#propn,sitten@v%pt_3,ever@adv,capen@v%prp_abs,uprighte@adv
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,This,Nicholas,sat,caping,ever,uprighte
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,u,SuS,u,Su,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3444,DIFF,green,10,this@gram_adj,nicholas@n1#propn,sitten@v%pt_3,capen@v%prp_abs,ever@adv,uprighte@adv
@@ -2217,7 +2217,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "If that I may, by Jhesus, hevene kyng!",||,"If that I may, by Jesus, heven king!"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,If,that,I,may,by,Jhesus,hevene,kyng
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,u,S,u,S,u,Su,Sux,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,if@conj,that@part,ich@pron%nom,mouen@v3%pr_1,bi@prep,,heven@n#adj,king@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,if@conj,that@part,ich@pron%nom,mouen@v3%pr_1,bi@prep,jesu@n1#propn,heven@n#adj,king@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,If,that,I,may,by,Jesus,heven,king
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,u,S,u,S,u,Su,Su,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3464,DIFF,,10,if@conj,that@part,ich@pron%nom,mouen@v3%pr_1,bi@prep,,heven@n#adj,king@n
@@ -2249,7 +2249,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And to the chambre dore he gan hym dresse.,||,And to the chambre-dore he gan him dresse.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,And,to,the,chambre,dore,he,gan,hym,dresse
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,u,S,u,Su,Sx,u,S,u,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,and@conj,to@prep,the@def_art,,he@pron1%nom,ginnen@v%pt_3,him@pron%obj,dressen@v%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,and@conj,to@prep,the@def_art,chaumbre@n,dore@n1,he@pron1%nom,ginnen@v%pt_3,him@pron%obj,dressen@v%inf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,And,to,the,chambredore,he,gan,him,dresse
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,u,S,u,SuSx,u,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3468,DIFF,,10,and@conj,to@prep,the@def_art,,he@pron1%nom,ginnen@v%pt_3,him@pron%obj,dressen@v%inf
@@ -2265,7 +2265,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And by the haspe he haaf it of atones;,||,And by the haspe° he haf° it up atones;
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,And,by,the,haspe,he,haaf,it,of,atones
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,and@conj,bi@prep,the@def_art,haspe@n,he@pron1%nom,heven@v%pt_3,hit@pron,,at_ones@adv
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,and@conj,bi@prep,the@def_art,haspe@n,he@pron1%nom,heven@v%pt_3,hit@pron,of@adv,at_ones@adv
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,And,by,the,haspe,he,haf,it,up,atones
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3470,DIFF,,10,and@conj,bi@prep,the@def_art,haspe@n,he@pron1%nom,heven@v%pt_3,hit@pron,,at_ones@adv
@@ -2289,7 +2289,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And evere caped upward into the eir.,||,And ever caped up into the eir.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,And,evere,caped,upward,into,the,eir
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,u,Sux,Sx,uS,uS,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,and@conj,ever@adv,capen@v%pt_3,,in-to@prep,the@def_art,air@n1
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,and@conj,ever@adv,capen@v%pt_3,upward@adv,in-to@prep,the@def_art,air@n1
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,And,ever,caped,up,into,the,eir
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,u,Su,Su,S,uS,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3473,DIFF,,10,and@conj,ever@adv,capen@v%pt_3,,in-to@prep,the@def_art,air@n1
@@ -2393,7 +2393,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Where wentestow, Seinte Petres soster?""",||,Where wentestow° thou Seint Petres soster?”°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,9,Where,wentestow,Seinte,Petres,soster
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,9,Sx,uSu,Sx,uS,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,9,wher@adv&conj,wenden@v%pt_2_pron,thou@pron%nom,seinte@adj,peter@n1#propn%gen,suster@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,9,wher@adv&conj,wenden@v%pt_2_pron,seinte@adj,peter@n1#propn%gen,suster@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,10,Where,wentestow,thou,Seint,Petres,soster
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,10,ux,SuS,u,S,uS,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3486,DIFF,green,10,wher@adv&conj,wenden@v%pt_2_pron,thou@pron%nom,seinte@adj,peter@n1#propn%gen,suster@n
@@ -2521,7 +2521,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Thou shalt upon thy trouthe swere me heere,||,"Thou shall upon thy trouthe° swere me here,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,Thou,shalt,upon,thy,trouthe,swere,me,heere
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,u,S,uS,u,Su,Sx,u,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,thou@pron%nom,,upon@prep,thin@pron%gen,treuth@n,sweren@v%inf,me@pron2%obj,her@adv
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,thou@pron%nom,shulen@v1%pr_2,upon@prep,thin@pron%gen,treuth@n,sweren@v%inf,me@pron2%obj,her@adv
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,Thou,shall,upon,thy,trouthe,swere,me,here
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,u,S,uS,u,Su,Sx,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3502,DIFF,,10,thou@pron%nom,,upon@prep,thin@pron%gen,treuth@n,sweren@v%inf,me@pron2%obj,her@adv
@@ -2545,7 +2545,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "And if thou telle it man, thou art forlore;",||,"And if thou telle it man, thou are forlore;°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,And,if,thou,telle,it,man,thou,art,forlore
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,and@conj,if@conj,thou@pron%nom,tellen@v%pr_2,hit@pron,man@n,thou@pron%nom,ben@v%pr_pl,forlesen@v%ppl
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,and@conj,if@conj,thou@pron%nom,tellen@v%pr_2,hit@pron,man@n,thou@pron%nom,ben@v%pr_2,forlesen@v%ppl
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,And,if,thou,telle,it,man,thou,are,forlore
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,uSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3505,DIFF,green,10,and@conj,if@conj,thou@pron%nom,tellen@v%pr_2,hit@pron,man@n,thou@pron%nom,ben@v%pr_pl,forlesen@v%ppl
@@ -2633,7 +2633,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "That now a Monday next, at quarter nyght,",||,"That now, a Monday next, at quarter-night,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,That,now,a,Monday,next,at,quarter,nyght
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,u,S,u,Su,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,that@conj,nou@adv,o@prep2,mone-dai@n,nexte@adj%sup,at@prep,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,that@conj,nou@adv,o@prep2,mone-dai@n,nexte@adj%sup,at@prep,quartere@n,night@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,That,now,a,Monday,next,at,quarternight
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,u,S,u,Su,S,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3516,DIFF,,10,that@conj,nou@adv,o@prep2,mone-dai@n,nexte@adj%sup,at@prep,
@@ -2649,7 +2649,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 That half so greet was nevere Noes flood.,||,That half so greet was never Nowels° flood.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,That,half,so,greet,was,nevere,Noes,flood
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,u,S,u,S,u,Sux,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,that@conj,half@adv,so@adv,gret@adj,ben@v%pt_3,never@adv,,flod@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,that@conj,half@adv,so@adv,gret@adj,ben@v%pt_3,never@adv,noe@n#propn%gen,flod@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,That,half,so,greet,was,never,Nowels,flood
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,u,S,u,S,u,Su,Su,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3518,DIFF,,10,that@conj,half@adv,so@adv,gret@adj,ben@v%pt_3,never@adv,,flod@n
@@ -2729,7 +2729,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Thou mayst nat werken after thyn owene heed;,||,Thou mayst nat werke after thin owne heed.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,Thou,mayst,nat,werken,after,thyn,owene,heed
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,u,S,u,Su,Su,S,uxx,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,not@adv,,after@prep,thin@pron%gen,ouen@adj,hed@n1
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,not@adv,werken@v%inf,after@prep,thin@pron%gen,ouen@adj,hed@n1
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,Thou,mayst,nat,werke,after,thin,owne,heed
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,u,S,u,Sx,uS,u,Su,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3528,DIFF,,10,thou@pron%nom,mouen@v3%pr_2,not@adv,,after@prep,thin@pron%gen,ouen@adj,hed@n1
@@ -2889,7 +2889,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "A knedyng trogh, or ellis a kymelyn,",||,"A knedingtrogh,° or els a kimelin,°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,A,knedyng,trogh,or,ellis,a,kymelyn
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,u,xS,u,S,uS,u,SuS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,a@indef_art,,or@conj,elles@adv,a@indef_art,kimelin@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,a@indef_art,knedinge@ger#adj,trough@n,or@conj,elles@adv,a@indef_art,kimelin@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,A,knedingtrogh,or,els,a,kimelin
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,u,SuS,u,S,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3548,DIFF,,10,a@indef_art,,or@conj,elles@adv,a@indef_art,kimelin@n
@@ -3017,7 +3017,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Ygeten us thise knedyng tubbes thre,",||,"Ygeten us thise kneding-tubbes three,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,Ygeten,us,thise,knedyng,tubbes,thre
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,uSu,S,ux,Su,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,geten@v1%ppl,us@pron%pl_obj,these@gram_adj%pl,knedinge-tubbe@n%pl,thre@num_adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,geten@v1%ppl,us@pron%pl_obj,these@gram_adj%pl,knedinge@ger#adj,tubbe@n%pl,thre@num_adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,Ygeten,us,thise,knedingtubbes,three
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,uSu,S,ux,SuSu,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3564,DIFF,green,10,geten@v1%ppl,us@pron%pl_obj,these@gram_adj%pl,knedinge-tubbe@n%pl,thre@num_adj
@@ -3233,7 +3233,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Namoore in lookyng than ther shal in deede.,||,Na more in looking than ther shal in dede;
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,Namoore,in,lookyng,than,ther,shal,in,deede
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,uSx,u,Su,S,u,S,u,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,in@prep,,in@prep,lokinge@ger,than@conj,ther@adv,shulen@v1%pr_3,,dede@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,no_more@adv%comp,in@prep,lokinge@ger,than@conj,ther@adv,shulen@v1%pr_3,in@prep,dede@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,Na,more,in,looking,than,ther,shal,in,dede
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,u,Sx,u,Su,S,u,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3591,DIFF,,10,in@prep,,in@prep,lokinge@ger,than@conj,ther@adv,shulen@v1%pr_3,,dede@n
@@ -3289,7 +3289,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Men seyn thus, `sende the wise, and sey no thyng.'",||,"Men seyn thus, ‘send the wise, and sey nothing’;"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,Men,seyn,thus,sende,the,wise,and,sey,no,thyng
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,u,S,u,Sx,u,Sx,u,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,man@n%pl,seien@v1%pr_pl,thus@adv,senden@v2%imp,the@def_art,wise@adj#n,and@conj,seien@v1%imp,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,man@n%pl,seien@v1%pr_pl,thus@adv,senden@v2%imp,the@def_art,wise@adj#n,and@conj,seien@v1%imp,no@gram_adj,thing@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,Men,seyn,thus,send,the,wise,and,sey,nothing
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,u,S,u,S,u,Sx,u,S,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3598,DIFF,,10,man@n%pl,seien@v1%pr_pl,thus@adv,senden@v2%imp,the@def_art,wise@adj#n,and@conj,seien@v1%imp,
@@ -3321,7 +3321,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Ful ofte he seide ""Allas and weylawey,""",||,"Ful ofte he seith “Allas” and “Weilawey,”"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,Ful,ofte,he,seide,Allas,and,weylawey
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,u,Sx,u,Sx,uS,u,SuS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,ful@adv,ofte@adv,he@pron1%nom,,alas@interj,and@conj,weilawai@interj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,ful@adv,ofte@adv,he@pron1%nom,seien@v1%pt_3,alas@interj,and@conj,weilawai@interj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,Ful,ofte,he,seith,Allas,and,Weilawey
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,u,Sx,u,S,uS,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3602,DIFF,,10,ful@adv,ofte@adv,he@pron1%nom,,alas@interj,and@conj,weilawai@interj
@@ -3369,7 +3369,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Help us to scape, or we been dede echon!",||,"Help us to scape,° or we ben lost echon;°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,Help,us,to,scape,or,we,been,dede,echon
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,u,S,u,Sx,u,S,u,Sx,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,helpen@v%imp,us@pron%pl_obj,to@part,scapen@v1%inf,or@conj,we@pron%pl_nom,,,ech_on@pron
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,helpen@v%imp,us@pron%pl_obj,to@part,scapen@v1%inf,or@conj,we@pron%pl_nom,ben@v%pr_pl,ded@adj,ech_on@pron
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,Help,us,to,scape,or,we,ben,lost,echon
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,u,S,u,Sx,u,S,u,S,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3608,DIFF,,10,helpen@v%imp,us@pron%pl_obj,to@part,scapen@v1%inf,or@conj,we@pron%pl_nom,,,ech_on@pron
@@ -3401,7 +3401,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Men may dyen of ymaginacioun,",||,"Men may die of imaginacioun,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,0,Men,may,dyen,of,ymaginacioun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,0,,,,,
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,0,man@n%pl,mouen@v3%pr_pl,,of@prep,imaginacioun@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,0,man@n%pl,mouen@v3%pr_pl,dien@v%inf,of@prep,imaginacioun@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,10,Men,may,die,of,imaginacioun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,10,u,S,u,S,uSuSuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3612,DIFF,,10,man@n%pl,mouen@v3%pr_pl,,of@prep,imaginacioun@n
@@ -3465,7 +3465,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "He gooth and geteth hym a knedyng trogh,",||,"He gooth and geteth him a kneding-trogh,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,He,gooth,and,geteth,hym,a,knedyng,trogh
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,u,S,u,Su,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,he@pron1%nom,gon@v%pr_3,and@conj,geten@v1%pr_3,him@pron%obj,a@indef_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,he@pron1%nom,gon@v%pr_3,and@conj,geten@v1%pr_3,him@pron%obj,a@indef_art,knedinge@ger#adj,trough@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,He,gooth,and,geteth,him,a,knedingtrogh
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,u,S,u,Su,S,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3620,DIFF,,10,he@pron1%nom,gon@v%pr_3,and@conj,geten@v1%pr_3,him@pron%obj,a@indef_art,
@@ -3473,7 +3473,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "And after that a tubbe and a kymelyn,",||,"And after that a tubbe and kimelin,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,And,after,that,a,tubbe,and,a,kymelyn
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,u,Sx,u,S,ux,S,u,SuS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,and@conj,after@prep,that@pron,a@indef_art,tubbe@n,and@conj,kimelin@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,and@conj,after@prep,that@pron,a@indef_art,tubbe@n,and@conj,a@indef_art,kimelin@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,And,after,that,a,tubbe,and,kimelin
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,u,Su,S,u,Sx,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3621,DIFF,green,10,and@conj,after@prep,that@pron,a@indef_art,tubbe@n,and@conj,kimelin@n
@@ -3601,7 +3601,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 They seten stille wel a furlong way.,||,They sitten stille wel a furlongway.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,They,seten,stille,wel,a,furlong,way
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,u,Su,Su,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,thei@pron%pl_nom,sitten@v%pt_pl,stille@adv,wel@adv,a@indef_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,thei@pron%pl_nom,sitten@v%pt_pl,stille@adv,wel@adv,a@indef_art,furlong@n#adj,wei@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,They,sitten,stille,wel,a,furlongway
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,u,Su,Su,S,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3637,DIFF,,10,thei@pron%pl_nom,sitten@v%pt_pl,stille@adv,wel@adv,a@indef_art,
@@ -3713,7 +3713,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 Ther as the carpenter is wont to lye.,||,Theras° the carpenter is wont° to lie.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,Ther,as,the,carpenter,is,wont,to,lye
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,u,S,u,SuS,u,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,ther-as@adv,the@def_art,carpenter@n,as@conj,wonen@v1%ppl,to@part,lien@v1%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,ther@adv,as@conj,the@def_art,carpenter@n,ben@v%pr_3,wonen@v1%ppl,to@part,lien@v1%inf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,Theras,the,carpenter,is,wont,to,lie
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,uS,u,SuS,u,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3651,DIFF,green,10,ther-as@adv,the@def_art,carpenter@n,as@conj,wonen@v1%ppl,to@part,lien@v1%inf
@@ -3881,7 +3881,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "And thoghte, ""Now is tyme to wake al nyght,",||,"And thoghte, “Now is time wake° al night;"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,And,thoghte,Now,is,tyme,to,wake,al,nyght
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,u,Su,S,u,Sx,u,Sx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,and@conj,thinken@v2%pt_3,nou@adv,ben@v%pr_3,time@n,waken@v%inf,al@gram_adj,night@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,and@conj,thinken@v2%pt_3,nou@adv,ben@v%pr_3,time@n,to@part,waken@v%inf,al@gram_adj,night@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,And,thoghte,Now,is,time,wake,al,night
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,u,Su,S,u,Su,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3672,DIFF,green,10,and@conj,thinken@v2%pt_3,nou@adv,ben@v%pr_3,time@n,waken@v%inf,al@gram_adj,night@n
@@ -3937,7 +3937,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "My love-longynge, for yet I shal nat mysse",||,"My luf-longing, for yet I shal nat misse°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,0,My,lovelongynge,for,yet,I,shal,nat,mysse
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,0,,,,,,,,
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,0,min@pron%gen,,for@conj,yet@adv,ich@pron%nom,shulen@v1%pr_1,not@adv,missen@v1%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,0,min@pron%gen,love-longinge@n,for@conj,yet@adv,ich@pron%nom,shulen@v1%pr_1,not@adv,missen@v1%inf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,10,My,luflonging,for,yet,I,shal,nat,misse
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,10,u,SuS,u,S,u,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3679,DIFF,,10,min@pron%gen,,for@conj,yet@adv,ich@pron%nom,shulen@v1%pr_1,not@adv,missen@v1%inf
@@ -3985,7 +3985,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Therfore I wol go slepe an houre or tweye,",||,"Therfor I wol gon slepe an houre or tweye,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,Therfore,I,wol,go,slepe,an,houre,or,tweye
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,uSx,u,S,u,Sx,u,Sx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,ther-fore@adv,ich@pron%nom,willen@v%pr_1,,slepen@v%inf,a@indef_art,houre@n,or@conj,twein@num_adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,ther-fore@adv,ich@pron%nom,willen@v%pr_1,gon@v%inf,slepen@v%inf,a@indef_art,houre@n,or@conj,twein@num_adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,Therfor,I,wol,gon,slepe,an,houre,or,tweye
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,uS,u,S,u,Sx,u,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3685,DIFF,,10,ther-fore@adv,ich@pron%nom,willen@v%pr_1,,slepen@v%inf,a@indef_art,houre@n,or@conj,twein@num_adj
@@ -4041,7 +4041,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Under his tonge a trewe-love he beer,",||,"Under his tonge a trewe love° he beer,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,Under,his,tonge,a,trewelove,he,beer
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,uS,u,Sx,u,SuSx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,under@prep,his@pron1%gen,tonge@n2,a@indef_art,,,he@pron1%nom,beren@v1%pt_3
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,under@prep,his@pron1%gen,tonge@n2,a@indef_art,treu-love@n,he@pron1%nom,beren@v1%pt_3
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,Under,his,tonge,a,trewe,love,he,beer
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,uS,u,Sx,u,Su,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3692,DIFF,,10,under@prep,his@pron1%gen,tonge@n2,a@indef_art,,,he@pron1%nom,beren@v1%pt_3
@@ -4081,7 +4081,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And softe he cougheth with a semy soun:,||,And softe he cogheth with a semi-soun°—
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,And,softe,he,cougheth,with,a,semy,soun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,u,Sx,u,Su,S,u,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,and@conj,softe@adv,he@pron1%nom,coughen@v%pr_3,with@prep,a@indef_art,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,and@conj,softe@adv,he@pron1%nom,coughen@v%pr_3,with@prep,a@indef_art,semi@adj,soun@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,And,softe,he,cogheth,with,a,semisoun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,u,Sx,u,Su,S,u,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3697,DIFF,,10,and@conj,softe@adv,he@pron1%nom,coughen@v%pr_3,with@prep,a@indef_art,
@@ -4105,7 +4105,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Awaketh, lemman myn, and speketh to me!",||,"Awaketh, lemman min,° and spek to me!"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,Awaketh,lemman,myn,and,speketh,to,me
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,uSu,Su,S,u,Su,S,x
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,awaken@v%imp,lemman@n,min@pron%gen,and@conj,,to@prep,me@pron2%obj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,awaken@v%imp,lemman@n,min@pron%gen,and@conj,speken@v%imp,to@prep,me@pron2%obj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,Awaketh,lemman,min,and,spek,to,me
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,uSu,Su,S,u,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3700,DIFF,,10,awaken@v%imp,lemman@n,min@pron%gen,and@conj,,to@prep,me@pron2%obj
@@ -4145,7 +4145,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Ywis, lemman, I have swich love-longynge",||,"Ywis, lemman, I have swich luf-longinge,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,Ywis,lemman,I,have,swich,lovelongynge
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,uS,uS,x,ux,S,uSuSx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,iwis@adv,lemman@n,ich@pron%nom,haven@v%pr_1,swich@gram_adj,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,iwis@adv,lemman@n,ich@pron%nom,haven@v%pr_1,swich@gram_adj,love-longinge@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,Ywis,lemman,I,have,swich,luflonginge
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,uS,uS,u,Sx,u,SuSx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3705,DIFF,,10,iwis@adv,lemman@n,ich@pron%nom,haven@v%pr_1,swich@gram_adj,
@@ -4241,7 +4241,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "For Jhesus love, and for the love of me.""",||,For Jesus love and for the love of me.”
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,For,Jhesus,love,and,for,the,love,of,me
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,u,Su,Sx,u,S,u,Sx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,for@prep,,love@n1,and@conj,for@prep,the@def_art,love@n1,of@prep,me@pron2%obj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,for@prep,jesu@n1#propn,love@n1,and@conj,for@prep,the@def_art,love@n1,of@prep,me@pron2%obj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,For,Jesus,love,and,for,the,love,of,me
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,u,Su,Sx,u,S,u,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3717,DIFF,,10,for@prep,,love@n1,and@conj,for@prep,the@def_art,love@n1,of@prep,me@pron2%obj
@@ -4385,7 +4385,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Ful savourly, er he were war of this.",||,"Ful savourly,° er he was war of this."
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,Ful,savourly,er,he,were,war,of,this
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,u,SuS,u,S,ux,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,ful@adv,savourli@adv,er@conj1,he@pron1%nom,,ben@v%pt_3,of@prep,this@pron
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,ful@adv,savourli@adv,er@conj1,he@pron1%nom,ben@v%pt_3,ware@adj,of@prep,this@pron
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,Ful,savourly,er,he,was,war,of,this
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,u,SuS,u,S,u,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3735,DIFF,,10,ful@adv,savourli@adv,er@conj1,he@pron1%nom,,ben@v%pt_3,of@prep,this@pron
@@ -4529,7 +4529,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Allas,"" quod he, ""allas, I ne hadde ybleynt!""",||,"Allas!” quod he, “allas! I nadde ybleint!”°"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,0,Allas,quod,he,allas,I,ne,hadde,ybleynt
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,0,,,,,,,,
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,0,alas@interj,quethen@v%pt_3,he@pron1%nom,alas@interj,ich@pron%nom,,blenchen@v%ppl
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,0,alas@interj,quethen@v%pt_3,he@pron1%nom,alas@interj,ich@pron%nom,ne@adv,haven@v%pt_1,blenchen@v%ppl
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,10,Allas,quod,he,allas,I,nadde,ybleint
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,10,uS,u,S,uS,u,Sx,uS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3753,DIFF,,10,alas@interj,quethen@v%pt_3,he@pron1%nom,alas@interj,ich@pron%nom,,blenchen@v%ppl
@@ -4601,7 +4601,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 That in his forge smythed plough harneys;,||,That in his forge smithed plough-harneis;°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,That,in,his,forge,smythed,plough,harneys
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,u,S,u,Su,Su,S,uS
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,that@pron,in@prep,his@pron1%gen,forge@n,smithen@v%pt_3,
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,that@pron,in@prep,his@pron1%gen,forge@n,smithen@v%pt_3,plough@n,harneis@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,That,in,his,forge,smithed,ploughharneis
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,u,S,u,Su,Su,SuS
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3762,DIFF,,10,that@pron,in@prep,his@pron1%gen,forge@n,smithen@v%pt_3,
@@ -4777,7 +4777,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "I shal wel telle it thee to-morwe day"" --",||,I shal wel telle it thee another day”—
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,I,shal,wel,telle,it,thee,tomorwe,day
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,u,S,u,Sx,u,S,uSu,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,ich@pron%nom,shulen@v1%pr_1,wel@adv,tellen@v%inf,hit@pron,the@pron2%obj,,dai@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,ich@pron%nom,shulen@v1%pr_1,wel@adv,tellen@v%inf,hit@pron,the@pron2%obj,to-morwe@adv,dai@n,--@dash
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,I,shal,wel,telle,it,thee,another,day
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,u,S,u,Sx,u,S,uSu,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3784,DIFF,,10,ich@pron%nom,shulen@v1%pr_1,wel@adv,tellen@v%inf,hit@pron,the@pron2%obj,,dai@n
@@ -5009,7 +5009,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And for the smert he wende for to dye.,||,That for the smert° he wende for to die.
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,And,for,the,smert,he,wende,for,to,dye
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,,for@prep,the@def_art,smerte@n,he@pron1%nom,wenen@v2%pt_3,for@prep#adv,to@part,dien@v%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,and@conj,for@prep,the@def_art,smerte@n,he@pron1%nom,wenen@v2%pt_3,for@prep#adv,to@part,dien@v%inf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,That,for,the,smert,he,wende,for,to,die
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,u,S,u,S,u,Su,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3813,DIFF,,10,,for@prep,the@def_art,smerte@n,he@pron1%nom,wenen@v2%pt_3,for@prep#adv,to@part,dien@v%inf
@@ -5129,7 +5129,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "That yet aswowne lay, bothe pale and wan,",||,"That yet aswowne he lay, both pale and wan;"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,That,yet,aswowne,lay,bothe,pale,and,wan
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,u,S,uSx,u,Su,Sx,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,that@pron,yet@adv,aswouen@adj&adv,he@pron1%nom,lien@v1%pt_3,bothe@num_conj,pale@adj,and@conj,wan@adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,that@pron,yet@adv,aswouen@adj&adv,lien@v1%pt_3,bothe@num_conj,pale@adj,and@conj,wan@adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,That,yet,aswowne,he,lay,both,pale,and,wan
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,u,S,uSx,u,S,u,Sx,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3828,DIFF,green,10,that@pron,yet@adv,aswouen@adj&adv,he@pron1%nom,lien@v1%pt_3,bothe@num_conj,pale@adj,and@conj,wan@adj
@@ -5193,7 +5193,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "He hadde yboght hym knedyng tubbes thre,",||,"He hadde yboght him kneding-tubbes three,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,He,hadde,yboght,hym,knedyng,tubbes,thre
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,u,Sx,uS,u,Su,Su,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,he@pron1%nom,haven@v%pt_3,bien@v%ppl,him@pron%obj,knedinge-tubbe@n%pl,thre@num_adj
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,he@pron1%nom,haven@v%pt_3,bien@v%ppl,him@pron%obj,knedinge@ger#adj,tubbe@n%pl,thre@num_adj
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,He,hadde,yboght,him,knedingtubbes,three
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,u,Sx,uS,u,SuSu,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3836,DIFF,green,10,he@pron1%nom,haven@v%pt_3,bien@v%ppl,him@pron%obj,knedinge-tubbe@n%pl,thre@num_adj
@@ -5233,7 +5233,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Into the roof they kiken and they cape,",||,"Into the roof they kiken° and they gape,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,Into,the,roof,they,kiken,and,they,cape
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,uS,u,S,u,Su,S,u,Sx
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,in-to@prep,the@def_art,rof@n,thei@pron%pl_nom,kiken@v2%pr_pl,and@conj,thei@pron%pl_nom,gapen@v%inf
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,in-to@prep,the@def_art,rof@n,thei@pron%pl_nom,kiken@v2%pr_pl,and@conj,thei@pron%pl_nom,capen@v%pr_pl
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,Into,the,roof,they,kiken,and,they,gape
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,uS,u,S,u,Su,S,u,Sx
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3841,DIFF,green,10,in-to@prep,the@def_art,rof@n,thei@pron%pl_nom,kiken@v2%pr_pl,and@conj,thei@pron%pl_nom,gapen@v%inf
@@ -5273,7 +5273,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 That he was holde wood in al the toun;,||,That he was holden° wood° in al the toun;
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,That,he,was,holde,wood,in,al,the,toun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,u,S,u,Su,S,u,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,that@conj,he@pron1%nom,ben@v%pt_3,,wod@adj,in@prep,al@gram_adj,the@def_art,toun@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,that@conj,he@pron1%nom,ben@v%pt_3,holden@v1%ppl,wod@adj,in@prep,al@gram_adj,the@def_art,toun@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,That,he,was,holden,wood,in,al,the,toun
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,u,S,u,Su,S,u,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3846,DIFF,,10,that@conj,he@pron1%nom,ben@v%pt_3,,wod@adj,in@prep,al@gram_adj,the@def_art,toun@n
@@ -5297,7 +5297,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 And every wight gan laughen at this stryf.,||,And every wight° gan laughen of this strif.°
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,And,every,wight,gan,laughen,at,this,stryf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,u,SuS,u,S,ux,S,u,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,and@conj,everi@pron_gram_adj,wight@n,ginnen@v%pt_3,laughen@v%inf,of@prep,this@gram_adj,strife@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,and@conj,everi@pron_gram_adj,wight@n,ginnen@v%pt_3,laughen@v%inf,at@prep,this@gram_adj,strife@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,And,every,wight,gan,laughen,of,this,strif
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,u,SuS,u,S,ux,S,u,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3849,DIFF,green,10,and@conj,everi@pron_gram_adj,wight@n,ginnen@v%pt_3,laughen@v%inf,of@prep,this@gram_adj,strife@n
@@ -5305,7 +5305,7 @@ data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT
 "Thus swyved was this carpenteris wyf,",||,"Thus swived° was the carpenteres wif,"
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,Thus,swyved,was,this,carpenteris,wyf
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,u,Su,S,u,SuSu,S
-data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,thus@adv,swiven@v%ppl,ben@v%pt_3,,carpenter@n%gen,wif@n
+data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,thus@adv,swiven@v%ppl,ben@v%pt_3,this@gram_adj,carpenter@n%gen,wif@n
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,Thus,swived,was,the,carpenteres,wif
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,u,Su,S,u,SuSu,S
 data/riverside_cats/MilT_riv.cat,data/oxford_txts/MilT_oxford.txt,data/csvs/MilT,The Miller's Tale 3850,DIFF,,10,thus@adv,swiven@v%ppl,ben@v%pt_3,,carpenter@n%gen,wif@n
