@@ -220,17 +220,12 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 				flag = ''
 			else:
 				matched = 'DIFF'
-				flag = ''
+				flag = 'yellow'
 				
-				# Check if the only difference is naught/not
-				if check_naught_not_only_diff(riv_words, ox_words, riv_line, ox_line):
-					flag = 'green'
 			
 			
 
 			# Oxford tags
-			if flag!="green":
-				flag = "yellow"
 			if matched == "DIFF":
 				riv_tags = list(tags)
 				tags = []
@@ -243,25 +238,10 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 
 				for i, word in enumerate(ox_words):
 					ox_clean = word.lower().strip()
-					
-					# Check if this is a naught/not conversion case
-					if flag == 'green':
-						riv_word_clean = riv_words[i].lower().strip() if i < len(riv_words) else ''
-						
-						# Riverside has naught/nought, Oxford has not/nat
-						if riv_word_clean in {'naught', 'nought'} and ox_clean in {'not', 'nat'}:
-							# Tag Oxford word with "not"
-							tags.append('{*not@adv*}')
-							continue
-						# Riverside has not/nat, Oxford has naught/nought
-						elif riv_word_clean in {'not', 'nat'} and ox_clean in {'naught', 'nought'}:
-							# Tag Oxford word with "nought"
-							tags.append('{*nought@adv*}')
-							continue
-					
 					# Default behavior: match by normalized word
 					normed_ox_word = norm_word(word)
-					if normed_ox_word in riv_words_normed:
+					do_extra = True
+					if normed_ox_word in riv_words_normed and flag!="green":
 						# Find the first unused occurrence of this word
 						found_index = None
 						for j, riv_normed in enumerate(riv_words_normed):
@@ -272,11 +252,12 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 						
 						if found_index is not None:
 							tags.append(riv_tags[found_index])
-						else:
+							do_extra=False
+						#else:
 							# All occurrences used, append empty
-							tags.append('')
-							flag = ""
-					else:
+							#tags.append('')
+							#flag = ""
+					if do_extra == True:
 						# Look through the oxford_prelim.json
 						if ox_clean in oxford_prelim:
 							word_tags = oxford_prelim[ox_clean]
@@ -297,14 +278,32 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 									tags.append('{*' + most_common_tag + '*}')
 								else:
 									found_it = False
+									remaining_tags = [
+									    tag for i, tag in enumerate(riv_tags)
+									    if i not in used_indices
+									]
+									remaining_tags = [
+									    tag.removeprefix("{*").removesuffix("*}")
+									    for tag in remaining_tags
+									]
+
+									if "nought@adv" in remaining_tags: 
+										for sorted_tag in sorted_tags:
+											the_tag = sorted_tag[0]
+											if the_tag == "not@adv" and not found_it:
+												tags.append(the_tag)
+												found_it = True
+
+									elif "not@adv" in remaining_tags: 
+										for sorted_tag in sorted_tags:
+											the_tag = sorted_tag[0]
+											if the_tag == "nought@adv" and not found_it:
+												tags.append(the_tag)
+												found_it = True
+												
 									for sorted_tag in sorted_tags:
 										the_tag = sorted_tag[0]
-										remaining_tags = [
-										    tag for i, tag in enumerate(riv_tags)
-										    if i not in used_indices
-										]
-
-										if the_tag in remaining_tags:
+										if the_tag in remaining_tags and not found_it:
 											tags.append(the_tag)
 											found_it = True
 									
