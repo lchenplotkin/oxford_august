@@ -1660,7 +1660,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 208,DIFF,green,10,he@pron1%nom,kithen@v%pt_3,an-on@adv,his@pron1%gen,boue@n1,ben@v%pt_3_neg,nought@adv,breken@v%ppl
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 208,DIFF,green,10,He,kidde,anoon,his,bowe,nas,not,broken
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 208,DIFF,green,10,u,Sx,uS,u,Sx,u,S,uS
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 208,DIFF,green,10,he@pron1%nom,kithen@v%pt_3,an-on@adv,his@pron1%gen,boue@n1,ben@v%pt_3_neg,not@adv,breken@v%ppl
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 208,DIFF,green,10,he@pron1%nom,kithen@v%pt_3,an-on@adv,his@pron1%gen,boue@n1,ben@v%pt_3_neg,,breken@v%ppl
 
 For sodeynly he hitte hym atte fulle --,||,For sodeinly he hit him at the fulle;
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 209,DIFF,,10,For,sodeynly,he,hitte,hym,atte,fulle
@@ -4348,7 +4348,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 544,DIFF,green,10,al@gram_adjas_n,ben@v%pt_3,for@prep,nought@pron,she@pron%nom,heren@v%pt_3,not@adv,his@pron1%gen,pleinte@n
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 544,DIFF,green,10,Al,was,for,nought,she,herde,nought,his,pleinte
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 544,DIFF,green,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 544,DIFF,green,10,al@gram_adjas_n,ben@v%pt_3,for@prep,nought@pron,she@pron%nom,heren@v%pt_3,nought@adv,his@pron1%gen,pleinte@n
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 544,DIFF,green,10,al@gram_adjas_n,ben@v%pt_3,for@prep,nought@pron,she@pron%nom,heren@v%pt_3,,his@pron1%gen,pleinte@n
 
 "And whan that he bythought on that folie,",||,"And whan that he bithoughte on that folie,"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 545,,,10,And,whan,that,he,bythought,on,that,folie
@@ -4604,7 +4604,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 576,DIFF,green,10,hit@pron,ben@v%pr_3,nought@adv,so@adv,and@conj,ther-fore@adv,scornen@v%imp,nought@adv
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 576,DIFF,green,10,It,is,not,so,and,therfor,scorne,nought
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 576,DIFF,green,10,u,S,u,S,u,Su,Su,S
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 576,DIFF,green,10,hit@pron,ben@v%pr_3,not@adv,so@adv,and@conj,ther-fore@adv,scornen@v%imp,nought@adv
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 576,DIFF,green,10,hit@pron,ben@v%pr_3,,so@adv,and@conj,ther-fore@adv,scornen@v%imp,nought@adv
 
 Ther is another thing I take of hede,||,Ther is another thing I take of hede
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 577,,,10,Ther,is,another,thing,I,take,of,hede
@@ -5468,7 +5468,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 684,DIFF,green,10,ben@v%pr_3_neg,not@adv,to@prep,you@pron%pl_obj,of@prep,reprehensioun@n
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 684,DIFF,green,10,Nis,nought,to,yow,of,reprehencioun
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 684,DIFF,green,10,u,S,u,S,u,SuSuS
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 684,DIFF,green,10,ben@v%pr_3_neg,nought@adv,to@prep,you@pron%pl_obj,of@prep,reprehensioun@n
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 684,DIFF,green,10,ben@v%pr_3_neg,,to@prep,you@pron%pl_obj,of@prep,reprehensioun@n
 
 "To speke as now, for no wight may byreve",||,"To speke as now, for no wight may bireve"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 685,,,10,To,speke,as,now,for,no,wight,may,byreve
@@ -5572,7 +5572,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 697,DIFF,green,10,for@conj,this@pron,ben@v%pr_3_neg,nought@adv,certain@adv,the@def_art,nexte@adj%sup,wise@n2
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 697,DIFF,green,10,For,this,nis,not,certein,the,nexte,wise
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 697,DIFF,green,10,u,S,u,S,uS,u,Su,Sx
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 697,DIFF,green,10,for@conj,this@pron,ben@v%pr_3_neg,not@adv,certain@adv,the@def_art,nexte@adj%sup,wise@n2
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 697,DIFF,green,10,for@conj,this@pron,ben@v%pr_3_neg,,certain@adv,the@def_art,nexte@adj%sup,wise@n2
 
 To wynnen love -- as techen us the wyse --,||,"To winnen love, as techen us the wise,"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 698,,,10,To,wynnen,love,as,techen,us,the,wyse
@@ -6140,7 +6140,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 768,DIFF,green,10,thin@pron%gen,wo@n,sitthe@conj,thou@pron%nom,durren@v%pr_2,nought@adv,thi-self@pron,for@prep,fer@n1
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 768,DIFF,green,10,Thy,wo,sith,thou,darst,not,thyself,for,fere
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 768,DIFF,green,10,u,S,u,S,u,S,uS,u,Sx
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 768,DIFF,green,10,thin@pron%gen,wo@n,sitthe@conj,thou@pron%nom,durren@v%pr_2,not@adv,thi-self@pron,for@prep,fer@n1
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 768,DIFF,green,10,thin@pron%gen,wo@n,sitthe@conj,thou@pron%nom,durren@v%pr_2,,thi-self@pron,for@prep,fer@n1
 
 "And hire bysoughte on the to han som routhe?""",||,And hir bisoughte on thee to han som routhe?”
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 769,,,10,And,hire,bysoughte,on,the,to,han,som,routhe
@@ -6676,7 +6676,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 835,DIFF,green,10,but@conj,god@n1#propn,witen@v1%pr_3,hit@pron,ben@v%pr_3,nought@adv,the@adv,rathere@adv%comp,so@adv
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 835,DIFF,green,10,But,God,wot,it,is,not,the,rather,so
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 835,DIFF,green,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 835,DIFF,green,10,but@conj,god@n1#propn,witen@v1%pr_3,hit@pron,ben@v%pr_3,not@adv,the@adv,rathere@adv%comp,so@adv
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 835,DIFF,green,10,but@conj,god@n1#propn,witen@v1%pr_3,hit@pron,ben@v%pr_3,,the@adv,rathere@adv%comp,so@adv
 
 "Ful hard were it to helpen in this cas,",||,"Ful hard were it to helpen in this cas,"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 836,,,10,Ful,hard,were,it,to,helpen,in,this,cas
@@ -6820,7 +6820,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 853,DIFF,green,10,or@conj,that@part,she@pron%nom,ben@v%pr_3,nought@adv,fer@adv,from@prep,thin@pron%gen,helpinge@ger
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 853,DIFF,green,10,Or,that,she,be,not,fer,fro,thin,helpinge
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 853,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 853,DIFF,green,10,or@conj,that@part,she@pron%nom,ben@v%pr_3,not@adv,fer@adv,from@prep,thin@pron%gen,helpinge@ger
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 853,DIFF,green,10,or@conj,that@part,she@pron%nom,ben@v%pr_3,,fer@adv,from@prep,thin@pron%gen,helpinge@ger
 
 Paraunter thow hast cause for to synge.,||,"Paraunter, thou hast cause for to singe!"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 854,,,10,Paraunter,thow,hast,cause,for,to,synge
@@ -7220,7 +7220,7 @@ data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Tr
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 903,DIFF,green,10,for@conj,vertu@n,strecchen@v%pr_3,nought@adv,him-self@pron,to@prep,shame@n
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 903,DIFF,green,10,For,vertue,streccheth,not,himself,to,shame
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 903,DIFF,green,10,u,Su,Su,S,uS,u,Sx
-data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 903,DIFF,green,10,for@conj,vertu@n,strecchen@v%pr_3,not@adv,him-self@pron,to@prep,shame@n
+data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 903,DIFF,green,10,for@conj,vertu@n,strecchen@v%pr_3,,him-self@pron,to@prep,shame@n
 
 """But wel is me that evere that I was born,",||,"“But wel is me that ever I was born,"
 data/riverside_cats/TC1_riv.cat,data/oxford_txts/TC1_oxford.txt,data/csvs/TC1,Troilus and Criseyde; Book I 904,DIFF,,10,But,wel,is,me,that,evere,that,I,was,born

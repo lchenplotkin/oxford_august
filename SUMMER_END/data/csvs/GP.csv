@@ -6324,7 +6324,7 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,but@conj,taken@v%imp,hit@pron,nought@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,But,tak,it,not,I,prey,yow,in,desdein
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,but@conj,taken@v%imp,hit@pron,not@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 789,DIFF,green,10,but@conj,taken@v%imp,hit@pron,,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,in@prep,disdeine@n
 
 "This is the poynt, to speken short and pleyn,",||,"This is the point, to speken short and plein,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 790,,,10,This,is,the,poynt,to,speken,short,and,pleyn

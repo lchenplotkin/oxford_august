@@ -3732,7 +3732,7 @@ data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parli
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,not@adv,heren@v%inf
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,And,eek,Nature,hirself,ne,wol,nought,here
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,u,S,uSx,uS,u,S,u,Sx
-data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,nought@adv,heren@v%inf
+data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 467,DIFF,green,10,and@conj,ek@adv,nature@n#propn,hire-self@pron,ne@adv,willen@v%pr_3,,heren@v%inf
 
 "For taryinge here, not half that I wolde seye;",||,"For tarying here, noght half that I wold seye;"
 data/riverside_cats/PF_riv.cat,data/oxford_txts/PF_oxford.txt,data/csvs/PF,Parliament of Fowls 468,DIFF,,10,For,taryinge,here,not,half,that,I,wolde,seye
