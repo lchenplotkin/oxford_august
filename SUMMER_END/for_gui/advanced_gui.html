@@ -452,7 +452,6 @@ input[type="checkbox"] {
 	  let initialGreenDiffs = new Set();   // diff lines green at load
 	  let diffLineIds = new Set();         // all diff line IDs
 
-
 	  const riversidePane = document.getElementById('riversidePane');
 	  const oxfordPane = document.getElementById('oxfordPane');
 	  const toggleScansion = document.getElementById('toggleScansion');
@@ -488,15 +487,35 @@ input[type="checkbox"] {
 		return csvData.find(r => getLineId(r["LINE_NUMBER"]) === searchId);
 	  }
 
+	  // Add this function to ensure edit mode is properly enabled
+	  function ensureEditMode() {
+		if (editModeCheckbox.checked && !editMode) {
+		  editMode = true;
+		  editModeControls.style.display = 'block';
+		}
+	  }
+
+	  // Also add a function to refresh edit mode state
+	  function refreshEditMode() {
+		editMode = editModeCheckbox.checked;
+		editModeControls.style.display = editMode ? 'block' : 'none';
+		if (currentLine) {
+		  displayLine(currentLine);
+		}
+	  }
+
 	  editModeCheckbox.addEventListener('change', (e) => {
 		editMode = e.target.checked;
 		editModeControls.style.display = editMode ? 'block' : 'none';
-		if (currentLine) displayLine(currentLine);
+		// Force refresh of the current line to update editability
+		if (currentLine) {
+		  displayLine(currentLine);
+		}
 	  });
+	  
 	  hideGreenFlags.addEventListener('change', () => {
-	    showDiffList();
+		showDiffList();
 	  });
-
 
 	  document.getElementById('csvFile').addEventListener('change', (e) => {
 		const file = e.target.files[0];
@@ -513,14 +532,14 @@ input[type="checkbox"] {
 			  const color = (row["FLAG_COLOR"] || "").toLowerCase();
 
 			  if (row["MATCH"] === "DIFF") {
-			    diffLineIds.add(lineId);
+				diffLineIds.add(lineId);
 
-			    if (color === "green") {
-			      initialGreenDiffs.add(lineId);
-			      lineFlags[lineId] = "green";
-			    } else if (color === "red") {
-			      lineFlags[lineId] = "red";
-			    }
+				if (color === "green") {
+				  initialGreenDiffs.add(lineId);
+				  lineFlags[lineId] = "green";
+				} else if (color === "red") {
+				  lineFlags[lineId] = "red";
+				}
 			  }
 			}
 
@@ -536,6 +555,10 @@ input[type="checkbox"] {
 				lineFlags[lineId] = color;
 			  }
 			}
+			
+			// Ensure edit mode is properly enabled
+			ensureEditMode();
+			
 			showDiffList();
 			if (csvData.length > 0) {
 			  displayLine(csvData[0]["LINE_NUMBER"]);
@@ -642,37 +665,36 @@ input[type="checkbox"] {
 	  container.appendChild(label);
 
 	  csvData.forEach(row => {
-	    if (row["MATCH"] !== "DIFF") return;
+		if (row["MATCH"] !== "DIFF") return;
 
-	    const lineNum = row["LINE_NUMBER"];
-	    const lineId = getLineId(lineNum);
-	    const flag = lineFlags[lineId];
+		const lineNum = row["LINE_NUMBER"];
+		const lineId = getLineId(lineNum);
+		const flag = lineFlags[lineId];
 
-	    // Skip green-flagged lines if toggle is on
-	    if (hideGreenFlags.checked && flag === "green") return;
+		// Skip green-flagged lines if toggle is on
+		if (hideGreenFlags.checked && flag === "green") return;
 
-	    const flagEl = document.createElement("span");
-	    flagEl.className = "flag";
-	    flagEl.textContent = getFlagSymbol(flag);
-	    if (flag) flagEl.classList.add(flag);
-	    flagEl.onclick = (e) => {
-	      e.stopPropagation();
-	      toggleFlag(lineNum);
-	      showDiffList(); // refresh + progress update
-	    };
+		const flagEl = document.createElement("span");
+		flagEl.className = "flag";
+		flagEl.textContent = getFlagSymbol(flag);
+		if (flag) flagEl.classList.add(flag);
+		flagEl.onclick = (e) => {
+		  e.stopPropagation();
+		  toggleFlag(lineNum);
+		  showDiffList(); // refresh + progress update
+		};
 
-	    const span = document.createElement("span");
-	    span.className = "line-number";
-	    span.textContent = lineNum;
-	    span.onclick = () => displayLine(lineNum);
+		const span = document.createElement("span");
+		span.className = "line-number";
+		span.textContent = lineNum;
+		span.onclick = () => displayLine(lineNum);
 
-	    container.appendChild(flagEl);
-	    container.appendChild(span);
+		container.appendChild(flagEl);
+		container.appendChild(span);
 	  });
 
 	  updateProgressDisplay();
 	}
-
 
 	function updateProgressDisplay() {
 	  const progressEl = document.getElementById("progressDisplay");
@@ -682,30 +704,29 @@ input[type="checkbox"] {
 
 	  // TOTAL progress
 	  const totalGreen = diffIds.filter(
-	    id => lineFlags[id] === "green"
+		id => lineFlags[id] === "green"
 	  ).length;
 	  const totalPct = ((totalGreen / diffIds.length) * 100).toFixed(1);
 
 	  // SESSION progress
 	  const sessionDenominator = diffIds.filter(
-	    id => !initialGreenDiffs.has(id)
+		id => !initialGreenDiffs.has(id)
 	  ).length;
 
 	  const sessionNumerator = diffIds.filter(
-	    id =>
-	      !initialGreenDiffs.has(id) &&
-	      lineFlags[id] === "green"
+		id =>
+		  !initialGreenDiffs.has(id) &&
+		  lineFlags[id] === "green"
 	  ).length;
 
 	  const sessionPct = sessionDenominator > 0
-	    ? ((sessionNumerator / sessionDenominator) * 100).toFixed(1)
-	    : "100.0";
+		? ((sessionNumerator / sessionDenominator) * 100).toFixed(1)
+		: "100.0";
 
 	  progressEl.textContent =
-	    `Session: ${sessionNumerator}/${sessionDenominator} (${sessionPct}%) | ` +
-	    `Total: ${totalGreen}/${diffIds.length} (${totalPct}%)`;
+		`Session: ${sessionNumerator}/${sessionDenominator} (${sessionPct}%) | ` +
+		`Total: ${totalGreen}/${diffIds.length} (${totalPct}%)`;
 	}
-
 
 	  function getFlagSymbol(state) {
 		if (state === "green") return "✅";
@@ -760,36 +781,38 @@ input[type="checkbox"] {
 	  }
 
 	  function navigateDiff(offset) {
-	    if (!csvData.length || currentLine === null) return;
+		if (!csvData.length || currentLine === null) return;
 
-	    const diffLines = csvData
-	      .filter(row => row["MATCH"] === "DIFF")
-	      .map(row => row["LINE_NUMBER"])
-	      .filter(lineNum => {
-	        if (!hideGreenFlags.checked) return true;
-	        return lineFlags[getLineId(lineNum)] !== "green";
-	      });
+		const diffLines = csvData
+		  .filter(row => row["MATCH"] === "DIFF")
+		  .map(row => row["LINE_NUMBER"])
+		  .filter(lineNum => {
+			if (!hideGreenFlags.checked) return true;
+			return lineFlags[getLineId(lineNum)] !== "green";
+		  });
 
-	    if (!diffLines.length) return;
+		if (!diffLines.length) return;
 
-	    const currentIndex = diffLines.findIndex(
-	      lineNum => getLineId(lineNum) === getLineId(currentLine)
-	    );
+		const currentIndex = diffLines.findIndex(
+		  lineNum => getLineId(lineNum) === getLineId(currentLine)
+		);
 
-	    if (currentIndex === -1) {
-	      displayLine(diffLines[0]);
-	      return;
-	    }
+		if (currentIndex === -1) {
+		  displayLine(diffLines[0]);
+		  return;
+		}
 
-	    const newIndex = currentIndex + offset;
-	    if (newIndex >= 0 && newIndex < diffLines.length) {
-	      displayLine(diffLines[newIndex]);
-	    }
+		const newIndex = currentIndex + offset;
+		if (newIndex >= 0 && newIndex < diffLines.length) {
+		  displayLine(diffLines[newIndex]);
+		}
 	  }
-
 
 	  function createLinePane(words, scansion, tags, editable = false, lineId = null, originalText = "") {
 		let html = "";
+		
+		// Ensure edit mode is properly set
+		const isEditMode = editMode && editable;
 		
 		if (toggleOriginal.checked && originalText && originalText.trim()) {
 		  html += `<div class="original-text">
@@ -799,7 +822,7 @@ input[type="checkbox"] {
 		}
 		
 		const wordBlocks = words.map((word, i) => {
-		  const editableClass = (editable && editMode) ? 'editable' : '';
+		  const editableClass = isEditMode ? 'editable' : '';
 		  const scanText = scansion[i] || '';
 		  const scan = toggleScansion.checked 
 			? `<span class="scansion ${editableClass}" data-type="scansion" data-index="${i}" data-line="${lineId}">${scanText}</span>` 
@@ -812,10 +835,10 @@ input[type="checkbox"] {
 			? `<span class="${tagClass}" data-word="${word}" data-index="${i}" data-line="${lineId}">${displayTagText}</span>`
 			: "";
 		  
-		  const wordControls = (editable && editMode) 
+		  const wordControls = isEditMode 
 			? `<span class="word-controls">
-				<button class="word-control-btn add-before" onclick="addWordBefore('${lineId}', ${i})" title="Add word before">+</button>
-				<button class="word-control-btn" onclick="removeWord('${lineId}', ${i})" title="Remove word">-</button>
+				<button class="word-control-btn add-before" data-action="add" data-line="${lineId}" data-index="${i}" title="Add word before">+</button>
+				<button class="word-control-btn" data-action="remove" data-line="${lineId}" data-index="${i}" title="Remove word">-</button>
 			   </span>`
 			: "";
 		  
@@ -829,8 +852,8 @@ input[type="checkbox"] {
 		
 		html += wordBlocks;
 		
-		if (editable && editMode) {
-		  html += ` <button class="add-word-btn" onclick="addWordAtEnd('${lineId}')">+ Add Word at End</button>`;
+		if (isEditMode) {
+		  html += ` <button class="add-word-btn" data-action="add-end" data-line="${lineId}">+ Add Word at End</button>`;
 		}
 		
 		return html;
@@ -899,20 +922,54 @@ input[type="checkbox"] {
 	  document.body.addEventListener('click', function (e) {
 		const el = e.target;
 		
-		// Handle tag editing (existing functionality)
-		if (el.classList.contains('tag') && el.dataset.line && !editMode) {
-		  showTagEditor(el);
+		// Handle word control buttons (+, -)
+		if (el.classList.contains('word-control-btn')) {
+		  const action = el.dataset.action;
+		  const lineId = el.dataset.line;
+		  const index = parseInt(el.dataset.index);
+		  
+		  if (action === 'add' && lineId && index !== undefined) {
+			addWordBefore(lineId, index);
+		  } else if (action === 'remove' && lineId && index !== undefined) {
+			removeWord(lineId, index);
+		  }
+		  return;
+		}
+		
+		// Handle "Add Word at End" button
+		if (el.classList.contains('add-word-btn') && el.dataset.line) {
+		  addWordAtEnd(el.dataset.line);
+		  return;
+		}
+		
+		// Handle tag editing
+		if (el.classList.contains('tag') && el.dataset.line) {
+		  // Check if we're in edit mode for Oxford pane
+		  const isOxfordPane = el.closest('#oxfordPane');
+		  if (isOxfordPane) {
+			// Always allow tag editing when clicking on tags in Oxford pane
+			showTagEditor(el);
+		  } else {
+			// For Riverside pane, only allow if not in edit mode
+			if (!editMode) {
+			  showTagEditor(el);
+			}
+		  }
+		  return;
 		} 
+		
 		// Handle inline text/scansion editing in edit mode
-		else if ((el.classList.contains('editable')) && editMode && el.dataset.line) {
-		  startInlineEdit(el);
+		if (el.classList.contains('editable') && el.dataset.line) {
+		  // Check if edit mode is enabled and this is in the Oxford pane
+		  const isOxfordPane = el.closest('#oxfordPane');
+		  if (editMode && isOxfordPane) {
+			startInlineEdit(el);
+		  }
+		  return;
 		}
-		// Handle tag editing in edit mode
-		else if (el.classList.contains('tag') && el.dataset.line && editMode) {
-		  showTagEditor(el);
-		}
-		else {
-		  // Close any open editors
+		
+		// Close any open tag editors when clicking elsewhere
+		if (!el.classList.contains('tag-editor') && !el.closest('.tag-editor')) {
 		  const existing = document.querySelector('.tag-editor');
 		  if (existing) existing.remove();
 		}
@@ -1056,6 +1113,9 @@ input[type="checkbox"] {
 		oxfordTagEdits[lineId] = tags;
 		displayLine(currentLine);
 	  }
+
+	  // Call refreshEditMode on page load to ensure proper initialization
+	  document.addEventListener('DOMContentLoaded', refreshEditMode);
 	</script>
   </body>
 </html>
