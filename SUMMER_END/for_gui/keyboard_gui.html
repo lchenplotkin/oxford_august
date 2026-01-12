@@ -17,6 +17,8 @@
   --controls-bg: #f5f5f5;
   --edit-mode-bg: #fff3cd;
   --edit-mode-border: #ffeaa7;
+  --word-mode-bg: #e3f2fd;
+  --word-mode-border: #2196f3;
 }
 
 .dark-mode {
@@ -31,6 +33,8 @@
   --controls-bg: #2d2d2d;
   --edit-mode-bg: #3d3c1a;
   --edit-mode-border: #5d5a2a;
+  --word-mode-bg: #1a2a3d;
+  --word-mode-border: #4dabf7;
 }
 
 body {
@@ -107,6 +111,18 @@ body {
 
 .word-block:hover {
   background-color: var(--hover-bg);
+}
+
+.word-block.selected {
+  background-color: var(--accent-color);
+  color: white;
+  outline: 2px solid var(--accent-color);
+}
+
+.word-block.selected .scansion,
+.word-block.selected .tag {
+  color: white;
+  opacity: 0.9;
 }
 
 .word-block span {
@@ -291,7 +307,6 @@ input.tag-input {
   cursor: pointer;
 }
 
-
 .line-display {
   font-size: 1.1em;
   font-weight: bold;
@@ -348,6 +363,15 @@ label {
   border-radius: 4px;
 }
 
+.word-mode-controls {
+  margin-top: 10px;
+  padding: 8px;
+  background: var(--word-mode-bg);
+  border: 2px solid var(--word-mode-border);
+  border-radius: 4px;
+  font-weight: bold;
+}
+
 .inline-edit {
   background: var(--edit-mode-bg);
   border: 1px solid var(--border-color);
@@ -359,7 +383,6 @@ label {
   color: var(--text-color);
 }
 
-/* Dark mode toggle button */
 .dark-mode-toggle {
   position: fixed;
   top: 10px;
@@ -378,6 +401,71 @@ label {
   background: var(--hover-bg);
 }
 
+.keyboard-shortcuts-panel {
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  z-index: 999;
+  background: var(--controls-bg);
+  border: 2px solid var(--accent-color);
+  border-radius: 6px;
+  padding: 12px;
+  max-width: 600px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.keyboard-shortcuts-panel h3 {
+  margin: 0 0 10px 0;
+  color: var(--accent-color);
+}
+
+.shortcuts-grid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 12px;
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+
+.shortcuts-grid > div:nth-child(odd) {
+  font-weight: bold;
+  color: var(--accent-color);
+}
+
+kbd {
+  background: var(--bg-color);
+  border: 1px solid var(--border-color);
+  border-radius: 3px;
+  padding: 2px 6px;
+  font-family: monospace;
+  font-size: 0.9em;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+}
+
+.help-toggle {
+  position: fixed;
+  top: 10px;
+  right: 140px;
+  z-index: 1000;
+  background: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+  font-size: 1.2em;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.help-toggle:hover {
+  opacity: 0.9;
+  transform: scale(1.05);
+}
+
 input[type="text"], input[type="file"] {
   background: var(--bg-color);
   color: var(--text-color);
@@ -393,6 +481,7 @@ input[type="checkbox"] {
   </head>
   <body>
 
+	<button class="help-toggle" id="helpToggle" title="Show/Hide Keyboard Shortcuts (?)">?</button>
 	<button class="dark-mode-toggle" id="darkModeToggle">🌙 Dark Mode</button>
 
 	<div class="controls">
@@ -412,6 +501,47 @@ input[type="checkbox"] {
 
 	<div class="edit-mode-controls" id="editModeControls" style="display: none;">
 	  <strong>Edit Mode Active:</strong> Click green + to add word before, blue - to remove word, or click text/scansion to edit
+	</div>
+
+	<div class="word-mode-controls" id="wordModeControls" style="display: none;">
+	  <strong>🎯 WORD MODE (Press ESC to exit):</strong> Tab/Shift+Tab to navigate | Enter to edit | Delete to remove | + to add before | T to edit tag | S to edit scansion
+	</div>
+
+	<div class="keyboard-shortcuts-panel" id="keyboardShortcuts" style="display: none;">
+	  <h3>⌨️ Keyboard Shortcuts</h3>
+	  <div class="shortcuts-grid">
+		<div><strong>Mode Control:</strong></div>
+		<div>
+		  <kbd>I</kbd> Enter Word Mode (select first word in Oxford pane) |
+		  <kbd>ESC</kbd> Exit Word Mode (return to line navigation)
+		</div>
+		<div><strong>Line Navigation Mode:</strong></div>
+		<div>
+		  <kbd>←</kbd> or <kbd>J</kbd> Previous Line |
+		  <kbd>→</kbd> or <kbd>K</kbd> Next Line
+		</div>
+		<div>
+		  <kbd>Shift</kbd>+<kbd>←</kbd> or <kbd>Shift</kbd>+<kbd>J</kbd> Previous Diff |
+		  <kbd>Shift</kbd>+<kbd>→</kbd> or <kbd>Shift</kbd>+<kbd>K</kbd> Next Diff
+		</div>
+		<div>
+		  <kbd>F</kbd> Toggle Flag | <kbd>G</kbd> Green Flag | <kbd>R</kbd> Red Flag
+		</div>
+		<div><strong>Word Mode:</strong></div>
+		<div>
+		  <kbd>Tab</kbd> Next Word | <kbd>Shift</kbd>+<kbd>Tab</kbd> Previous Word
+		</div>
+		<div>
+		  <kbd>Enter</kbd> Edit Word | <kbd>T</kbd> Edit Tag | <kbd>S</kbd> Edit Scansion
+		</div>
+		<div>
+		  <kbd>Delete</kbd> or <kbd>Backspace</kbd> Remove Word | <kbd>+</kbd> Add Word Before
+		</div>
+		<div><strong>Other:</strong></div>
+		<div>
+		  <kbd>?</kbd> Toggle This Help
+		</div>
+	  </div>
 	</div>
 
 	<div class="navigation">
@@ -449,9 +579,8 @@ input[type="checkbox"] {
 	  let lineFlags = {};
 	  let editMode = false;
 	  let darkMode = false;
-	  let initialGreenDiffs = new Set();   // diff lines green at load
-	  let diffLineIds = new Set();         // all diff line IDs
-
+	  let selectedWordIndex = null;
+	  let wordMode = false;
 
 	  const riversidePane = document.getElementById('riversidePane');
 	  const oxfordPane = document.getElementById('oxfordPane');
@@ -461,11 +590,17 @@ input[type="checkbox"] {
 	  const editModeCheckbox = document.getElementById('editMode');
 	  const hideGreenFlags = document.getElementById('hideGreenFlags');
 	  const editModeControls = document.getElementById('editModeControls');
+	  const wordModeControls = document.getElementById('wordModeControls');
 	  const currentLineDisplay = document.getElementById('currentLineDisplay');
 	  const useRiversideSuggestions = document.getElementById('useRiversideSuggestions');
 	  const darkModeToggle = document.getElementById('darkModeToggle');
+	  const helpToggle = document.getElementById('helpToggle');
+	  const keyboardShortcuts = document.getElementById('keyboardShortcuts');
 
-	  // Dark mode toggle
+	  helpToggle.addEventListener('click', () => {
+		keyboardShortcuts.style.display = keyboardShortcuts.style.display === 'none' ? 'block' : 'none';
+	  });
+
 	  darkModeToggle.addEventListener('click', () => {
 		darkMode = !darkMode;
 		if (darkMode) {
@@ -477,12 +612,10 @@ input[type="checkbox"] {
 		}
 	  });
 
-	  // Helper function to create a consistent line identifier
 	  function getLineId(lineNumber) {
 		return String(lineNumber).trim();
 	  }
 
-	  // Helper function to find row by line number (handles various formats)
 	  function findRowByLineNumber(lineNumber) {
 		const searchId = getLineId(lineNumber);
 		return csvData.find(r => getLineId(r["LINE_NUMBER"]) === searchId);
@@ -493,10 +626,10 @@ input[type="checkbox"] {
 		editModeControls.style.display = editMode ? 'block' : 'none';
 		if (currentLine) displayLine(currentLine);
 	  });
+
 	  hideGreenFlags.addEventListener('change', () => {
 	    showDiffList();
 	  });
-
 
 	  document.getElementById('csvFile').addEventListener('change', (e) => {
 		const file = e.target.files[0];
@@ -505,25 +638,6 @@ input[type="checkbox"] {
 		  skipEmptyLines: true,
 		  complete: function(results) {
 			csvData = results.data;
-			initialGreenDiffs.clear();
-			diffLineIds.clear();
-
-			for (const row of csvData) {
-			  const lineId = getLineId(row["LINE_NUMBER"]);
-			  const color = (row["FLAG_COLOR"] || "").toLowerCase();
-
-			  if (row["MATCH"] === "DIFF") {
-			    diffLineIds.add(lineId);
-
-			    if (color === "green") {
-			      initialGreenDiffs.add(lineId);
-			      lineFlags[lineId] = "green";
-			    } else if (color === "red") {
-			      lineFlags[lineId] = "red";
-			    }
-			  }
-			}
-
 			lineFlags = {};
 			oxfordTagEdits = {};
 			oxfordTextEdits = {};
@@ -619,93 +733,173 @@ input[type="checkbox"] {
 		showDiffList();
 	  };
 
-	function showDiffList() {
-	  const container = document.getElementById('diffList');
-	  container.innerHTML = "";
+	  document.addEventListener('keydown', (e) => {
+		if (e.target.tagName === 'INPUT' || e.target.classList.contains('inline-edit')) {
+		  return;
+		}
 
-	  // ---- Progress header ----
-	  const progress = document.createElement("div");
-	  progress.id = "progressDisplay";
-	  progress.style.fontWeight = "bold";
-	  progress.style.marginBottom = "6px";
-	  progress.style.display = "flex";
-	  progress.style.justifyContent = "center";
-	  progress.style.textAlign = "center";
+		if (e.key === 'Escape' && wordMode) {
+		  e.preventDefault();
+		  exitWordMode();
+		  return;
+		}
 
-	  container.appendChild(progress);
+		if (e.key === '?') {
+		  e.preventDefault();
+		  helpToggle.click();
+		  return;
+		}
 
-	  // ---- Diff line list ----
-	  const label = document.createElement("div");
-	  label.textContent = "Lines with differences:";
-	  label.style.display = "inline-block";
-	  label.style.marginRight = "8px";
-	  container.appendChild(label);
-
-	  csvData.forEach(row => {
-	    if (row["MATCH"] !== "DIFF") return;
-
-	    const lineNum = row["LINE_NUMBER"];
-	    const lineId = getLineId(lineNum);
-	    const flag = lineFlags[lineId];
-
-	    // Skip green-flagged lines if toggle is on
-	    if (hideGreenFlags.checked && flag === "green") return;
-
-	    const flagEl = document.createElement("span");
-	    flagEl.className = "flag";
-	    flagEl.textContent = getFlagSymbol(flag);
-	    if (flag) flagEl.classList.add(flag);
-	    flagEl.onclick = (e) => {
-	      e.stopPropagation();
-	      toggleFlag(lineNum);
-	      showDiffList(); // refresh + progress update
-	    };
-
-	    const span = document.createElement("span");
-	    span.className = "line-number";
-	    span.textContent = lineNum;
-	    span.onclick = () => displayLine(lineNum);
-
-	    container.appendChild(flagEl);
-	    container.appendChild(span);
+		if (wordMode) {
+		  handleWordModeKey(e);
+		} else {
+		  handleLineModeKey(e);
+		}
 	  });
 
-	  updateProgressDisplay();
-	}
+	  function handleLineModeKey(e) {
+		if (e.key.toLowerCase() === 'i') {
+		  e.preventDefault();
+		  enterWordMode();
+		}
+		else if ((e.key === 'ArrowLeft' || e.key.toLowerCase() === 'j') && !e.shiftKey) {
+		  e.preventDefault();
+		  navigateLine(-1);
+		} else if ((e.key === 'ArrowRight' || e.key.toLowerCase() === 'k') && !e.shiftKey) {
+		  e.preventDefault();
+		  navigateLine(1);
+		} else if ((e.key === 'ArrowLeft' || e.key.toLowerCase() === 'j') && e.shiftKey) {
+		  e.preventDefault();
+		  navigateDiff(-1);
+		} else if ((e.key === 'ArrowRight' || e.key.toLowerCase() === 'k') && e.shiftKey) {
+		  e.preventDefault();
+		  navigateDiff(1);
+		}
+		else if (e.key.toLowerCase() === 'f') {
+		  e.preventDefault();
+		  if (currentLine) {
+			toggleFlag(currentLine);
+			const lineId = getLineId(currentLine);
+			flagBtn.className = "flag " + (lineFlags[lineId] || "");
+			flagBtn.textContent = getFlagSymbol(lineFlags[lineId]);
+			showDiffList();
+		  }
+		} else if (e.key.toLowerCase() === 'g') {
+		  e.preventDefault();
+		  if (currentLine) {
+			const lineId = getLineId(currentLine);
+			lineFlags[lineId] = "green";
+			flagBtn.className = "flag green";
+			flagBtn.textContent = getFlagSymbol("green");
+			showDiffList();
+		  }
+		} else if (e.key.toLowerCase() === 'r') {
+		  e.preventDefault();
+		  if (currentLine) {
+			const lineId = getLineId(currentLine);
+			lineFlags[lineId] = "red";
+			flagBtn.className = "flag red";
+			flagBtn.textContent = getFlagSymbol("red");
+			showDiffList();
+		  }
+		}
+	  }
 
+	  function handleWordModeKey(e) {
+		if (e.key === 'Tab') {
+		  e.preventDefault();
+		  if (e.shiftKey) {
+			navigateWord(-1);
+		  } else {
+			navigateWord(1);
+		  }
+		}
+		else if (e.key === 'Enter') {
+		  e.preventDefault();
+		  editSelectedElement('word');
+		}
+		else if (e.key.toLowerCase() === 't') {
+		  e.preventDefault();
+		  editSelectedElement('tag');
+		}
+		else if (e.key.toLowerCase() === 's') {
+		  e.preventDefault();
+		  editSelectedElement('scansion');
+		}
+		else if (e.key === 'Delete' || e.key === 'Backspace') {
+		  e.preventDefault();
+		  if (selectedWordIndex !== null) {
+			const lineId = getLineId(currentLine);
+			if (confirm("Remove this word?")) {
+			  removeWord(lineId, selectedWordIndex);
+			}
+		  }
+		}
+		else if (e.key === '+' || e.key === '=') {
+		  e.preventDefault();
+		  if (selectedWordIndex !== null) {
+			const lineId = getLineId(currentLine);
+			addWordBefore(lineId, selectedWordIndex);
+		  }
+		}
+	  }
 
-	function updateProgressDisplay() {
-	  const progressEl = document.getElementById("progressDisplay");
-	  if (!progressEl || diffLineIds.size === 0) return;
+	  function enterWordMode() {
+		if (!currentLine) return;
+		
+		const lineId = getLineId(currentLine);
+		const row = findRowByLineNumber(lineId);
+		if (!row) return;
+		
+		const oText = oxfordTextEdits[lineId] || (row["OXFORD_TEXT"] || "").split(" ").filter(w => w.trim());
+		if (oText.length === 0) return;
+		
+		wordMode = true;
+		selectedWordIndex = 0;
+		wordModeControls.style.display = 'block';
+		updateWordSelection();
+		scrollToSelectedWord();
+	  }
 
-	  const diffIds = Array.from(diffLineIds);
+	  function exitWordMode() {
+		wordMode = false;
+		selectedWordIndex = null;
+		wordModeControls.style.display = 'none';
+		updateWordSelection();
+	  }
 
-	  // TOTAL progress
-	  const totalGreen = diffIds.filter(
-	    id => lineFlags[id] === "green"
-	  ).length;
-	  const totalPct = ((totalGreen / diffIds.length) * 100).toFixed(1);
+	  function showDiffList() {
+	    const container = document.getElementById('diffList');
+	    container.innerHTML = "Lines with differences: ";
 
-	  // SESSION progress
-	  const sessionDenominator = diffIds.filter(
-	    id => !initialGreenDiffs.has(id)
-	  ).length;
+	    csvData.forEach(row => {
+	      if (row["MATCH"] !== "DIFF") return;
 
-	  const sessionNumerator = diffIds.filter(
-	    id =>
-	      !initialGreenDiffs.has(id) &&
-	      lineFlags[id] === "green"
-	  ).length;
+	      const lineNum = row["LINE_NUMBER"];
+	      const lineId = getLineId(lineNum);
+	      const flag = lineFlags[lineId];
 
-	  const sessionPct = sessionDenominator > 0
-	    ? ((sessionNumerator / sessionDenominator) * 100).toFixed(1)
-	    : "100.0";
+	      if (hideGreenFlags.checked && flag === "green") return;
 
-	  progressEl.textContent =
-	    `Session: ${sessionNumerator}/${sessionDenominator} (${sessionPct}%) | ` +
-	    `Total: ${totalGreen}/${diffIds.length} (${totalPct}%)`;
-	}
+	      const span = document.createElement("span");
+	      span.className = "line-number";
+	      span.textContent = lineNum;
+	      span.onclick = () => displayLine(lineNum);
 
+	      const flagEl = document.createElement("span");
+	      flagEl.className = "flag";
+	      flagEl.textContent = getFlagSymbol(flag);
+	      flagEl.classList.add(flag);
+	      flagEl.onclick = (e) => {
+	        e.stopPropagation();
+	        toggleFlag(lineNum);
+	        showDiffList();
+	      };
+
+	      container.appendChild(flagEl);
+	      container.appendChild(span);
+	    });
+	  }
 
 	  function getFlagSymbol(state) {
 		if (state === "green") return "✅";
@@ -723,6 +917,7 @@ input[type="checkbox"] {
 
 	  function displayLine(lineNum) {
 		currentLine = lineNum;
+		exitWordMode();
 		currentLineDisplay.textContent = `Line: ${currentLine}`;
 		currentLineDisplay.title = currentLine;
 		
@@ -740,12 +935,13 @@ input[type="checkbox"] {
 		let oScansion = oxfordScansionEdits[lineId] || (row["OXFORD_SCANSION"] || "").split(" ");
 		while (oScansion.length < oText.length) oScansion.push('');
 
-		// Get original text
 		const rOriginal = row["OG_RIV_TEXT"] || "";
 		const oOriginal = row["OG_OXFORD_TEXT"] || "";
 
 		riversidePane.innerHTML = createLinePane(rText, rScansion, rTags, false, null, rOriginal);
 		oxfordPane.innerHTML = createLinePane(oText, oScansion, oTags, true, lineId, oOriginal);
+
+		updateWordSelection();
 
 		flagBtn.className = "flag " + (lineFlags[lineId] || "");
 		flagBtn.textContent = getFlagSymbol(lineFlags[lineId]);
@@ -787,7 +983,6 @@ input[type="checkbox"] {
 	    }
 	  }
 
-
 	  function createLinePane(words, scansion, tags, editable = false, lineId = null, originalText = "") {
 		let html = "";
 		
@@ -819,7 +1014,7 @@ input[type="checkbox"] {
 			   </span>`
 			: "";
 		  
-		  return `<div class="word-block">
+		  return `<div class="word-block" data-word-index="${i}" data-editable="${editable}">
 			${wordControls}
 			${scan}
 			${tag}
@@ -836,7 +1031,6 @@ input[type="checkbox"] {
 		return html;
 	  }
 
-	  // Word manipulation functions
 	  function addWordBefore(lineId, index) {
 		const newWord = prompt("Enter new word:");
 		if (newWord && newWord.trim()) {
@@ -845,6 +1039,10 @@ input[type="checkbox"] {
 		  oxfordTextEdits[lineId].splice(index, 0, newWord.trim());
 		  oxfordTagEdits[lineId].splice(index, 0, '');
 		  oxfordScansionEdits[lineId].splice(index, 0, '');
+		  
+		  if (wordMode && selectedWordIndex !== null && selectedWordIndex >= index) {
+			selectedWordIndex++;
+		  }
 		  
 		  displayLine(currentLine);
 		}
@@ -871,6 +1069,18 @@ input[type="checkbox"] {
 		  oxfordTagEdits[lineId].splice(index, 1);
 		  oxfordScansionEdits[lineId].splice(index, 1);
 		  
+		  if (wordMode && selectedWordIndex !== null) {
+			if (selectedWordIndex === index) {
+			  if (oxfordTextEdits[lineId].length === 0) {
+				exitWordMode();
+			  } else if (selectedWordIndex > 0) {
+				selectedWordIndex--;
+			  }
+			} else if (selectedWordIndex > index) {
+			  selectedWordIndex--;
+			}
+		  }
+		  
 		  displayLine(currentLine);
 		}
 	  }
@@ -890,29 +1100,97 @@ input[type="checkbox"] {
 		}
 	  }
 
-	  // Make functions globally available
 	  window.addWordBefore = addWordBefore;
 	  window.addWordAtEnd = addWordAtEnd;
 	  window.removeWord = removeWord;
 
-	  // Click event handlers for inline editing
+	  function navigateWord(direction) {
+		if (!currentLine) return;
+		
+		const lineId = getLineId(currentLine);
+		const row = findRowByLineNumber(lineId);
+		if (!row) return;
+		
+		const oText = oxfordTextEdits[lineId] || (row["OXFORD_TEXT"] || "").split(" ").filter(w => w.trim());
+		const maxIndex = oText.length - 1;
+		
+		if (maxIndex < 0) {
+		  exitWordMode();
+		  return;
+		}
+		
+		if (selectedWordIndex === null) {
+		  selectedWordIndex = direction > 0 ? 0 : maxIndex;
+		} else {
+		  selectedWordIndex += direction;
+		  if (selectedWordIndex > maxIndex) {
+			selectedWordIndex = 0;
+		  } else if (selectedWordIndex < 0) {
+			selectedWordIndex = maxIndex;
+		  }
+		}
+		
+		updateWordSelection();
+		scrollToSelectedWord();
+	  }
+
+	  function updateWordSelection() {
+		const allBlocks = oxfordPane.querySelectorAll('.word-block');
+		allBlocks.forEach(block => block.classList.remove('selected'));
+		
+		if (wordMode && selectedWordIndex !== null) {
+		  const selectedBlock = oxfordPane.querySelector(`[data-word-index="${selectedWordIndex}"][data-editable="true"]`);
+		  if (selectedBlock) {
+			selectedBlock.classList.add('selected');
+		  }
+		}
+	  }
+
+	  function scrollToSelectedWord() {
+		if (selectedWordIndex === null) return;
+		const selectedBlock = oxfordPane.querySelector(`[data-word-index="${selectedWordIndex}"][data-editable="true"]`);
+		if (selectedBlock) {
+		  selectedBlock.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+		}
+	  }
+
+	  function editSelectedElement(type) {
+		if (selectedWordIndex === null || !currentLine) return;
+		
+		const selectedBlock = oxfordPane.querySelector(`[data-word-index="${selectedWordIndex}"][data-editable="true"]`);
+		if (!selectedBlock) return;
+		
+		let targetElement;
+		if (type === 'word') {
+		  targetElement = selectedBlock.querySelector('.word.editable');
+		} else if (type === 'scansion') {
+		  targetElement = selectedBlock.querySelector('.scansion.editable');
+		} else if (type === 'tag') {
+		  targetElement = selectedBlock.querySelector('.tag');
+		}
+		
+		if (targetElement) {
+		  if (type === 'tag') {
+			showTagEditor(targetElement);
+		  } else {
+			startInlineEdit(targetElement);
+		  }
+		}
+	  }
+
 	  document.body.addEventListener('click', function (e) {
 		const el = e.target;
 		
-		// Handle tag editing (existing functionality)
-		if (el.classList.contains('tag') && el.dataset.line && !editMode) {
+		if (el.classList.contains('tag') && el.dataset.line && !editMode && !wordMode) {
 		  showTagEditor(el);
 		} 
-		// Handle inline text/scansion editing in edit mode
-		else if ((el.classList.contains('editable')) && editMode && el.dataset.line) {
+		else if ((el.classList.contains('editable')) && editMode && el.dataset.line && !wordMode) {
 		  startInlineEdit(el);
 		}
-		// Handle tag editing in edit mode
-		else if (el.classList.contains('tag') && el.dataset.line && editMode) {
+		else if (el.classList.contains('tag') && el.dataset.line && editMode && !wordMode) {
 		  showTagEditor(el);
 		}
 		else {
-		  // Close any open editors
 		  const existing = document.querySelector('.tag-editor');
 		  if (existing) existing.remove();
 		}
@@ -934,7 +1212,6 @@ input[type="checkbox"] {
 		  element.textContent = newValue;
 		  input.parentNode.replaceChild(element, input);
 		  
-		  // Update the data
 		  const lineId = element.dataset.line;
 		  const index = parseInt(element.dataset.index);
 		  const type = element.dataset.type;
@@ -952,9 +1229,15 @@ input[type="checkbox"] {
 		input.addEventListener('keydown', (e) => {
 		  if (e.key === 'Enter') {
 			finishEdit();
+			if (wordMode) {
+			  updateWordSelection();
+			}
 		  } else if (e.key === 'Escape') {
 			element.textContent = currentText;
 			input.parentNode.replaceChild(element, input);
+			if (wordMode) {
+			  updateWordSelection();
+			}
 		  }
 		});
 	  }
@@ -986,22 +1269,17 @@ input[type="checkbox"] {
 		  });
 		}
 
-		// Add Riverside suggestions if enabled
 		if (useRiversideSuggestions.checked) {
 		  const row = findRowByLineNumber(lineId);
 		  if (row) {
 			const rTags = (row["RIVERSIDE_TAGGING"] || "").split(" ").filter(t => t.trim());
 			const oTags = oxfordTagEdits[lineId] || (row["OXFORD_TAGGING"] || "").split(" ").filter(t => t.trim());
 			
-			// Find all tags in Riverside
 			const riversideTagsSet = new Set(rTags);
-			
-			// Remove tags that are already in Oxford
 			oTags.forEach(tag => {
 			  riversideTagsSet.delete(tag);
 			});
 			
-			// Add a separator if there are both JSON suggestions and Riverside suggestions
 			if (entries.length > 0 && riversideTagsSet.size > 0) {
 			  const separator = document.createElement('div');
 			  separator.style.borderTop = '1px solid var(--border-color)';
@@ -1015,7 +1293,6 @@ input[type="checkbox"] {
 			  editor.appendChild(separator);
 			}
 			
-			// Add Riverside suggestions
 			Array.from(riversideTagsSet).forEach(tag => {
 			  const div = document.createElement('div');
 			  div.textContent = `${tag} (from Riverside)`;
@@ -1029,7 +1306,6 @@ input[type="checkbox"] {
 		  }
 		}
 
-		// Allow custom input
 		const input = document.createElement('input');
 		input.className = 'tag-input';
 		input.placeholder = 'Custom tag...';
