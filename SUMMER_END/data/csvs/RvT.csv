@@ -63,12 +63,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3928,,,10,and@conj,turnen@v%inf,cuppe@n%pl,and@conj,wel@adv,wrestlen@v%inf,and@conj,sheten@v%inf
 
 "Ay by his belt he baar a long panade,",||,"And by his belt he baar a long panade,°"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,Ay,by,his,belt,he,baar,a,long,panade
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,ai@adv,bi@prep,his@pron1%gen,belt@n,he@pron1%nom,beren@v1%pt_3,a@indef_art,long@adj1,panade@n
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,And,by,his,belt,he,baar,a,long,panade
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,green,10,and@conj,bi@prep,his@pron1%gen,belt@n,he@pron1%nom,beren@v1%pt_3,ai@adv,long@adj1,panade@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,Ay,by,his,belt,he,baar,a,long,panade
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,ai@adv,bi@prep,his@pron1%gen,belt@n,he@pron1%nom,beren@v1%pt_3,a@indef_art,long@adj1,panade@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,And,by,his,belt,he,baar,a,long,panade
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3929,DIFF,,10,,bi@prep,his@pron1%gen,belt@n,he@pron1%nom,beren@v1%pt_3,ai@adv,long@adj1,panade@n
 
 And of a swerd ful trenchant was the blade.,||,And of a swerd ful trenchant° was the blade.
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3930,,,10,And,of,a,swerd,ful,trenchant,was,the,blade
@@ -159,12 +159,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3940,,,10,and@conj,that@pron,a@indef_art,sleigh@adj,and@conj,usaunt@adj,for@prep#adv,to@part,stelen@v%inf
 
 His name was hoote deynous Symkyn.,||,His name was hoten° dëinous° Simkin.
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,0,His,name,was,hoote,deynous,Symkyn
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,0,,,,,,
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,0,his@pron1%gen,name@n,ben@v%pt_3,hoten@v1%ppl,deinous@adj,simkin@n#propn
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,10,His,name,was,hoten,dinous,Simkin
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,10,u,Su,S,uS,uS,uS
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,green,10,his@pron1%gen,name@n,ben@v%pt_3,hoten@v1%inf,deinous@adj,simkin@n#propn
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,0,His,name,was,hoote,deynous,Symkyn
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,0,,,,,,
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,0,his@pron1%gen,name@n,ben@v%pt_3,hoten@v1%ppl,deinous@adj,simkin@n#propn
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,10,His,name,was,hoten,dinous,Simkin
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,10,u,Su,S,uS,uS,uS
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3941,DIFF,,10,his@pron1%gen,name@n,ben@v%pt_3,,deinous@adj,simkin@n#propn
 
 "A wyf he hadde, ycomen of noble kyn;",||,"¶A wif he hadde, ycomen of noble kin;"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3942,,,10,A,wyf,he,hadde,ycomen,of,noble,kyn
@@ -452,7 +452,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3977,DIFF,,10,this@gram_adj,persoune@n2,of@prep,the@def_art,toun@n,for@conj,she@pron%nom,ben@v%pt_3,fair@adj
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3977,DIFF,,10,The,person,of,the,toun,for,she,was,feir
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3977,DIFF,,10,u,Su,S,u,S,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3977,DIFF,,10,the@def_art,persoune@n2,of@prep,,toun@n,for@conj,she@pron%nom,ben@v%pt_3,fair@adj
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3977,DIFF,,10,the@def_art,persoune@n2,of@prep,the@def_art,toun@n,for@conj,she@pron%nom,ben@v%pt_3,for@conj
 
 "In purpos was to maken hire his heir,",||,In purpos was° to maken hir his heir
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3978,,,10,In,purpos,was,to,maken,hire,his,heir
@@ -543,12 +543,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3988,,,10,with@prep,whete@n,and@conj,malt@n,of@prep,al@gram_adj,the@def_art,lond@n,abouten@advas_adj
 
 And nameliche ther was a greet collegge,||,"And namely° ther was a greet collegge,"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,And,nameliche,ther,was,a,greet,collegge
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,u,SuSx,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,and@conj,nameli@adv,ther@adv,ben@v%pt_3,a@indef_art,gret@adj,college@n
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,And,namely,ther,was,a,greet,collegge
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,u,SuS,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,green,10,and@conj,nameli@adv,ther@adv,ben@v%pt_3,a@indef_art,gret@adj,college@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,And,nameliche,ther,was,a,greet,collegge
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,u,SuSx,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,and@conj,nameli@adv,ther@adv,ben@v%pt_3,a@indef_art,gret@adj,college@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,And,namely,ther,was,a,greet,collegge
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,u,SuS,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3989,DIFF,,10,and@conj,,ther@adv,ben@v%pt_3,a@indef_art,gret@adj,college@n
 
 Men clepen the Soler Halle at Cantebregge;,||,"Men clep° the Soler-halle at Cantebregge,°"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 3990,DIFF,,10,Men,clepen,the,Soler,Halle,at,Cantebregge
@@ -847,12 +847,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4026,,,10,simond@n#propn,quethen@v%pt_3,john@n3#propn,bi@prep,god@n1#propn,nede@n1,haven@v%pr_3,no@gram_adj,per@n
 
 "Hym boes serve hymself that has na swayn,",||,"Him boës° serve himselve that has na swain,°"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,10,Hym,boes,serve,hymself,that,has,na,swayn
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,10,u,Su,Sx,uS,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,10,him@pron%obj,bihoven@v%pr_3,serven@v1%inf,him-self@pron,that@pron,haven@v%pr_3,no@gram_adj,swein@n
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,9,Him,bos,serve,himselve,that,has,na,swain
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,9,S,u,Sx,uSx,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,green,9,him@pron%obj,bihoven@v%pr_3,serven@v1%inf,him-self@pron,that@pron,haven@v%pr_3,no@gram_adj,swein@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,10,Hym,boes,serve,hymself,that,has,na,swayn
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,10,u,Su,Sx,uS,u,S,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,10,him@pron%obj,bihoven@v%pr_3,serven@v1%inf,him-self@pron,that@pron,haven@v%pr_3,no@gram_adj,swein@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,9,Him,bos,serve,himselve,that,has,na,swain
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,9,S,u,Sx,uSx,u,S,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4027,DIFF,,9,him@pron%obj,bihoven@v%pr_3,serven@v1%inf,,that@pron,haven@v%pr_3,no@gram_adj,swein@n
 
 "Or elles he is a fool, as clerkes sayn.",||,"Or els he is a fool, as clerkes sayn."
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4028,,,10,Or,elles,he,is,a,fool,as,clerkes,sayn
@@ -1068,7 +1068,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4054,DIFF,,10,the@def_art,gret@adj%sup,clerk@n%pl,ben@v%pr_pl,nought@adv,wise@adj%sup,man@n%pl
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4054,DIFF,,10,The,grettest,clerks,been,noght,the,wisest,men
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4054,DIFF,,10,u,Su,S,u,S,u,Su,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4054,DIFF,,10,the@def_art,gret@adj%sup,clerk@n%pl,ben@v%pr_pl,nought@adv,,wise@adj%sup,man@n%pl
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4054,DIFF,,10,the@def_art,gret@adj%sup,clerk@n%pl,ben@v%pr_pl,nought@adv,the@def_art,wise@adj%sup,man@n%pl
 
 As whilom to the wolf thus spak the mare.,||,As whilom° to the wolf thus spak the mare;°
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4055,,,10,As,whilom,to,the,wolf,thus,spak,the,mare
@@ -1079,12 +1079,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4055,,,10,as@conj,whilom@adv,to@prep,the@def_art,wolf@n,thus@adv,speken@v%pt_3,the@def_art,mere@n1
 
 "Of al hir art counte I noght a tare.""",||,Of al hir° art I counte noght a tare.”°
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,9,Of,al,hir,art,counte,I,noght,a,tare
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,9,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,9,of@prep,al@gram_adj,here@pron%pl_gen,art@n1,counten@v%pr_1,ich@pron%nom,nought@adv,a@indef_art,tare@n1
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,10,Of,al,hir,art,I,counte,noght,a,tare
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,green,10,of@prep,al@gram_adj,here@pron%pl_gen,art@n1,ich@pron%nom,counten@v%pr_1,nought@adv,a@indef_art,tare@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,9,Of,al,hir,art,counte,I,noght,a,tare
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,9,S,u,S,u,Sx,u,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,9,of@prep,al@gram_adj,here@pron%pl_gen,art@n1,counten@v%pr_1,ich@pron%nom,nought@adv,a@indef_art,tare@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,10,Of,al,hir,art,I,counte,noght,a,tare
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4056,DIFF,,10,of@prep,al@gram_adj,here@pron%pl_gen,art@n1,ich@pron%nom,counten@v%pr_1,nought@adv,ich@pron%nom,tare@n1
 
 "Out at the dore he gooth ful pryvely,",||,"¶Out at the dore he gooth ful prively,"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4057,,,10,Out,at,the,dore,he,gooth,ful,pryvely
@@ -1159,12 +1159,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4065,,,10,towarde@prep,the@def_art,fen@n1,ther@adv,wilde@adj,mere@n1%pl,rennen@v1%pr_pl
 
 "And forth with ""wehee,"" thurgh thikke and thurgh thenne.",||,"Forth with “Wehe!,” thurgh thikke and thenne."
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,10,And,forth,with,wehee,thurgh,thikke,and,thurgh,thenne
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,10,u,S,u,Su,S,ux,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,10,and@conj,forth@adv,with@prep,we-he@interj,thurgh@prep,thikke@n,and@conj,thurgh@prep,thinne@n
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,0,Forth,with,Wehe,thurgh,thikke,and,thenne
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,0,,,,,,,
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,green,0,forth@adv,with@prep,we-he@interj,thurgh@prep,thikke@n,and@conj,thinne@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,10,And,forth,with,wehee,thurgh,thikke,and,thurgh,thenne
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,10,u,S,u,Su,S,ux,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,10,and@conj,forth@adv,with@prep,we-he@interj,thurgh@prep,thikke@n,and@conj,thurgh@prep,thinne@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,0,Forth,with,Wehe,thurgh,thikke,and,thenne
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,0,,,,,,,
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4066,DIFF,,0,forth@adv,with@prep,we-he@interj,thurgh@prep,thikke@n,and@conj,thinne@n
 
 "This millere gooth agayn, no word he seyde,",||,"¶This miller gooth again, no word he seide,"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4067,,,10,This,millere,gooth,agayn,no,word,he,seyde
@@ -1228,7 +1228,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4074,DIFF,,10,steppen@v%imp,on@prep,thin@pron%gen,fot@n%pl,comen@v%imp,of@adv,man@n,al@adv,at_ones@adv
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4074,DIFF,,10,Step,on,thy,feet,com,out,man,al,at,anes
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4074,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4074,DIFF,,10,steppen@v%imp,on@prep,thin@pron%gen,fot@n%pl,comen@v%imp,,man@n,al@adv,at@prep,
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4074,DIFF,,10,steppen@v%imp,on@prep,thin@pron%gen,fot@n%pl,comen@v%imp,,man@n,al@adv,,
 
 "Allas, our wardeyn has his palfrey lorn.""",||,"Allas, our wardein has his palfrey° lorn.”"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4075,,,10,Allas,our,wardeyn,has,his,palfrey,lorn
@@ -1340,7 +1340,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4088,DIFF,,0,whi@adv,ne@adv,haven@v%pt_2,thou@pron%nom,putten@v%ppl,the@def_art,capel@n,in@prep,the@def_art,lathe@n1
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4088,DIFF,,10,Why,nadstow,pit,the,capul,in,the,lathe
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4088,DIFF,,10,u,Su,S,u,Su,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4088,DIFF,,10,whi@adv,,putten@v%ppl,thou@pron%nom,capel@n,ne@adv,the@def_art,lathe@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4088,DIFF,,10,whi@adv,,putten@v%ppl,thou@pron%nom,capel@n,ne@adv,thou@pron%nom,lathe@n1
 
 "Ilhayl! By God, Alayn, thou is a fonne!""",||,"Il hail,° by God, Alein, thou is a fonne!”°"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,Ilhayl,By,God,Alayn,thou,is,a,fonne
@@ -1348,7 +1348,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,ille_hail@interj,bi@prep,god@n1#propn,alein@n1#propn,thou@pron%nom,ben@v%pr_2,a@indef_art,fonne@n
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,Il,hail,by,God,Alein,thou,is,a,fonne
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,u,S,u,S,uS,u,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,ille@adj,,bi@prep,god@n1#propn,alein@n1#propn,thou@pron%nom,ben@v%pr_2,a@indef_art,fonne@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4089,DIFF,,10,,,bi@prep,god@n1#propn,alein@n1#propn,thou@pron%nom,ben@v%pr_2,a@indef_art,fonne@n
 
 Thise sely clerkes han ful faste yronne,||,¶This sely° clerkes han ful faste yronne
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4090,,,10,Thise,sely,clerkes,han,ful,faste,yronne
@@ -1420,7 +1420,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4098,DIFF,,10,lo@interj,wher@adv&conj,he@pron1%nom,gon@v%pr_3,ye@adv,leten@v%imp,the@def_art,child@n%pl,pleien@v1%inf
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4098,DIFF,,10,Lo,wher,they,goon,ye,lat,the,children,pleye
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4098,DIFF,,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4098,DIFF,,10,lo@interj,wher@adv&conj,the@def_art,,ye@adv,leten@v%imp,,child@n%pl,pleien@v1%inf
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4098,DIFF,,10,lo@interj,wher@adv&conj,the@def_art,,ye@adv,leten@v%imp,the@def_art,child@n%pl,pleien@v1%inf
 
 "They gete hym nat so lightly, by my croun.""",||,"They gete him° nat so lightly, by my croun!”"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4099,,,10,They,gete,hym,nat,so,lightly,by,my,croun
@@ -1447,12 +1447,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4101,,,10,with@prep,kepen@v%imp,kepen@v%imp,stonden@v1%imp,stonden@v1%imp,jossa@n#interj,warderere@interj
 
 "Ga whistle thou, and I shal kepe hym heere!""",||,"Ga whistle thou, and I sal kepe him here!”"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,Ga,whistle,thou,and,I,shal,kepe,hym,heere
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,gon@v%imp,whistlen@v%inf,thou@pron%nom,and@conj,ich@pron%nom,shulen@v1%pr_1,kepen@v%inf,him@pron%obj,her@adv
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,Ga,whistle,thou,and,I,sal,kepe,him,here
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,green,10,gon@v%imp,whistlen@v%inf,thou@pron%nom,and@conj,ich@pron%nom,shulen@v1%pr_1,kepen@v%inf,him@pron%obj,her@adv
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,Ga,whistle,thou,and,I,shal,kepe,hym,heere
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,gon@v%imp,whistlen@v%inf,thou@pron%nom,and@conj,ich@pron%nom,shulen@v1%pr_1,kepen@v%inf,him@pron%obj,her@adv
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,Ga,whistle,thou,and,I,sal,kepe,him,here
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4102,DIFF,,10,gon@v%imp,whistlen@v%inf,thou@pron%nom,and@conj,ich@pron%nom,,kepen@v%inf,him@pron%obj,her@adv
 
 "But shortly, til that it was verray nyght,",||,"But shortly, til° that it was verray night,"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4103,,,10,But,shortly,til,that,it,was,verray,nyght
@@ -1735,12 +1735,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4137,,,10,for@prep,ale@n,and@conj,bred@n1,and@conj,rosten@v%pt_3,hem@pron%pl_obj,a@indef_art,gos@n
 
 "And boond hire hors, it sholde namoore go loos,",||,"And bond hir hors, it sholde nat goon loos;"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,And,boond,hire,hors,it,sholde,namoore,go,loos
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,u,S,ux,S,u,Sx,uSx,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,and@conj,binden@v%pt_3,here@pron%pl_gen,hors@n,hit@pron,shulen@v1%pt_3,no_more@adv%comp,gon@v%inf,los@adj
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,And,bond,hir,hors,it,sholde,nat,goon,loos
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,green,10,and@conj,binden@v%pt_3,here@pron%pl_gen,hors@n,hit@pron,shulen@v1%pt_3,not@adv,gon@v%inf,los@adj
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,And,boond,hire,hors,it,sholde,namoore,go,loos
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,u,S,ux,S,u,Sx,uSx,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,and@conj,binden@v%pt_3,here@pron%pl_gen,hors@n,hit@pron,shulen@v1%pt_3,no_more@adv%comp,gon@v%inf,los@adj
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,And,bond,hir,hors,it,sholde,nat,goon,loos
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,u,S,u,S,u,Su,S,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4138,DIFF,,10,and@conj,binden@v%pt_3,here@pron%pl_gen,hors@n,hit@pron,shulen@v1%pt_3,,,los@adj
 
 "And in his owene chambre hem made a bed,",||,And in his owne chambre hem made a bed
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4139,,,10,And,in,his,owene,chambre,hem,made,a,bed
@@ -1940,7 +1940,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4163,DIFF,,10,that@conj,as@conj,a@indef_art,hors@n,he@pron1%nom,fnorten@v%pr_3,in@prep,his@pron1%gen,slep@n
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4163,DIFF,,10,That,as,an,hors,he,snorteth,in,his,sleepe
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4163,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4163,DIFF,,10,that@conj,as@conj,a@indef_art,hors@n,he@pron1%nom,,in@prep,his@pron1%gen,slep@n
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4163,DIFF,,10,that@conj,as@conj,a@indef_art,hors@n,he@pron1%nom,,a@indef_art,his@pron1%gen,slep@n
 
 Ne of his tayl bihynde he took no keep.,||,Ne of his tail bihinde he took no keepe.°
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4164,,,10,Ne,of,his,tayl,bihynde,he,took,no,keep
@@ -1999,12 +1999,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4170,,,10,heren@v%pt_2_pron,ever@adv,slik@adj,a@indef_art,song@n,er@prep,nou@n
 
 "Lo, swilk a complyn is ymel hem alle;",||,"Lo, whilk a compline° is ymel° hem alle!"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,Lo,swilk,a,complyn,is,ymel,hem,alle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,u,S,u,Su,S,uS,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,lo@interj,swich@gram_adj,a@indef_art,compline@n,ben@v%pr_3,emelle@prep,hem@pron%pl_obj,al@gram_adj
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,Lo,whilk,a,compline,is,ymel,hem,alle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,u,S,u,Sux,S,uS,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,green,10,lo@interj,which@gram_adj,a@indef_art,compline@n,ben@v%pr_3,emelle@prep,hem@pron%pl_obj,al@gram_adj
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,Lo,swilk,a,complyn,is,ymel,hem,alle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,u,S,u,Su,S,uS,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,lo@interj,swich@gram_adj,a@indef_art,compline@n,ben@v%pr_3,emelle@prep,hem@pron%pl_obj,al@gram_adj
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,Lo,whilk,a,compline,is,ymel,hem,alle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,u,S,u,Sux,S,uS,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4171,DIFF,,10,lo@interj,,a@indef_art,compline@n,ben@v%pr_3,emelle@prep,hem@pron%pl_obj,lo@interj
 
 A wilde fyr upon thair bodyes falle!,||,A wilde fir° upon thair bodies falle!°
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4172,,,10,A,wilde,fyr,upon,thair,bodyes,falle
@@ -2151,12 +2151,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4189,,,10,the@def_art,milnere@n,ben@v%pr_3,a@indef_art,perilous@adj,man@n,he@pron1%nom,seien@v1%pt_3
 
 """And gif that he out of his sleep abreyde,",||,"“And if that he out of his sleep abreide,°"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,And,gif,that,he,out,of,his,sleep,abreyde
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,and@conj,if@conj,that@part,he@pron1%nom,oute@adv#prep,of@prep,his@pron1%gen,slep@n,abreiden@v1%pr_3
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,And,if,that,he,out,of,his,sleep,abreide
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,green,10,and@conj,of@prep,that@part,he@pron1%nom,oute@adv#prep,of@prep,his@pron1%gen,slep@n,abreiden@v1%pr_3
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,And,gif,that,he,out,of,his,sleep,abreyde
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,and@conj,if@conj,that@part,he@pron1%nom,oute@adv#prep,of@prep,his@pron1%gen,slep@n,abreiden@v1%pr_3
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,And,if,that,he,out,of,his,sleep,abreide
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4190,DIFF,,10,and@conj,of@prep,that@part,he@pron1%nom,oute@adv#prep,of@prep,his@pron1%gen,slep@n,abreiden@v1%pr_3
 
 "He myghte doon us bathe a vileynye.""",||,He mighte doon us bathe° a vileinie.”°
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4191,,,0,He,myghte,doon,us,bathe,a,vileynye
@@ -2284,7 +2284,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4206,DIFF,,10,and@conj,ich@pron%nom,lien@v1%pr_1,as@conj,a@indef_art,draf-sak@n,in@prep,min@pron%gen,bed@n1
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4206,DIFF,,10,And,I,lie,as,a,draf,sak,in,my,bed
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4206,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4206,DIFF,,10,and@conj,ich@pron%nom,lien@v1%pr_1,as@conj,a@indef_art,,sak@n,in@prep,min@pron%gen,bed@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4206,DIFF,,10,and@conj,ich@pron%nom,lien@v1%pr_1,as@conj,ich@pron%nom,,,in@prep,min@pron%gen,bed@n1
 
 "And when this jape is tald another day,",||,"And when this jape is tald another day,"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4207,,,10,And,when,this,jape,is,tald,another,day
@@ -2663,12 +2663,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4253,,,10,min@pron%gen,hed@n1,ben@v%pr_3,toti@adj,of@prep,min@pron%gen,swink@n,to-night@adv
 
 That makes me that I ga nat aright.,||,That maketh me that I go nat aright.
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,That,makes,me,that,I,ga,nat,aright
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,u,Su,S,u,S,u,S,uS
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,that@pron,maken@v1%pr_3,me@pron2%obj,that@conj,ich@pron%nom,gon@v%pr_1,not@adv,a-right@adv
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,That,maketh,me,that,I,go,nat,aright
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,u,Su,S,u,S,u,S,uS
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,green,10,that@pron,maken@v1%pr_3,me@pron2%obj,that@conj,ich@pron%nom,gon@v%pr_1,not@adv,a-right@adv
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,That,makes,me,that,I,ga,nat,aright
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,u,Su,S,u,S,u,S,uS
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,that@pron,maken@v1%pr_3,me@pron2%obj,that@conj,ich@pron%nom,gon@v%pr_1,not@adv,a-right@adv
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,That,maketh,me,that,I,go,nat,aright
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,u,Su,S,u,S,u,S,uS
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4254,DIFF,,10,that@pron,,me@pron2%obj,that@pron,ich@pron%nom,gon@v%pr_1,not@adv,a-right@adv
 
 I woot wel by the cradel I have mysgo;,||,"I woot wel by the cradel, I have misgo,°"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4255,,,10,I,woot,wel,by,the,cradel,I,have,mysgo
@@ -2695,12 +2695,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4257,,,10,and@conj,forth@adv,he@pron1%nom,gon@v%pr_3,o@prep2,twenti@num_adj,devel@n#adj,wei@n
 
 Unto the bed ther as the millere lay.,||,Unto the bed theras the miller lay.
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,Unto,the,bed,ther,as,the,millere,lay
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,uS,u,S,u,S,u,Sux,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,unto@prep,the@def_art,bed@n1,ther@adv,as@conj,the@def_art,milnere@n,lien@v1%pt_3
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,Unto,the,bed,theras,the,miller,lay
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,uS,u,S,uS,u,Su,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,green,10,unto@prep,the@def_art,bed@n1,ther-as@adv,the@def_art,milnere@n,lien@v1%pt_3
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,Unto,the,bed,ther,as,the,millere,lay
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,uS,u,S,u,S,u,Sux,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,unto@prep,the@def_art,bed@n1,ther@adv,as@conj,the@def_art,milnere@n,lien@v1%pt_3
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,Unto,the,bed,theras,the,miller,lay
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,uS,u,S,uS,u,Su,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4258,DIFF,,10,unto@prep,the@def_art,bed@n1,,the@def_art,milnere@n,lien@v1%pt_3
 
 "He wende have cropen by his felawe John,",||,He wende° have cropen° by his felaw John;
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4259,,,10,He,wende,have,cropen,by,his,felawe,John
@@ -2935,12 +2935,12 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4287,,,10,in@prep,manus@lat_n,tuas@lat_pron,lord@n,to@prep,the@pron2%obj,ich@pron%nom,callen@v%pr_1
 
 "Awak, Symond! The feend is on me falle.",||,"Awak, Simond! the feend° is on us falle,"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,Awak,Symond,The,feend,is,on,me,falle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,uS,uS,u,S,u,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,awaken@v%imp,simond@n#propn,the@def_art,fend@n,ben@v%pr_3,on@prep,me@pron2%obj,fallen@v%ppl
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,Awak,Simond,the,feend,is,on,us,falle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,uS,uS,u,S,u,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,green,10,awaken@v%imp,simond@n#propn,the@def_art,fend@n,ben@v%pr_3,on@prep,us@pron%pl_obj,fallen@v%ppl
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,Awak,Symond,The,feend,is,on,me,falle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,uS,uS,u,S,u,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,awaken@v%imp,simond@n#propn,the@def_art,fend@n,ben@v%pr_3,on@prep,me@pron2%obj,fallen@v%ppl
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,Awak,Simond,the,feend,is,on,us,falle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,uS,uS,u,S,u,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4288,DIFF,,10,awaken@v%imp,simond@n#propn,the@def_art,fend@n,ben@v%pr_3,on@prep,ben@v%pr_3,fallen@v%ppl
 
 Myn herte is broken; help! I nam but deed!,||,"Min herte is broken, help, I nam° but deed;"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4289,,,10,Myn,herte,is,broken,help,I,nam,but,deed
@@ -2956,7 +2956,7 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4290,DIFF,,0,ther@adv,lien@v1%pr_3,on@pron,upon@prep,min@pron%gen,wombe@n,and@conj,on@prep,min@pron%gen,hed@n1
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4290,DIFF,,10,Ther,lith,oon,on,my,wombe,and,on,min,heed
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4290,DIFF,,10,u,S,u,S,u,Sx,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4290,DIFF,,10,ther@adv,lien@v1%pr_3,on@pron,on@prep,min@pron%gen,wombe@n,and@conj,,min@pron%gen,hed@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4290,DIFF,,10,ther@adv,lien@v1%pr_3,on@pron,on@pron,min@pron%gen,wombe@n,and@conj,on@pron,min@pron%gen,hed@n1
 
 "Help, Symkyn, for the false clerkes fighte!""",||,"Help, Simkin, for the false clerkes fighte.”"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4291,,,10,Help,Symkyn,for,the,false,clerkes,fighte
@@ -3063,20 +3063,20 @@ data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,Th
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4303,,,10,she@pron%nom,wenen@v2%pt_3,the@def_art,clerk@n,haven@v%pt_3,weren@v2%ppl,a@indef_art,voluper@n
 
 "And with the staf she drow ay neer and neer,",||,"And with the staf she drough° ay neer and neer,"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,And,with,the,staf,she,drow,ay,neer,and,neer
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,and@conj,with@prep,the@def_art,staf@n,she@pron%nom,drauen@v%pt_3,ai@adv,nerre@adv%comp,and@conj,nerre@adv%comp
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,And,with,the,staf,she,drough,ay,neer,and,neer
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,green,10,and@conj,with@prep,the@def_art,staf@n,she@pron%nom,drauen@v%pt_3,ai@adv,nerre@adv%comp,and@conj,nerre@adv%comp
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,And,with,the,staf,she,drow,ay,neer,and,neer
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,u,S,u,S,u,S,u,S,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,and@conj,with@prep,the@def_art,staf@n,she@pron%nom,drauen@v%pt_3,ai@adv,nerre@adv%comp,and@conj,nerre@adv%comp
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,And,with,the,staf,she,drough,ay,neer,and,neer
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,u,S,u,S,u,S,u,S,u,S
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4304,DIFF,,10,and@conj,with@prep,the@def_art,staf@n,she@pron%nom,,ai@adv,nerre@adv%comp,and@conj,nerre@adv%comp
 
 "And wende han hit this Aleyn at the fulle,",||,"And wende han hit° this Alein atte fulle,°"
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,And,wende,han,hit,this,Aleyn,at,the,fulle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,u,Sx,u,S,u,Su,S,u,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,and@conj,wenen@v2%pt_3,haven@v%inf,hitten@v%ppl,this@gram_adj,alein@n1#propn,at@prep,the@def_art,fulle@n1
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,And,wende,han,hit,this,Alein,atte,fulle
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,u,Sx,u,S,u,Su,Su,Sx
-data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,green,10,and@conj,wenen@v2%pt_3,haven@v%inf,hitten@v%ppl,this@gram_adj,alein@n1#propn,at@prep,fulle@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,And,wende,han,hit,this,Aleyn,at,the,fulle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,u,Sx,u,S,u,Su,S,u,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,and@conj,wenen@v2%pt_3,haven@v%inf,hitten@v%ppl,this@gram_adj,alein@n1#propn,at@prep,the@def_art,fulle@n1
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,And,wende,han,hit,this,Alein,atte,fulle
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,u,Sx,u,S,u,Su,Su,Sx
+data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4305,DIFF,,10,and@conj,wenen@v2%pt_3,haven@v%inf,hitten@v%ppl,this@gram_adj,alein@n1#propn,at@prep,fulle@n1
 
 "And smoot the millere on the pyled skulle,",||,"And smoot the millere on the piled° skulle,"
 data/riverside_cats/RvT_riv.cat,data/oxford_txts/RvT_oxford.txt,data/csvs/RvT,The Reeve's Tale 4306,,,10,And,smoot,the,millere,on,the,pyled,skulle

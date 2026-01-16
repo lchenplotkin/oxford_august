@@ -71,12 +71,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 496,,,10,doun@adv,at@prep,the@def_art,ferther@adj%comp,ende@n1,in@prep,which@pron,ther@adv,ben@v%pt_pl
 
 "Children an heep, ycomen of Cristen blood,",||,"Children an heep,° ycome of Cristen blood,"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,Children,an,heep,ycomen,of,Cristen,blood
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,uS,u,S,uSu,S,ux,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,child@n%pl,a@indef_art,hep@n,comen@v%ppl_abs,of@prep,cristen@adj,blod@n1
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,Children,an,heep,ycome,of,Cristen,blood
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,uS,u,S,uSx,u,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,green,10,child@n%pl,a@indef_art,hep@n,comen@v%ppl,of@prep,cristen@adj,blod@n1
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,Children,an,heep,ycomen,of,Cristen,blood
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,uS,u,S,uSu,S,ux,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,child@n%pl,a@indef_art,hep@n,comen@v%ppl_abs,of@prep,cristen@adj,blod@n1
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,Children,an,heep,ycome,of,Cristen,blood
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,uS,u,S,uSx,u,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 497,DIFF,,10,child@n%pl,a@indef_art,hep@n,,of@prep,cristen@adj,blod@n1
 
 That lerned in that scole yeer by yere,||,That lerned in that scole yeer by yere
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 498,,,10,That,lerned,in,that,scole,yeer,by,yere
@@ -140,7 +140,7 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 505,DIFF,,10,and@conj,ek@adv,also@adv,wher@adv&conj,as@conj,he@pron1%nom,sen@v1%pt_3,the@def_art,image@n
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 505,DIFF,,10,And,eek,also,wheras,he,saugh,thimage
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 505,DIFF,,10,u,S,uS,uS,u,S,uSx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 505,DIFF,,10,and@conj,ek@adv,also@adv,wher-as@adv,he@pron1%nom,sen@v1%pt_3,
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 505,DIFF,,10,and@conj,ek@adv,also@adv,,he@pron1%nom,sen@v1%pt_3,
 
 "Of Cristes mooder, hadde he in usage,",||,"Of Cristes moder, hadde he in usage,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 506,,,10,Of,Cristes,mooder,hadde,he,in,usage
@@ -191,12 +191,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 511,,,10,to@part,worshipen@v%inf,ai@adv,and@conj,he@pron1%nom,foryeten@v%pt_3,hit@pron,nought@adv
 
 For sely child wol alday soone leere.,||,For sely° child wol alwey sone° lere;°
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,For,sely,child,wol,alday,soone,leere
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,u,Su,S,u,Su,Su,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,for@conj,seli@adj,child@n,willen@v%pr_3,al_dai@adv,sone@adv,leren@v%inf
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,For,sely,child,wol,alwey,sone,lere
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,u,Su,S,u,Su,Su,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,green,10,for@conj,seli@adj,child@n,willen@v%pr_3,al-wei@adv,sone@adv,leren@v%inf
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,For,sely,child,wol,alday,soone,leere
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,u,Su,S,u,Su,Su,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,for@conj,seli@adj,child@n,willen@v%pr_3,al_dai@adv,sone@adv,leren@v%inf
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,For,sely,child,wol,alwey,sone,lere
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,u,Su,S,u,Su,Su,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 512,DIFF,,10,for@conj,seli@adj,child@n,willen@v%pr_3,,sone@adv,leren@v%inf
 
 "But ay, whan I remembre on this mateere,",||,"But ay, whan I remembre on this matere,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 513,,,10,But,ay,whan,I,remembre,on,this,mateere
@@ -380,7 +380,7 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 535,DIFF,,10,ich@pron%nom,connen@v%pr_1,no_more@n,expounen@v%inf,in@prep,this@gram_adj,matere@n
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 535,DIFF,,10,I,can,no,more,expounde,in,this,matere
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 535,DIFF,,10,u,S,u,Sx,uSx,u,S,uSx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 535,DIFF,,10,ich@pron%nom,connen@v%pr_1,in@prep,,expounen@v%inf,,this@gram_adj,matere@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 535,DIFF,,10,ich@pron%nom,connen@v%pr_1,in@prep,,expounen@v%inf,in@prep,this@gram_adj,matere@n
 
 "I lerne song; I kan but smal grammeere.""",||,"I lerne song, I can° but smal grammere.”"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 536,,,10,I,lerne,song,I,kan,but,smal,grammeere
@@ -415,12 +415,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 539,,,10,nou@adv,certes@adv,ich@pron%nom,willen@v%pr_1,don@v1%inf,min@pron%gen,diligence@n
 
 To konne it al er Cristemasse be went.,||,"To conne it al,° er Cristemasse is went;°"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,To,konne,it,al,er,Cristemasse,be,went
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,u,Sx,u,S,u,SuSx,u,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,to@part,connen@v%inf,hit@pron,al@gram_adjas_n,er@conj1,criste-masse@n,ben@v%pr_3,wenden@v%ppl
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,To,conne,it,al,er,Cristemasse,is,went
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,u,Sx,u,S,u,SuSx,u,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,green,10,to@part,connen@v%inf,hit@pron,al@gram_adjas_n,er@conj1,criste-masse@n,ben@v%pr_3,wenden@v%ppl
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,To,konne,it,al,er,Cristemasse,be,went
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,u,Sx,u,S,u,SuSx,u,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,to@part,connen@v%inf,hit@pron,al@gram_adjas_n,er@conj1,criste-masse@n,ben@v%pr_3,wenden@v%ppl
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,To,conne,it,al,er,Cristemasse,is,went
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,u,Sx,u,S,u,SuSx,u,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 540,DIFF,,10,to@part,connen@v%inf,hit@pron,al@gram_adjas_n,er@conj1,criste-masse@n,,wenden@v%ppl
 
 Though that I for my prymer shal be shent,||,"Though that° I for my primer° shal be shent,°"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 541,,,10,Though,that,I,for,my,prymer,shal,be,shent
@@ -503,12 +503,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 550,,,10,on@prep,crist@n#propn%gen,moder@n,setten@v%ppl,ben@v%pt_3,his@pron1%gen,entente@n
 
 "As I have seyd, thurghout the Juerie",||,"As I have seid, thurghout the Jewerie"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,9,As,I,have,seyd,thurghout,the,Juerie
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,9,S,u,Sx,u,Su,S,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,9,as@conj,ich@pron%nom,haven@v%pr_1,seien@v1%ppl,thurgh-oute@prep,the@def_art,jeuerie@n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,10,As,I,have,seid,thurghout,the,Jewerie
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,10,u,S,ux,S,uS,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,green,10,as@conj,ich@pron%nom,haven@v%pr_1,seien@v1%ppl,thurgh-oute@prep,the@def_art,jeuerie@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,9,As,I,have,seyd,thurghout,the,Juerie
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,9,S,u,Sx,u,Su,S,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,9,as@conj,ich@pron%nom,haven@v%pr_1,seien@v1%ppl,thurgh-oute@prep,the@def_art,jeuerie@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,10,As,I,have,seid,thurghout,the,Jewerie
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,10,u,S,ux,S,uS,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 551,DIFF,,10,as@conj,ich@pron%nom,haven@v%pr_1,seien@v1%ppl,thurgh-oute@prep,the@def_art,
 
 "This litel child, as he cam to and fro,",||,"This litel child, as he cam to and fro,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 552,,,10,This,litel,child,as,he,cam,to,and,fro
@@ -535,12 +535,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 554,,,10,o@interj,alma@lat_adj,redemptoris@lat_n,ever-mor@adv
 
 The swetnesse his herte perced so,||,The swetnesse hath his herte perced° so
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,9,The,swetnesse,his,herte,perced,so
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,9,S,uSx,u,Su,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,9,the@def_art,swetenesse@n,his@pron1%gen,herte@n,percen@v%pt_3,so@adv
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,10,The,swetnesse,hath,his,herte,perced,so
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,10,u,Sux,S,u,Su,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,green,10,the@def_art,swetenesse@n,haven@v%pr_3,his@pron1%gen,herte@n,percen@v%pt_3,so@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,9,The,swetnesse,his,herte,perced,so
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,9,S,uSx,u,Su,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,9,the@def_art,swetenesse@n,his@pron1%gen,herte@n,percen@v%pt_3,so@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,10,The,swetnesse,hath,his,herte,perced,so
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,10,u,Sux,S,u,Su,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 555,DIFF,,10,the@def_art,swetenesse@n,,his@pron1%gen,herte@n,percen@v%pt_3,so@adv
 
 "Of Cristes mooder that, to hire to preye,",||,"Of Cristes moder, that, to hir to preye,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 556,,,10,Of,Cristes,mooder,that,to,hire,to,preye
@@ -567,12 +567,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 558,,,10,oure@pron%pl_gen,first@num_adj,fo@n,the@def_art,serpent@n,satanas@n#propn
 
 "That hath in Jues herte his waspes nest,",||,"That hath in Jewes herte his waspes nest,"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,9,That,hath,in,Jues,herte,his,waspes,nest
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,9,S,u,S,u,Sx,u,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,9,that@pron,haven@v%pr_3,in@prep,jeu@n%gen,herte@n,his@pron1%gen,wasp@n%gen,nest@n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,10,That,hath,in,Jewes,herte,his,waspes,nest
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,10,u,S,u,Su,Sx,u,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,green,10,that@pron,haven@v%pr_3,in@prep,jeu@n%gen,herte@n,his@pron1%gen,wasp@n%gen,nest@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,9,That,hath,in,Jues,herte,his,waspes,nest
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,9,S,u,S,u,Sx,u,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,9,that@pron,haven@v%pr_3,in@prep,jeu@n%gen,herte@n,his@pron1%gen,wasp@n%gen,nest@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,10,That,hath,in,Jewes,herte,his,waspes,nest
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,10,u,S,u,Su,Sx,u,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 559,DIFF,,10,that@pron,haven@v%pr_3,in@prep,,herte@n,his@pron1%gen,wasp@n%gen,nest@n
 
 "Up swal, and seide, ""O Hebrayk peple, allas!",||,"Up swal,° and seid, “O Hebraik peple, allas!"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 560,,,10,Up,swal,and,seide,O,Hebrayk,peple,allas
@@ -607,20 +607,20 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 563,,,10,in@prep,your@pron%pl_gen,despit@n,and@conj,singen@v%inf,of@prep,swich@gram_adj,sentence@n
 
 "Which is agayn youre lawes reverence?""",||,Which is agains your lawes reverence?”°
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,Which,is,agayn,youre,lawes,reverence
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,u,S,uS,ux,Su,SuSx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,which@pron,ben@v%pr_3,ayen@prep,your@pron%pl_gen,laue@n%gen,reverence@n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,Which,is,agains,your,lawes,reverence
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,u,S,uS,u,Su,SuSx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,green,10,which@pron,ben@v%pr_3,ayenes@prep,your@pron%pl_gen,laue@n%gen,reverence@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,Which,is,agayn,youre,lawes,reverence
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,u,S,uS,ux,Su,SuSx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,which@pron,ben@v%pr_3,ayen@prep,your@pron%pl_gen,laue@n%gen,reverence@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,Which,is,agains,your,lawes,reverence
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,u,S,uS,u,Su,SuSx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 564,DIFF,,10,which@pron,ben@v%pr_3,,your@pron%pl_gen,laue@n%gen,reverence@n
 
 Fro thennes forth the Jues han conspired,||,Fro thennes forth the Jewes han conspired
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,Fro,thennes,forth,the,Jues,han,conspired
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,u,Su,S,u,S,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,from@prep,thennes@adv,forth@adv,the@def_art,jeu@n%pl,haven@v%pr_pl,conspiren@v%ppl
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,Fro,thennes,forth,the,Jewes,han,conspired
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,u,Su,S,u,Su,S,uSx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,green,10,from@prep,thennes@adv,forth@adv,the@def_art,jeu@n%pl,haven@v%pr_pl,conspiren@v%ppl
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,Fro,thennes,forth,the,Jues,han,conspired
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,u,Su,S,u,S,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,from@prep,thennes@adv,forth@adv,the@def_art,jeu@n%pl,haven@v%pr_pl,conspiren@v%ppl
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,Fro,thennes,forth,the,Jewes,han,conspired
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,u,Su,S,u,Su,S,uSx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 565,DIFF,,10,from@prep,thennes@adv,forth@adv,the@def_art,,haven@v%pr_pl,conspiren@v%ppl
 
 This innocent out of this world to chace.,||,This innocent out of this world to chace;°
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 566,,,10,This,innocent,out,of,this,world,to,chace
@@ -831,12 +831,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 591,,,10,til@conj,finalli@adv,she@pron%nom,ginnen@v%pt_3,so@adv,fer@adv,aspien@v%inf
 
 That he last seyn was in the Juerie.,||,That he last seyn° was in the Jewerie.
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,9,That,he,last,seyn,was,in,the,Juerie
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,9,S,u,S,u,S,u,S,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,9,that@conj,he@pron1%nom,laste@adv%sup,sen@v1%ppl,ben@v%pt_3,in@prep,the@def_art,jeuerie@n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,10,That,he,last,seyn,was,in,the,Jewerie
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,10,u,S,u,S,u,S,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,green,10,that@conj,he@pron1%nom,laste@adv%sup,sen@v1%ppl,ben@v%pt_3,in@prep,the@def_art,jeuerie@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,9,That,he,last,seyn,was,in,the,Juerie
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,9,S,u,S,u,S,u,S,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,9,that@conj,he@pron1%nom,laste@adv%sup,sen@v1%ppl,ben@v%pt_3,in@prep,the@def_art,jeuerie@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,10,That,he,last,seyn,was,in,the,Jewerie
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,10,u,S,u,S,u,S,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 592,DIFF,,10,that@conj,he@pron1%nom,laste@adv%sup,sen@v1%ppl,ben@v%pt_3,in@prep,the@def_art,
 
 "With moodres pitee in hir brest enclosed,",||,"With modres pitee in hir brest enclosed,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 593,,,10,With,moodres,pitee,in,hir,brest,enclosed
@@ -887,12 +887,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 598,,,10,she@pron%nom,crien@v%pt_3,and@conj,atte@prep,laste@adj#n%sup,thus@adv,she@pron%nom,werken@v%pt_3
 
 Among the cursed Jues she hym soghte.,||,Among the cursed Jewes she him soghte.
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,9,Among,the,cursed,Jues,she,hym,soghte
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,9,Su,S,uS,u,S,u,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,9,amonges@prep,the@def_art,cursed@ppl#adj,jeu@n%pl,she@pron%nom,him@pron%obj,sechen@v%pt_3
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,10,Among,the,cursed,Jewes,she,him,soghte
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,10,uS,u,Su,Su,S,u,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,green,10,amonges@prep,the@def_art,cursed@ppl#adj,jeu@n%pl,she@pron%nom,him@pron%obj,sechen@v%pt_3
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,9,Among,the,cursed,Jues,she,hym,soghte
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,9,Su,S,uS,u,S,u,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,9,amonges@prep,the@def_art,cursed@ppl#adj,jeu@n%pl,she@pron%nom,him@pron%obj,sechen@v%pt_3
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,10,Among,the,cursed,Jewes,she,him,soghte
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,10,uS,u,Su,Su,S,u,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 599,DIFF,,10,amonges@prep,the@def_art,cursed@ppl#adj,,she@pron%nom,him@pron%obj,sechen@v%pt_3
 
 She frayneth and she preyeth pitously,||,She fraineth° and she preyeth pitously
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 600,,,10,She,frayneth,and,she,preyeth,pitously
@@ -1175,12 +1175,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 634,,,10,and@conj,after@prep,that@pron,he@pron1%nom,hongen@v%pt_3,hem@pron%pl_obj,bi@prep,the@def_art,laue@n
 
 Upon this beere ay lith this innocent,||,Upon his bere ay lith this innocent
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,Upon,this,beere,ay,lith,this,innocent
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,uS,u,Sx,u,S,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,upon@prep,this@gram_adj,bere@n8,ai@adv,lien@v1%pr_3,this@gram_adj,innocent@n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,Upon,his,bere,ay,lith,this,innocent
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,uS,u,Sx,u,S,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,green,10,upon@prep,his@pron1%gen,bere@n8,ai@adv,lien@v1%pr_3,this@gram_adj,innocent@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,Upon,this,beere,ay,lith,this,innocent
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,uS,u,Sx,u,S,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,upon@prep,this@gram_adj,bere@n8,ai@adv,lien@v1%pr_3,this@gram_adj,innocent@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,Upon,his,bere,ay,lith,this,innocent
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,uS,u,Sx,u,S,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 635,DIFF,,10,upon@prep,,bere@n8,ai@adv,lien@v1%pr_3,this@gram_adj,innocent@n
 
 "Biforn the chief auter, whil the masse laste;",||,"Biforn the chief auter,° whil the mass laste,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 636,,,10,Biforn,the,chief,auter,whil,the,masse,laste
@@ -1199,12 +1199,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 637,DIFF,,10,and@conj,after@prep,that@pron,,with@prep,his@pron1%gen,covent@n
 
 Han sped hem for to burien hym ful faste;,||,Han sped hem° for to burie him ful faste;
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,0,Han,sped,hem,for,to,burien,hym,ful,faste
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,0,,,,,,,,,
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,0,haven@v%pr_pl,speden@v%ppl,hem@pron%pl_obj,for@prep#adv,to@part,birien@v%inf,him@pron%obj,ful@adv,faste@adv
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,10,Han,sped,hem,for,to,burie,him,ful,faste
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,green,10,haven@v%pr_pl,speden@v%ppl,hem@pron%pl_obj,for@prep#adv,to@part,birien@v%inf,him@pron%obj,ful@adv,faste@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,0,Han,sped,hem,for,to,burien,hym,ful,faste
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,0,,,,,,,,,
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,0,haven@v%pr_pl,speden@v%ppl,hem@pron%pl_obj,for@prep#adv,to@part,birien@v%inf,him@pron%obj,ful@adv,faste@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,10,Han,sped,hem,for,to,burie,him,ful,faste
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 638,DIFF,,10,haven@v%pr_pl,speden@v%ppl,hem@pron%pl_obj,for@prep#adv,to@part,,hem@pron%pl_obj,ful@adv,faste@adv
 
 "And whan they hooly water on hym caste,",||,"And whan they holy water on him caste,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 639,,,10,And,whan,they,hooly,water,on,hym,caste
@@ -1223,12 +1223,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 640,,,10,yet@adv,speken@v%pt_3,this@gram_adj,child@n,whan@adv&conj,sprengen@v%ppl,ben@v%pt_3,holi@adj2,water@n
 
 And song O Alma redemptoris mater!,||,And song—“O Alma redemptoris mater!”
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,And,song,O,Alma,redemptoris,mater
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,u,S,u,Su,SuSu,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,and@conj,singen@v%pt_3,o@interj,alma@lat_adj,redemptoris@lat_n,mater@lat_n
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,And,songO,Alma,redemptoris,mater
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,u,Su,Su,SuSu,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,green,10,and@conj,singen@v%pt_3,alma@lat_adj,redemptoris@lat_n,mater@lat_n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,And,song,O,Alma,redemptoris,mater
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,u,S,u,Su,SuSu,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,and@conj,singen@v%pt_3,o@interj,alma@lat_adj,redemptoris@lat_n,mater@lat_n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,And,songO,Alma,redemptoris,mater
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,u,Su,Su,SuSu,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 641,DIFF,,10,and@conj,singen@v%pt_3,alma@lat_adj,redemptoris@lat_n,mater@lat_n
 
 "This abbot, which that was an hooly man,",||,"This abbot, which that was an holy man"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 642,,,10,This,abbot,which,that,was,an,hooly,man
@@ -1287,12 +1287,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 648,,,10,sitthe@conj,that@part,thin@pron%gen,throte@n,ben@v%pr_3,cutten@v1%ppl,to@prep,min@pron%gen,seminge@ger
 
 """My throte is kut unto my nekke boon,""",||,"“My throte is cut unto my nekke-boon,”"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,My,throte,is,kut,unto,my,nekke,boon
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,u,Sx,u,S,uS,u,Su,S
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,min@pron%gen,throte@n,ben@v%pr_3,cutten@v1%ppl,unto@prep,min@pron%gen,nekke@n#adj,bon@n1
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,My,throte,is,cut,unto,my,nekkeboon
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,u,Sx,u,S,uS,u,SuS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,green,10,min@pron%gen,throte@n,ben@v%pr_3,cutten@v1%ppl,unto@prep,min@pron%gen,nekke-bon@n
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,My,throte,is,kut,unto,my,nekke,boon
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,u,Sx,u,S,uS,u,Su,S
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,min@pron%gen,throte@n,ben@v%pr_3,cutten@v1%ppl,unto@prep,min@pron%gen,nekke@n#adj,bon@n1
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,My,throte,is,cut,unto,my,nekkeboon
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,u,Sx,u,S,uS,u,SuS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 649,DIFF,,10,min@pron%gen,throte@n,ben@v%pr_3,cutten@v1%ppl,unto@prep,min@pron%gen,
 
 "Seyde this child, ""and as by wey of kynde",||,"Seid this child, “and, as by wey of kinde,°"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 650,,,9,Seyde,this,child,and,as,by,wey,of,kynde
@@ -1303,12 +1303,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 650,,,9,seien@v1%pt_3,this@gram_adj,child@n,and@conj,as@conj,bi@prep,wei@n,of@prep,kinde@n
 
 "I sholde have dyed, ye, longe tyme agon.",||,"I sholde han deyed, ye, long time agoon,"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,I,sholde,have,dyed,ye,longe,tyme,agon
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,u,Sx,ux,Su,S,ux,Sx,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,ich@pron%nom,shulen@v1%pt_1,haven@v%inf,dien@v%ppl,ye@adv,long@adj1,time@n,agon@v%ppl_abs
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,I,sholde,han,deyed,ye,long,time,agoon
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,u,Sx,u,Su,S,u,Sx,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,,,10,ich@pron%nom,shulen@v1%pt_1,haven@v%inf,dien@v%ppl,ye@adv,long@adj1,time@n,agon@v%ppl_abs
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,I,sholde,have,dyed,ye,longe,tyme,agon
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,u,Sx,ux,Su,S,ux,Sx,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,ich@pron%nom,shulen@v1%pt_1,haven@v%inf,dien@v%ppl,ye@adv,long@adj1,time@n,agon@v%ppl_abs
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,I,sholde,han,deyed,ye,long,time,agoon
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,u,Sx,u,Su,S,u,Sx,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 651,DIFF,,10,ich@pron%nom,shulen@v1%pt_1,haven@v%inf,dien@v%ppl,ich@pron%nom,long@adj1,time@n,agon@v%ppl_abs
 
 "But Jesu Crist, as ye in bookes fynde,",||,"But Jesu Crist, as ye in bookes finde,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 652,,,10,But,Jesu,Crist,as,ye,in,bookes,fynde
@@ -1399,12 +1399,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 662,,,10,me@pron2%obj,thinken@v1%pt_3,she@pron%nom,leien@v1%pt_3,a@indef_art,grain@n,upon@prep,min@pron%gen,tonge@n2
 
 """Wherfore I synge, and synge moot certeyn,",||,"Wherfore I singe, and singe I moot° certein"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,Wherfore,I,synge,and,synge,moot,certeyn
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,uSx,u,Sx,u,Su,S,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,wher-for@adv,ich@pron%nom,singen@v%pr_1,and@conj,singen@v%inf,moten@v2%pr_1,certain@adv
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,Wherfore,I,singe,and,singe,I,moot,certein
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,uSx,u,Sx,u,Sx,u,S,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,green,10,wher-for@adv,ich@pron%nom,singen@v%pr_1,and@conj,singen@v%inf,ich@pron%nom,moten@v2%pr_1,certain@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,Wherfore,I,synge,and,synge,moot,certeyn
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,uSx,u,Sx,u,Su,S,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,wher-for@adv,ich@pron%nom,singen@v%pr_1,and@conj,singen@v%inf,moten@v2%pr_1,certain@adv
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,Wherfore,I,singe,and,singe,I,moot,certein
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,uSx,u,Sx,u,Sx,u,S,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 663,DIFF,,10,wher-for@adv,ich@pron%nom,singen@v%pr_1,and@conj,singen@v%pr_1,ich@pron%nom,moten@v2%pr_1,certain@adv
 
 In honour of that blisful Mayden free,||,"In honour of that blisful maiden free,"
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 664,,,10,In,honour,of,that,blisful,Mayden,free
@@ -1535,12 +1535,12 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 679,,,10,and@conj,after@prep,that@pron,thei@pron%pl_nom,risen@v%pr_pl,and@conj,forth@adv,ben@v%pr_pl,wenden@v%ppl
 
 And tooken awey this martir from his beere;,||,"And toke awey this martir from his bere,°"
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,And,tooken,awey,this,martir,from,his,beere
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,u,Sx,uS,u,Su,S,u,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,and@conj,taken@v%pt_pl,awei@adv,this@gram_adj,martir@n,from@prep,his@pron1%gen,bere@n8
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,And,toke,awey,this,martir,from,his,bere
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,u,Sx,uS,u,Su,S,u,Sx
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,green,10,and@conj,taken@v%pt_pl,awei@adv,this@gram_adj,martir@n,from@prep,his@pron1%gen,bere@n8
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,And,tooken,awey,this,martir,from,his,beere
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,u,Sx,uS,u,Su,S,u,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,and@conj,taken@v%pt_pl,awei@adv,this@gram_adj,martir@n,from@prep,his@pron1%gen,bere@n8
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,And,toke,awey,this,martir,from,his,bere
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,u,Sx,uS,u,Su,S,u,Sx
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 680,DIFF,,10,and@conj,,awei@adv,this@gram_adj,martir@n,from@prep,his@pron1%gen,bere@n8
 
 And in a tombe of marbul stones cleere,||,And in a toumbe of marbul-stones clere
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 681,DIFF,,10,And,in,a,tombe,of,marbul,stones,cleere
@@ -1615,10 +1615,10 @@ data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,Th
 data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 689,,,10,on@prep,us@pron%pl_obj,his@pron1%gen,gret@adj,merci@n1,multiplien@v%pr_3
 
 For reverence of his mooder Marie. Amen,||,For reverence of his moder Marie.
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,11,For,reverence,of,his,mooder,Marie,Amen
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,11,u,SuSx,u,S,uS,uS,ux
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,11,for@prep,reverence@n,of@prep,his@pron1%gen,moder@n,marie@n1#propn,amen@interj
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,10,For,reverence,of,his,moder,Marie
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,10,u,SuSx,u,S,uS,uS
-data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,green,10,for@prep,reverence@n,of@prep,his@pron1%gen,moder@n,marie@n1#propn
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,11,For,reverence,of,his,mooder,Marie,Amen
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,11,u,SuSx,u,S,uS,uS,ux
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,11,for@prep,reverence@n,of@prep,his@pron1%gen,moder@n,marie@n1#propn,amen@interj
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,10,For,reverence,of,his,moder,Marie
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,10,u,SuSx,u,S,uS,uS
+data/riverside_cats/PrT_riv.cat,data/oxford_txts/PrT_oxford.txt,data/csvs/PrT,The Prioress' Tale 690,DIFF,,10,for@prep,reverence@n,of@prep,his@pron1%gen,moder@n,marie@n1#propn
 

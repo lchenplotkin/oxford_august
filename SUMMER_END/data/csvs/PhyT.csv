@@ -231,12 +231,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 29,,,10,thus@adv,semen@v2%pr_3,me@pron2%obj,that@conj,nature@n#propn,willen@v%pt_3,seien@v1%inf
 
 "This mayde of age twelve yeer was and tweye,",||,"This maide of age twelf yeer was and tweie,°"
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,This,mayde,of,age,twelve,yeer,was,and,tweye
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,u,Sx,u,Su,Sx,u,S,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,this@gram_adj,maide@n,of@prep,age@n,twelve@num_adj,yer@n,ben@v%pt_3,and@conj,twein@num_adj
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,This,maide,of,age,twelf,yeer,was,and,tweie
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,u,Sx,u,Su,S,u,S,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,green,10,this@gram_adj,maide@n,of@prep,age@n,twelve@num_adj,yer@n,ben@v%pt_3,and@conj,twein@num_adj
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,This,mayde,of,age,twelve,yeer,was,and,tweye
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,u,Sx,u,Su,Sx,u,S,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,this@gram_adj,maide@n,of@prep,age@n,twelve@num_adj,yer@n,ben@v%pt_3,and@conj,twein@num_adj
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,This,maide,of,age,twelf,yeer,was,and,tweie
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,u,Sx,u,Su,S,u,S,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 30,DIFF,,10,this@gram_adj,maide@n,of@prep,age@n,,yer@n,ben@v%pt_3,and@conj,twein@num_adj
 
 In which that Nature hadde swich delit.,||,In which that Nature hadde swich delit.°
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 31,,,10,In,which,that,Nature,hadde,swich,delit
@@ -279,12 +279,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 35,,,10,er@conj1,she@pron%nom,ben@v%pt_3,beren@v1%ppl,upon@prep,hire@pron1%fem_gen,lim@n1%pl,fre@adj
 
 Where as by right swiche colours sholde be;,||,Wheras° by right swich colours sholde be;
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,Where,as,by,right,swiche,colours,sholde,be
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,ux,S,u,S,ux,Su,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,wher@adv&conj,as@conj,bi@prep,righte@adv,swich@gram_adj,colour@n%pl,shulen@v1%pt_pl,ben@v%inf
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,Wheras,by,right,swich,colours,sholde,be
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,uS,u,S,u,Su,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,green,10,wher-as@adv,bi@prep,righte@adv,swich@gram_adj,colour@n%pl,shulen@v1%pt_pl,ben@v%inf
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,Where,as,by,right,swiche,colours,sholde,be
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,ux,S,u,S,ux,Su,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,wher@adv&conj,as@conj,bi@prep,righte@adv,swich@gram_adj,colour@n%pl,shulen@v1%pt_pl,ben@v%inf
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,Wheras,by,right,swich,colours,sholde,be
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,uS,u,S,u,Su,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 36,DIFF,,10,,bi@prep,righte@adv,,colour@n%pl,shulen@v1%pt_pl,ben@v%inf
 
 And Phebus dyed hath hire tresses grete,||,And Phebus° diyd hath hir tresses grete°
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 37,,,10,And,Phebus,dyed,hath,hire,tresses,grete
@@ -471,12 +471,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 59,DIFF,,10,for@conj,win@n,and@conj,youth@n,,venus@n#propn,
 
 As men in fyr wol casten oille or greesse.,||,As men in fir wol casten° oile or grece.
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,As,men,in,fyr,wol,casten,oille,or,greesse
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,u,S,u,S,u,Su,Sx,u,Sx
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,as@conj,man@n%pl,in@prep,fir@n,willen@v%pr_pl,casten@v%inf,oile@n,or@conj,grese@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,As,men,in,fir,wol,casten,oile,or,grece
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,u,S,u,S,u,Su,Sx,u,Sx
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,green,10,as@conj,man@n%pl,in@prep,fir@n,willen@v%pr_pl,casten@v%inf,oile@n,or@conj,grese@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,As,men,in,fyr,wol,casten,oille,or,greesse
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,u,S,u,S,u,Su,Sx,u,Sx
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,as@conj,man@n%pl,in@prep,fir@n,willen@v%pr_pl,casten@v%inf,oile@n,or@conj,grese@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,As,men,in,fir,wol,casten,oile,or,grece
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,u,S,u,S,u,Su,Sx,u,Sx
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 60,DIFF,,10,as@conj,man@n%pl,in@prep,fir@n,willen@v%pr_pl,casten@v%inf,oile@n,or@conj,
 
 "And of hir owene vertu, unconstreyned,",||,"And of hir owene vertu, unconstreined,"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 61,,,10,And,of,hir,owene,vertu,unconstreyned
@@ -495,12 +495,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 62,,,10,she@pron%nom,haven@v%pr_3,ful@adv,ofte@adj,time@n,sik@adj,hire@pron2%fem_obj,feinen@v%ppl
 
 For that she wolde fleen the compaignye,||,For that° she wolde fleen° the companie
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,0,For,that,she,wolde,fleen,the,compaignye
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,0,,,,,,,
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,0,for@conj,that@part,she@pron%nom,willen@v%pt_3,flen@v1%inf,the@def_art,compaignie@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,10,For,that,she,wolde,fleen,the,companie
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,10,u,S,u,Su,S,u,SuS
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,,,10,for@conj,that@part,she@pron%nom,willen@v%pt_3,flen@v1%inf,the@def_art,compaignie@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,0,For,that,she,wolde,fleen,the,compaignye
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,0,,,,,,,
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,0,for@conj,that@part,she@pron%nom,willen@v%pt_3,flen@v1%inf,the@def_art,compaignie@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,10,For,that,she,wolde,fleen,the,companie
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,10,u,S,u,Su,S,u,SuS
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 63,DIFF,,10,for@conj,that@part,she@pron%nom,willen@v%pt_3,flen@v1%inf,the@def_art,compaignie@n
 
 "Where likly was to treten of folye,",||,"Wher likly was to treten° of folie,"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 64,,,0,Where,likly,was,to,treten,of,folye
@@ -679,12 +679,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 85,,,10,connen@v%pr_3,kepen@v%inf,a@indef_art,forest@n,best@adv%sup,of@prep,ani@gram_adj,man@n
 
 "Now kepeth wel, for if ye wole, ye kan.",||,"Now kepeth hem° wel, for if ye wol,° ye can;"
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,Now,kepeth,wel,for,if,ye,wole,ye,kan
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,u,Su,S,u,S,u,Sx,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,nou@adv,kepen@v%imp,wel@adv,for@conj,if@conj,ye@pron%pl_nom,willen@v%pr_pl,ye@pron%pl_nom,connen@v%pr_pl
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,Now,kepeth,hem,wel,for,if,ye,wol,ye,can
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,u,Sx,u,S,u,S,u,S,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,green,10,nou@adv,kepen@v%imp,hem@pron%pl_obj,wel@adv,for@conj,if@conj,ye@pron%pl_nom,willen@v%pr_pl,ye@pron%pl_nom,connen@v%pr_pl
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,Now,kepeth,wel,for,if,ye,wole,ye,kan
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,u,Su,S,u,S,u,Sx,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,nou@adv,kepen@v%imp,wel@adv,for@conj,if@conj,ye@pron%pl_nom,willen@v%pr_pl,ye@pron%pl_nom,connen@v%pr_pl
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,Now,kepeth,hem,wel,for,if,ye,wol,ye,can
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,u,Sx,u,S,u,S,u,S,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 86,DIFF,,10,nou@adv,kepen@v%imp,,wel@adv,for@conj,if@conj,ye@pron%pl_nom,wel@adv,ye@pron%pl_nom,connen@v%pr_pl
 
 "Looke wel that ye unto no vice assente,",||,"Loke wel that ye unto no vice assente,"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 87,,,10,Looke,wel,that,ye,unto,no,vice,assente
@@ -991,12 +991,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 124,,,10,upon@prep,this@gram_adj,maide@n,avisen@v%prp_abs,him@pron%obj,ful@adv,faste@adv
 
 As she cam forby ther as this juge stood.,||,As she cam forby ther° this juge stood.
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,As,she,cam,forby,ther,as,this,juge,stood
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,u,x,S,uS,u,S,u,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,as@conj,she@pron%nom,comen@v%pt_3,forbi@adv,ther@adv,as@conj,this@gram_adj,juge@n1,stonden@v1%pt_3
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,As,she,cam,forby,ther,this,juge,stood
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,u,S,u,Su,S,u,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,green,10,as@conj,she@pron%nom,comen@v%pt_3,forbi@adv,ther@adv,this@gram_adj,juge@n1,stonden@v1%pt_3
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,As,she,cam,forby,ther,as,this,juge,stood
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,u,x,S,uS,u,S,u,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,as@conj,she@pron%nom,comen@v%pt_3,forbi@adv,ther@adv,as@conj,this@gram_adj,juge@n1,stonden@v1%pt_3
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,As,she,cam,forby,ther,this,juge,stood
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,u,S,u,Su,S,u,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 125,DIFF,,10,as@conj,she@pron%nom,comen@v%pt_3,forbi@adv,ther@adv,this@gram_adj,juge@n1,stonden@v1%pt_3
 
 "Anon his herte chaunged and his mood,",||,"Anon° his herte chaunged and his mood,"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 126,,,10,Anon,his,herte,chaunged,and,his,mood
@@ -1295,12 +1295,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 162,,,0,as@conj,he@pron1%nom,ben@v%pt_3,wonen@v1%ppl,sitten@v%pt_3,in@prep,his@pron1%gen,consistorie@n
 
 And yaf his doomes upon sondry cas.,||,And gaf his domes° upon sondry cas.°
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,And,yaf,his,doomes,upon,sondry,cas
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,u,S,u,Su,Su,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,and@conj,yeven@v%pt_3,his@pron1%gen,dom@n%pl,upon@prep,sondri@adj,cas@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,And,gaf,his,domes,upon,sondry,cas
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,u,S,u,Su,Su,Su,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,green,10,and@conj,yeven@v%pt_3,his@pron1%gen,dom@n%pl,upon@prep,sondri@adj,cas@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,And,yaf,his,doomes,upon,sondry,cas
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,u,S,u,Su,Su,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,and@conj,yeven@v%pt_3,his@pron1%gen,dom@n%pl,upon@prep,sondri@adj,cas@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,And,gaf,his,domes,upon,sondry,cas
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,u,S,u,Su,Su,Su,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 163,DIFF,,10,and@conj,,his@pron1%gen,dom@n%pl,upon@prep,sondri@adj,cas@n
 
 "This false cherl cam forth a ful greet pas,",||,"This false cherl cam forth a ful greet pas,°"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 164,,,10,This,false,cherl,cam,forth,a,ful,greet,pas
@@ -1551,12 +1551,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 194,,,10,and@conj,ek@adv,bi@prep,witnessinge@ger,of@prep,mani@gram_adj,a@indef_art,wight@n
 
 "That al was fals that seyde his adversarie,",||,"That it was fals that seide his adversarie,"
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,That,al,was,fals,that,seyde,his,adversarie
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,,,,,,,,
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,that@conj,al@gram_adjas_n,ben@v%pt_3,fals@adj,that@pron,seien@v1%pt_3,his@pron1%gen,adversarie@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,That,it,was,fals,that,seide,his,adversarie
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,,,,,,,,
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,green,0,that@conj,hit@pron,ben@v%pt_3,fals@adj,that@pron,seien@v1%pt_3,his@pron1%gen,adversarie@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,That,al,was,fals,that,seyde,his,adversarie
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,,,,,,,,
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,that@conj,al@gram_adjas_n,ben@v%pt_3,fals@adj,that@pron,seien@v1%pt_3,his@pron1%gen,adversarie@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,That,it,was,fals,that,seide,his,adversarie
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,,,,,,,,
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 195,DIFF,,0,that@conj,,ben@v%pt_3,fals@adj,that@conj,seien@v1%pt_3,his@pron1%gen,adversarie@n
 
 "This cursed juge wolde no thyng tarie,",||,"This cursed juge wolde no thing tarie,°"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 196,,,10,This,cursed,juge,wolde,no,thyng,tarie
@@ -2095,12 +2095,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 262,,,10,for@conj,knouen@v%ppl,ben@v%pt_3,the@def_art,fals@adj,iniquite@n
 
 "The peple anon had suspect in this thyng,",||,"The peple anon° hath suspect° of this thing,"
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,The,peple,anon,had,suspect,in,this,thyng
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,u,Sx,uS,u,Su,S,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,the@def_art,peple@n,an-on@adv,haven@v%pt_3,suspect@n,in@prep,this@gram_adj,thing@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,The,peple,anon,hath,suspect,of,this,thing
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,u,Sx,uS,u,Su,S,u,S
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,green,10,the@def_art,peple@n,an-on@adv,haven@v%pr_3,suspect@n,of@prep,this@gram_adj,thing@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,The,peple,anon,had,suspect,in,this,thyng
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,u,Sx,uS,u,Su,S,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,the@def_art,peple@n,an-on@adv,haven@v%pt_3,suspect@n,in@prep,this@gram_adj,thing@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,The,peple,anon,hath,suspect,of,this,thing
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,u,Sx,uS,u,Su,S,u,S
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 263,DIFF,,10,the@def_art,peple@n,an-on@adv,,suspect@n,,this@gram_adj,thing@n
 
 "By manere of the cherles chalangyng,",||,"By manere of the cherles chalanging,°"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 264,,,10,By,manere,of,the,cherles,chalangyng
@@ -2143,12 +2143,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 268,,,10,and@conj,casten@v%pt_pl,him@pron%obj,in@prep,a@indef_art,prisoun@n,righte@adv,an-on@adv
 
 "Ther as he slow hymself; and Claudius,",||,"Theras° he slow himself; and Claudius,"
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,Ther,as,he,slow,hymself,and,Claudius
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,u,S,u,S,uS,u,SuS
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,ther@adv,as@conj,he@pron1%nom,slen@v%pt_3,him-self@pron,and@conj,claudius@n2#propn
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,Theras,he,slow,himself,and,Claudius
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,uS,u,S,uS,u,SuS
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,green,10,ther-as@adv,he@pron1%nom,slen@v%pt_3,him-self@pron,and@conj,claudius@n2#propn
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,Ther,as,he,slow,hymself,and,Claudius
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,u,S,u,S,uS,u,SuS
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,ther@adv,as@conj,he@pron1%nom,slen@v%pt_3,him-self@pron,and@conj,claudius@n2#propn
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,Theras,he,slow,himself,and,Claudius
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,uS,u,S,uS,u,SuS
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 269,DIFF,,10,,he@pron1%nom,slen@v%pt_3,him-self@pron,and@conj,claudius@n2#propn
 
 "That servant was unto this Apius,",||,"That servant was unto this Apius,"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 270,,,10,That,servant,was,unto,this,Apius
@@ -2207,12 +2207,12 @@ data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 276,,,10,that@pron,ben@v%pt_pl,consentaunt@adj,of@prep,this@gram_adj,cursednesse@n
 
 Heere may men seen how synne hath his merite.,||,¶Heer men may seen how sinne hath his merite!°
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,Heere,may,men,seen,how,synne,hath,his,merite
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,ux,S,u,S,u,Sx,u,S,uSx
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,her@adv,mouen@v3%pr_pl,man@n%pl,sen@v1%inf,hou@adv&conj,sinne@n,haven@v%pr_3,his@pron1%gen,merite@n
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,Heer,men,may,seen,how,sinne,hath,his,merite
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,u,S,u,S,u,Sx,u,S,uSx
-data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,green,10,her@adv,man@n%pl,mouen@v3%pr_pl,sen@v1%inf,hou@adv&conj,sinne@n,haven@v%pr_3,his@pron1%gen,merite@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,Heere,may,men,seen,how,synne,hath,his,merite
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,ux,S,u,S,u,Sx,u,S,uSx
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,her@adv,mouen@v3%pr_pl,man@n%pl,sen@v1%inf,hou@adv&conj,sinne@n,haven@v%pr_3,his@pron1%gen,merite@n
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,Heer,men,may,seen,how,sinne,hath,his,merite
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,u,S,u,S,u,Sx,u,S,uSx
+data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 277,DIFF,,10,her@adv,man@n%pl,mouen@v3%pr_pl,sen@v1%inf,hou@adv&conj,sen@v1%inf,haven@v%pr_3,his@pron1%gen,merite@n
 
 "Beth war, for no man woot whom God wol smyte",||,"Beth war, for no man woot whom God wol smite°"
 data/riverside_cats/PhyT_riv.cat,data/oxford_txts/PhyT_oxford.txt,data/csvs/PhyT,The Physician's Tale 278,,,10,Beth,war,for,no,man,woot,whom,God,wol,smyte
