@@ -159,12 +159,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 739,,,0,if@conj,he@pron1%nom,continuen@v%pr_3,ich@pron%nom,holden@v1%pr_1,his@pron1%gen,thrift@n,don@v1%ppl_abs
 
 "For so helpe me God, therby shal he nat wynne,",||,"So help me God, therby shal he nat winne,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,For,so,helpe,me,God,therby,shal,he,nat,wynne
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,u,S,ux,x,S,uS,u,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,for@conj,so@adv,helpen@v%pr_3,me@pron2%obj,god@n1#propn,ther-bi@adv,shulen@v1%pr_3,he@pron1%nom,not@adv,winnen@v%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,So,help,me,God,therby,shal,he,nat,winne
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,u,S,u,S,uS,u,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,,10,so@adv,helpen@v%pr_3,me@pron2%obj,god@n1#propn,ther-bi@adv,shulen@v1%pr_3,he@pron1%nom,not@adv,winnen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,For,so,helpe,me,God,therby,shal,he,nat,wynne
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,u,S,ux,x,S,uS,u,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,for@conj,so@adv,helpen@v%pr_3,me@pron2%obj,god@n1#propn,ther-bi@adv,shulen@v1%pr_3,he@pron1%nom,not@adv,winnen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,So,help,me,God,therby,shal,he,nat,winne
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,u,S,u,S,uS,u,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 740,DIFF,green,10,so@adv,helpen@v%pr_3,me@pron2%obj,god@n1#propn,ther-bi@adv,shulen@v1%pr_3,he@pron1%nom,not@adv,winnen@v%inf
 
 But empte his purs and make his wittes thynne.,||,"But empte his purs, and make his wittes thinne.°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 741,,,10,But,empte,his,purs,and,make,his,wittes,thynne
@@ -199,12 +199,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 744,,,10,thanne@adv,he@pron1%nom,exciten@v%pr_3,other@gram_adj,folk@n,ther-to@adv
 
 To lesen hir good as he hymself hath do.,||,To lese hir good° as he himself hath do.°
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,To,lesen,hir,good,as,he,hymself,hath,do
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,u,Sx,u,S,u,S,uS,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,to@part,lesen@v4%inf,here@pron%pl_gen,god@n2,as@conj,he@pron1%nom,him-self@pron,haven@v%pr_3,don@v1%ppl
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,To,lese,hir,good,as,he,himself,hath,do
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,u,Sx,u,S,u,S,uS,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,,10,to@part,,here@pron%pl_gen,god@n2,as@conj,he@pron1%nom,him-self@pron,haven@v%pr_3,don@v1%ppl
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,To,lesen,hir,good,as,he,hymself,hath,do
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,u,Sx,u,S,u,S,uS,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,to@part,lesen@v4%inf,here@pron%pl_gen,god@n2,as@conj,he@pron1%nom,him-self@pron,haven@v%pr_3,don@v1%ppl
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,To,lese,hir,good,as,he,himself,hath,do
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,u,Sx,u,S,u,S,uS,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 745,DIFF,green,10,to@part,lesen@v4%inf,here@pron%pl_gen,god@n2,as@conj,he@pron1%nom,him-self@pron,haven@v%pr_3,don@v1%ppl
 
 For unto shrewes joye it is and ese,||,For unto shrewes° joye it is and ese
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 746,,,10,For,unto,shrewes,joye,it,is,and,ese
@@ -364,7 +364,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 765,DIFF,,10,and@conj,of@prep,muche@adj,other@gram_adj,thing@n,which@pron,that@pron,ther@adv,ben@v%pt_3
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 765,DIFF,,10,And,mochel,other,thing,which,that,ther,was
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 765,DIFF,,10,u,Su,Su,S,u,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 765,DIFF,,10,and@conj,,other@gram_adj,thing@n,which@pron,that@pron,other@gram_adj,ben@v%pt_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 765,DIFF,,10,and@conj,,other@gram_adj,thing@n,which@pron,that@pron,ther@adv,ben@v%pt_3
 
 And of the pot and glasses enlutyng,||,"And of the pot and glasses enluting,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 766,,,10,And,of,the,pot,and,glasses,enlutyng
@@ -540,7 +540,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 787,DIFF,,10,bi@prep,cause@n,that@part,ich@pron%nom,ben@v%pr_1,a@indef_art,leued@adj,man@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 787,DIFF,,10,Bicause,that,I,am,a,lewed,man
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 787,DIFF,,10,uSu,S,u,S,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 787,DIFF,,10,,that@part,ich@pron%nom,ben@v%pr_1,ich@pron%nom,leued@adj,man@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 787,DIFF,,10,,that@part,ich@pron%nom,ben@v%pr_1,a@indef_art,leued@adj,man@n
 
 "Yet wol I telle hem as they come to mynde,",||,"Yet wol I telle hem as they come to minde,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 788,,,10,Yet,wol,I,telle,hem,as,they,come,to,mynde
@@ -879,12 +879,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 829,,,10,and@conj,venus@n#propn,coper@n,bi@prep,min@pron%gen,fader@n%gen,kin@n
 
 "This cursed craft whoso wole excercise,",||,"¶This cursed craft whoso wole exercise,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,This,cursed,craft,whoso,wole,excercise
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,u,Su,S,uS,ux,SuSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,this@gram_adj,cursed@ppl#adj,craft@n1,who-so@pron%nom,willen@v%pr_3,exercisen@v%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,This,cursed,craft,whoso,wole,exercise
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,u,Su,S,uS,ux,SuSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,,10,this@gram_adj,cursed@ppl#adj,craft@n1,who-so@pron%nom,willen@v%pr_3,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,This,cursed,craft,whoso,wole,excercise
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,u,Su,S,uS,ux,SuSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,this@gram_adj,cursed@ppl#adj,craft@n1,who-so@pron%nom,willen@v%pr_3,exercisen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,This,cursed,craft,whoso,wole,exercise
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,u,Su,S,uS,ux,SuSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 830,DIFF,green,10,this@gram_adj,cursed@ppl#adj,craft@n1,who-so@pron%nom,willen@v%pr_3,exercisen@v%inf
 
 "He shal no good han that hym may suffise,",||,He shal no good han that him may suffise;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 831,,,10,He,shal,no,good,han,that,hym,may,suffise
@@ -935,12 +935,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 836,,,10,and@conj,everi@pron_gram_adj,man@n,that@pron,ought@pron,haven@v%pr_3,in@prep,his@pron1%gen,cofre@n
 
 Lat hym appiere and wexe a philosophre.,||,"Lat him appere, and wexe° a philosofre,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,0,Lat,hym,appiere,and,wexe,a,philosophre
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,0,,,,,,,
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,0,leten@v%imp,him@pron%obj,apperen@v1%inf,and@conj,waxen@v1%inf,a@indef_art,philosophre@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,10,Lat,him,appere,and,wexe,a,philosofre
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,10,u,S,uSx,u,Sx,u,SuSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,,10,leten@v%imp,him@pron%obj,apperen@v1%inf,and@conj,waxen@v1%inf,a@indef_art,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,0,Lat,hym,appiere,and,wexe,a,philosophre
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,0,,,,,,,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,0,leten@v%imp,him@pron%obj,apperen@v1%inf,and@conj,waxen@v1%inf,a@indef_art,philosophre@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,10,Lat,him,appere,and,wexe,a,philosofre
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,10,u,S,uSx,u,Sx,u,SuSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 837,DIFF,green,10,leten@v%imp,him@pron%obj,apperen@v1%inf,and@conj,waxen@v1%inf,a@indef_art,philosophre@n
 
 Ascaunce that craft is so light to leere?,||,Ascaunce° that craft is so light° to lere!°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 838,,,10,Ascaunce,that,craft,is,so,light,to,leere
@@ -1279,20 +1279,20 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 879,,,10,so@adv,semen@v2%pr_3,hit@pron,--@dash,for@conj,haven@v%pt_3_neg,thei@pron%pl_nom,but@conj,a@indef_art,shete@n2
 
 "Which that they myghte wrappe hem inne a-nyght,",||,"Which that they mighte wrappe hem inne at night,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,Which,that,they,myghte,wrappe,hem,inne,anyght
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,u,S,u,Su,Sx,u,Sx,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,which@pron,that@pron,thei@pron%pl_nom,mouen@v3%pt_pl,wrappen@v%inf,hem@pron%pl_obj,inne@prep,anightes@adv
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,Which,that,they,mighte,wrappe,hem,inne,at,night
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,u,S,u,Su,Sx,u,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,,10,which@pron,that@pron,thei@pron%pl_nom,mouen@v3%pt_pl,wrappen@v%inf,hem@pron%pl_obj,inne@prep,,anightes@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,Which,that,they,myghte,wrappe,hem,inne,anyght
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,u,S,u,Su,Sx,u,Sx,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,which@pron,that@pron,thei@pron%pl_nom,mouen@v3%pt_pl,wrappen@v%inf,hem@pron%pl_obj,inne@prep,anightes@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,Which,that,they,mighte,wrappe,hem,inne,at,night
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,u,S,u,Su,Sx,u,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 880,DIFF,green,10,which@pron,that@pron,thei@pron%pl_nom,mouen@v3%pt_pl,wrappen@v%inf,hem@pron%pl_obj,inne@prep,at@prep,anightes@adv
 
 "And a brat to walken inne by daylyght,",||,"And a brat° to walke inne by daylight,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,And,a,brat,to,walken,inne,by,daylyght
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,u,S,u,S,uS,ux,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,and@conj,a@indef_art,brat@n,to@part,walken@v1%inf,inne@prep,bi@prep,dai-light@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,And,a,brat,to,walke,inne,by,daylight
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,u,S,u,S,ux,Su,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,,10,and@conj,a@indef_art,brat@n,to@part,,inne@prep,bi@prep,dai-light@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,And,a,brat,to,walken,inne,by,daylyght
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,u,S,u,S,uS,ux,S,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,and@conj,a@indef_art,brat@n,to@part,walken@v1%inf,inne@prep,bi@prep,dai-light@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,And,a,brat,to,walke,inne,by,daylight
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,u,S,u,S,ux,Su,S,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 881,DIFF,green,10,and@conj,a@indef_art,brat@n,to@part,walken@v1%inf,inne@prep,bi@prep,dai-light@n
 
 They wolde hem selle and spenden on this craft.,||,They wolde hem selle and spenden on this craft;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 882,,,10,They,wolde,hem,selle,and,spenden,on,this,craft
@@ -1343,12 +1343,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 887,,,10,here@pron%pl_gen,savour@n,ben@v%pr_3,so@adv,rammish@adj,and@conj,so@adv,hot@adj
 
 "That though a man from hem a mile be,",||,"That, though a man a mile from hem be,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,That,though,a,man,from,hem,a,mile,be
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,u,S,u,S,u,S,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,that@conj,though@conj,a@indef_art,man@n,from@prep,hem@pron%pl_obj,a@indef_art,mile@n1,ben@v%pr_3
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,That,though,a,man,a,mile,from,hem,be
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,u,S,u,S,u,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,,10,that@conj,though@conj,a@indef_art,man@n,a@indef_art,mile@n1,from@prep,hem@pron%pl_obj,ben@v%pr_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,That,though,a,man,from,hem,a,mile,be
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,u,S,u,S,u,S,u,Su,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,that@conj,though@conj,a@indef_art,man@n,from@prep,hem@pron%pl_obj,a@indef_art,mile@n1,ben@v%pr_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,That,though,a,man,a,mile,from,hem,be
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,u,S,u,S,u,Su,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 888,DIFF,green,10,that@conj,though@conj,a@indef_art,man@n,a@indef_art,mile@n1,from@prep,hem@pron%pl_obj,ben@v%pr_3
 
 "The savour wole infecte hym, trusteth me.",||,"The savour° wole infecte° him, trusteth me;"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 889,,,10,The,savour,wole,infecte,hym,trusteth,me
@@ -1476,7 +1476,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 904,DIFF,,10,al-gates@adv,ich@pron%nom,witen@v1%pr_1,wel@adv,he@pron1%nom,haven@v%pr_3,swich@gram_adj,a@indef_art,name@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 904,DIFF,,10,Algate,I,wool,wel,he,hath,swich,a,name
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 904,DIFF,,10,uSx,u,S,u,S,u,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 904,DIFF,,10,al-gates@adv,ich@pron%nom,wel@adv,wel@adv,he@pron1%nom,haven@v%pr_3,swich@gram_adj,ich@pron%nom,name@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 904,DIFF,,10,al-gates@adv,ich@pron%nom,wel@adv,,he@pron1%nom,haven@v%pr_3,swich@gram_adj,a@indef_art,name@n
 
 And yet ful ofte he renneth in a blame.,||,And yet ful ofte he renneth in a blame;°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 905,,,10,And,yet,ful,ofte,he,renneth,in,a,blame
@@ -1543,12 +1543,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 912,,,10,and@conj,som@pron,of@prep,hem@pron%pl_obj,sinken@v%pr_pl,in-to@prep,the@def_art,ground@n,--@dash
 
 Thus han we lost by tymes many a pound --,||,Thus han we lost bitimes° many a pound—
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,Thus,han,we,lost,by,tymes,many,a,pound
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,u,S,u,S,u,Su,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,thus@adv,haven@v%pr_pl,we@pron%pl_nom,losen@v2%ppl,bi@prep,time@n%pl,mani@gram_adj,a@indef_art,pounde@n1,--@dash
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,Thus,han,we,lost,bitimes,many,a,pound
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,u,S,u,S,uSu,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,,10,thus@adv,haven@v%pr_pl,we@pron%pl_nom,losen@v2%ppl,,mani@gram_adj,a@indef_art,pounde@n1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,Thus,han,we,lost,by,tymes,many,a,pound
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,u,S,u,S,u,Su,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,thus@adv,haven@v%pr_pl,we@pron%pl_nom,losen@v2%ppl,bi@prep,time@n%pl,mani@gram_adj,a@indef_art,pounde@n1,--@dash
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,Thus,han,we,lost,bitimes,many,a,pound
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,u,S,u,S,uSu,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 913,DIFF,green,10,thus@adv,haven@v%pr_pl,we@pron%pl_nom,losen@v2%ppl,bi-time@adv,mani@gram_adj,a@indef_art,pounde@n1
 
 And somme are scatered al the floor aboute;,||,"And somme are scatered al the floor aboute,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 914,,,10,And,somme,are,scatered,al,the,floor,aboute
@@ -1671,12 +1671,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 928,DIFF,,10,,oure@pron%pl_gen,fir@n,ne@adv,ben@v%pt_3,not@adv,maken@v1%ppl,of@prep,beche@n
 
 "That is the cause and oother noon, so thee 'ch!""",||,"That is the cause, and other noon, so theech!”°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,That,is,the,cause,and,oother,noon,so,thee,ch
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,u,S,u,Sx,u,Su,S,u,S,
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,that@pron,ben@v%pr_3,the@def_art,cause@n,and@conj,other@pron,non@gram_adj,so@adv,then@v%pr_1,ich@pron%nom
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,That,is,the,cause,and,other,noon,so,theech
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,u,S,u,Sx,u,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,,10,that@pron,ben@v%pr_3,the@def_art,cause@n,and@conj,other@pron,non@gram_adj,ben@v%pr_3,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,That,is,the,cause,and,oother,noon,so,thee,ch
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,u,S,u,Sx,u,Su,S,u,S,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,that@pron,ben@v%pr_3,the@def_art,cause@n,and@conj,other@pron,non@gram_adj,so@adv,then@v%pr_1,ich@pron%nom
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,That,is,the,cause,and,other,noon,so,theech
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,u,S,u,Sx,u,Su,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 929,DIFF,green,10,that@pron,ben@v%pr_3,the@def_art,cause@n,and@conj,other@pron,non@gram_adj,so@adv,then@v%pr_2_pron
 
 "I kan nat telle wheron it was long,",||,"I can nat telle wheron it was long,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 930,,,10,I,kan,nat,telle,wheron,it,was,long
@@ -1724,7 +1724,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 935,DIFF,,10,ben@v%pr_3,as@conj,ben@v%inf,mouen@v3%pr_3,ben@v%pr_pl,ye@pron%pl_nom,no@gram_adj,thing@n,amased@ppl
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 935,DIFF,,10,Be,as,be,may,be,ye,nothing,amased
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 935,DIFF,,10,u,S,u,S,u,S,uS,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 935,DIFF,,10,ben@v%pr_3,as@conj,ben@v%pr_3,mouen@v3%pr_3,ben@v%pr_3,ye@pron%pl_nom,,amased@ppl
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 935,DIFF,,10,ben@v%pr_3,as@conj,ben@v%inf,mouen@v3%pr_3,ben@v%pr_pl,ye@pron%pl_nom,,amased@ppl
 
 "As usage is, lat swepe the floor as swithe,",||,"As usage° is, lat sweep the floor as swithe,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 936,,,10,As,usage,is,lat,swepe,the,floor,as,swithe
@@ -1791,12 +1791,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 943,,,10,yet@adv,ben@v%pr_3,ther@adv,her@adv,though@conj,that@part,we@pron%pl_nom,haven@v%pr_pl,not@adv,al@gram_adjas_n
 
 "And though this thyng myshapped have as now,",||,"Although this thing mishapped have° as now,°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,And,though,this,thyng,myshapped,have,as,now
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,u,S,u,S,uSu,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,and@conj,though@conj,this@gram_adj,thing@n,mishappen@v%ppl,haven@v%pr_3,as@conj,nou@adv
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,Although,this,thing,mishapped,have,as,now
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,uS,u,S,uSu,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,,10,,this@gram_adj,thing@n,mishappen@v%ppl,haven@v%pr_3,as@conj,nou@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,And,though,this,thyng,myshapped,have,as,now
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,u,S,u,S,uSu,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,and@conj,though@conj,this@gram_adj,thing@n,mishappen@v%ppl,haven@v%pr_3,as@conj,nou@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,Although,this,thing,mishapped,have,as,now
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,uS,u,S,uSu,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 944,DIFF,green,10,al-thogh@conj,this@gram_adj,thing@n,mishappen@v%ppl,haven@v%pr_3,as@conj,nou@adv
 
 Another tyme it may be well ynow.,||,"Another time it may be wel ynow,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 945,,,10,Another,tyme,it,may,be,well,ynow
@@ -1836,7 +1836,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 949,DIFF,,10,som-time@adv,his@pron1%gen,god@n2,ben@v%pr_3,drounen@v1%ppl,in@prep,the@def_art,se@n1
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 949,DIFF,,10,Somtime,his,good,is,drenched,in,the,see
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 949,DIFF,,10,uSx,u,S,u,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 949,DIFF,,10,som-time@adv,his@pron1%gen,god@n2,ben@v%pr_3,,in@prep,the@def_art,ben@v%pr_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 949,DIFF,,10,som-time@adv,his@pron1%gen,god@n2,ben@v%pr_3,,in@prep,the@def_art,se@n1
 
 "And somtyme comth it sauf unto the londe.""",||,And somtim comth it sauf° unto the londe.”
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 950,,,10,And,somtyme,comth,it,sauf,unto,the,londe
@@ -1855,12 +1855,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 951,DIFF,,10,pes@interj,quethen@v%pt_3,min@pron%gen,lord@n,the@def_art,nexte@adj%sup,time@n,ich@pron%nom,,fonden@v%inf
 
 "To bryngen oure craft al in another plite,",||,To bringe our craft al in another plite;°
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,To,bryngen,oure,craft,al,in,another,plite
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,u,Su,Sx,u,S,u,Sux,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,to@part,bringen@v%inf,oure@pron%pl_gen,craft@n1,al@adv,in@prep,another@gram_adj,plight@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,To,bringe,our,craft,al,in,another,plite
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,u,Sx,u,S,u,S,uSu,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,,10,to@part,,oure@pron%pl_gen,craft@n1,al@adv,in@prep,another@gram_adj,plight@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,To,bryngen,oure,craft,al,in,another,plite
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,u,Su,Sx,u,S,u,Sux,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,to@part,bringen@v%inf,oure@pron%pl_gen,craft@n1,al@adv,in@prep,another@gram_adj,plight@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,To,bringe,our,craft,al,in,another,plite
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,u,Sx,u,S,u,S,uSu,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 952,DIFF,green,10,to@part,bringen@v%inf,oure@pron%pl_gen,craft@n1,al@adv,in@prep,another@gram_adj,plight@n
 
 "And but I do, sires, lat me han the wite.",||,"And but° I do, sirs, lat me han the wite;°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 953,,,10,And,but,I,do,sires,lat,me,han,the,wite
@@ -1932,7 +1932,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 961,DIFF,,10,everi@pron_gram_adj,man@n,semen@v2%pr_3,a@indef_art,salomon@n#propn
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 961,DIFF,,10,Every,man,semeth,as,wis,as,Salomon
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 961,DIFF,,10,uxS,u,Sx,u,S,u,SuS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 961,DIFF,,10,everi@pron_gram_adj,man@n,semen@v2%pr_3,,,,salomon@n#propn
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 961,DIFF,,10,everi@pron_gram_adj,man@n,semen@v2%pr_3,as@conj,,as@conj,salomon@n#propn
 
 But al thyng which that shineth as the gold,||,But al thing which that shineth as the gold
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 962,,,10,But,al,thyng,which,that,shineth,as,the,gold
@@ -1943,12 +1943,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 962,,,10,but@conj,al@gram_adj,thing@n,which@pron,that@pron,shinen@v%pr_3,as@conj,the@def_art,gold@n
 
 "Nis nat gold, as that I have herd told;",||,"Nis nat° gold, as that I have herd it told;"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,9,Nis,nat,gold,as,that,I,have,herd,told
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,9,S,u,S,u,S,u,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,9,ben@v%pr_3_neg,not@adv,gold@n,as@conj,that@part,ich@pron%nom,haven@v%pr_1,heren@v%ppl,tellen@v%ppl
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,10,Nis,nat,gold,as,that,I,have,herd,it,told
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,10,u,S,u,S,u,S,ux,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,,10,ben@v%pr_3_neg,not@adv,gold@n,as@conj,that@part,ich@pron%nom,haven@v%pr_1,heren@v%ppl,,tellen@v%ppl
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,9,Nis,nat,gold,as,that,I,have,herd,told
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,9,S,u,S,u,S,u,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,9,ben@v%pr_3_neg,not@adv,gold@n,as@conj,that@part,ich@pron%nom,haven@v%pr_1,heren@v%ppl,tellen@v%ppl
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,10,Nis,nat,gold,as,that,I,have,herd,it,told
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,10,u,S,u,S,u,S,ux,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 963,DIFF,green,10,ben@v%pr_3_neg,not@adv,gold@n,as@conj,that@part,ich@pron%nom,haven@v%pr_1,heren@v%ppl,hit@pron,tellen@v%ppl
 
 Ne every appul that is fair at eye,||,Ne every appel that is fair at eye°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 964,,,10,Ne,every,appul,that,is,fair,at,eye
@@ -2063,12 +2063,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 977,,,10,ther@adv,connen@v%pt_3,no@gram_adj,man@n,writen@v%inf,as@conj,ich@pron%nom,gessen@v%pr_1
 
 Though that he myghte lyve a thousand yeer.,||,Thogh that° he live mighte a thousand yeer.
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,Though,that,he,myghte,lyve,a,thousand,yeer
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,u,S,u,Su,Sx,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,though@conj,that@part,he@pron1%nom,mouen@v3%pt_3,liven@v1%inf,a@indef_art,thousand@num_adj,yer@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,Thogh,that,he,live,mighte,a,thousand,yeer
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,u,S,u,Su,Sx,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,,10,though@conj,that@part,he@pron1%nom,liven@v1%inf,mouen@v3%pt_3,a@indef_art,thousand@num_adj,yer@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,Though,that,he,myghte,lyve,a,thousand,yeer
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,u,S,u,Su,Sx,u,Su,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,though@conj,that@part,he@pron1%nom,mouen@v3%pt_3,liven@v1%inf,a@indef_art,thousand@num_adj,yer@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,Thogh,that,he,live,mighte,a,thousand,yeer
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,u,S,u,Su,Sx,u,Su,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 978,DIFF,green,10,though@conj,that@part,he@pron1%nom,liven@v1%inf,mouen@v3%pt_3,a@indef_art,thousand@num_adj,yer@n
 
 "In al this world of falshede nis his peer,",||,In al this world of falshed nis° his peer;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 979,,,10,In,al,this,world,of,falshede,nis,his,peer
@@ -2108,7 +2108,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 983,DIFF,,10,that@conj,he@pron1%nom,willen@v%pr_3,maken@v1%inf,him@pron%obj,doten@v%inf,anon-rightes@adv
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 983,DIFF,,10,That,he,wol,make,him,doten,anon,right
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 983,DIFF,,10,u,S,u,Sx,u,Su,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 983,DIFF,,10,that@conj,he@pron1%nom,willen@v%pr_3,maken@v1%inf,him@pron%obj,doten@v%inf,,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 983,DIFF,,10,that@conj,he@pron1%nom,willen@v%pr_3,maken@v1%inf,him@pron%obj,doten@v%inf,an-on@adv,
 
 "But it a feend be, as hymselven is.",||,"But° it a feend° be, as himselven is."
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 984,,,10,But,it,a,feend,be,as,hymselven,is
@@ -2167,12 +2167,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 990,,,10,and@conj,if@conj,you@pron%pl_obj,listen@v1%pr_3,to@part,yeven@v%inf,me@pron2%obj,audience@n
 
 I wol it tellen heere in youre presence.,||,I wol it telle here in your presence.
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,I,wol,it,tellen,heere,in,youre,presence
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,u,S,u,Su,Sx,u,Sx,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,ich@pron%nom,willen@v%pr_1,hit@pron,tellen@v%inf,her@adv,in@prep,your@pron%pl_gen,presence@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,I,wol,it,telle,here,in,your,presence
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,u,S,u,Su,Sx,u,S,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,,10,ich@pron%nom,willen@v%pr_1,hit@pron,,her@adv,in@prep,your@pron%pl_gen,presence@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,I,wol,it,tellen,heere,in,youre,presence
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,u,S,u,Su,Sx,u,Sx,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,ich@pron%nom,willen@v%pr_1,hit@pron,tellen@v%inf,her@adv,in@prep,your@pron%pl_gen,presence@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,I,wol,it,telle,here,in,your,presence
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,u,S,u,Su,Sx,u,S,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 991,DIFF,green,10,ich@pron%nom,willen@v%pr_1,hit@pron,tellen@v%inf,her@adv,in@prep,your@pron%pl_gen,presence@n
 
 "But worshipful chanons religious,",||,"¶But worshipful chanons religious,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 992,,,10,But,worshipful,chanons,religious
@@ -2271,12 +2271,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1003,,,10,ther@adv,ben@v%pt_3_neg,no@gram_adj,traitour@n,but@conj,judas@n1#propn,him-self@pron
 
 Thanne why sholde al the remenant have a blame,||,Than why sholde al the remenant have blame
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,Thanne,why,sholde,al,the,remenant,have,a,blame
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,ux,S,ux,S,u,Sxu,Sx,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,thanne@adv,whi@adv,shulen@v1%pt_3,al@gram_adj,the@def_art,remenaunt@n,haven@v%inf,a@indef_art,blame@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,Than,why,sholde,al,the,remenant,have,blame
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,u,S,ux,S,u,SuS,ux,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,,10,thanne@adv,whi@adv,shulen@v1%pt_3,al@gram_adj,the@def_art,remenaunt@n,haven@v%inf,blame@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,Thanne,why,sholde,al,the,remenant,have,a,blame
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,ux,S,ux,S,u,Sxu,Sx,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,thanne@adv,whi@adv,shulen@v1%pt_3,al@gram_adj,the@def_art,remenaunt@n,haven@v%inf,a@indef_art,blame@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,Than,why,sholde,al,the,remenant,have,blame
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,u,S,ux,S,u,SuS,ux,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1004,DIFF,green,10,thanne@adv,whi@adv,shulen@v1%pt_3,al@gram_adj,the@def_art,remenaunt@n,haven@v%inf,blame@n
 
 "That giltlees were? By yow I seye the same,",||,That giltlees were? by° yow I sey the same.
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1005,,,10,That,giltlees,were,By,yow,I,seye,the,same
@@ -2324,7 +2324,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1010,DIFF,,10,and@conj,ben@v%imp,no@gram_adj,thing@n,displesen@v%ppl,ich@pron%nom,you@pron%pl_obj,preien@v1%pr_1
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1010,DIFF,,10,And,beth,nothing,displesed,I,yow,preye
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1010,DIFF,,10,u,S,uS,uSu,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1010,DIFF,,10,and@conj,ben@v%imp,,displesen@v%ppl,ich@pron%nom,ich@pron%nom,preien@v1%pr_1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1010,DIFF,,10,and@conj,ben@v%imp,,displesen@v%ppl,ich@pron%nom,you@pron%pl_obj,preien@v1%pr_1
 
 But in this cas herkneth what I shal seye.,||,But in this cas herkneth what I shal seye.
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1011,,,10,But,in,this,cas,herkneth,what,I,shal,seye
@@ -2335,12 +2335,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1011,,,10,but@conj,in@prep,this@gram_adj,cas@n,herkenen@v%imp,what@pron,ich@pron%nom,shulen@v1%pr_1,seien@v1%inf
 
 "In Londoun was a preest, an annueleer,",||,"¶In London was a preest annueleer,°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,10,In,Londoun,was,a,preest,an,annueleer
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,10,u,Su,S,u,S,u,SuS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,10,in@prep,london@n#propn,ben@v%pt_3,a@indef_art,prest@n3,a@indef_art,annueller@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,9,In,London,was,a,preest,annueleer
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,9,S,uS,u,S,u,SuS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,,9,in@prep,london@n#propn,ben@v%pt_3,a@indef_art,prest@n3,annueller@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,10,In,Londoun,was,a,preest,an,annueleer
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,10,u,Su,S,u,S,u,SuS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,10,in@prep,london@n#propn,ben@v%pt_3,a@indef_art,prest@n3,a@indef_art,annueller@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,9,In,London,was,a,preest,annueleer
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,9,S,uS,u,S,u,SuS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1012,DIFF,green,9,in@prep,london@n#propn,ben@v%pt_3,a@indef_art,prest@n3,annueller@n
 
 "That therinne dwelled hadde many a yeer,",||,"That therin dwelled had many a yeer,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1013,,,10,That,therinne,dwelled,hadde,many,a,yeer
@@ -2759,12 +2759,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1064,,,10,quethen@v%pt_3,the@def_art,canoun@n2,and@conj,elles@adv,god@n1#propn,forbeden@v%pr_3
 
 "Loo, how this theef koude his service beede!",||,"¶Lo, how this theef° coude his servise bede!°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,Loo,how,this,theef,koude,his,service,beede
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,u,S,u,S,ux,S,uSu,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,lo@interj,hou@adv&conj,this@gram_adj,thef@n2,connen@v%pt_3,his@pron1%gen,servise@n,beden@v%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,Lo,how,this,theef,coude,his,servise,bede
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,u,S,u,S,ux,S,uSu,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,DIFF,,10,lo@interj,hou@adv&conj,this@gram_adj,thef@n2,connen@v%pt_3,his@pron1%gen,servise@n,beden@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,Loo,how,this,theef,koude,his,service,beede
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,u,S,u,S,ux,S,uSu,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,lo@interj,hou@adv&conj,this@gram_adj,thef@n2,connen@v%pt_3,his@pron1%gen,servise@n,beden@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,Lo,how,this,theef,coude,his,servise,bede
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,u,S,u,S,ux,S,uSu,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1065,,,10,lo@interj,hou@adv&conj,this@gram_adj,thef@n2,connen@v%pt_3,his@pron1%gen,servise@n,beden@v%inf
 
 Ful sooth it is that swich profred servyse,||,"Ful sooth it is, that swich profred° servise"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1066,,,10,Ful,sooth,it,is,that,swich,profred,servyse
@@ -2807,12 +2807,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1070,,,10,that@pron,ever-mor@adv,delite@n1,haven@v%pr_3,and@conj,gladnesse@n,--@dash
 
 Swiche feendly thoghtes in his herte impresse --,||,Swich feendly° thoughtes in his herte impresse—
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,Swiche,feendly,thoghtes,in,his,herte,impresse
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,ux,Su,Su,S,u,Sx,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,swich@gram_adj,fendliche@adj,thought@n%pl,in@prep,his@pron1%gen,herte@n,impressen@v%pr_pl,--@dash
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,Swich,feendly,thoughtes,in,his,herte,impresse
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,u,Su,Su,S,u,Sx,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,,,10,swich@gram_adj,fendliche@adj,thought@n%pl,in@prep,his@pron1%gen,herte@n,impressen@v%pr_pl,--@dash
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,Swiche,feendly,thoghtes,in,his,herte,impresse
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,ux,Su,Su,S,u,Sx,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,swich@gram_adj,fendliche@adj,thought@n%pl,in@prep,his@pron1%gen,herte@n,impressen@v%pr_pl,--@dash
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,Swich,feendly,thoughtes,in,his,herte,impresse
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,u,Su,Su,S,u,Sx,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1071,DIFF,green,10,swich@gram_adj,fendliche@adj,thought@n%pl,in@prep,his@pron1%gen,herte@n,impressen@v%pr_pl
 
 How Cristes peple he may to meschief brynge.,||,How Cristes peple he may to meschief° bringe;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1072,,,10,How,Cristes,peple,he,may,to,meschief,brynge
@@ -2940,7 +2940,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1087,DIFF,,10,as@conj,fer-forth@adv,as@conj,that@part,min@pron%gen,conninge@ger,willen@v%pr_3,strecchen@v%inf
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1087,DIFF,,10,As,ferforth,as,that,my,conning,may,strecche
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1087,DIFF,,10,u,Su,S,u,S,uS,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1087,DIFF,,10,as@conj,fer-forth@adv,as@conj,that@part,min@pron%gen,conninge@ger,min@pron%gen,strecchen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1087,DIFF,,10,as@conj,fer-forth@adv,as@conj,that@part,min@pron%gen,conninge@ger,,strecchen@v%inf
 
 "This chanon was my lord, ye wolden weene?",||,"¶This chanon was my lord, ye wolden wene?°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1088,,,10,This,chanon,was,my,lord,ye,wolden,weene
@@ -2983,12 +2983,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1092,,,10,he@pron1%nom,haven@v%pr_3,bitraien@v%ppl,folk@n%pl,mani@gram_adj,time@n
 
 Of his falsnesse it dulleth me to ryme.,||,Of his falshede it dulleth° me to rime.°
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,Of,his,falsnesse,it,dulleth,me,to,ryme
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,u,S,uSx,u,Su,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,of@prep,his@pron1%gen,falsnesse@n,hit@pron,dullen@v%pr_3,me@pron2%obj,to@part,rimen@v1%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,Of,his,falshede,it,dulleth,me,to,rime
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,u,S,uSx,u,Su,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,,10,of@prep,his@pron1%gen,,hit@pron,dullen@v%pr_3,me@pron2%obj,to@part,rimen@v1%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,Of,his,falsnesse,it,dulleth,me,to,ryme
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,u,S,uSx,u,Su,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,of@prep,his@pron1%gen,falsnesse@n,hit@pron,dullen@v%pr_3,me@pron2%obj,to@part,rimen@v1%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,Of,his,falshede,it,dulleth,me,to,rime
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,u,S,uSx,u,Su,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1093,DIFF,green,10,of@prep,his@pron1%gen,falshede@n,hit@pron,dullen@v%pr_3,me@pron2%obj,to@part,rimen@v1%inf
 
 "Evere whan that I speke of his falshede,",||,"Ever whan° that I speke of his falshede,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1094,,,10,Evere,whan,that,I,speke,of,his,falshede
@@ -3039,12 +3039,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1099,,,10,of@prep,metal@n%pl,which@pron,ye@pron%pl_nom,haven@v%pr_pl,heren@v%ppl,me@pron2%obj,rehersen@v%inf
 
 Consumed and wasted han my reednesse.,||,Consumed han and wasted° my reednesse.
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,Consumed,and,wasted,han,my,reednesse
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,uSu,S,uS,u,S,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,consumen@v%ppl,and@conj,wasten@v%ppl,haven@v%pr_pl,min@pron%gen,rednesse@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,Consumed,han,and,wasted,my,reednesse
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,uSu,S,u,Su,S,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,,10,consumen@v%ppl,haven@v%pr_pl,and@conj,wasten@v%ppl,min@pron%gen,rednesse@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,Consumed,and,wasted,han,my,reednesse
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,uSu,S,uS,u,S,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,consumen@v%ppl,and@conj,wasten@v%ppl,haven@v%pr_pl,min@pron%gen,rednesse@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,Consumed,han,and,wasted,my,reednesse
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,uSu,S,u,Su,S,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1100,DIFF,green,10,consumen@v%ppl,haven@v%pr_pl,and@conj,wasten@v%ppl,min@pron%gen,rednesse@n
 
 Now taak heede of this chanons cursednesse!,||,Now tak heede of° this chanons cursednesse!
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1101,,,10,Now,taak,heede,of,this,chanons,cursednesse
@@ -3063,12 +3063,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1102,,,10,sire@n,quethen@v%pt_3,he@pron1%nom,to@prep,the@def_art,prest@n3,leten@v%imp,your@pron%pl_gen,man@n,gon@v%inf
 
 "For quyksilver, that we it hadde anon;",||,"For quiksilver,° that° we hadde it anon;°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,For,quyksilver,that,we,it,hadde,anon
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,u,SuS,u,S,u,Sx,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,for@prep,quik-silver@n,that@conj,we@pron%pl_nom,hit@pron,haven@v%pt_3,an-on@adv
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,For,quiksilver,that,we,hadde,it,anon
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,u,SuS,u,S,ux,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,,10,for@prep,quik-silver@n,that@conj,we@pron%pl_nom,haven@v%pt_3,hit@pron,an-on@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,For,quyksilver,that,we,it,hadde,anon
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,u,SuS,u,S,u,Sx,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,for@prep,quik-silver@n,that@conj,we@pron%pl_nom,hit@pron,haven@v%pt_3,an-on@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,For,quiksilver,that,we,hadde,it,anon
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,u,SuS,u,S,ux,S,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1103,DIFF,green,10,for@prep,quik-silver@n,that@conj,we@pron%pl_nom,haven@v%pt_3,hit@pron,an-on@adv
 
 And lat hym bryngen ounces two or three;,||,And lat him bringen ounces two or three;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1104,,,10,And,lat,hym,bryngen,ounces,two,or,three
@@ -3127,12 +3127,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1110,,,10,and@conj,wenden@v%pt_3,him@pron%obj,forth@adv,and@conj,comen@v%pt_3,an-on@adv,ayen@adv
 
 "With this quyksilver, shortly for to sayn,",||,"With this quiksilver, soothly° for to sayn,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,With,this,quyksilver,shortly,for,to,sayn
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,u,S,uSu,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,with@prep,this@gram_adj,quik-silver@n,shortli@adv,for@prep#adv,to@part,seien@v1%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,With,this,quiksilver,soothly,for,to,sayn
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,u,S,uSu,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,,10,with@prep,this@gram_adj,quik-silver@n,,for@prep#adv,to@part,seien@v1%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,With,this,quyksilver,shortly,for,to,sayn
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,u,S,uSu,Su,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,with@prep,this@gram_adj,quik-silver@n,shortli@adv,for@prep#adv,to@part,seien@v1%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,With,this,quiksilver,soothly,for,to,sayn
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,u,S,uSu,Su,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1111,DIFF,green,10,with@prep,this@gram_adj,quik-silver@n,sothli@adv,for@prep#adv,to@part,seien@v1%inf
 
 And took thise ounces thre to the chanoun;,||,And took thise ounces three to the chanoun;
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1112,,,10,And,took,thise,ounces,thre,to,the,chanoun
@@ -3247,12 +3247,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1125,,,10,for@conj,ye@pron%pl_nom,shulen@v1%pr_pl,sen@v1%inf,her@adv,bi@prep,experience@n
 
 That this quyksilver I wol mortifye,||,That this quiksilver wol I mortifie°
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,0,That,this,quyksilver,I,wol,mortifye
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,0,,,,,,
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,0,that@conj,this@gram_adj,quik-silver@n,ich@pron%nom,willen@v%pr_1,mortifien@v%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,10,That,this,quiksilver,wol,I,mortifie
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,10,u,S,uSu,S,u,SuS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,,10,that@conj,this@gram_adj,quik-silver@n,willen@v%pr_1,ich@pron%nom,mortifien@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,0,That,this,quyksilver,I,wol,mortifye
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,0,,,,,,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,0,that@conj,this@gram_adj,quik-silver@n,ich@pron%nom,willen@v%pr_1,mortifien@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,10,That,this,quiksilver,wol,I,mortifie
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,10,u,S,uSu,S,u,SuS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1126,DIFF,green,10,that@conj,this@gram_adj,quik-silver@n,willen@v%pr_1,ich@pron%nom,mortifien@v%inf
 
 "Right in youre sighte anon, withouten lye,",||,"Right in your sighte anon,° withouten lie,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1127,,,10,Right,in,youre,sighte,anon,withouten,lye
@@ -3556,7 +3556,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1164,DIFF,,10,this@gram_adj,hole@n2,with@prep,wax@n1,to@part,kepen@v%inf,the@def_art,limaille@n,in@adv
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1164,DIFF,,10,The,hool,with,wex,to,keep,the,lemaille,in
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1164,DIFF,,10,u,S,u,S,u,S,u,Sux,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1164,DIFF,,10,the@def_art,hole@n2,with@prep,wax@n1,to@part,kepen@v%inf,the@def_art,limaille@n,in@adv
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1164,DIFF,,10,the@def_art,hole@n2,with@prep,wax@n1,to@part,kepen@v%inf,,limaille@n,in@adv
 
 And understondeth that this false gyn,||,"And understondeth, that this false gin°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1165,,,10,And,understondeth,that,this,false,gyn
@@ -3575,12 +3575,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1166,,,10,ben@v%pt_3,not@adv,maken@v1%ppl,ther@adv,but@conj,hit@pron,ben@v%pt_3,maken@v1%ppl,biforen@adv
 
 And othere thynges I shal tellen moore,||,And other thinges I shal telle more
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,And,othere,thynges,I,shal,tellen,moore
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,u,Sux,Su,S,u,Su,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,and@conj,other@gram_adj,thing@n%pl,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,more@adj%comp
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,And,other,thinges,I,shal,telle,more
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,u,Su,Su,S,u,Su,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,,10,and@conj,other@gram_adj,thing@n%pl,ich@pron%nom,shulen@v1%pr_1,,more@adj%comp
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,And,othere,thynges,I,shal,tellen,moore
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,u,Sux,Su,S,u,Su,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,and@conj,other@gram_adj,thing@n%pl,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,more@adj%comp
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,And,other,thinges,I,shal,telle,more
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,u,Su,Su,S,u,Su,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1167,DIFF,green,10,and@conj,other@gram_adj,thing@n%pl,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,more@adj%comp
 
 "Herafterward, whiche that he with hym broghte.",||,"Herafterward, which that he with him broghte;"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1168,,,10,Herafterward,whiche,that,he,with,hym,broghte
@@ -3743,12 +3743,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1187,,,10,haven@v%imp,her@adv,a@indef_art,cloth@n,and@conj,wipen@v%imp,awei@adv,the@def_art,wet@n
 
 "And whiles that the preest wiped his face,",||,"And whiles that the preest him wiped his face,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,And,whiles,that,the,preest,wiped,his,face
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,u,Su,S,u,S,uS,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,and@conj,whiles@conj,that@part,the@def_art,prest@n3,wipen@v%pt_3,his@pron1%gen,face@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,And,whiles,that,the,preest,him,wiped,his,face
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,,10,and@conj,whiles@conj,that@part,the@def_art,prest@n3,,wipen@v%pt_3,his@pron1%gen,face@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,And,whiles,that,the,preest,wiped,his,face
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,u,Su,S,u,S,uS,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,and@conj,whiles@conj,that@part,the@def_art,prest@n3,wipen@v%pt_3,his@pron1%gen,face@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,And,whiles,that,the,preest,him,wiped,his,face
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,u,Su,S,u,S,u,Sx,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1188,DIFF,green,10,and@conj,whiles@conj,that@part,the@def_art,prest@n3,him@pron%obj,wipen@v%pt_3,his@pron1%gen,face@n
 
 This chanoun took his cole -- with sory grace! --,||,"This chanon took his col with harde grace,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1189,DIFF,,10,This,chanoun,took,his,cole,with,sory,grace
@@ -3900,7 +3900,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1207,DIFF,,10,gon@v%imp,walken@v1%imp,forth@adv,and@conj,bringen@v%imp,a@indef_art,chalk@n,ston@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1207,DIFF,,10,Goth,walketh,forth,and,bringe,us,a,chalkstoon
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1207,DIFF,,10,u,Su,S,u,Sx,u,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1207,DIFF,,10,gon@v%imp,walken@v1%imp,forth@adv,and@conj,,,a@indef_art,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1207,DIFF,,10,gon@v%imp,walken@v1%imp,forth@adv,and@conj,,us@pron%pl_obj,a@indef_art,
 
 For I wol make it of the same shap,||,For I wol make oon of the same shap
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1208,DIFF,,10,For,I,wol,make,it,of,the,same,shap
@@ -3919,12 +3919,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1209,,,10,that@pron,ben@v%pr_3,a@indef_art,ingot@n,if@conj,ich@pron%nom,mouen@v3%pr_1,haven@v%inf,hap@n
 
 And bryngeth eek with yow a bolle or a panne,||,"And bringeth eek with yow a bolle° or panne,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,And,bryngeth,eek,with,yow,a,bolle,or,a,panne
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,u,Sx,u,S,u,S,ux,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,and@conj,bringen@v%imp,ek@adv,with@prep,you@pron%pl_obj,a@indef_art,bolle@n,or@conj,a@indef_art,panne@n1
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,And,bringeth,eek,with,yow,a,bolle,or,panne
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,,10,and@conj,bringen@v%imp,ek@adv,with@prep,you@pron%pl_obj,you@pron%pl_obj,bolle@n,or@conj,panne@n1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,And,bryngeth,eek,with,yow,a,bolle,or,a,panne
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,u,Sx,u,S,u,S,ux,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,and@conj,bringen@v%imp,ek@adv,with@prep,you@pron%pl_obj,a@indef_art,bolle@n,or@conj,a@indef_art,panne@n1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,And,bringeth,eek,with,yow,a,bolle,or,panne
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,u,Su,S,u,S,u,Sx,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1210,DIFF,green,10,and@conj,bringen@v%imp,ek@adv,with@prep,you@pron%pl_obj,a@indef_art,bolle@n,or@conj,panne@n1
 
 "Ful of water, and ye shul se wel thanne",||,"Ful of water, and ye shul see wel thanne"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1211,,,10,Ful,of,water,and,ye,shul,se,wel,thanne
@@ -3999,12 +3999,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1219,,,10,and@conj,forth@adv,with@prep,hem@pron%pl_obj,thei@pron%pl_nom,carien@v%pt_pl,the@def_art,keie@n1
 
 And coome agayn withouten any delay.,||,And come again without any delay.
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,And,coome,agayn,withouten,any,delay
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,u,Sx,uS,uSx,uS,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,and@conj,comen@v%pt_pl,ayen@adv,withouten@prep,ani@gram_adj,delaie@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,And,come,again,without,any,delay
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,u,Sx,uS,uS,uS,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,,10,and@conj,comen@v%pt_pl,ayen@adv,,ani@gram_adj,delaie@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,And,coome,agayn,withouten,any,delay
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,u,Sx,uS,uSx,uS,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,and@conj,comen@v%pt_pl,ayen@adv,withouten@prep,ani@gram_adj,delaie@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,And,come,again,without,any,delay
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,u,Sx,uS,uS,uS,uS
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1220,DIFF,green,10,and@conj,comen@v%pt_pl,ayen@adv,withouten@prep,ani@gram_adj,delaie@n
 
 What sholde I tarien al the longe day?,||,What° sholde I tary al the longe day?
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1221,DIFF,,10,What,sholde,I,tarien,al,the,longe,day
@@ -4063,12 +4063,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1227,,,10,and@conj,taken@v%imp,hed@n2,nou@adv,of@prep,his@pron1%gen,cursed@ppl#adj,sleight@n
 
 He shoop his ingot in lengthe and in breede,||,"He shoop his ingot, in lengthe and eek in brede,°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,He,shoop,his,ingot,in,lengthe,and,in,breede
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,u,S,u,Su,S,ux,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,he@pron1%nom,shapen@v%pt_3,his@pron1%gen,ingot@n,in@prep,lengthe@n,and@conj,in@prep,brede@n2
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,He,shoop,his,ingot,in,lengthe,and,eek,in,brede
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,u,S,u,Su,S,ux,S,u,S,xx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,,10,he@pron1%nom,shapen@v%pt_3,his@pron1%gen,ingot@n,in@prep,lengthe@n,and@conj,,in@prep,brede@n2
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,He,shoop,his,ingot,in,lengthe,and,in,breede
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,u,S,u,Su,S,ux,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,he@pron1%nom,shapen@v%pt_3,his@pron1%gen,ingot@n,in@prep,lengthe@n,and@conj,in@prep,brede@n2
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,He,shoop,his,ingot,in,lengthe,and,eek,in,brede
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,u,S,u,Su,S,ux,S,u,S,xx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1228,DIFF,green,10,he@pron1%nom,shapen@v%pt_3,his@pron1%gen,ingot@n,in@prep,lengthe@n,and@conj,ek@adv,in@prep,brede@n2
 
 "Of this teyne, withouten any drede,",||,"Of this teine, withouten any drede,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1229,,,9,Of,this,teyne,withouten,any,drede
@@ -4111,12 +4111,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1233,DIFF,,10,and@conj,in@prep,,putten@v%pt_3,hit@pron,with@prep,mirie@adj,chere@n1
 
 "And in the water-vessel he it caste,",||,And in the water vessel he it caste
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,And,in,the,watervessel,he,it,caste
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,u,S,u,SuSu,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,and@conj,in@prep,the@def_art,water-vessel@n,he@pron1%nom,hit@pron,casten@v%pt_3
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,And,in,the,water,vessel,he,it,caste
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,u,S,u,Su,Su,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,,10,and@conj,in@prep,the@def_art,,,he@pron1%nom,hit@pron,casten@v%pt_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,And,in,the,watervessel,he,it,caste
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,u,S,u,SuSu,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,and@conj,in@prep,the@def_art,water-vessel@n,he@pron1%nom,hit@pron,casten@v%pt_3
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,And,in,the,water,vessel,he,it,caste
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,u,S,u,Su,Su,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1234,DIFF,green,10,and@conj,in@prep,the@def_art,water@n,vessel@n,he@pron1%nom,hit@pron,casten@v%pt_3
 
 "Whan that hym luste, and bad the preest as faste,",||,"Whan that him luste,° and bad the preest as faste,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1235,,,10,Whan,that,hym,luste,and,bad,the,preest,as,faste
@@ -4319,12 +4319,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1259,,,10,to@part,don@v1%inf,as@conj,this@gram_adj,canoun@n2,this@gram_adj,cursed@ppl#adj,man@n
 
 "Comanded hym, and faste blew the fir,",||,"Comanded him, and faste° he blew the fir,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,Comanded,hym,and,faste,blew,the,fir
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,uSu,S,u,Su,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,commaunden@v%pt_3,him@pron%obj,and@conj,faste@adv,blouen@v1%pt_3,the@def_art,fir@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,Comanded,him,and,faste,he,blew,the,fir
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,uSu,S,u,Sx,u,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,,10,commaunden@v%pt_3,him@pron%obj,and@conj,faste@adv,,blouen@v1%pt_3,the@def_art,fir@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,Comanded,hym,and,faste,blew,the,fir
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,uSu,S,u,Su,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,commaunden@v%pt_3,him@pron%obj,and@conj,faste@adv,blouen@v1%pt_3,the@def_art,fir@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,Comanded,him,and,faste,he,blew,the,fir
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,uSu,S,u,Sx,u,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1260,DIFF,green,10,commaunden@v%pt_3,him@pron%obj,and@conj,faste@adv,he@pron1%nom,blouen@v1%pt_3,the@def_art,fir@n
 
 For to come to th' effect of his desir.,||,For to com to th’effect° of his desir.
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,For,to,come,to,th,effect,of,his,desir
@@ -4332,7 +4332,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,for@prep#adv,to@part,comen@v%inf,to@prep,the@def_art,effect@n,of@prep,his@pron1%gen,desir@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,For,to,com,to,theffect,of,his,desir
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,u,S,u,S,uS,u,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,for@prep#adv,to@part,comen@v%inf,to@part,,of@prep,his@pron1%gen,desir@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1261,DIFF,,10,for@prep#adv,to@part,comen@v%inf,to@prep,,of@prep,his@pron1%gen,desir@n
 
 "And this chanon, right in the meene while,",||,"And this chanon, right in the mene while,°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1262,,,10,And,this,chanon,right,in,the,meene,while
@@ -4460,7 +4460,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1277,DIFF,,10,that@pron,ben@v%pt_3,ordeinen@v%ppl,with@prep,that@art&gram_adj,fals@adj,get@n1
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1277,DIFF,,10,That,was,ordeined,with,that,false,get
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1277,DIFF,,10,u,S,uSu,S,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1277,DIFF,,10,that@pron,ben@v%pt_3,ordeinen@v%ppl,with@prep,that@pron,fals@adj,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1277,DIFF,,10,that@pron,ben@v%pt_3,ordeinen@v%ppl,with@prep,that@art&gram_adj,fals@adj,
 
 He stired the coles til relente gan,||,"He stired the coles, til relente° gan"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1278,,,10,He,stired,the,coles,til,relente,gan
@@ -4663,12 +4663,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1302,,,10,he@pron1%nom,semen@v2%pt_3,frendli@adj,to@prep,hem@pron%pl_obj,that@pron,knouen@v%pt_3,him@pron%obj,nought@adv
 
 But he was feendly bothe in werk and thoght.,||,But he was feendly° bothe in herte and thoght.
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,But,he,was,feendly,bothe,in,werk,and,thoght
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,u,S,u,Su,Sx,u,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,but@conj,he@pron1%nom,ben@v%pt_3,fendliche@adj,bothe@num_conj,in@prep,werk@n,and@conj,thought@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,But,he,was,feendly,bothe,in,herte,and,thoght
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,u,S,u,Su,Sx,u,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,,10,but@conj,he@pron1%nom,ben@v%pt_3,fendliche@adj,bothe@num_conj,in@prep,,and@conj,thought@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,But,he,was,feendly,bothe,in,werk,and,thoght
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,u,S,u,Su,Sx,u,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,but@conj,he@pron1%nom,ben@v%pt_3,fendliche@adj,bothe@num_conj,in@prep,werk@n,and@conj,thought@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,But,he,was,feendly,bothe,in,herte,and,thoght
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,u,S,u,Su,Sx,u,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1303,DIFF,green,10,but@conj,he@pron1%nom,ben@v%pt_3,fendliche@adj,bothe@num_conj,in@prep,herte@n,and@conj,thought@n
 
 "It weerieth me to telle of his falsnesse,",||,"It werieth° me to telle of his falsnesse,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1304,,,10,It,weerieth,me,to,telle,of,his,falsnesse
@@ -4708,7 +4708,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1308,DIFF,,0,he@pron1%nom,putten@v%pt_3,this@gram_adj,ounce@n,of@prep,coper@n,in@prep,the@def_art,crosselet@n2
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1308,DIFF,,10,He,putte,the,ounce,of,coper,in,the,croslet
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1308,DIFF,,10,u,Sx,u,Sx,u,Sx,u,S,uS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1308,DIFF,,10,he@pron1%nom,putten@v%pt_3,the@def_art,ounce@n,of@prep,coper@n,in@prep,the@def_art,crosselet@n2
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1308,DIFF,,10,he@pron1%nom,putten@v%pt_3,the@def_art,ounce@n,of@prep,coper@n,in@prep,,crosselet@n2
 
 "And on the fir as swithe he hath it set,",||,"And on the fir as swithe° he hath it set,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1309,,,10,And,on,the,fir,as,swithe,he,hath,it,set
@@ -4868,7 +4868,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1328,DIFF,,10,helpen@v%imp,me@pron2%obj,nou@adv,as@conj,ich@pron%nom,don@v1%pt_1,you@pron%pl_obj,whil-er@adv
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1328,DIFF,,10,Helpeth,me,now,as,I,did,yow,whil,er
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1328,DIFF,,10,uS,u,S,u,S,u,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1328,DIFF,,10,helpen@v%imp,me@pron2%obj,nou@adv,as@conj,ich@pron%nom,don@v1%pt_1,ich@pron%nom,,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1328,DIFF,,10,helpen@v%imp,me@pron2%obj,nou@adv,as@conj,ich@pron%nom,don@v1%pt_1,you@pron%pl_obj,,
 
 "Putte in youre hand, and looketh what is theer.""",||,"Putte in your hand, and looketh what is ther.”"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1329,,,10,Putte,in,youre,hand,and,looketh,what,is,theer
@@ -5023,12 +5023,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1347,,,10,ne@conj1,knight@n,in@prep,armes@n%pl,to@part,don@v1%inf,a@indef_art,hardi@adj,dede@n
 
 "To stonden in grace of his lady deere,",||,"To stonde in grace° of his lady dere,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,To,stonden,in,grace,of,his,lady,deere
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,u,Su,S,ux,S,u,Su,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,to@part,stonden@v1%inf,in@prep,grace@n,of@prep,his@pron1%gen,ladie@n,dere@adj1
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,To,stonde,in,grace,of,his,lady,dere
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,u,Sx,u,Su,S,u,Su,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,,10,to@part,,in@prep,grace@n,of@prep,his@pron1%gen,ladie@n,dere@adj1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,To,stonden,in,grace,of,his,lady,deere
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,u,Su,S,ux,S,u,Su,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,to@part,stonden@v1%inf,in@prep,grace@n,of@prep,his@pron1%gen,ladie@n,dere@adj1
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,To,stonde,in,grace,of,his,lady,dere
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,u,Sx,u,Su,S,u,Su,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1348,DIFF,green,10,to@part,stonden@v1%inf,in@prep,grace@n,of@prep,his@pron1%gen,ladie@n,dere@adj1
 
 Than hadde this preest this soory craft to leere.,||,Than had this preest this sory° craft to lere;°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1349,,,10,Than,hadde,this,preest,this,soory,craft,to,leere
@@ -5228,7 +5228,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1373,DIFF,,0,to@prep,me@pron2%obj,bi@prep,cause@n,of@prep,min@pron%gen,philosophie@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1373,DIFF,,10,To,me,bicause,of,my,philosophie
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1373,DIFF,,10,u,S,uSx,u,S,uSuS
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1373,DIFF,,10,to@prep,me@pron2%obj,,of@prep,me@pron2%obj,philosophie@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1373,DIFF,,10,to@prep,me@pron2%obj,,of@prep,min@pron%gen,philosophie@n
 
 "I sholde be deed; ther were noon oother weye.""",||,"I shuld be deed, ther wer non other weye.”"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1374,,,10,I,sholde,be,deed,ther,were,noon,oother,weye
@@ -5412,7 +5412,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1396,DIFF,,0,for@prep,ani@gram_adj,wit@n,that@pron,man@n%pl,haven@v%pr_pl,nou-a-daies@adv
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1396,DIFF,,0,For,any,wit,that,men,han,now,adayes
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1396,DIFF,,0,,,,,,,,
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1396,DIFF,,0,for@prep,ani@gram_adj,wit@n,that@pron,man@n%pl,haven@v%pr_pl,ani@gram_adj,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1396,DIFF,,0,for@prep,ani@gram_adj,wit@n,that@pron,man@n%pl,haven@v%pr_pl,,
 
 "They mowe wel chiteren as doon jayes,",||,"They mow wel° chiteren,° as that doon thes jayes,"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1397,DIFF,,10,They,mowe,wel,chiteren,as,doon,jayes
@@ -5612,7 +5612,7 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1421,DIFF,,9,ye@pron%pl_nom,shulen@v1%pr_pl,no-thing@pron,winnen@v%inf,on@prep,that@art&gram_adj,chaffare@n
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1421,DIFF,,10,Ye,shul,nat,winne,a,mite,in,that,chaffare
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1421,DIFF,,10,u,S,u,Sx,u,Sx,u,S,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1421,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,,winnen@v%inf,ye@pron%pl_nom,,on@prep,that@art&gram_adj,chaffare@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1421,DIFF,,10,ye@pron%pl_nom,shulen@v1%pr_pl,not@adv,winnen@v%inf,,mite@n2,on@prep,that@art&gram_adj,chaffare@n
 
 But wasten al that ye may rape and renne.,||,But wasten al that ye may rape° and renne.°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1422,,,10,But,wasten,al,that,ye,may,rape,and,renne
@@ -5703,12 +5703,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1432,,,10,but@conj,hit@pron,ben@v%pr_3,with@prep,his@pron1%gen,brother@n,knoulechinge@ger
 
 How [be] that he which that first seyde this thyng,||,"How that he, which that first seid this thing,"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,10,How,be,that,he,which,that,first,seyde,this,thyng
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,10,u,S,u,S,u,S,u,Sx,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,10,hou@adv&conj,ben@v%pr_3,that@conj,he@pron1%nom,which@pron,that@pron,first@adv,seien@v1%pt_3,this@gram_adj,thing@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,9,How,that,he,which,that,first,seid,this,thing
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,9,S,u,S,u,S,u,S,u,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,,9,hou@adv&conj,that@conj,hou@adv&conj,which@pron,that@conj,first@adv,seien@v1%pt_3,this@gram_adj,thing@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,10,How,be,that,he,which,that,first,seyde,this,thyng
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,10,u,S,u,S,u,S,u,Sx,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,10,hou@adv&conj,ben@v%pr_3,that@conj,he@pron1%nom,which@pron,that@pron,first@adv,seien@v1%pt_3,this@gram_adj,thing@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,9,How,that,he,which,that,first,seid,this,thing
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,9,S,u,S,u,S,u,S,u,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1433,DIFF,green,9,hou@adv&conj,that@conj,he@pron1%nom,which@pron,that@pron,first@adv,seien@v1%pt_3,this@gram_adj,thing@n
 
 "Of philosophres fader was, Hermes;",||,"Of philosophres fader was,° Hermes;"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1434,,,10,Of,philosophres,fader,was,Hermes
@@ -5775,12 +5775,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1441,,,10,and@conj,ther-fore@adv,seien@v1%pt_3,he@pron1%nom,--@dash,taken@v%imp,hed@n2,to@prep,min@pron%gen,saue@n2,--@dash
 
 """Lat no man bisye hym this art for to seche,",||,"Let no man bisy him° this art to seche,°"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,0,Lat,no,man,bisye,hym,this,art,for,to,seche
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,0,,,,,,,,,,
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,0,leten@v%imp,no@gram_adj,man@n,bisien@v%inf,him@pron%obj,this@gram_adj,art@n1,for@prep#adv,to@part,sechen@v%inf
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,10,Let,no,man,bisy,him,this,art,to,seche
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,10,u,S,u,Su,S,u,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,,10,leten@v%imp,no@gram_adj,man@n,bisien@v%inf,him@pron%obj,this@gram_adj,art@n1,to@part,sechen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,0,Lat,no,man,bisye,hym,this,art,for,to,seche
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,0,,,,,,,,,,
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,0,leten@v%imp,no@gram_adj,man@n,bisien@v%inf,him@pron%obj,this@gram_adj,art@n1,for@prep#adv,to@part,sechen@v%inf
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,10,Let,no,man,bisy,him,this,art,to,seche
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,10,u,S,u,Su,S,u,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1442,DIFF,green,10,leten@v%imp,no@gram_adj,man@n,bisien@v%inf,him@pron%obj,this@gram_adj,art@n1,to@part,sechen@v%inf
 
 But if that he th' entencioun and speche,||,But if° that he th’entencioun and speche
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1443,DIFF,,10,But,if,that,he,th,entencioun,and,speche
@@ -5935,12 +5935,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1461,,,10,tellen@v%imp,me@pron2%obj,the@def_art,rote@n4,god@adj,sire@n,quethen@v%pt_3,he@pron1%nom,tho@adv
 
 """Of that water, if it be youre wil.""",||,"“Of that water, if that it be your wille?”"
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,Of,that,water,if,it,be,youre,wil
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,u,S,uS,u,S,u,Su,S
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,of@prep,that@art&gram_adj,water@n,if@conj,hit@pron,ben@v%pr_3,your@pron%pl_gen,wille@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,Of,that,water,if,that,it,be,your,wille
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,u,S,uS,u,S,u,S,u,Sx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,,10,of@prep,that@art&gram_adj,water@n,of@prep,that@art&gram_adj,hit@pron,ben@v%pr_3,your@pron%pl_gen,wille@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,Of,that,water,if,it,be,youre,wil
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,u,S,uS,u,S,u,Su,S
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,of@prep,that@art&gram_adj,water@n,if@conj,hit@pron,ben@v%pr_3,your@pron%pl_gen,wille@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,Of,that,water,if,that,it,be,your,wille
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,u,S,uS,u,S,u,S,u,Sx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1462,DIFF,green,10,of@prep,that@art&gram_adj,water@n,if@conj,ben@v%pr_3,hit@pron,ben@v%pr_3,your@pron%pl_gen,wille@n
 
 """Nay, nay,"" quod Plato, ""certein, that I nyl.",||,"“Nay, nay,” quod Plato, “certein, that I nille.°"
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1463,,,10,Nay,nay,quod,Plato,certein,that,I,nyl
@@ -6015,12 +6015,12 @@ data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,Th
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1471,,,10,whom@pron%obj,that@pron,him@pron%obj,liken@v1%pr_3,lo@interj,this@pron,ben@v%pr_3,the@def_art,ende@n1
 
 "Thanne conclude I thus, sith that God of hevene",||,¶Than conclude I thus; sith° God of hevene
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,Thanne,conclude,I,thus,sith,that,God,of,hevene
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,ux,Sux,S,u,S,u,S,u,Sxx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,thanne@adv,concluden@v%pr_1,ich@pron%nom,thus@adv,sitthe@conj,that@part,god@n1#propn,of@prep,heven@n
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,Than,conclude,I,thus,sith,God,of,hevene
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,u,Sux,S,u,S,u,S,uSx
-data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,,10,thanne@adv,concluden@v%pr_1,ich@pron%nom,thus@adv,sitthe@conj,god@n1#propn,of@prep,heven@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,Thanne,conclude,I,thus,sith,that,God,of,hevene
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,ux,Sux,S,u,S,u,S,u,Sxx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,thanne@adv,concluden@v%pr_1,ich@pron%nom,thus@adv,sitthe@conj,that@part,god@n1#propn,of@prep,heven@n
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,Than,conclude,I,thus,sith,God,of,hevene
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,u,Sux,S,u,S,u,S,uSx
+data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1472,DIFF,green,10,thanne@adv,concluden@v%pr_1,ich@pron%nom,thus@adv,sitthe@conj,god@n1#propn,of@prep,heven@n
 
 Ne wil nat that the philosophres nevene,||,Ne wil nat° that the philosophres nevene°
 data/riverside_cats/CYT_riv.cat,data/oxford_txts/CYT_oxford.txt,data/csvs/CYT,The Canon's Yeoman's Tale 1473,,,10,Ne,wil,nat,that,the,philosophres,nevene

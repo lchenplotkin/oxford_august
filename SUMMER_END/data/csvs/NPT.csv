@@ -55,12 +55,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2827,,,10,for@conj,litel@adj,ben@v%pt_3,hire@pron1%fem_gen,catel@n,and@conj,hire@pron1%fem_gen,rente@n
 
 By housbondrie of swich as God hire sente,||,"By housbondrie,° of such as God hir sente,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,By,housbondrie,of,swich,as,God,hire,sente
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,u,SuS,u,S,u,S,ux,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,bi@prep,hus-bondrie@n,of@prep,swich@gram_adj,as@conj,god@n1#propn,hire@pron2%fem_obj,senden@v2%pt_3
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,By,housbondrie,of,such,as,God,hir,sente
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,u,SuS,u,S,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,DIFF,,10,bi@prep,hus-bondrie@n,of@prep,swich@gram_adj,as@conj,god@n1#propn,hire@pron2%fem_obj,senden@v2%pt_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,By,housbondrie,of,swich,as,God,hire,sente
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,u,SuS,u,S,u,S,ux,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,bi@prep,hus-bondrie@n,of@prep,swich@gram_adj,as@conj,god@n1#propn,hire@pron2%fem_obj,senden@v2%pt_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,By,housbondrie,of,such,as,God,hir,sente
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,u,SuS,u,S,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2828,,,10,bi@prep,hus-bondrie@n,of@prep,swich@gram_adj,as@conj,god@n1#propn,hire@pron2%fem_obj,senden@v2%pt_3
 
 She foond hirself and eek hir doghtren two.,||,"She fond° hirself, and eek hir doghtren two."
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2829,,,10,She,foond,hirself,and,eek,hir,doghtren,two
@@ -271,12 +271,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2854,,,10,than@conj,ben@v%pr_3,a@indef_art,clokke@n,or@conj,a@indef_art,abbeie@n#adj,orloge@n
 
 By nature he knew ech ascencioun,||,By nature crew° he ech ascencioun°
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,By,nature,he,knew,ech,ascencioun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,u,Sux,S,u,S,uSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,bi@prep,nature@n,he@pron1%nom,knouen@v%pt_3,ech@pron_gram_adj,ascensioun@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,By,nature,crew,he,ech,ascencioun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,u,Sux,S,u,S,uSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,,10,bi@prep,nature@n,,he@pron1%nom,ech@pron_gram_adj,ascensioun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,By,nature,he,knew,ech,ascencioun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,u,Sux,S,u,S,uSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,bi@prep,nature@n,he@pron1%nom,knouen@v%pt_3,ech@pron_gram_adj,ascensioun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,By,nature,crew,he,ech,ascencioun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,u,Sux,S,u,S,uSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2855,DIFF,green,10,bi@prep,nature@n,crouen@v%pt_3,he@pron1%nom,ech@pron_gram_adj,ascensioun@n
 
 Of the equynoxial in thilke toun;,||,Of the equinoxial° in thilke° toun;
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2856,,,10,Of,the,equynoxial,in,thilke,toun
@@ -287,12 +287,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2856,,,10,of@prep,the@def_art,equinoxial@n,in@prep,thilke@gram_adj,toun@n
 
 "For whan degrees fiftene weren ascended,",||,"For whan degrees fiftene were ascended,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,For,whan,degrees,fiftene,weren,ascended
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,u,S,uS,uSx,uS,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,for@conj,whan@adv&conj,degre@n%pl,fif-tene@num_adj,ben@v%pt_pl,ascenden@v%ppl
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,For,whan,degrees,fiftene,were,ascended
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,u,S,uS,uSx,ux,SuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,,10,for@conj,whan@adv&conj,degre@n%pl,fif-tene@num_adj,,ascenden@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,For,whan,degrees,fiftene,weren,ascended
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,u,S,uS,uSx,uS,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,for@conj,whan@adv&conj,degre@n%pl,fif-tene@num_adj,ben@v%pt_pl,ascenden@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,For,whan,degrees,fiftene,were,ascended
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,u,S,uS,uSx,ux,SuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2857,DIFF,green,10,for@conj,whan@adv&conj,degre@n%pl,fif-tene@num_adj,ben@v%pt_pl,ascenden@v%ppl
 
 Thanne crew he that it myghte nat been amended.,||,"Than crew he, that it might nat ben amended.°"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2858,,,10,Thanne,crew,he,that,it,myghte,nat,been,amended
@@ -447,12 +447,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2876,,,10,he@pron1%nom,loven@v1%pt_3,hire@pron2%fem_obj,so@adv,that@conj,wel@adj,ben@v%pt_3,him@pron%obj,ther-with@adv
 
 "But swich a joye was it to here hem synge,",||,"But such a joy was it to here hem singe,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,But,swich,a,joye,was,it,to,here,hem,synge
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,u,S,u,Su,S,u,S,xx,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,but@conj,swich@gram_adj,a@indef_art,joie@n,ben@v%pt_3,hit@pron,to@part,heren@v%inf,hem@pron%pl_obj,singen@v%inf
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,But,such,a,joy,was,it,to,here,hem,singe
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,u,S,u,S,u,S,u,Sx,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,DIFF,,10,but@conj,swich@gram_adj,a@indef_art,joie@n,ben@v%pt_3,hit@pron,to@part,heren@v%inf,hem@pron%pl_obj,singen@v%inf
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,But,swich,a,joye,was,it,to,here,hem,synge
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,u,S,u,Su,S,u,S,xx,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,but@conj,swich@gram_adj,a@indef_art,joie@n,ben@v%pt_3,hit@pron,to@part,heren@v%inf,hem@pron%pl_obj,singen@v%inf
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,But,such,a,joy,was,it,to,here,hem,singe
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,u,S,u,S,u,S,u,Sx,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2877,,,10,but@conj,swich@gram_adj,a@indef_art,joie@n,ben@v%pt_3,hit@pron,to@part,heren@v%inf,hem@pron%pl_obj,singen@v%inf
 
 "Whan that the brighte sonne gan to sprynge,",||,"Whan that the brighte sonne gan to springe,°"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2878,,,10,Whan,that,the,brighte,sonne,gan,to,sprynge
@@ -623,12 +623,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2898,,,10,me@pron2%obj,meten@v3%pt_3,hou@adv&conj,that@part,ich@pron%nom,romen@v%pt_1,up@adv,and@conj,doun@adv
 
 "Withinne our yeerd, wheer as I saugh a beest",||,"Withinne our yerde, wheras° I saugh a beste,°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,Withinne,our,yeerd,wheer,as,I,saugh,a,beest
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,uSx,u,S,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,with-inne@prep,oure@pron%pl_gen,yerd@n,wher@adv&conj,as@conj,ich@pron%nom,sen@v1%pt_1,a@indef_art,beste@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,Withinne,our,yerde,wheras,I,saugh,a,beste
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,uSx,u,Sux,Su,S,u,S,xx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,,10,with-inne@prep,oure@pron%pl_gen,yerd@n,,ich@pron%nom,sen@v1%pt_1,ich@pron%nom,beste@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,Withinne,our,yeerd,wheer,as,I,saugh,a,beest
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,uSx,u,S,u,S,u,S,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,with-inne@prep,oure@pron%pl_gen,yerd@n,wher@adv&conj,as@conj,ich@pron%nom,sen@v1%pt_1,a@indef_art,beste@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,Withinne,our,yerde,wheras,I,saugh,a,beste
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,uSx,u,Sux,Su,S,u,S,xx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2899,DIFF,green,10,with-inne@prep,oure@pron%pl_gen,yerd@n,wher-as@adv,ich@pron%nom,sen@v1%pt_1,a@indef_art,beste@n
 
 "Was lyk an hound, and wolde han maad areest",||,"Was lik° an hound, and wolde han maad areste"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2900,,,10,Was,lyk,an,hound,and,wolde,han,maad,areest
@@ -647,12 +647,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2901,,,10,upon@prep,min@pron%gen,bodi@n,and@conj,willen@v%pt_3,haven@v%inf,haven@v%ppl,me@pron2%obj,ded@adj
 
 "His colour was bitwixe yelow and reed,",||,His colour was bitwixe yelwe and reed;
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,His,colour,was,bitwixe,yelow,and,reed
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,u,Su,S,uSx,uS,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,his@pron1%gen,colour@n,ben@v%pt_3,bitwixe@prep,yelwe@adj,and@conj,red@n2
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,His,colour,was,bitwixe,yelwe,and,reed
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,u,Su,S,uSu,Sx,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,,10,his@pron1%gen,colour@n,ben@v%pt_3,bitwixe@prep,,and@conj,red@n2
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,His,colour,was,bitwixe,yelow,and,reed
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,u,Su,S,uSx,uS,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,his@pron1%gen,colour@n,ben@v%pt_3,bitwixe@prep,yelwe@adj,and@conj,red@n2
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,His,colour,was,bitwixe,yelwe,and,reed
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,u,Su,S,uSu,Sx,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2902,DIFF,green,10,his@pron1%gen,colour@n,ben@v%pt_3,bitwixe@prep,yelwe@adj,and@conj,red@n2
 
 And tipped was his tayl and bothe his eeris,||,"And tipped was his tail, and bothe his eres,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2903,,,10,And,tipped,was,his,tayl,and,bothe,his,eeris
@@ -940,7 +940,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2938,DIFF,,10,that@pron,werken@v%pr_pl,mani@gram_adj,a@indef_art,man@n,slep@n,ful@adv,wo@adj
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2938,DIFF,,10,That,werken,many,a,man,in,sleep,ful,wo
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2938,DIFF,,10,u,Su,Sx,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2938,DIFF,,10,that@pron,werken@v%pr_pl,mani@gram_adj,a@indef_art,mani@gram_adj,,slep@n,ful@adv,wo@adj
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2938,DIFF,,10,that@pron,werken@v%pr_pl,mani@gram_adj,a@indef_art,man@n,,slep@n,ful@adv,wo@adj
 
 But I wol passe as lightly as I kan.,||,But I wol passe as lightly as I can.
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2939,,,10,But,I,wol,passe,as,lightly,as,I,kan
@@ -1055,12 +1055,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2952,,,10,the@def_art,which@pron,haven@v%pr_pl,of@prep,here@pron%pl_gen,proprete@n,bi@prep,kinde@n
 
 To purge yow bynethe and eek above.,||,"To purgen yow binethe,° and eek above.°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,To,purge,yow,bynethe,and,eek,above
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,u,Su,S,uSx,u,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,to@part,purgen@v1%inf,you@pron%pl_obj,binethen@adv,and@conj,ek@adv,aboven@adv
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,To,purgen,yow,binethe,and,eek,above
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,u,Su,S,uSx,u,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,,10,to@part,,you@pron%pl_obj,binethen@adv,and@conj,ek@adv,aboven@adv
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,To,purge,yow,bynethe,and,eek,above
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,u,Su,S,uSx,u,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,to@part,purgen@v1%inf,you@pron%pl_obj,binethen@adv,and@conj,ek@adv,aboven@adv
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,To,purgen,yow,binethe,and,eek,above
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,u,Su,S,uSx,u,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2953,DIFF,green,10,to@part,purgen@v1%pr_pl,you@pron%pl_obj,binethen@adv,and@conj,ek@adv,aboven@adv
 
 "Foryet nat this, for Goddes owene love!",||,"Forget not this, for Goddes owene love!"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2954,DIFF,,10,Foryet,nat,this,for,Goddes,owene,love
@@ -1164,15 +1164,15 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2966,DIFF,,10,of@prep,herbe@n,ivi@n,grouen@v%prp_abs,in@prep,oure@pron%pl_gen,yerd@n,ther@adv,mirie@adj,ben@v%pr_3
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2966,DIFF,,0,Of,erbe,ive,growing,in,our,yerd,that,mery,is
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2966,DIFF,,0,,,,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2966,DIFF,,0,of@prep,,ivi@n,grouen@v%prp_abs,in@prep,oure@pron%pl_gen,yerd@n,,mirie@adj,ben@v%pr_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2966,DIFF,,0,of@prep,,ivi@n,grouen@v%prp_abs,in@prep,oure@pron%pl_gen,yerd@n,ben@v%pr_3,mirie@adj,ben@v%pr_3
 
 Pekke hem up right as they growe and ete hem yn.,||,"Pekke hem right as they growe, and ete hem in."
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,0,Pekke,hem,up,right,as,they,growe,and,ete,hem,yn
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,0,,,,,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,0,pekken@v%imp,hem@pron%pl_obj,up@adv,righte@adv,as@conj,thei@pron%pl_nom,grouen@v%pr_pl,and@conj,eten@v%imp,hem@pron%pl_obj,in@adv
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,10,Pekke,hem,right,as,they,growe,and,ete,hem,in
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,10,ux,S,u,S,u,Sx,u,Sx,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,,10,pekken@v%imp,hem@pron%pl_obj,righte@adv,as@conj,thei@pron%pl_nom,grouen@v%pr_pl,and@conj,eten@v%imp,hem@pron%pl_obj,in@adv
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,0,Pekke,hem,up,right,as,they,growe,and,ete,hem,yn
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,0,,,,,,,,,,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,0,pekken@v%imp,hem@pron%pl_obj,up@adv,righte@adv,as@conj,thei@pron%pl_nom,grouen@v%pr_pl,and@conj,eten@v%imp,hem@pron%pl_obj,in@adv
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,10,Pekke,hem,right,as,they,growe,and,ete,hem,in
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,10,ux,S,u,S,u,Sx,u,Sx,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2967,DIFF,green,10,pekken@v%imp,hem@pron%pl_obj,righte@adv,as@conj,thei@pron%pl_nom,grouen@v%pr_pl,and@conj,eten@v%imp,hem@pron%pl_obj,in@adv
 
 "Be myrie, housbonde, for youre fader kyn!",||,"Be mery, housbond, for your° fader° kin!"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2968,,,10,Be,myrie,housbonde,for,youre,fader,kyn
@@ -1207,12 +1207,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2971,,,10,but@conj,no-the-lesse@adv,as@conj,touchinge@prep,daun@n#adj,catoun@n1#propn
 
 "That hath of wysdom swich a greet renoun,",||,"That hath of wisdom such a greet renoun,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,That,hath,of,wysdom,swich,a,greet,renoun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,u,S,u,Su,S,u,S,uS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,that@pron,haven@v%pr_3,of@prep,wisdom@n,swich@gram_adj,a@indef_art,gret@adj,renoun@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,That,hath,of,wisdom,such,a,greet,renoun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,u,S,u,Su,S,u,S,uS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,DIFF,,10,that@pron,haven@v%pr_3,of@prep,wisdom@n,swich@gram_adj,a@indef_art,gret@adj,renoun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,That,hath,of,wysdom,swich,a,greet,renoun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,u,S,u,Su,S,u,S,uS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,that@pron,haven@v%pr_3,of@prep,wisdom@n,swich@gram_adj,a@indef_art,gret@adj,renoun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,That,hath,of,wisdom,such,a,greet,renoun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,u,S,u,Su,S,u,S,uS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2972,,,10,that@pron,haven@v%pr_3,of@prep,wisdom@n,swich@gram_adj,a@indef_art,gret@adj,renoun@n
 
 "Though that he bad no dremes for to drede,",||,"Though that he bad no dremes for to drede,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2973,,,10,Though,that,he,bad,no,dremes,for,to,drede
@@ -1247,12 +1247,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2976,,,10,than@conj,ever@adv,catoun@n1#propn,ben@v%pt_3,so@adv,moten@v2%pr_1,ich@pron%nom,then@v%inf
 
 "That al the revers seyn of this sentence,",||,"That al the revers seyn of his sentence,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,That,al,the,revers,seyn,of,this,sentence
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,u,S,u,Su,S,u,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,that@pron,al@gram_adj,the@def_art,reverse@n,seien@v1%pr_pl,of@prep,this@gram_adj,sentence@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,That,al,the,revers,seyn,of,his,sentence
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,u,S,u,Su,S,u,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,,10,that@pron,al@gram_adj,the@def_art,reverse@n,seien@v1%pr_pl,of@prep,,sentence@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,That,al,the,revers,seyn,of,this,sentence
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,u,S,u,Su,S,u,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,that@pron,al@gram_adj,the@def_art,reverse@n,seien@v1%pr_pl,of@prep,this@gram_adj,sentence@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,That,al,the,revers,seyn,of,his,sentence
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,u,S,u,Su,S,u,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2977,DIFF,green,10,that@pron,al@gram_adj,the@def_art,reverse@n,seien@v1%pr_pl,of@prep,his@pron1%gen,sentence@n
 
 And han wel founden by experience,||,"And han wel founden by experience,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2978,,,10,And,han,wel,founden,by,experience
@@ -1271,12 +1271,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2979,,,10,that@conj,drem@n2%pl,ben@v%pr_pl,significacioun@n%pl
 
 As wel of joye as of tribulaciouns,||,As wel of joye as tribulaciouns
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,0,As,wel,of,joye,as,of,tribulaciouns
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,0,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,0,as@conj,wel@adv,of@prep,joie@n,as@conj,of@prep,tribulacioun@n%pl
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,10,As,wel,of,joye,as,tribulaciouns
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,10,u,S,u,S,u,SuSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,,10,as@conj,wel@adv,of@prep,joie@n,as@conj,tribulacioun@n%pl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,0,As,wel,of,joye,as,of,tribulaciouns
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,0,,,,,,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,0,as@conj,wel@adv,of@prep,joie@n,as@conj,of@prep,tribulacioun@n%pl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,10,As,wel,of,joye,as,tribulaciouns
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,10,u,S,u,S,u,SuSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2980,DIFF,green,10,as@conj,wel@adv,of@prep,joie@n,as@conj,tribulacioun@n%pl
 
 That folk enduren in this lif present.,||,That folk enduren in this lif present.
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2981,,,10,That,folk,enduren,in,this,lif,present
@@ -1303,12 +1303,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2983,,,10,the@def_art,verrei@adj,preve@n,sheuen@v1%pr_3,hit@pron,in@prep,dede@n
 
 """Oon of the gretteste auctour that men rede",||,¶“Oon of the gretteste auctours° that men rede
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,Oon,of,the,gretteste,auctour,that,men,rede
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,u,S,u,Sux,Su,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,on@pron,of@prep,the@def_art,gret@adj%sup,auctour@n,that@pron,man@n%pl,reden@v1%pr_pl
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,Oon,of,the,gretteste,auctours,that,men,rede
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,u,S,u,Sux,Su,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,,10,on@pron,of@prep,the@def_art,gret@adj%sup,,that@pron,man@n%pl,reden@v1%pr_pl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,Oon,of,the,gretteste,auctour,that,men,rede
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,u,S,u,Sux,Su,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,on@pron,of@prep,the@def_art,gret@adj%sup,auctour@n,that@pron,man@n%pl,reden@v1%pr_pl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,Oon,of,the,gretteste,auctours,that,men,rede
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,u,S,u,Sux,Su,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2984,DIFF,green,10,on@pron,of@prep,the@def_art,gret@adj%sup,auctour@n%pl,that@pron,man@n%pl,reden@v1%pr_pl
 
 Seith thus: that whilom two felawes wente,||,"Seith thus, that whilom° two felawes wente"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2985,,,10,Seith,thus,that,whilom,two,felawes,wente
@@ -1332,15 +1332,15 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2987,DIFF,,10,and@conj,happen@v1%pt_3,so@adv,thei@pron%pl_nom,comen@v%pt_pl,in@prep,a@indef_art,toun@n
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2987,DIFF,,10,And,happed,so,thay,come,into,a,toun
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2987,DIFF,,10,u,Su,S,u,Sx,uS,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2987,DIFF,,10,and@conj,happen@v1%pt_3,so@adv,thei@pron%pl_nom,,,a@indef_art,toun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2987,DIFF,,10,and@conj,happen@v1%pt_3,so@adv,thei@pron%pl_nom,,in-to@prep,a@indef_art,toun@n
 
 Wher as ther was swich congregacioun,||,Wheras° ther was swich congregacioun°
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,Wher,as,ther,was,swich,congregacioun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,u,S,u,S,u,SuSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,wher@adv&conj,as@conj,ther@adv,ben@v%pt_3,swich@gram_adj,congregacioun@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,Wheras,ther,was,swich,congregacioun
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,uS,u,S,u,SuSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,,10,,ther@adv,ben@v%pt_3,swich@gram_adj,congregacioun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,Wher,as,ther,was,swich,congregacioun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,u,S,u,S,u,SuSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,wher@adv&conj,as@conj,ther@adv,ben@v%pt_3,swich@gram_adj,congregacioun@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,Wheras,ther,was,swich,congregacioun
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,uS,u,S,u,SuSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2988,DIFF,green,10,wher-as@adv,ther@adv,ben@v%pt_3,swich@gram_adj,congregacioun@n
 
 "Of peple, and eek so streit of herbergage,",||,"Of peple, and eek so streit° of herbergage,°"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 2989,,,10,Of,peple,and,eek,so,streit,of,herbergage
@@ -1447,12 +1447,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3001,,,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,longe@adv,er@conj1,hit@pron,ben@v%pt_3,dai@n
 
 "This man mette in his bed, ther as he lay,",||,"This man mette in his bed, theras° he lay,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,This,man,mette,in,his,bed,ther,as,he,lay
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,u,S,ux,S,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,this@gram_adj,man@n,meten@v3%pt_3,in@prep,his@pron1%gen,bed@n1,ther@adv,as@conj,he@pron1%nom,lien@v1%pt_3
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,This,man,mette,in,his,bed,theras,he,lay
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,u,S,ux,S,u,S,uS,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,,10,this@gram_adj,man@n,meten@v3%pt_3,in@prep,his@pron1%gen,bed@n1,,he@pron1%nom,lien@v1%pt_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,This,man,mette,in,his,bed,ther,as,he,lay
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,u,S,ux,S,u,S,u,S,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,this@gram_adj,man@n,meten@v3%pt_3,in@prep,his@pron1%gen,bed@n1,ther@adv,as@conj,he@pron1%nom,lien@v1%pt_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,This,man,mette,in,his,bed,theras,he,lay
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,u,S,ux,S,u,S,uS,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3002,DIFF,green,10,this@gram_adj,man@n,meten@v3%pt_3,in@prep,his@pron1%gen,bed@n1,ther-as@adv,he@pron1%nom,lien@v1%pt_3
 
 "How that his felawe gan upon hym calle,",||,"How that his felaw gan upon him calle,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3003,,,10,How,that,his,felawe,gan,upon,hym,calle
@@ -1719,12 +1719,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3035,,,10,unto@prep,the@def_art,west@adj,gate@n1,of@prep,the@def_art,toun@n,and@conj,finden@v%pt_3
 
 "A dong-carte, wente as it were to donge lond,",||,"A dong-carte, as it were to donge° lond,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,A,dongcarte,wente,as,it,were,to,donge,lond
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,u,Sux,Sx,u,S,ux,S,ux,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,a@indef_art,dong-carte@n,wenden@v%pt_3,as@conj,hit@pron,ben@v%pt_3,to@part,dongen@v%inf,lond@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,A,dongcarte,as,it,were,to,donge,lond
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,u,Sux,S,u,Sx,u,Su,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,,10,a@indef_art,dong-carte@n,as@conj,hit@pron,ben@v%pt_3,to@part,dongen@v%inf,lond@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,A,dongcarte,wente,as,it,were,to,donge,lond
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,u,Sux,Sx,u,S,ux,S,ux,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,a@indef_art,dong-carte@n,wenden@v%pt_3,as@conj,hit@pron,ben@v%pt_3,to@part,dongen@v%inf,lond@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,A,dongcarte,as,it,were,to,donge,lond
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,u,Sux,S,u,Sx,u,Su,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3036,DIFF,green,10,a@indef_art,dong-carte@n,as@conj,hit@pron,ben@v%pt_3,to@part,dongen@v%inf,lond@n
 
 That was arrayed in that same wise,||,That was arrayed° in the same wise
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,That,was,arrayed,in,that,same,wise
@@ -1732,7 +1732,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,that@pron,ben@v%pt_3,arraien@v%ppl,in@prep,that@art&gram_adj,same@gram_adj,wise@n2
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,That,was,arrayed,in,the,same,wise
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,u,S,uSu,S,u,Su,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,that@pron,ben@v%pt_3,arraien@v%ppl,in@prep,,same@gram_adj,ben@v%pt_3
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3037,DIFF,,10,that@pron,ben@v%pt_3,arraien@v%ppl,in@prep,,same@gram_adj,wise@n2
 
 As ye han herd the dede man devyse.,||,As ye han herd the dede man devise;°
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3038,,,10,As,ye,han,herd,the,dede,man,devyse
@@ -2039,12 +2039,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3075,,,10,and@conj,casten@v%pt_pl,hem@pron%pl_obj,ful@adv,erli@adv,for@prep#adv,to@part,seilen@v%inf
 
 But herkneth! To that o man fil a greet mervaille:,||,¶“But to that oo man° fil° a greet mervaille.
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,0,But,herkneth,To,that,o,man,fil,a,greet,mervaille
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,0,,,,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,0,but@conj,herkenen@v%imp,to@prep,that@art&gram_adj,o@num_adj,man@n,fallen@v%pt_3,a@indef_art,gret@adj,merveille@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,10,But,to,that,oo,man,fil,a,greet,mervaille
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,,10,but@conj,to@prep,that@art&gram_adj,o@num_adj,man@n,fallen@v%pt_3,o@num_adj,gret@adj,merveille@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,0,But,herkneth,To,that,o,man,fil,a,greet,mervaille
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,0,,,,,,,,,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,0,but@conj,herkenen@v%imp,to@prep,that@art&gram_adj,o@num_adj,man@n,fallen@v%pt_3,a@indef_art,gret@adj,merveille@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,10,But,to,that,oo,man,fil,a,greet,mervaille
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,10,u,S,u,S,u,S,u,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3076,DIFF,green,10,but@conj,to@prep,that@art&gram_adj,o@num_adj,man@n,fallen@v%pt_3,a@indef_art,gret@adj,merveille@n
 
 "That oon of hem, in slepyng as he lay,",||,"That oon of hem, in sleping as he lay,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3077,,,10,That,oon,of,hem,in,slepyng,as,he,lay
@@ -2479,12 +2479,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3130,,,10,reden@v1%imp,ek@adv,of@prep,joseph@n1#propn,and@conj,ther@adv,shulen@v1%pr_pl,ye@pron%pl_nom,sen@v1%inf
 
 Wher dremes be somtyme -- I sey nat alle --,||,Wher° dremes ben somtime (I sey nat alle)
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,Wher,dremes,be,somtyme,I,sey,nat,alle
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,u,Su,S,uSx,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,whether@conj,drem@n2%pl,ben@v%pr_pl,som-time@adv,--@dash,ich@pron%nom,seien@v1%pr_1,not@adv,al@gram_adjas_n,--@dash
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,Wher,dremes,ben,somtime,I,sey,nat,alle
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,u,Su,S,uSx,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,DIFF,,10,whether@conj,drem@n2%pl,ben@v%pr_pl,som-time@adv,--@dash,ich@pron%nom,seien@v1%pr_1,not@adv
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,Wher,dremes,be,somtyme,I,sey,nat,alle
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,u,Su,S,uSx,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,whether@conj,drem@n2%pl,ben@v%pr_pl,som-time@adv,--@dash,ich@pron%nom,seien@v1%pr_1,not@adv,al@gram_adjas_n,--@dash
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,Wher,dremes,ben,somtime,I,sey,nat,alle
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,u,Su,S,uSx,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3131,,,10,whether@conj,drem@n2%pl,ben@v%pr_pl,som-time@adv,--@dash,ich@pron%nom,seien@v1%pr_1,not@adv,al@gram_adjas_n,--@dash
 
 Warnynge of thynges that shul after falle.,||,Warning of thinges that shul after falle.
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3132,,,10,Warnynge,of,thynges,that,shul,after,falle
@@ -2735,12 +2735,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3162,,,10,hit@pron,maken@v1%pr_3,al@gram_adj,min@pron%gen,drede@n,for@prep#adv,to@part,dien@v%inf
 
 "For al so siker as In principio,",||,"For, also siker° as In principio,°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,For,al,so,siker,as,In,principio
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,u,S,u,Sx,u,S,uSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,for@conj,al@adv,so@adv,siker@adv,as@conj,in@lat_prep,principio@lat_n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,For,also,siker,as,In,principio
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,u,Su,Sx,u,S,uSuS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,,10,for@conj,,siker@adv,so@adv,in@lat_prep,principio@lat_n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,For,al,so,siker,as,In,principio
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,u,S,u,Sx,u,S,uSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,for@conj,al@adv,so@adv,siker@adv,as@conj,in@lat_prep,principio@lat_n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,For,also,siker,as,In,principio
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,u,Su,Sx,u,S,uSuS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3163,DIFF,green,10,for@conj,as@conj,siker@adv,so@adv,in@lat_prep,principio@lat_n
 
 Mulier est hominis confusio --,||,Mulier est hominis confusio;°
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3164,,,0,Mulier,est,hominis,confusio
@@ -2780,7 +2780,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3168,DIFF,,10,al@conj,ben@v%pr_3,hit@pron,that@conj,ich@pron%nom,mouen@v3%pr_1,not@adv,on@prep,you@pron%pl_obj,riden@v%inf
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3168,DIFF,,9,Albeit,that,I,may,nat,on,you,ride
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3168,DIFF,,9,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3168,DIFF,,9,,that@conj,ich@pron%nom,mouen@v3%pr_1,not@adv,on@prep,ich@pron%nom,riden@v%inf
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3168,DIFF,,9,,that@conj,ich@pron%nom,mouen@v3%pr_1,not@adv,on@prep,you@pron%pl_obj,riden@v%inf
 
 "For that oure perche is maad so narwe, allas --",||,"For that° our perche is maad so narwe, alas!"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3169,,,10,For,that,oure,perche,is,maad,so,narwe,allas
@@ -2879,12 +2879,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3180,,,10,and@conj,on@prep,his@pron1%gen,to@n%pl,he@pron1%nom,romen@v%pr_3,up@adv,and@conj,doun@adv
 
 Hym deigned nat to sette his foot to grounde.,||,Him deined not to sette his foot to grounde.
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,Hym,deigned,nat,to,sette,his,foot,to,grounde
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,u,Su,S,u,Sx,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,him@pron%obj,deinen@v1%pt_3,not@adv,to@part,setten@v%inf,his@pron1%gen,fot@n,to@prep,ground@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,Him,deined,not,to,sette,his,foot,to,grounde
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,u,Su,S,u,Sx,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,,10,him@pron%obj,,not@adv,to@part,setten@v%inf,his@pron1%gen,fot@n,to@part,ground@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,Hym,deigned,nat,to,sette,his,foot,to,grounde
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,u,Su,S,u,Sx,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,him@pron%obj,deinen@v1%pt_3,not@adv,to@part,setten@v%inf,his@pron1%gen,fot@n,to@prep,ground@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,Him,deined,not,to,sette,his,foot,to,grounde
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,u,Su,S,u,Sx,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3181,DIFF,green,10,him@pron%obj,deinen@v1%ppl,not@adv,to@part,setten@v%inf,his@pron1%gen,fot@n,to@prep,ground@n
 
 "He chukketh whan he hath a corn yfounde,",||,"He chukketh,° whan he hath a corn yfounde,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3182,,,10,He,chukketh,whan,he,hath,a,corn,yfounde
@@ -2956,7 +2956,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3190,DIFF,,10,sin@conj,marche@n1,ben@v%pt_3,gon@v%ppl,thriti@num_adj,dai@n%pl,and@conj,two@num_adj
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3190,DIFF,,10,Sin,March,bigan,twey,monthes,and,dayes,two
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3190,DIFF,,10,u,S,uS,u,Sx,u,Su,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3190,DIFF,,10,sin@conj,marche@n1,,two@num_adj,,and@conj,dai@n%pl,two@num_adj
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3190,DIFF,,10,sin@conj,marche@n1,,two@num_adj,,and@conj,dai@n%pl,
 
 "Bifel that Chauntecleer in al his pryde,",||,"Bifel that Chauntecleer, in al his pride,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3191,,,10,Bifel,that,Chauntecleer,in,al,his,pryde
@@ -3415,12 +3415,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3247,,,10,to@part,don@v1%inf,that@art&gram_adj,same@gram_adj,thing@n,or@conj,don@v1%inf,hit@pron,nought@adv
 
 Though God forwoot it er that I was wroght;,||,"Though God forwoot° it, er that it was wroght;°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,Though,God,forwoot,it,er,that,I,was,wroght
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,u,S,uS,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,though@conj,god@n1#propn,fore-witen@v%pt_3,hit@pron,er@conj1,that@part,ich@pron%nom,ben@v%pt_1,werken@v%ppl
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,Though,God,forwoot,it,er,that,it,was,wroght
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,u,S,uS,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,,10,though@conj,god@n1#propn,fore-witen@v%pt_3,hit@pron,er@conj1,that@part,hit@pron,ben@v%pt_1,werken@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,Though,God,forwoot,it,er,that,I,was,wroght
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,u,S,uS,u,S,u,S,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,though@conj,god@n1#propn,fore-witen@v%pt_3,hit@pron,er@conj1,that@part,ich@pron%nom,ben@v%pt_1,werken@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,Though,God,forwoot,it,er,that,it,was,wroght
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,u,S,uS,u,S,u,S,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3248,DIFF,green,10,though@conj,god@n1#propn,fore-witen@v%pt_3,hit@pron,er@conj1,that@part,hit@pron,ben@v%pt_1,werken@v%ppl
 
 Or if his wityng streyneth never a deel,||,Or if his witing streineth° nevere a del°
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3249,,,10,Or,if,his,wityng,streyneth,never,a,deel
@@ -3471,12 +3471,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3254,,,10,to@part,walken@v1%inf,in@prep,the@def_art,yerd@n,upon@prep,that@art&gram_adj,morwe@n
 
 That he hadde met that dreem that I yow tolde.,||,"That he had met° the dreem, that I yow tolde."
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,That,he,hadde,met,that,dreem,that,I,yow,tolde
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,u,S,ux,S,u,S,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,that@pron,he@pron1%nom,haven@v%pt_3,meten@v3%ppl,that@art&gram_adj,drem@n2,that@pron,ich@pron%nom,you@pron%pl_obj,tellen@v%pt_1
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,That,he,had,met,the,dreem,that,I,yow,tolde
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,,10,that@pron,he@pron1%nom,haven@v%pt_3,meten@v3%ppl,,drem@n2,that@pron,ich@pron%nom,ich@pron%nom,tellen@v%pt_1
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,That,he,hadde,met,that,dreem,that,I,yow,tolde
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,u,S,ux,S,u,S,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,that@pron,he@pron1%nom,haven@v%pt_3,meten@v3%ppl,that@art&gram_adj,drem@n2,that@pron,ich@pron%nom,you@pron%pl_obj,tellen@v%pt_1
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,That,he,had,met,the,dreem,that,I,yow,tolde
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,u,S,u,S,u,S,u,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3255,DIFF,green,10,that@pron,he@pron1%nom,haven@v%pt_3,meten@v3%ppl,ich@pron%nom,drem@n2,that@art&gram_adj,ich@pron%nom,you@pron%pl_obj,tellen@v%pt_1
 
 Wommennes conseils been ful ofte colde;,||,Wommennes counseils been ful ofte colde;°
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3256,,,10,Wommennes,conseils,been,ful,ofte,colde
@@ -3503,12 +3503,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3258,,,10,and@conj,maken@v1%pt_3,adam@n1#propn,from@prep,paradise@n,to@part,gon@v%inf
 
 Ther as he was ful myrie and wel at ese.,||,"Theras° he was ful mery, and wel at ese.°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,Ther,as,he,was,ful,myrie,and,wel,at,ese
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,u,S,u,S,u,Su,S,u,S,xx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,ther@adv,as@conj,he@pron1%nom,ben@v%pt_3,ful@adv,mirie@adj,and@conj,wel@adv,at@prep,ese@n
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,Theras,he,was,ful,mery,and,wel,at,ese
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,uS,u,S,u,Su,S,u,S,xx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,,10,,he@pron1%nom,ben@v%pt_3,ful@adv,mirie@adj,and@conj,wel@adv,at@prep,as@conj
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,Ther,as,he,was,ful,myrie,and,wel,at,ese
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,u,S,u,S,u,Su,S,u,S,xx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,ther@adv,as@conj,he@pron1%nom,ben@v%pt_3,ful@adv,mirie@adj,and@conj,wel@adv,at@prep,ese@n
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,Theras,he,was,ful,mery,and,wel,at,ese
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,uS,u,S,u,Su,S,u,S,xx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3259,DIFF,green,10,ther-as@adv,he@pron1%nom,ben@v%pt_3,ful@adv,mirie@adj,and@conj,wel@adv,at@prep,as@conj
 
 "But for I noot to whom it myght displese,",||,"But for° I noot,° to whom it might displese,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3260,,,10,But,for,I,noot,to,whom,it,myght,displese
@@ -3759,12 +3759,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3290,,,10,ben@v%pt_3,onli@adv,for@prep#adv,to@part,herkenen@v%inf,hou@adv&conj,that@part,ye@pron%pl_nom,singen@v%pr_pl
 
 "For trewely, ye have as myrie a stevene",||,For trewely ye han as mery a stevene°
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,0,For,trewely,ye,have,as,myrie,a,stevene
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,0,,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,0,for@conj,treuli@adv,ye@pron%pl_nom,haven@v%pr_pl,as@conj,mirie@adj,a@indef_art,stevene@n1
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,10,For,trewely,ye,han,as,mery,a,stevene
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,10,u,SuS,u,S,u,Sx,u,Sxx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,DIFF,,10,for@conj,treuli@adv,ye@pron%pl_nom,haven@v%pr_pl,as@conj,mirie@adj,ye@pron%pl_nom,stevene@n1
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,0,For,trewely,ye,have,as,myrie,a,stevene
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,0,,,,,,,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,0,for@conj,treuli@adv,ye@pron%pl_nom,haven@v%pr_pl,as@conj,mirie@adj,a@indef_art,stevene@n1
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,10,For,trewely,ye,han,as,mery,a,stevene
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,10,u,SuS,u,S,u,Sx,u,Sxx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3291,,,10,for@conj,treuli@adv,ye@pron%pl_nom,haven@v%pr_pl,as@conj,mirie@adj,a@indef_art,stevene@n1
 
 As any aungel hath that is in hevene.,||,"As eny aungel hath, that is in hevene;"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3292,,,10,As,any,aungel,hath,that,is,in,hevene
@@ -4108,7 +4108,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3334,DIFF,,10,and@conj,daun@n#adj,russell@n#propn,the@def_art,fox@n,sterten@v%pt_3,up@adv,at_ones@adv
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3334,DIFF,,10,And,daun,Russel,the,fox,sterte,up,at,ones
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3334,DIFF,,10,u,S,uS,u,S,ux,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3334,DIFF,,10,and@conj,daun@n#adj,russell@n#propn,the@def_art,fox@n,sterten@v%pt_3,up@adv,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3334,DIFF,,10,and@conj,daun@n#adj,russell@n#propn,the@def_art,fox@n,sterten@v%pt_3,up@adv,at@prep,
 
 "And by the gargat hente Chauntecleer,",||,"And by the gargat° hente° Chauntecleer,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3335,,,10,And,by,the,gargat,hente,Chauntecleer
@@ -4231,12 +4231,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3349,,,10,with@prep,shot@n,compleinen@v%pt_2,his@pron1%gen,deth@n,so@adv,sore@adv
 
 "Why ne hadde I now thy sentence and thy loore,",||,"Why nadde I now° thy sentence° and thy lore,°"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,0,Why,ne,hadde,I,now,thy,sentence,and,thy,loore
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,0,,,,,,,,,,
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,0,whi@adv,ne@adv,haven@v%pt_1,ich@pron%nom,nou@adv,thin@pron%gen,sentence@n,and@conj,thin@pron%gen,lore@n2
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,10,Why,nadde,I,now,thy,sentence,and,thy,lore
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,10,u,Sx,u,S,u,Sux,S,u,Sx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,,10,whi@adv,and@conj,ich@pron%nom,ne@adv,thin@pron%gen,sentence@n,and@conj,thin@pron%gen,lore@n2
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,0,Why,ne,hadde,I,now,thy,sentence,and,thy,loore
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,0,,,,,,,,,,
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,0,whi@adv,ne@adv,haven@v%pt_1,ich@pron%nom,nou@adv,thin@pron%gen,sentence@n,and@conj,thin@pron%gen,lore@n2
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,10,Why,nadde,I,now,thy,sentence,and,thy,lore
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,10,u,Sx,u,S,u,Sux,S,u,Sx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3350,DIFF,green,10,whi@adv,and@conj,ich@pron%nom,ne@adv,thin@pron%gen,sentence@n,and@conj,thin@pron%gen,lore@n2
 
 "The Friday for to chide, as diden ye?",||,"The Friday for to chide,° as diden ye?"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3351,,,10,The,Friday,for,to,chide,as,diden,ye
@@ -4351,12 +4351,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3364,,,10,whan@adv&conj,that@part,hire@pron1%fem_gen,hous-bonde@n,haven@v%pt_3,losen@v2%ppl,his@pron1%gen,lif@n
 
 And that the Romayns hadde brend Cartage.,||,And that the Romains hadden brend° Cartage;
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,And,that,the,Romayns,hadde,brend,Cartage
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,u,S,u,Su,Su,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,and@conj,that@conj,the@def_art,romain@n%pl,haven@v%pt_pl,brennen@v%ppl,cartage@n1#propn
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,And,that,the,Romains,hadden,brend,Cartage
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,u,S,u,Su,Su,S,uSx
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,,10,and@conj,that@conj,the@def_art,romain@n%pl,,brennen@v%ppl,cartage@n1#propn
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,And,that,the,Romayns,hadde,brend,Cartage
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,u,S,u,Su,Su,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,and@conj,that@conj,the@def_art,romain@n%pl,haven@v%pt_pl,brennen@v%ppl,cartage@n1#propn
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,And,that,the,Romains,hadden,brend,Cartage
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,u,S,u,Su,Su,S,uSx
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3365,DIFF,green,10,and@conj,that@conj,the@def_art,romain@n%pl,haven@v%pt_pl,brennen@v%ppl,cartage@n1#propn
 
 She was so ful of torment and of rage,||,"She was so ful of torment and of rage,"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3366,,,10,She,was,so,ful,of,torment,and,of,rage
@@ -4775,12 +4775,12 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3417,,,10,and@conj,heighe@adv,upon@prep,a@indef_art,tre@n,he@pron1%nom,flien@v%pt_3,an-on@adv
 
 "And whan the fox saugh that the cok was gon,",||,"And whan the fox saugh that he was ygon,"
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,And,whan,the,fox,saugh,that,the,cok,was,gon
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,and@conj,whan@adv&conj,the@def_art,fox@n,sen@v1%pt_3,that@conj,the@def_art,cok@n1,ben@v%pt_3,gon@v%ppl
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,And,whan,the,fox,saugh,that,he,was,ygon
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,,10,and@conj,whan@adv&conj,the@def_art,fox@n,sen@v1%pt_3,that@conj,,ben@v%pt_3,gon@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,And,whan,the,fox,saugh,that,the,cok,was,gon
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,u,S,u,S,u,S,u,S,u,S
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,and@conj,whan@adv&conj,the@def_art,fox@n,sen@v1%pt_3,that@conj,the@def_art,cok@n1,ben@v%pt_3,gon@v%ppl
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,And,whan,the,fox,saugh,that,he,was,ygon
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,u,S,u,S,u,S,u,S,uS
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3418,DIFF,green,10,and@conj,whan@adv&conj,the@def_art,fox@n,sen@v1%pt_3,that@conj,he@pron1%nom,ben@v%pt_3,gon@v%ppl
 
 """Allas!"" quod he, ""O Chauntecleer, allas!",||,"“Allas!” quod he, “O Chauntecleer, allas!"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3419,,,10,Allas,quod,he,O,Chauntecleer,allas
@@ -4804,7 +4804,7 @@ data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,Th
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3421,DIFF,,10,in@prep,as@conj,muche@n,as@conj,ich@pron%nom,maken@v1%pt_1,you@pron%pl_obj,afered@ppl_abs
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3421,DIFF,,10,Inasmuche,as,I,maked,yow,aferd
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3421,DIFF,,10,uSux,S,u,Su,S,uS
-data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3421,DIFF,,10,,as@conj,ich@pron%nom,maken@v1%pt_1,ich@pron%nom,afered@ppl_abs
+data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3421,DIFF,,10,,as@conj,ich@pron%nom,maken@v1%pt_1,you@pron%pl_obj,afered@ppl_abs
 
 Whan I yow hente and broghte out of the yerd.,||,"Whan I yow hente,° and broghte out of the yerd;"
 data/riverside_cats/NPT_riv.cat,data/oxford_txts/NPT_oxford.txt,data/csvs/NPT,The Nun's Priest's Tale 3422,,,0,Whan,I,yow,hente,and,broghte,out,of,the,yerd

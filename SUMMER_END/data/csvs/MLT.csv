@@ -1,10 +1,10 @@
 In Surrye whilom dwelte a compaignye,||,In Surrie° whilom° dwelte a companie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,0,In,Surrye,whilom,dwelte,a,compaignye
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,0,,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,0,in@prep,sirie@n#propn,whilom@adv,dwellen@v%pt_3,a@indef_art,compaignie@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,10,In,Surrie,whilom,dwelte,a,companie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,10,u,Su,Su,Sx,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,DIFF,,10,in@prep,sirie@n#propn,whilom@adv,dwellen@v%pt_3,a@indef_art,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,0,In,Surrye,whilom,dwelte,a,compaignye
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,0,,,,,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,0,in@prep,sirie@n#propn,whilom@adv,dwellen@v%pt_3,a@indef_art,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,10,In,Surrie,whilom,dwelte,a,companie
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,10,u,Su,Su,Sx,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 134,,,10,in@prep,sirie@n#propn,whilom@adv,dwellen@v%pt_3,a@indef_art,compaignie@n
 
 "Of chapmen riche, and therto sadde and trewe,",||,"Of chapmen° riche, and therto sadde and trewe,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 135,,,10,Of,chapmen,riche,and,therto,sadde,and,trewe
@@ -127,12 +127,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 149,,,10,a@indef_art,certain@adj,time@n,as@conj,fallen@v%pt_3,to@prep,here@pron%pl_gen,plesaunce@n1
 
 And so bifel that th' excellent renoun,||,"And so bifel, that renoun"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,10,And,so,bifel,that,th,excellent,renoun
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,10,u,S,uS,u,,SuS,uS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,the@def_art,excellent@adj,renoun@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,0,And,so,bifel,that,renoun
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,0,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,,0,and@conj,so@adv,bifallen@v%pt_3,that@conj,renoun@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,10,And,so,bifel,that,th,excellent,renoun
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,10,u,S,uS,u,,SuS,uS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,10,and@conj,so@adv,bifallen@v%pt_3,that@conj,the@def_art,excellent@adj,renoun@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,0,And,so,bifel,that,renoun
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,0,,,,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 150,DIFF,green,0,and@conj,so@adv,bifallen@v%pt_3,that@conj,renoun@n
 
 "Of the Emperoures doghter, dame Custance,",||,"Of th’emperoures doghter, dame Custance,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 151,DIFF,,10,Of,the,Emperoures,doghter,dame,Custance
@@ -332,7 +332,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 175,DIFF,,10,and@conj,liven@v1%pr_pl,in@prep,wele@n1,ich@pron%nom,connen@v%pr_1,seien@v1%inf,you@pron%pl_obj,no_more@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 175,DIFF,,10,And,liven,in,wele,I,can,sey,yow,no,more
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 175,DIFF,,10,u,Sx,u,Sx,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 175,DIFF,,10,and@conj,liven@v1%pr_pl,in@prep,wele@n1,ich@pron%nom,connen@v%pr_1,seien@v1%inf,ich@pron%nom,in@prep,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 175,DIFF,,10,and@conj,liven@v1%pr_pl,in@prep,wele@n1,ich@pron%nom,connen@v%pr_1,seien@v1%inf,you@pron%pl_obj,,
 
 Now fil it that thise marchantz stode in grace,||,"Now fel it,° that thise marchants stode in grace"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 176,,,10,Now,fil,it,that,thise,marchantz,stode,in,grace
@@ -711,20 +711,20 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 222,,,10,thei@pron%pl_nom,trouen@v%pr_pl,that@conj,no@gram_adj,cristen@adj,prince@n,willen@v%pt_3,fain@adv
 
 Wedden his child under oure lawe sweete,||,Wedden his child under oure lawes swete°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,Wedden,his,child,under,oure,lawe,sweete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,uS,u,S,uS,ux,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,wedden@v%inf,his@pron1%gen,child@n,under@prep,oure@pron%pl_gen,laue@n,swete@adj
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,Wedden,his,child,under,oure,lawes,swete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,uS,u,S,uS,ux,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,,10,wedden@v%inf,his@pron1%gen,child@n,under@prep,oure@pron%pl_gen,,swete@adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,Wedden,his,child,under,oure,lawe,sweete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,uS,u,S,uS,ux,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,wedden@v%inf,his@pron1%gen,child@n,under@prep,oure@pron%pl_gen,laue@n,swete@adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,Wedden,his,child,under,oure,lawes,swete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,uS,u,S,uS,ux,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 223,DIFF,green,10,wedden@v%inf,his@pron1%gen,child@n,under@prep,oure@pron%pl_gen,laue@n%pl,swete@adj
 
 "That us was taught by Mahoun, oure prophete.""",||,That us were taught by Mahoun° our prophete.”
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,That,us,was,taught,by,Mahoun,oure,prophete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,u,S,u,S,u,Su,Sx,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,that@pron,us@pron%pl_obj,ben@v%pt_3,techen@v%ppl,bi@prep,mahoun@n#propn,oure@pron%pl_gen,prophete@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,That,us,were,taught,by,Mahoun,our,prophete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,u,S,ux,S,u,Su,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,,10,that@pron,us@pron%pl_obj,,techen@v%ppl,bi@prep,mahoun@n#propn,oure@pron%pl_gen,prophete@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,That,us,was,taught,by,Mahoun,oure,prophete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,u,S,u,S,u,Su,Sx,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,that@pron,us@pron%pl_obj,ben@v%pt_3,techen@v%ppl,bi@prep,mahoun@n#propn,oure@pron%pl_gen,prophete@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,That,us,were,taught,by,Mahoun,our,prophete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,u,S,ux,S,u,Su,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 224,DIFF,green,10,that@pron,us@pron%pl_obj,ben@v%pt_3,techen@v%ppl,bi@prep,mahoun@n#propn,oure@pron%pl_gen,prophete@n
 
 "And he answerde, ""Rather than I lese",||,"And he answerde, “Rather than I lese°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 225,,,10,And,he,answerde,Rather,than,I,lese
@@ -871,12 +871,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 242,,,10,and@conj,certain@adj,gold@n,ich@pron%nom,witen@v1%pr_1_neg,what@gram_adj,quantite@n
 
 And heer-to founden sufficient suretee.,||,And herto founden suffisant seurtee;°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,0,And,heerto,founden,sufficient,suretee
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,0,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,0,and@conj,her-to@adv,finden@v%ppl,sufficient@adj,seurte@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,10,And,herto,founden,suffisant,seurtee
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,10,u,Su,Su,SuS,uS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,,10,and@conj,her-to@adv,finden@v%ppl,,seurte@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,0,And,heerto,founden,sufficient,suretee
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,0,,,,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,0,and@conj,her-to@adv,finden@v%ppl,sufficient@adj,seurte@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,10,And,herto,founden,suffisant,seurtee
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,10,u,Su,Su,SuS,uS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 243,DIFF,green,10,and@conj,her-to@adv,finden@v%ppl,suffisaunt@adj,seurte@n
 
 This same accord was sworn on eyther syde;,||,This same acord was sworn on either side;
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 244,,,10,This,same,accord,was,sworn,on,eyther,syde
@@ -903,12 +903,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 246,,,10,nou@adv,willen@v%pt_pl,som@gram_adj,man@n%pl,waiten@v%inf,as@conj,ich@pron%nom,gessen@v%pr_1
 
 That I sholde tellen al the purveiance,||,That shulde I tellen al the purveiance°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,That,I,sholde,tellen,al,the,purveiance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,u,S,ux,Su,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,that@conj,ich@pron%nom,shulen@v1%pt_1,tellen@v%inf,al@gram_adj,the@def_art,purveiaunce@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,That,shulde,I,tellen,al,the,purveiance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,u,Sx,u,Su,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,,10,that@conj,shulen@v1%pt_1,ich@pron%nom,tellen@v%inf,al@gram_adj,the@def_art,purveiaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,That,I,sholde,tellen,al,the,purveiance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,u,S,ux,Su,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,that@conj,ich@pron%nom,shulen@v1%pt_1,tellen@v%inf,al@gram_adj,the@def_art,purveiaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,That,shulde,I,tellen,al,the,purveiance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,u,Sx,u,Su,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 247,DIFF,green,10,that@conj,shulen@v1%pt_1,ich@pron%nom,tellen@v%inf,al@gram_adj,the@def_art,purveiaunce@n
 
 "That th' Emperour, of his grete noblesse,",||,"That th’emperour, of his grete noblesse,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 248,DIFF,,9,That,th,Emperour,of,his,grete,noblesse
@@ -927,12 +927,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 249,,,10,haven@v%pr_3,shapen@v%ppl,for@prep,his@pron1%gen,doughter@n,dame@n#adj,custaunce@n#propn
 
 Wel may men knowen that so greet ordinance,||,Wel may men knowe that so gret ordinance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,Wel,may,men,knowen,that,so,greet,ordinance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,u,S,u,Sx,u,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,wel@adv,mouen@v3%pr_pl,man@n%pl,knouen@v%inf,that@conj,so@adv,gret@adj,ordinaunce@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,Wel,may,men,knowe,that,so,gret,ordinance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,u,S,u,Sx,u,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,,10,wel@adv,mouen@v3%pr_pl,man@n%pl,,that@conj,so@adv,gret@adj,ordinaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,Wel,may,men,knowen,that,so,greet,ordinance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,u,S,u,Sx,u,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,wel@adv,mouen@v3%pr_pl,man@n%pl,knouen@v%inf,that@conj,so@adv,gret@adj,ordinaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,Wel,may,men,knowe,that,so,gret,ordinance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,u,S,u,Sx,u,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 250,DIFF,green,10,wel@adv,mouen@v3%pr_pl,man@n%pl,knouen@v%inf,that@conj,so@adv,gret@adj,ordinaunce@n
 
 May no man tellen in a litel clause,||,May no man tellen in a litel clause°
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 251,,,10,May,no,man,tellen,in,a,litel,clause
@@ -967,12 +967,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 254,,,10,lord@n%pl,ladie@n%pl,knight@n%pl,of@prep,renoun@n
 
 And oother folk ynowe; this is th' ende;,||,"And other folk ynogh,° this is the ende;"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,And,oother,folk,ynowe,this,is,th,ende
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,u,Su,S,uSu,S,u,,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,and@conj,other@gram_adj,folk@n,inough@adj,this@pron,ben@v%pr_3,the@def_art,ende@n1
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,And,other,folk,ynogh,this,is,the,ende
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,u,Su,S,uS,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,,10,and@conj,other@gram_adj,folk@n,,this@pron,ben@v%pr_3,the@def_art,and@conj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,And,oother,folk,ynowe,this,is,th,ende
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,u,Su,S,uSu,S,u,,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,and@conj,other@gram_adj,folk@n,inough@adj,this@pron,ben@v%pr_3,the@def_art,ende@n1
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,And,other,folk,ynogh,this,is,the,ende
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,u,Su,S,uS,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 255,DIFF,green,10,and@conj,other@gram_adj,folk@n,inough@adj,this@pron,ben@v%pr_3,the@def_art,ende@n1
 
 And notified is thurghout the toun,||,And notified° is thurghout the toun
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 256,,,10,And,notified,is,thurghout,the,toun
@@ -1247,12 +1247,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 289,,,10,er@conj1,ilion@n#propn,brennen@v%pt_3,at@prep,thebes@n#propn,the@def_art,cite@n
 
 "N' at Rome, for the harm thurgh Hanybal",||,"N’at° Rome, for the harm thurgh Hanibal"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,N,at,Rome,for,the,harm,thurgh,Hanybal
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,,u,Su,S,u,S,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,ne@conj1,at@prep,rome@n#propn,for@prep,the@def_art,harm@n,thurgh@prep,hanibal@n#propn
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,Nat,Rome,for,the,harm,thurgh,Hanibal
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,u,Su,S,u,S,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,,10,,rome@n#propn,for@prep,the@def_art,harm@n,thurgh@prep,hanibal@n#propn
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,N,at,Rome,for,the,harm,thurgh,Hanybal
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,,u,Su,S,u,S,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,ne@conj1,at@prep,rome@n#propn,for@prep,the@def_art,harm@n,thurgh@prep,hanibal@n#propn
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,Nat,Rome,for,the,harm,thurgh,Hanibal
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,u,Su,S,u,S,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 290,DIFF,green,10,not@adv,rome@n#propn,for@prep,the@def_art,harm@n,thurgh@prep,hanibal@n#propn
 
 "That Romayns hath venquysshed tymes thre,",||,"That Romains hath venquisshed times thre,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 291,,,10,That,Romayns,hath,venquysshed,tymes,thre
@@ -1439,12 +1439,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 313,,,0,nameli@adv,to@prep,folk@n,of@prep,heigh@adj,condicioun@n
 
 Noght whan a roote is of a burthe yknowe?,||,Nat whan a rote° is of a birthe yknowe?
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,Noght,whan,a,roote,is,of,a,burthe,yknowe
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,u,S,u,Sx,u,S,u,Sx,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,nought@adv,whan@adv&conj,a@indef_art,rote@n4,ben@v%pr_3,of@prep,a@indef_art,birthe@n,iknouen@v%ppl
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,Nat,whan,a,rote,is,of,a,birthe,yknowe
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,u,S,u,Sx,u,S,u,Sx,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,,10,,whan@adv&conj,a@indef_art,rote@n4,ben@v%pr_3,of@prep,a@indef_art,birthe@n,iknouen@v%ppl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,Noght,whan,a,roote,is,of,a,burthe,yknowe
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,nought@adv,whan@adv&conj,a@indef_art,rote@n4,ben@v%pr_3,of@prep,a@indef_art,birthe@n,iknouen@v%ppl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,Nat,whan,a,rote,is,of,a,birthe,yknowe
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 314,DIFF,green,10,not@adv,whan@adv&conj,a@indef_art,rote@n4,ben@v%pr_3,of@prep,a@indef_art,birthe@n,iknouen@v%ppl
 
 "Allas, we been to lewed or to slowe!",||,Allas! we ben to lewed° or to slowe.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 315,,,10,Allas,we,been,to,lewed,or,to,slowe
@@ -1471,12 +1471,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 317,,,10,solempneli@adv,with@prep,everi@pron_gram_adj,circumstaunce@n
 
 """Now Jhesu Crist be with yow alle!"" she sayde;",||,"“Now Jesu Crist be with yow all,” she saide;"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,Now,Jhesu,Crist,be,with,yow,alle,she,sayde
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,u,Su,S,u,S,u,Sx,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,nou@adv,jesu@n1#propn,crist@n#propn,ben@v%pr_3,with@prep,you@pron%pl_obj,al@gram_adj,she@pron%nom,seien@v1%pt_3
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,Now,Jesu,Crist,be,with,yow,all,she,saide
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,,10,nou@adv,,crist@n#propn,ben@v%pr_3,with@prep,you@pron%pl_obj,al@gram_adj,she@pron%nom,seien@v1%pt_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,Now,Jhesu,Crist,be,with,yow,alle,she,sayde
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,u,Su,S,u,S,u,Sx,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,nou@adv,jesu@n1#propn,crist@n#propn,ben@v%pr_3,with@prep,you@pron%pl_obj,al@gram_adj,she@pron%nom,seien@v1%pt_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,Now,Jesu,Crist,be,with,yow,all,she,saide
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,u,Su,S,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 318,DIFF,green,10,nou@adv,jesu@n1#propn,crist@n#propn,ben@v%pr_3,with@prep,you@pron%pl_obj,al@gram_adj,she@pron%nom,seien@v1%pt_3
 
 "Ther nys namoore, but ""Farewel, faire Custance!""",||,Ther nis namore° but “farewel! fair Custance!”
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 319,,,0,Ther,nys,namoore,but,Farewel,faire,Custance
@@ -2031,12 +2031,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 387,,,10,in@prep,sirie@n#propn,with@prep,a@indef_art,gret@adj,solempne@adj,route@n1
 
 And hastifliche this Sowdan sente his sonde,||,"And hastily this Sowdan sente his sonde,°"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,And,hastifliche,this,Sowdan,sente,his,sonde
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,u,SuSx,u,Su,Sx,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,and@conj,hastiflie@adv,this@gram_adj,soudan@n,senden@v2%pt_3,his@pron1%gen,sonde@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,And,hastily,this,Sowdan,sente,his,sonde
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,u,SuS,u,Su,Sx,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,,10,and@conj,,this@gram_adj,soudan@n,senden@v2%pt_3,his@pron1%gen,sonde@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,And,hastifliche,this,Sowdan,sente,his,sonde
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,u,SuSx,u,Su,Sx,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,and@conj,hastiflie@adv,this@gram_adj,soudan@n,senden@v2%pt_3,his@pron1%gen,sonde@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,And,hastily,this,Sowdan,sente,his,sonde
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,u,SuS,u,Su,Sx,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 388,DIFF,green,10,and@conj,hastilie@adv,this@gram_adj,soudan@n,senden@v2%pt_3,his@pron1%gen,sonde@n
 
 "First to his mooder, and al the regne aboute,",||,"First to his moder, and al the regne aboute,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 389,,,10,First,to,his,mooder,and,al,the,regne,aboute
@@ -2604,7 +2604,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 459,DIFF,,10,the@def_art,whit@adj,lomb@n,that@pron,hurten@v%ppl,ben@v%pt_3,with@prep,a@indef_art,spere@n1
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 459,DIFF,,10,The,white,lamb,that,hurt,was,with,the,spere
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 459,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 459,DIFF,,10,the@def_art,whit@adj,lomb@n,that@pron,hurten@v%ppl,ben@v%pt_3,with@prep,the@def_art,spere@n1
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 459,DIFF,,10,the@def_art,whit@adj,lomb@n,that@pron,hurten@v%ppl,ben@v%pt_3,with@prep,,spere@n1
 
 Flemere of feendes out of hym and here,||,Flemere of feendes° out of him and here
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 460,,,10,Flemere,of,feendes,out,of,hym,and,here
@@ -2628,7 +2628,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 462,DIFF,,10,me@pron2%obj,kepen@v%imp,and@conj,yeven@v%imp,me@pron2%obj,might@n,min@pron%gen,lif@n,to@part,amenden@v%inf
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 462,DIFF,,10,Me,keep,and,yif,me,might,my,lif,tamenden
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 462,DIFF,,10,x,u,S,u,S,u,S,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 462,DIFF,,10,me@pron2%obj,kepen@v%imp,and@conj,yeven@v%imp,me@pron2%obj,might@n,me@pron2%obj,lif@n,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 462,DIFF,,10,me@pron2%obj,kepen@v%imp,and@conj,yeven@v%imp,me@pron2%obj,might@n,min@pron%gen,lif@n,
 
 Yeres and dayes fleet this creature,||,Yeres and dayes fleet° this creature
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 463,,,10,Yeres,and,dayes,fleet,this,creature
@@ -2791,12 +2791,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 482,,,10,to@prep,man@n%gen,wit@n,that@pron,for@prep,oure@pron%pl_gen,ignoraunce@n
 
 Ne konne noght knowe his prudent purveiance.,||,Ne con not knowe his prudent purveiance.°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,Ne,konne,noght,knowe,his,prudent,purveiance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,u,Sx,u,Sx,u,Su,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,ne@adv,connen@v%pr_3,nought@adv,knouen@v%inf,his@pron1%gen,prudent@adj,purveiaunce@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,Ne,con,not,knowe,his,prudent,purveiance
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,u,S,u,Sx,u,Su,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,,10,ne@adv,connen@v%pr_3,,connen@v%pr_3,his@pron1%gen,prudent@adj,purveiaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,Ne,konne,noght,knowe,his,prudent,purveiance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,u,Sx,u,Sx,u,Su,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,ne@adv,connen@v%pr_3,nought@adv,knouen@v%inf,his@pron1%gen,prudent@adj,purveiaunce@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,Ne,con,not,knowe,his,prudent,purveiance
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,u,S,u,Sx,u,Su,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 483,DIFF,green,10,ne@adv,connen@v%pr_3,not@adv,knouen@v%inf,his@pron1%gen,prudent@adj,purveiaunce@n
 
 "Now sith she was nat at the feeste yslawe,",||,"Now, sith° she was not at the feste yslawe,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 484,,,10,Now,sith,she,was,nat,at,the,feeste,yslawe
@@ -2839,12 +2839,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 488,,,10,wel@adv,mouen@v3%pr_pl,man@n%pl,knouen@v%inf,hit@pron,ben@v%pt_3,no@gram_adj,wight@n,but@conj,he@pron1%nom
 
 "That kepte peple Ebrayk from hir drenchynge,",||,"That kepte peple Ebraik° fro hir drenchinge,°"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,That,kepte,peple,Ebrayk,from,hir,drenchynge
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,u,Su,Sx,uS,u,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,that@pron,kepen@v%pt_3,peple@n,ebraik@adj,from@prep,here@pron%pl_gen,drenchinge@ger
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,That,kepte,peple,Ebraik,fro,hir,drenchinge
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,u,Su,Sx,uS,u,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,DIFF,,10,that@pron,kepen@v%pt_3,peple@n,ebraik@adj,from@prep,here@pron%pl_gen,drenchinge@ger
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,That,kepte,peple,Ebrayk,from,hir,drenchynge
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,u,Su,Sx,uS,u,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,that@pron,kepen@v%pt_3,peple@n,ebraik@adj,from@prep,here@pron%pl_gen,drenchinge@ger
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,That,kepte,peple,Ebraik,fro,hir,drenchinge
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,u,Su,Sx,uS,u,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 489,,,10,that@pron,kepen@v%pt_3,peple@n,ebraik@adj,from@prep,here@pron%pl_gen,drenchinge@ger
 
 With drye feet thurghout the see passynge.,||,With drye feet thurghout the see° passinge.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 490,,,9,With,drye,feet,thurghout,the,see,passynge
@@ -3175,12 +3175,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 530,,,10,she@pron%nom,ben@v%pt_3,so@adv,diligent@adj,withouten@prep,slouthe@n
 
 To serve and plesen everich in that place,||,"To serve and plese everich in that place,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,To,serve,and,plesen,everich,in,that,place
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,u,Sx,u,Su,Sxu,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,to@part,serven@v1%inf,and@conj,plesen@v%inf,everi@pron,in@prep,that@art&gram_adj,place@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,To,serve,and,plese,everich,in,that,place
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,u,Sx,u,Sx,uSu,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,,10,to@part,serven@v1%inf,and@conj,,everi@pron,in@prep,that@art&gram_adj,place@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,To,serve,and,plesen,everich,in,that,place
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,u,Sx,u,Su,Sxu,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,to@part,serven@v1%inf,and@conj,plesen@v%inf,everi@pron,in@prep,that@art&gram_adj,place@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,To,serve,and,plese,everich,in,that,place
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,u,Sx,u,Sx,uSu,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 531,DIFF,green,10,to@part,serven@v1%inf,and@conj,plesen@v%inf,everi@pron,in@prep,that@art&gram_adj,place@n
 
 That alle hir loven that looken in hir face.,||,That alle hir loven that loken on hir face.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 532,,,10,That,alle,hir,loven,that,looken,in,hir,face
@@ -3204,7 +3204,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 534,DIFF,,10,ben@v%pt_pl,paien@n%pl,and@conj,that@art&gram_adj,contree@n,everiwhere@adv
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 534,DIFF,,10,Were,payens,and,that,contree,every,where
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 534,DIFF,,10,ux,Su,S,u,Su,SuS,xx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 534,DIFF,,10,ben@v%pt_pl,paien@n%pl,and@conj,that@art&gram_adj,contree@n,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 534,DIFF,,10,ben@v%pt_pl,paien@n%pl,and@conj,that@art&gram_adj,contree@n,everi@pron_gram_adj,
 
 "But Hermengyld loved hire right as hir lyf,",||,"But Hermengild lovede hir right as hir° lif,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 535,,,10,But,Hermengyld,loved,hire,right,as,hir,lyf
@@ -3231,12 +3231,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 537,,,10,in@prep,orisoun@n%pl,with@prep,mani@gram_adj,a@indef_art,bitter@adj,tere@n
 
 Til Jhesu hath converted thurgh his grace,||,Til Jesu hath converted thurgh his grace
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,Til,Jhesu,hath,converted,thurgh,his,grace
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,u,Su,S,uSu,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,til@conj,jesu@n1#propn,haven@v%pr_3,converten@v%ppl,thurgh@prep,his@pron1%gen,grace@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,Til,Jesu,hath,converted,thurgh,his,grace
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,u,Su,S,uSu,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,,10,til@conj,,haven@v%pr_3,converten@v%ppl,thurgh@prep,his@pron1%gen,grace@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,Til,Jhesu,hath,converted,thurgh,his,grace
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,u,Su,S,uSu,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,til@conj,jesu@n1#propn,haven@v%pr_3,converten@v%ppl,thurgh@prep,his@pron1%gen,grace@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,Til,Jesu,hath,converted,thurgh,his,grace
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,u,Su,S,uSu,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 538,DIFF,green,10,til@conj,jesu@n1#propn,haven@v%pr_3,converten@v%ppl,thurgh@prep,his@pron1%gen,grace@n
 
 "Dame Hermengyld, constablesse of that place.",||,"Dame Hermengild, constablesse of that place."
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 539,,,10,Dame,Hermengyld,constablesse,of,that,place
@@ -3327,12 +3327,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 549,,,10,honouren@v%pt_pl,crist@n#propn,and@conj,hethen@adj,folk@n,bigilen@v%pt_pl
 
 And ny the castel swiche ther dwelten three.,||,And ny° the castel swich° ther dwelten three.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,And,ny,the,castel,swiche,ther,dwelten,three
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,u,S,u,Su,Sx,u,Su,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,and@conj,neigh@prep,the@def_art,castel@n,swich@gram_adj,ther@adv,dwellen@v%pt_pl,thre@num_n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,And,ny,the,castel,swich,ther,dwelten,three
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,u,S,u,Su,S,u,Su,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,,,10,and@conj,neigh@prep,the@def_art,castel@n,swich@gram_adj,ther@adv,dwellen@v%pt_pl,thre@num_n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,And,ny,the,castel,swiche,ther,dwelten,three
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,u,S,u,Su,Sx,u,Su,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,and@conj,neigh@prep,the@def_art,castel@n,swich@gram_adj,ther@adv,dwellen@v%pt_pl,thre@num_n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,And,ny,the,castel,swich,ther,dwelten,three
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,u,S,u,Su,S,u,Su,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 550,DIFF,green,10,and@conj,neigh@prep,the@def_art,castel@n,swich@gram_adj,ther@adv,dwellen@v%pt_pl,thre@num_n
 
 "That oon of hem was blynd and myghte nat see,",||,"That oon of hem was blind, and mighte nat see"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 551,,,10,That,oon,of,hem,was,blynd,and,myghte,nat,see
@@ -3447,12 +3447,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 564,,,10,leste@conj,that@part,hire@pron1%fem_gen,hous-bonde@n,shortli@adv,for@prep#adv,to@part,seien@v1%inf
 
 "Wolde hire for Jhesu Cristes love han slayn,",||,"Wolde hir for Jesu Cristes love han slain,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,Wolde,hire,for,Jhesu,Cristes,love,han,slayn
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,ux,Sx,u,Su,Su,Sx,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,willen@v%pt_3,hire@pron2%fem_obj,for@prep,jesu@n1#propn,crist@n#propn%gen,love@n1,haven@v%inf,slen@v%ppl
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,Wolde,hir,for,Jesu,Cristes,love,han,slain
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,ux,S,u,Su,Su,Sx,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,,10,willen@v%pt_3,hire@pron2%fem_obj,for@prep,,crist@n#propn%gen,love@n1,haven@v%inf,slen@v%ppl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,Wolde,hire,for,Jhesu,Cristes,love,han,slayn
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,ux,Sx,u,Su,Su,Sx,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,willen@v%pt_3,hire@pron2%fem_obj,for@prep,jesu@n1#propn,crist@n#propn%gen,love@n1,haven@v%inf,slen@v%ppl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,Wolde,hir,for,Jesu,Cristes,love,han,slain
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,ux,S,u,Su,Su,Sx,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 565,DIFF,green,10,willen@v%pt_3,hire@pron2%fem_obj,for@prep,jesu@n1#propn,crist@n#propn%gen,love@n1,haven@v%inf,slen@v%ppl
 
 "Til Custance made hire boold, and bad hire wirche",||,"Til Custance made hir bold, and bad° hir werche"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 566,,,10,Til,Custance,made,hire,boold,and,bad,hire,wirche
@@ -3511,12 +3511,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 572,,,10,and@conj,so@adv,fer-forth@adv,she@pron%nom,ginnen@v%pt_3,oure@pron%pl_gen,lei@n,declaren@v%inf
 
 "That she the constable, er that it was eve",||,"That she the constable, er° that it were eve,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,That,she,the,constable,er,that,it,was,eve
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,u,x,S,uSu,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,that@conj,she@pron%nom,the@def_art,constable@n,er@conj1,that@part,hit@pron,ben@v%pt_3,even@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,That,she,the,constable,er,that,it,were,eve
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,u,x,S,uSx,u,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,,10,that@conj,she@pron%nom,the@def_art,constable@n,er@conj1,that@conj,hit@pron,,even@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,That,she,the,constable,er,that,it,was,eve
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,u,x,S,uSu,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,that@conj,she@pron%nom,the@def_art,constable@n,er@conj1,that@part,hit@pron,ben@v%pt_3,even@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,That,she,the,constable,er,that,it,were,eve
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,u,x,S,uSx,u,S,u,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 573,DIFF,green,10,that@conj,she@pron%nom,the@def_art,constable@n,er@conj1,that@part,hit@pron,ben@v%pt_3,even@n
 
 "Converteth, and on Crist made hym bileve.",||,"Converted, and on Crist made him bileve."
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 574,DIFF,,10,Converteth,and,on,Crist,made,hym,bileve
@@ -3532,7 +3532,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 575,DIFF,,10,this@gram_adj,constable@n,ben@v%pt_3,no-thing@adv,lord@n,of@prep,this@gram_adj,place@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 575,DIFF,,10,This,constable,was,no,thing,lord,of,this,place
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 575,DIFF,,10,u,Sux,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 575,DIFF,,10,this@gram_adj,constable@n,ben@v%pt_3,,,lord@n,of@prep,this@gram_adj,place@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 575,DIFF,,10,this@gram_adj,constable@n,ben@v%pt_3,,thing@n,lord@n,of@prep,this@gram_adj,place@n
 
 "Of which I speke, ther he Custance fond,",||,"Of which I speke, ther he Custance fond,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 576,,,10,Of,which,I,speke,ther,he,Custance,fond
@@ -3543,12 +3543,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 576,,,10,of@prep,which@pron,ich@pron%nom,speken@v%pr_1,ther@adv,he@pron1%nom,custaunce@n#propn,finden@v%pt_3
 
 But kepte it strongly many a wyntres space,||,"But kepte it strongly, many wintres space,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,But,kepte,it,strongly,many,a,wyntres,space
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,u,Sx,u,Su,Su,S,ux,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,but@conj,kepen@v%pt_3,hit@pron,strongli@adv,mani@gram_adj,a@indef_art,winter@n%gen,space@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,But,kepte,it,strongly,many,wintres,space
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,u,Sx,u,Su,Su,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,,10,but@conj,kepen@v%pt_3,hit@pron,strongli@adv,mani@gram_adj,winter@n%gen,space@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,But,kepte,it,strongly,many,a,wyntres,space
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,u,Sx,u,Su,Su,S,ux,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,but@conj,kepen@v%pt_3,hit@pron,strongli@adv,mani@gram_adj,a@indef_art,winter@n%gen,space@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,But,kepte,it,strongly,many,wintres,space
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,u,Sx,u,Su,Su,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 577,DIFF,green,10,but@conj,kepen@v%pt_3,hit@pron,strongli@adv,mani@gram_adj,winter@n%gen,space@n
 
 "Under Alla, kyng of al Northhumbrelond,",||,"Under Alla, king of al Northumberlond,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 578,,,10,Under,Alla,kyng,of,al,Northhumbrelond
@@ -3911,12 +3911,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 622,,,10,amonges@prep,the@def_art,peple@n,and@conj,seien@v1%pr_pl,thei@pron%pl_nom,connen@v%pr_pl,not@adv,gessen@v%inf
 
 "That she had doon so greet a wikkednesse,",||,That she hath doon so greet a wikkednesse.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,That,she,had,doon,so,greet,a,wikkednesse
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,that@conj,she@pron%nom,haven@v%pt_3,don@v1%ppl,so@adv,gret@adj,a@indef_art,wikkednesse@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,That,she,hath,doon,so,greet,a,wikkednesse
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,,10,that@conj,she@pron%nom,,don@v1%ppl,so@adv,gret@adj,a@indef_art,wikkednesse@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,That,she,had,doon,so,greet,a,wikkednesse
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,u,S,u,S,u,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,that@conj,she@pron%nom,haven@v%pt_3,don@v1%ppl,so@adv,gret@adj,a@indef_art,wikkednesse@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,That,she,hath,doon,so,greet,a,wikkednesse
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,u,S,u,S,u,S,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 623,DIFF,green,10,that@conj,she@pron%nom,haven@v%pr_3,don@v1%ppl,so@adv,gret@adj,a@indef_art,wikkednesse@n
 
 "For they han seyn hire evere so vertuous,",||,"For they han seyn° hir ever so vertuous,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 624,,,10,For,they,han,seyn,hire,evere,so,vertuous
@@ -4079,12 +4079,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 643,,,10,if@conj,ich@pron%nom,ben@v%pr_1,giltles@adj,of@prep,this@gram_adj,felonie@n
 
 "My socour be, for ellis shal I dye!""",||,"My socour be, for elles° I shal die!”"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,My,socour,be,for,ellis,shal,I,dye
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,min@pron%gen,socour@n,ben@v%imp,for@conj,elles@adv,shulen@v1%pr_1,ich@pron%nom,dien@v%inf
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,My,socour,be,for,elles,I,shal,die
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,,10,min@pron%gen,socour@n,ben@v%imp,for@conj,elles@adv,ich@pron%nom,shulen@v1%pr_1,dien@v%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,My,socour,be,for,ellis,shal,I,dye
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,u,Su,S,u,Su,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,min@pron%gen,socour@n,ben@v%imp,for@conj,elles@adv,shulen@v1%pr_1,ich@pron%nom,dien@v%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,My,socour,be,for,elles,I,shal,die
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,u,Su,S,u,Su,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 644,DIFF,green,10,min@pron%gen,socour@n,ben@v%imp,for@conj,elles@adv,ich@pron%nom,shulen@v1%pr_1,dien@v%inf
 
 "Have ye nat seyn somtyme a pale face,",||,"Have ye nat seyn som time a pale face,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,Have,ye,nat,seyn,somtyme,a,pale,face
@@ -4092,7 +4092,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,haven@v%pr_pl,ye@pron%pl_nom,not@adv,sen@v1%ppl,som-time@adv,a@indef_art,pale@adj,face@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,Have,ye,nat,seyn,som,time,a,pale,face
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,ux,S,u,S,u,Sx,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,haven@v%pr_pl,ye@pron%pl_nom,not@adv,sen@v1%ppl,,,ye@pron%pl_nom,pale@adj,face@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 645,DIFF,,10,haven@v%pr_pl,ye@pron%pl_nom,not@adv,sen@v1%ppl,,time@n,a@indef_art,pale@adj,face@n
 
 "Among a prees, of hym that hath be lad",||,"Among a prees,° of him that hath be lad°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 646,,,10,Among,a,prees,of,hym,that,hath,be,lad
@@ -4103,12 +4103,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 646,,,10,amonges@prep,a@indef_art,presse@n,of@prep,him@pron%obj,that@pron,haven@v%pr_3,ben@v%ppl,leden@v1%ppl
 
 "Toward his deeth, wher as hym gat no grace,",||,"Toward his deeth, wheras him gat° no grace,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,Toward,his,deeth,wher,as,hym,gat,no,grace
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,uS,u,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,towarde@prep,his@pron1%gen,deth@n,wher@adv&conj,as@conj,him@pron%obj,geten@v1%pt_3,no@gram_adj,grace@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,Toward,his,deeth,wheras,him,gat,no,grace
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,uS,u,S,uS,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,,10,towarde@prep,his@pron1%gen,deth@n,,him@pron%obj,geten@v1%pt_3,no@gram_adj,grace@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,Toward,his,deeth,wher,as,hym,gat,no,grace
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,uS,u,S,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,towarde@prep,his@pron1%gen,deth@n,wher@adv&conj,as@conj,him@pron%obj,geten@v1%pt_3,no@gram_adj,grace@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,Toward,his,deeth,wheras,him,gat,no,grace
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,uS,u,S,uS,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 647,DIFF,green,10,towarde@prep,his@pron1%gen,deth@n,wher-as@adv,him@pron%obj,geten@v1%pt_3,no@gram_adj,grace@n
 
 And swich a colour in his face hath had,||,"And swich a colour in his face hath had,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 648,,,10,And,swich,a,colour,in,his,face,hath,had
@@ -4279,12 +4279,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 668,,,10,she@pron%nom,gilti@adj,ben@v%pt_3,and@conj,in@prep,the@def_art,mene@adj2,whil@n%pl
 
 "An hand hym smoot upon the nekke-boon,",||,"A hand him smoot° upon the nekke-boon,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,An,hand,hym,smoot,upon,the,nekkeboon
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,u,S,u,S,uS,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,a@indef_art,honde@n,him@pron%obj,smiten@v%pt_3,upon@prep,the@def_art,nekke-bon@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,A,hand,him,smoot,upon,the,nekkeboon
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,u,S,u,S,uS,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,,10,,honde@n,him@pron%obj,smiten@v%pt_3,upon@prep,the@def_art,nekke-bon@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,An,hand,hym,smoot,upon,the,nekkeboon
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,u,S,u,S,uS,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,a@indef_art,honde@n,him@pron%obj,smiten@v%pt_3,upon@prep,the@def_art,nekke-bon@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,A,hand,him,smoot,upon,the,nekkeboon
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,u,S,u,S,uS,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 669,DIFF,green,10,a@indef_art,honde@n,him@pron%obj,smiten@v%pt_3,upon@prep,the@def_art,nekke-bon@n
 
 "That doun he fil atones as a stoon,",||,"That doun he fil atones° as a stoon,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 670,,,10,That,doun,he,fil,atones,as,a,stoon
@@ -4327,12 +4327,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 674,,,10,and@conj,seien@v1%pt_3,thou@pron%nom,haven@v%pr_2,disclaundren@v%ppl,giltles@adv
 
 The doghter of hooly chirche in heigh presence;,||,The doghter of holy chirche in hie presence;°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,The,doghter,of,hooly,chirche,in,heigh,presence
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,u,Su,S,uS,ux,S,u,xSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,the@def_art,doughter@n,of@prep,holi@adj2,chirche@n,in@prep,heigh@adj,presence@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,The,doghter,of,holy,chirche,in,hie,presence
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,u,Su,S,uS,ux,S,u,xSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,,10,the@def_art,doughter@n,of@prep,holi@adj2,chirche@n,in@prep,,presence@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,The,doghter,of,hooly,chirche,in,heigh,presence
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,u,Su,S,uS,ux,S,u,xSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,the@def_art,doughter@n,of@prep,holi@adj2,chirche@n,in@prep,heigh@adj,presence@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,The,doghter,of,holy,chirche,in,hie,presence
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,u,Su,S,uS,ux,S,u,xSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 675,DIFF,green,10,the@def_art,doughter@n,of@prep,holi@adj2,chirche@n,in@prep,heigh@adj,presence@n
 
 "Thus hastou doon, and yet holde I my pees!""",||,"Thus hastou doon, and yet holde I my pees.”"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 676,,,10,Thus,hastou,doon,and,yet,holde,I,my,pees
@@ -4492,7 +4492,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 695,DIFF,,0,of@prep,this@gram_adj,weddinge@ger,but@conj,donegild@n#propn,and@conj,no_mo@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 695,DIFF,,0,Of,this,wedding,but,Donegild,and,na,mo
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 695,DIFF,,0,,,,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 695,DIFF,,0,of@prep,this@gram_adj,weddinge@ger,but@conj,donegild@n#propn,and@conj,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 695,DIFF,,0,of@prep,this@gram_adj,weddinge@ger,but@conj,donegild@n#propn,and@conj,no@gram_adj,
 
 "The kynges mooder, ful of tirannye?",||,"The kinges moder, ful of tirannie?°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 696,,,0,The,kynges,mooder,ful,of,tirannye
@@ -4535,12 +4535,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 700,,,10,so@adv,straunge@adj,a@indef_art,creature@n,unto@prep,his@pron1%gen,make@n1
 
 "Me list nat of the chaf, ne of the stree,",||,Me list nat° of the chaf° nor of the stree°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,Me,list,nat,of,the,chaf,ne,of,the,stree
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,me@pron2%obj,listen@v1%pr_3,not@adv,of@prep,the@def_art,chaf@n,ne@conj1,of@prep,the@def_art,strau@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,Me,list,nat,of,the,chaf,nor,of,the,stree
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,,10,me@pron2%obj,listen@v1%pr_3,not@adv,of@prep,the@def_art,chaf@n,,of@prep,the@def_art,strau@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,Me,list,nat,of,the,chaf,ne,of,the,stree
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,u,S,u,S,u,S,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,me@pron2%obj,listen@v1%pr_3,not@adv,of@prep,the@def_art,chaf@n,ne@conj1,of@prep,the@def_art,strau@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,Me,list,nat,of,the,chaf,nor,of,the,stree
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,u,S,u,S,u,S,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 701,DIFF,green,10,me@pron2%obj,listen@v1%pr_3,not@adv,of@prep,the@def_art,chaf@n,nor@conj,of@prep,the@def_art,strau@n
 
 Maken so long a tale as of the corn.,||,"Maken so long a tale, as of the corn."
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 702,,,10,Maken,so,long,a,tale,as,of,the,corn
@@ -4599,12 +4599,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 708,,,10,thei@pron%pl_nom,gon@v%pr_pl,to@prep,bed@n1,as@conj,hit@pron,ben@v%pt_3,skil@n,and@conj,right@adj
 
 "For thogh that wyves be ful hooly thynges,",||,"For, thogh that wives been ful holy thinges,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,For,thogh,that,wyves,be,ful,hooly,thynges
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,for@conj,though@conj,that@part,wif@n%pl,ben@v%pr_pl,ful@adv,holi@adj2,thing@n%pl
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,For,thogh,that,wives,been,ful,holy,thinges
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,u,S,u,Su,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,DIFF,,10,for@conj,though@conj,that@part,wif@n%pl,,ful@adv,holi@adj2,thing@n%pl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,For,thogh,that,wyves,be,ful,hooly,thynges
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,u,S,u,Su,S,u,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,for@conj,though@conj,that@part,wif@n%pl,ben@v%pr_pl,ful@adv,holi@adj2,thing@n%pl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,For,thogh,that,wives,been,ful,holy,thinges
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,u,S,u,Su,S,u,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 709,,,10,for@conj,though@conj,that@part,wif@n%pl,ben@v%pr_pl,ful@adv,holi@adj2,thing@n%pl
 
 They moste take in pacience at nyght,||,They moste take in pacience at night
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 710,,,10,They,moste,take,in,pacience,at,nyght
@@ -4615,12 +4615,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 710,,,10,thei@pron%pl_nom,moten@v2%pr_pl,taken@v%inf,in@prep,pacience@n,at@prep,night@n
 
 Swiche manere necessaries as been plesynges,||,Swich maner necessaries as been plesinges
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,Swiche,manere,necessaries,as,been,plesynges
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,ux,Sxx,uSuSu,S,u,xSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,swich@gram_adj,manere@n#adj,necessarie@n%pl,as@conj,ben@v%pr_pl,plesinge@ger%pl
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,Swich,maner,necessaries,as,been,plesinges
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,u,Sx,uSuSu,S,u,xSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,,,10,swich@gram_adj,manere@n#adj,necessarie@n%pl,as@conj,ben@v%pr_pl,plesinge@ger%pl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,Swiche,manere,necessaries,as,been,plesynges
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,ux,Sxx,uSuSu,S,u,xSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,swich@gram_adj,manere@n#adj,necessarie@n%pl,as@conj,ben@v%pr_pl,plesinge@ger%pl
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,Swich,maner,necessaries,as,been,plesinges
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,u,Sx,uSuSu,S,u,xSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 711,DIFF,green,10,swich@gram_adj,manere@n#adj,necessarie@n%pl,as@conj,ben@v%pr_pl,plesinge@ger%pl
 
 "To folk that han ywedded hem with rynges,",||,"To folk that han ywedded hem with ringes,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 712,,,10,To,folk,that,han,ywedded,hem,with,rynges
@@ -4807,12 +4807,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 734,,,10,min@pron%gen,ladie@n,quene@n2,haven@v%pr_3,child@n,withouten@prep,doute@n
 
 To joye and blisse to al this regne aboute.,||,To joye and blisse of al this regne aboute.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,To,joye,and,blisse,to,al,this,regne,aboute
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,u,Su,S,ux,x,S,u,Sx,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,to@prep,joie@n,and@conj,blisse@n,to@prep,al@gram_adj,this@gram_adj,regne@n1,abouten@advas_adj
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,To,joye,and,blisse,of,al,this,regne,aboute
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,u,S,u,Sx,u,S,u,Sx,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,,10,to@prep,joie@n,and@conj,blisse@n,,al@gram_adj,this@gram_adj,regne@n1,abouten@advas_adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,To,joye,and,blisse,to,al,this,regne,aboute
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,u,Su,S,ux,x,S,u,Sx,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,to@prep,joie@n,and@conj,blisse@n,to@prep,al@gram_adj,this@gram_adj,regne@n1,abouten@advas_adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,To,joye,and,blisse,of,al,this,regne,aboute
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 735,DIFF,green,10,to@prep,joie@n,and@conj,blisse@n,of@prep,al@gram_adj,this@gram_adj,regne@n1,abouten@advas_adj
 
 """Lo, heere the lettres seled of this thyng,",||,"Lo, heer the lettres seled° of this thing,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 736,,,10,Lo,heere,the,lettres,seled,of,this,thyng
@@ -4967,20 +4967,20 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 754,,,10,the@def_art,moder@n,ben@v%pt_3,a@indef_art,elf@n,bi@prep,aventure@n
 
 "Ycomen, by charmes or by sorcerie,",||,"Ycome, by charmes or by sorcerie,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,Ycomen,by,charmes,or,by,sorcerie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,uSu,S,uS,u,S,uxS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,comen@v%ppl_abs,bi@prep,charme@n%pl,or@conj,bi@prep,sorcerie@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,Ycome,by,charmes,or,by,sorcerie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,uSx,u,Su,S,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,,10,,bi@prep,charme@n%pl,or@conj,bi@prep,sorcerie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,Ycomen,by,charmes,or,by,sorcerie
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,uSu,S,uS,u,S,uxS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,comen@v%ppl_abs,bi@prep,charme@n%pl,or@conj,bi@prep,sorcerie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,Ycome,by,charmes,or,by,sorcerie
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,uSx,u,Su,S,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 755,DIFF,green,10,comen@v%ppl,bi@prep,charme@n%pl,or@conj,bi@prep,sorcerie@n
 
 And every wight hateth hir compaignye.,||,And every wight hateth hir companie.”
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,0,And,every,wight,hateth,hir,compaignye
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,0,,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,0,and@conj,everi@pron_gram_adj,wight@n,haten@v%pr_3,hire@pron1%fem_gen,compaignie@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,10,And,every,wight,hateth,hir,companie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,10,u,SuS,u,Sx,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,DIFF,,10,and@conj,everi@pron_gram_adj,wight@n,haten@v%pr_3,hire@pron1%fem_gen,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,0,And,every,wight,hateth,hir,compaignye
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,0,,,,,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,0,and@conj,everi@pron_gram_adj,wight@n,haten@v%pr_3,hire@pron1%fem_gen,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,10,And,every,wight,hateth,hir,companie
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,10,u,SuS,u,Sx,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 756,,,10,and@conj,everi@pron_gram_adj,wight@n,haten@v%pr_3,hire@pron1%fem_gen,compaignie@n
 
 "Wo was this kyng whan he this lettre had sayn,",||,"Wo was this king whan he this lettre had seyn,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 757,,,10,Wo,was,this,kyng,whan,he,this,lettre,had,sayn
@@ -5191,12 +5191,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 782,,,10,fi@interj,mannish@adj,fi@interj,--@dash,o@interj,nai@interj,bi@prep,god@n1#propn,ich@pron%nom,lien@v2%pr_1,--@dash
 
 "Fy, feendlych spirit, for I dar wel telle,",||,"Fy, feendly° spirit, for I dar wel telle,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,Fy,feendlych,spirit,for,I,dar,wel,telle
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,u,Su,Su,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,fi@interj,fendliche@adj,spirit@n,for@conj,ich@pron%nom,durren@v%pr_1,wel@adv,tellen@v%inf
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,Fy,feendly,spirit,for,I,dar,wel,telle
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,u,Su,Su,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,,10,fi@interj,,spirit@n,for@conj,ich@pron%nom,durren@v%pr_1,wel@adv,tellen@v%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,Fy,feendlych,spirit,for,I,dar,wel,telle
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,u,Su,Su,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,fi@interj,fendliche@adj,spirit@n,for@conj,ich@pron%nom,durren@v%pr_1,wel@adv,tellen@v%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,Fy,feendly,spirit,for,I,dar,wel,telle
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,u,Su,Su,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 783,DIFF,green,10,fi@interj,fendliche@adj,spirit@n,for@conj,ich@pron%nom,durren@v%pr_1,wel@adv,tellen@v%inf
 
 "Thogh thou heere walke, thy spirit is in helle!",||,"Though thou heer walke, thy spirit is in helle!"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 784,,,10,Thogh,thou,heere,walke,thy,spirit,is,in,helle
@@ -5308,7 +5308,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 797,DIFF,,10,custaunce@n#propn,inwith@prep,his@pron1%gen,reaume@n,for@prep#adv,to@part,abiden@v%inf
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 797,DIFF,,10,Custance,inwith,his,regne,for,tabide
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 797,DIFF,,10,uSx,uS,u,Su,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 797,DIFF,,10,custaunce@n#propn,inwith@prep,his@pron1%gen,,for@prep#adv,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 797,DIFF,,10,custaunce@n#propn,inwith@prep,his@pron1%gen,regne@n1,for@prep#adv,
 
 Thre dayes and o quarter of a tyde;,||,Thre dayes and a quarter of a tide;°
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 798,,,10,Thre,dayes,and,o,quarter,of,a,tyde
@@ -5567,12 +5567,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 829,,,10,he@pron1%nom,connen@v%pr_3,me@pron2%obj,kepen@v%inf,from@prep,harm@n,and@conj,ek@adv,from@prep,shame@n
 
 "In salte see, althogh I se noght how.",||,"In salte see, althogh I se nat how."
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,In,salte,see,althogh,I,se,noght,how
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,u,Su,S,uS,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,in@prep,salt@adj,se@n1,al-thogh@conj,ich@pron%nom,sen@v1%pr_1,nought@adv,hou@adv&conj
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,In,salte,see,althogh,I,se,nat,how
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,u,Su,S,uS,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,,10,in@prep,salt@adj,se@n1,al-thogh@conj,ich@pron%nom,se@n1,,hou@adv&conj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,In,salte,see,althogh,I,se,noght,how
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,u,Su,S,uS,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,in@prep,salt@adj,se@n1,al-thogh@conj,ich@pron%nom,sen@v1%pr_1,nought@adv,hou@adv&conj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,In,salte,see,althogh,I,se,nat,how
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,u,Su,S,uS,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 830,DIFF,green,10,in@prep,salt@adj,se@n1,al-thogh@conj,ich@pron%nom,sen@v1%pr_1,not@adv,hou@adv&conj
 
 "As strong as evere he was, he is yet now.",||,"As strong as ever he was, he is yet now."
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 831,,,10,As,strong,as,evere,he,was,he,is,yet,now
@@ -5951,12 +5951,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 877,,,10,unto@prep,his@pron1%gen,castel@n,of@prep,the@def_art,which@pron,ich@pron%nom,tellen@v%pt_1
 
 And asketh where his wyf and his child is.,||,And axeth° wher his wif and his child is.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,And,asketh,where,his,wyf,and,his,child,is
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,u,Su,Sx,u,S,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,and@conj,asken@v%pr_3,wher@adv&conj,his@pron1%gen,wif@n,and@conj,his@pron1%gen,child@n,ben@v%pr_3
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,And,axeth,wher,his,wif,and,his,child,is
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,u,Su,S,u,S,u,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,,10,and@conj,,wher@adv&conj,his@pron1%gen,wif@n,and@conj,his@pron1%gen,child@n,ben@v%pr_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,And,asketh,where,his,wyf,and,his,child,is
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,u,Su,Sx,u,S,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,and@conj,asken@v%pr_3,wher@adv&conj,his@pron1%gen,wif@n,and@conj,his@pron1%gen,child@n,ben@v%pr_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,And,axeth,wher,his,wif,and,his,child,is
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,u,Su,S,u,S,u,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 878,DIFF,green,10,and@conj,asken@v%pr_3,wher@adv&conj,his@pron1%gen,wif@n,and@conj,his@pron1%gen,child@n,ben@v%pr_3
 
 "The constable gan aboute his herte colde,",||,"The constable gan aboute his herte colde,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 879,,,10,The,constable,gan,aboute,his,herte,colde
@@ -6031,12 +6031,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 887,,,10,from@prep,night@n,to@prep,night@n,in@prep,what@gram_adj,place@n,he@pron1%nom,haven@v%pt_3,lien@v1%ppl
 
 "And thus, by wit and sotil enquerynge,",||,"And thus, by wit and subtil enqueringe,°"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,And,thus,by,wit,and,sotil,enquerynge
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,u,S,u,S,u,Su,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,and@conj,thus@adv,bi@prep,wit@n,and@conj,sotil@adj,enquering@ger
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,And,thus,by,wit,and,subtil,enqueringe
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,u,S,u,S,u,Su,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,,10,and@conj,thus@adv,bi@prep,wit@n,and@conj,,enquering@ger
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,And,thus,by,wit,and,sotil,enquerynge
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,u,S,u,S,u,Su,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,and@conj,thus@adv,bi@prep,wit@n,and@conj,sotil@adj,enquering@ger
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,And,thus,by,wit,and,subtil,enqueringe
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,u,S,u,S,u,Su,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 888,DIFF,green,10,and@conj,thus@adv,bi@prep,wit@n,and@conj,sotil@adj,enquering@ger
 
 Ymagined was by whom this harm gan sprynge.,||,Ymagined was° by whom this harm gan springe.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 889,,,10,Ymagined,was,by,whom,this,harm,gan,sprynge
@@ -6079,12 +6079,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 893,DIFF,,10,,ben@v%pr_3,this@pron,that@conj,alla@n#propn,oute@adv#prep,of@prep,drede@n
 
 His mooder slow -- that may men pleynly rede --,||,"His moder slow,° that men may pleinly rede,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,His,mooder,slow,that,may,men,pleynly,rede
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,u,Su,S,u,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,his@pron1%gen,moder@n,slen@v%pt_3,--@dash,that@pron,mouen@v3%pr_pl,man@n%pl,plainlie@adv,reden@v1%inf,--@dash
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,His,moder,slow,that,men,may,pleinly,rede
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,u,Su,S,u,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,,10,his@pron1%gen,moder@n,slen@v%pt_3,--@dash,mouen@v3%pr_pl,that@pron,man@n%pl,plainlie@adv
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,His,mooder,slow,that,may,men,pleynly,rede
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,u,Su,S,u,S,u,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,his@pron1%gen,moder@n,slen@v%pt_3,--@dash,that@pron,mouen@v3%pr_pl,man@n%pl,plainlie@adv,reden@v1%inf,--@dash
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,His,moder,slow,that,men,may,pleinly,rede
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,u,Su,S,u,S,u,Su,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 894,DIFF,green,10,his@pron1%gen,moder@n,slen@v%pt_3,--@dash,mouen@v3%pr_pl,that@pron,man@n%pl,plainlie@adv
 
 For that she traitour was to hire ligeance.,||,For that she traitour was to hir ligeaunce.°
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 895,,,10,For,that,she,traitour,was,to,hire,ligeance
@@ -6199,12 +6199,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 908,,,10,haven@v%imp,on@prep,custaunce@n#propn,and@conj,on@prep,hire@pron1%fem_gen,child@n,som@gram_adj,minde@n1
 
 "That fallen is in hethen hand eft soone,",||,"That fallen is in hethen hand eftsone,°"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,That,fallen,is,in,hethen,hand,eft,soone
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,u,Su,S,u,Su,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,that@pron,fallen@v%ppl,ben@v%pr_3,in@prep,hethen@adj,honde@n,eft@adv,sone@adv
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,That,fallen,is,in,hethen,hand,eftsone
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,u,Su,S,u,Su,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,,10,that@pron,fallen@v%ppl,ben@v%pr_3,in@prep,hethen@adj,honde@n,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,That,fallen,is,in,hethen,hand,eft,soone
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,u,Su,S,u,Su,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,that@pron,fallen@v%ppl,ben@v%pr_3,in@prep,hethen@adj,honde@n,eft@adv,sone@adv
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,That,fallen,is,in,hethen,hand,eftsone
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,u,Su,S,u,Su,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 909,DIFF,green,10,that@pron,fallen@v%ppl,ben@v%pr_3,in@prep,hethen@adj,honde@n,eft-sones@adv
 
 "In point to spille, as I shal telle yow soone.",||,"In point to spille,° as I shal telle yow sone.°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 910,,,10,In,point,to,spille,as,I,shal,telle,yow,soone
@@ -6215,12 +6215,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 910,,,10,in@prep,pointe@n1,to@part,spillen@v%inf,as@conj,ich@pron%nom,shulen@v1%pr_1,tellen@v%inf,you@pron%pl_obj,sone@adv
 
 Doun fro the castel comth ther many a wight,||,Doun from the castel comth ther many a wight°
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,Doun,fro,the,castel,comth,ther,many,a,wight
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,u,S,u,Su,S,u,Sx,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,doun@adv,from@prep,the@def_art,castel@n,comen@v%pr_3,ther@adv,mani@gram_adj,a@indef_art,wight@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,Doun,from,the,castel,comth,ther,many,a,wight
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,u,S,u,Su,S,u,Sx,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,DIFF,,10,doun@adv,from@prep,the@def_art,castel@n,comen@v%pr_3,ther@adv,mani@gram_adj,a@indef_art,wight@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,Doun,fro,the,castel,comth,ther,many,a,wight
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,u,S,u,Su,S,u,Sx,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,doun@adv,from@prep,the@def_art,castel@n,comen@v%pr_3,ther@adv,mani@gram_adj,a@indef_art,wight@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,Doun,from,the,castel,comth,ther,many,a,wight
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,u,S,u,Su,S,u,Sx,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 911,,,10,doun@adv,from@prep,the@def_art,castel@n,comen@v%pr_3,ther@adv,mani@gram_adj,a@indef_art,wight@n
 
 To gauren on this ship and on Custance.,||,To gauren° on this ship and on Custance.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 912,,,10,To,gauren,on,this,ship,and,on,Custance
@@ -6356,7 +6356,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 928,DIFF,,10,the@def_art,ende@n1,of@prep,thin@pron%gen,werk@n,or@conj,of@prep,thin@pron%gen,lust@n%pl,blind@adj
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 928,DIFF,,10,Thende,of,thy,werk,or,of,thy,lustes,blinde
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 928,DIFF,,10,ux,S,u,S,u,S,u,Su,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 928,DIFF,,10,,of@prep,the@def_art,werk@n,or@conj,of@prep,the@def_art,lust@n%pl,blind@adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 928,DIFF,,10,,of@prep,the@def_art,werk@n,or@conj,of@prep,thin@pron%gen,lust@n%pl,blind@adj
 
 Is compleynyng. Hou many oon may men fynde,||,"Is compleining, how many oon may men finde"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 929,,,10,Is,compleynyng,Hou,many,oon,may,men,fynde
@@ -6511,12 +6511,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 947,,,10,of@prep,jubaltare@n#propn,and@conj,septe@n#propn,driven@v%prp_abs,ai@adv
 
 "Somtyme west, and somtyme north and south,",||,"Somtime West, somtime North and South,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,Somtyme,west,and,somtyme,north,and,south
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,uSx,u,S,uSu,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,som-time@adv,west@adv,and@conj,som-time@adv,north@adv,and@conj,south@adv
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,Somtime,West,somtime,North,and,South
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,uSu,S,uSu,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,,10,som-time@adv,west@adv,som-time@adv,north@adv,and@conj,south@adv
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,Somtyme,west,and,somtyme,north,and,south
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,uSx,u,S,uSu,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,som-time@adv,west@adv,and@conj,som-time@adv,north@adv,and@conj,south@adv
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,Somtime,West,somtime,North,and,South
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,uSu,S,uSu,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 948,DIFF,green,10,som-time@adv,west@adv,som-time@adv,north@adv,and@conj,south@adv
 
 "And somtyme est, ful many a wery day,",||,"And somtime Est, ful many a wery day,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 949,,,10,And,somtyme,est,ful,many,a,wery,day
@@ -6871,12 +6871,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 992,,,10,and@conj,putten@v%pt_3,him@pron%obj,in@prep,the@def_art,pope@n%gen,ordinaunce@n
 
 "In heigh and logh, and Jhesu Crist bisoghte",||,"In heigh and low, and Jesu Crist bisoghte"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,In,heigh,and,logh,and,Jhesu,Crist,bisoghte
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,u,S,u,S,u,Su,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,in@prep,heigh@adj#n,and@conj,loue@n3,and@conj,jesu@n1#propn,crist@n#propn,bisechen@v%pt_3
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,In,heigh,and,low,and,Jesu,Crist,bisoghte
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,u,S,u,S,u,Su,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,,10,in@prep,heigh@adj#n,and@conj,,and@conj,,crist@n#propn,bisechen@v%pt_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,In,heigh,and,logh,and,Jhesu,Crist,bisoghte
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,u,S,u,S,u,Su,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,in@prep,heigh@adj#n,and@conj,loue@n3,and@conj,jesu@n1#propn,crist@n#propn,bisechen@v%pt_3
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,In,heigh,and,low,and,Jesu,Crist,bisoghte
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,u,S,u,S,u,Su,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 993,DIFF,green,10,in@prep,heigh@adj#n,and@conj,loue@adj,and@conj,jesu@n1#propn,crist@n#propn,bisechen@v%pt_3
 
 Foryeve his wikked werkes that he wroghte.,||,Foryeve° his wikked werkes that he wroghte.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 994,,,10,Foryeve,his,wikked,werkes,that,he,wroghte
@@ -6895,12 +6895,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 995,,,10,the@def_art,fame@n1,an-on@adv,thurgh@prep,rome@n#propn,toun@n,ben@v%pr_3,beren@v1%ppl
 
 "How Alla kyng shal comen in pilgrymage,",||,"How Alla king shal come on pilgrimage,"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,How,Alla,kyng,shal,comen,in,pilgrymage
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,u,Su,S,u,Sx,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,hou@adv&conj,alla@n#propn,king@n,shulen@v1%pr_3,comen@v%inf,in@prep,pilgrimage@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,How,Alla,king,shal,come,on,pilgrimage
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,u,Su,S,u,Sx,u,SuSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,DIFF,,10,hou@adv&conj,alla@n#propn,king@n,shulen@v1%pr_3,,in@prep,pilgrimage@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,How,Alla,kyng,shal,comen,in,pilgrymage
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,u,Su,S,u,Sx,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,hou@adv&conj,alla@n#propn,king@n,shulen@v1%pr_3,comen@v%inf,in@prep,pilgrimage@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,How,Alla,king,shal,come,on,pilgrimage
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,u,Su,S,u,Sx,u,SuSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 996,,,10,hou@adv&conj,alla@n#propn,king@n,shulen@v1%pr_3,comen@v%inf,in@prep,pilgrimage@n
 
 By herbergeours that wenten hym biforn;,||,By herbergeours° that wenten him biforn;
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 997,,,10,By,herbergeours,that,wenten,hym,biforn
@@ -6991,12 +6991,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1007,,,10,to@part,festen@v%inf,and@conj,shortli@adv,if@conj,ich@pron%nom,shulen@v1%pr_1,not@adv,lien@v2%inf
 
 Custances sone wente in his compaignye.,||,Custances sone wente in his companie.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,0,Custances,sone,wente,in,his,compaignye
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,0,,,,,,
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,0,custaunce@n#propn%gen,sone@n,wenden@v%pt_3,in@prep,his@pron1%gen,compaignie@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,10,Custances,sone,wente,in,his,companie
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,10,uSu,Sx,ux,S,u,SuS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,DIFF,,10,custaunce@n#propn%gen,sone@n,wenden@v%pt_3,in@prep,his@pron1%gen,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,0,Custances,sone,wente,in,his,compaignye
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,0,,,,,,
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,0,custaunce@n#propn%gen,sone@n,wenden@v%pt_3,in@prep,his@pron1%gen,compaignie@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,10,Custances,sone,wente,in,his,companie
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,10,uSu,Sx,ux,S,u,SuS
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1008,,,10,custaunce@n#propn%gen,sone@n,wenden@v%pt_3,in@prep,his@pron1%gen,compaignie@n
 
 Som men wolde seyn at requeste of Custance,||,"Som men wolde seyn, at requeste of Custance,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1009,,,10,Som,men,wolde,seyn,at,requeste,of,Custance
@@ -7100,7 +7100,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1021,DIFF,,10,that@pron,ich@pron%nom,of@prep,witen@v1%pr_1,--@dash,and@conj,shortli@adv,in@prep,a@indef_art,stounde@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1021,DIFF,,10,That,I,of,wootbut,shortly,in,a,stounde
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1021,DIFF,,10,u,S,u,Su,Su,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1021,DIFF,,10,that@pron,ich@pron%nom,of@prep,,and@conj,shortli@adv,ich@pron%nom,a@indef_art
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1021,DIFF,,10,that@pron,ich@pron%nom,of@prep,,and@conj,shortli@adv,in@prep,a@indef_art
 
 He tolde Alla how that this child was founde.,||,He tolde Alla how that this child was founde.
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1022,,,10,He,tolde,Alla,how,that,this,child,was,founde
@@ -7135,12 +7135,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1025,,,10,ne@adv,sen@v1%pt_1,ich@pron%nom,never@adv,as@conj,she@pron%nom,ne@conj1,heren@v%pt_1,of@prep,mo@n
 
 "Of worldly wommen, mayde, ne of wyf.",||,"Of worldly wommen, maiden, nor of wif;"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,Of,worldly,wommen,mayde,ne,of,wyf
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,u,Su,Su,Su,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,of@prep,worldli@adj,womman@n%pl,maide@n,ne@conj1,of@prep,wif@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,Of,worldly,wommen,maiden,nor,of,wif
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,u,Su,Su,Su,S,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,,10,of@prep,worldli@adj,womman@n%pl,,,of@prep,wif@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,Of,worldly,wommen,mayde,ne,of,wyf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,u,Su,Su,Su,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,of@prep,worldli@adj,womman@n%pl,maide@n,ne@conj1,of@prep,wif@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,Of,worldly,wommen,maiden,nor,of,wif
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,u,Su,Su,Su,S,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1026,DIFF,green,10,of@prep,worldli@adj,womman@n%pl,maiden@n,nor@conj,of@prep,wif@n
 
 I dar wel seyn hir hadde levere a knyf,||,I dar wel seyn hir hadde lever° a knif
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1027,,,10,I,dar,wel,seyn,hir,hadde,levere,a,knyf
@@ -7191,12 +7191,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1032,,,10,this@gram_adj,alla@n#propn,haven@v%pr_3,the@def_art,face@n,in@prep,remembraunce@n
 
 "Of dame Custance, and ther on mused he",||,"Of dame Custance, and theron mused he"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,Of,dame,Custance,and,ther,on,mused,he
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,u,Sx,uSx,u,S,u,Su,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,of@prep,dame@n#adj,custaunce@n#propn,and@conj,ther@adv,on@adv1,musen@v%pt_3,he@pron1%nom
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,Of,dame,Custance,and,theron,mused,he
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,u,Sx,uSx,u,Su,Su,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,,10,of@prep,dame@n#adj,custaunce@n#propn,and@conj,,musen@v%pt_3,he@pron1%nom
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,Of,dame,Custance,and,ther,on,mused,he
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,u,Sx,uSx,u,S,u,Su,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,of@prep,dame@n#adj,custaunce@n#propn,and@conj,ther@adv,on@adv1,musen@v%pt_3,he@pron1%nom
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,Of,dame,Custance,and,theron,mused,he
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,u,Sx,uSx,u,Su,Su,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1033,DIFF,green,10,of@prep,dame@n#adj,custaunce@n#propn,and@conj,ther-on@adv,musen@v%pt_3,he@pron1%nom
 
 If that the childes mooder were aught she,||,If that the childes moder° were aught° she
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1034,,,10,If,that,the,childes,mooder,were,aught,she
@@ -7975,12 +7975,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1130,,,10,to@prep,engelond@n#propn,ben@v%pr_pl,thei@pron%pl_nom,comen@v%ppl,the@def_art,right@adj,wei@n
 
 Wher as they lyve in joye and in quiete.,||,Wheras they live in joye and in quiete.
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,Wher,as,they,lyve,in,joye,and,in,quiete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,wher@adv&conj,as@conj,thei@pron%pl_nom,liven@v1%pr_pl,in@prep,joie@n,and@conj,in@prep,quiete@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,Wheras,they,live,in,joye,and,in,quiete
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,uS,u,Sx,u,S,u,S,uSx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,,10,,thei@pron%pl_nom,liven@v1%pr_pl,in@prep,joie@n,and@conj,in@prep,quiete@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,Wher,as,they,lyve,in,joye,and,in,quiete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,wher@adv&conj,as@conj,thei@pron%pl_nom,liven@v1%pr_pl,in@prep,joie@n,and@conj,in@prep,quiete@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,Wheras,they,live,in,joye,and,in,quiete
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,uS,u,Sx,u,S,u,S,uSx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1131,DIFF,green,10,wher-as@adv,thei@pron%pl_nom,liven@v1%pr_pl,in@prep,joie@n,and@conj,in@prep,quiete@n
 
 "But litel while it lasteth, I yow heete,",||,"But litel whil it lasteth, I yow hete,°"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1132,,,10,But,litel,while,it,lasteth,I,yow,heete
@@ -8007,12 +8007,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1134,,,10,from@prep,dai@n,to@prep,night@n,hit@pron,chaungen@v%pr_3,as@conj,the@def_art,tide@n
 
 Who lyved euere in swich delit o day,||,Who lived ever in swich delit° o day
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,Who,lyved,euere,in,swich,delit,o,day
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,u,Su,Sx,u,S,uS,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,who@pron%nom,liven@v1%pt_3,ever@adv,in@prep,swich@gram_adj,delite@n1,o@num_adj,dai@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,Who,lived,ever,in,swich,delit,o,day
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,u,Su,S,u,S,uS,u,S
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,,10,who@pron%nom,liven@v1%pt_3,,in@prep,swich@gram_adj,delite@n1,o@num_adj,dai@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,Who,lyved,euere,in,swich,delit,o,day
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,u,Su,Sx,u,S,uS,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,who@pron%nom,liven@v1%pt_3,ever@adv,in@prep,swich@gram_adj,delite@n1,o@num_adj,dai@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,Who,lived,ever,in,swich,delit,o,day
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,u,Su,S,u,S,uS,u,S
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1135,DIFF,green,10,who@pron%nom,liven@v1%pt_3,ever@adv,in@prep,swich@gram_adj,delite@n1,o@num_adj,dai@n
 
 "That hym ne moeved outher conscience,",||,"That him ne moeved outher conscience,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1136,,,10,That,hym,ne,moeved,outher,conscience
@@ -8028,7 +8028,7 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1137,DIFF,,10,or@conj,ire@n,or@conj,talent@n,or@conj,som@gram_adj,kin@n%gen,affrai@n
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1137,DIFF,,10,Or,ire,or,talent,or,som,kin,affray
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1137,DIFF,,10,u,Sx,u,Su,S,u,S,uS
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1137,DIFF,,10,or@conj,or@conj,or@conj,talent@n,or@conj,som@gram_adj,,affrai@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1137,DIFF,,10,or@conj,ire@n,or@conj,talent@n,or@conj,som@gram_adj,,affrai@n
 
 "Envye, or pride, or passion, or offence?",||,"Envie, or pride, or passion, or offence?"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1138,,,0,Envye,or,pride,or,passion,or,offence
@@ -8063,12 +8063,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1141,,,10,lasten@v1%pr_3,the@def_art,blisse@n,of@prep,alla@n#propn,with@prep,custaunce@n#propn
 
 "For Deeth, that taketh of heigh and logh his rente,",||,"For deeth, that taketh of heigh and low his rente,°"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,For,Deeth,that,taketh,of,heigh,and,logh,his,rente
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,u,S,u,Sx,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,for@conj,deth@n#propn,that@pron,taken@v%pr_3,of@prep,heigh@adj#n,and@conj,loue@n3,his@pron1%gen,rente@n
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,For,deeth,that,taketh,of,heigh,and,low,his,rente
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,u,S,u,Sx,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,,10,for@conj,deth@n#propn,that@pron,taken@v%pr_3,of@prep,heigh@adj#n,and@conj,,his@pron1%gen,rente@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,For,Deeth,that,taketh,of,heigh,and,logh,his,rente
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,u,S,u,Sx,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,for@conj,deth@n#propn,that@pron,taken@v%pr_3,of@prep,heigh@adj#n,and@conj,loue@n3,his@pron1%gen,rente@n
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,For,deeth,that,taketh,of,heigh,and,low,his,rente
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,u,S,u,Sx,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1142,DIFF,green,10,for@conj,deth@n#propn,that@pron,taken@v%pr_3,of@prep,heigh@adj#n,and@conj,loue@adj,his@pron1%gen,rente@n
 
 "Whan passed was a yeer, evene as I gesse,",||,"When passed was a yeer, even as I gesse,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1143,,,10,Whan,passed,was,a,yeer,evene,as,I,gesse
@@ -8127,12 +8127,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1149,,,10,to@prep,rome@n#propn,ben@v%pr_3,comen@v%ppl,this@gram_adj,holi@adj2,creature@n
 
 And fyndeth hire freendes hoole and sounde;,||,And findeth hir frendes there hole and sounde:
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,And,fyndeth,hire,freendes,hoole,and,sounde
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,u,Su,Su,Su,Sx,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,and@conj,finden@v%pr_3,hire@pron1%fem_gen,frend@n%pl,hole@adj2,and@conj,sounde@adj
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,And,findeth,hir,frendes,there,hole,and,sounde
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,u,Su,S,uS,ux,Sx,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,,10,and@conj,finden@v%pr_3,hire@pron1%fem_gen,frend@n%pl,,hole@adj2,and@conj,sounde@adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,And,fyndeth,hire,freendes,hoole,and,sounde
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,u,Su,Su,Su,Sx,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,and@conj,finden@v%pr_3,hire@pron1%fem_gen,frend@n%pl,hole@adj2,and@conj,sounde@adj
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,And,findeth,hir,frendes,there,hole,and,sounde
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,u,Su,S,uS,ux,Sx,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1150,DIFF,green,10,and@conj,finden@v%pr_3,hire@pron1%fem_gen,frend@n%pl,ther@adv,hole@adj2,and@conj,sounde@adj
 
 Now is she scaped al hire aventure.,||,Now is she scaped° al hir aventure;°
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1151,,,10,Now,is,she,scaped,al,hire,aventure
@@ -8207,12 +8207,12 @@ data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,Th
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1159,,,10,and@conj,faren@v%imp,nou@adv,wel@adv,min@pron%gen,tale@n,ben@v%pr_3,at@prep,a@indef_art,ende@n1
 
 "Now Jhesu Crist, that of his myght may sende",||,"Now Jesu Crist, that of his might may sende"
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,Now,Jhesu,Crist,that,of,his,myght,may,sende
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,nou@adv,jesu@n1#propn,crist@n#propn,that@pron,of@prep,his@pron1%gen,might@n,mouen@v3%pr_3,senden@v2%inf
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,Now,Jesu,Crist,that,of,his,might,may,sende
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,u,Su,S,u,S,u,S,u,Sx
-data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,,10,nou@adv,,crist@n#propn,that@pron,of@prep,his@pron1%gen,might@n,mouen@v3%pr_3,senden@v2%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,Now,Jhesu,Crist,that,of,his,myght,may,sende
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,u,Su,S,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,nou@adv,jesu@n1#propn,crist@n#propn,that@pron,of@prep,his@pron1%gen,might@n,mouen@v3%pr_3,senden@v2%inf
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,Now,Jesu,Crist,that,of,his,might,may,sende
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,u,Su,S,u,S,u,S,u,Sx
+data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1160,DIFF,green,10,nou@adv,jesu@n1#propn,crist@n#propn,that@pron,of@prep,his@pron1%gen,might@n,mouen@v3%pr_3,senden@v2%inf
 
 "Joye after wo, governe us in his grace,",||,"Joye after wo, governe us in his grace,"
 data/riverside_cats/MLT_riv.cat,data/oxford_txts/MLT_oxford.txt,data/csvs/MLT,The Man of Law's Tale 1161,,,10,Joye,after,wo,governe,us,in,his,grace

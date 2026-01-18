@@ -4,7 +4,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 1,DIFF,,10,a@indef_art,marchaunt@n,whilom@adv,dwellen@v%pt_3,at@prep,seint-denis@n#propn
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 1,DIFF,,10,A,marchant,whilom,dwelled,at,Seint,Denis
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 1,DIFF,,10,u,Su,Su,Su,S,u,xS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 1,DIFF,,10,a@indef_art,marchaunt@n,whilom@adv,dwellen@v%pt_3,at@prep,,
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 1,DIFF,,10,a@indef_art,marchaunt@n,whilom@adv,dwellen@v%pt_3,at@prep,,denis@n#propn
 
 "That riche was, for which men helde hym wys.",||,"That riche was, for which men helde° him wis;"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 2,,,10,That,riche,was,for,which,men,helde,hym,wys
@@ -55,12 +55,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 7,,,10,that@pron,man@n%pl,hem@pron%pl_obj,don@v1%pr_pl,at@prep,feste@n%pl,and@conj,at@prep,daunce@n%pl
 
 Swiche salutaciouns and contenaunces,||,Swich salutaciouns and contenaunces°
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,Swiche,salutaciouns,and,contenaunces
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,ux,SuSuS,u,SuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,swich@gram_adj,salutacioun@n%pl,and@conj,contenaunce@n%pl
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,Swich,salutaciouns,and,contenaunces
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,u,SuSuS,u,SuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,,,10,swich@gram_adj,salutacioun@n%pl,and@conj,contenaunce@n%pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,Swiche,salutaciouns,and,contenaunces
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,ux,SuSuS,u,SuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,swich@gram_adj,salutacioun@n%pl,and@conj,contenaunce@n%pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,Swich,salutaciouns,and,contenaunces
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,u,SuSuS,u,SuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 8,DIFF,green,10,swich@gram_adj,salutacioun@n%pl,and@conj,contenaunce@n%pl
 
 Passen as dooth a shadwe upon the wal;,||,Passen as dooth a shadwe° upon the wal.
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 9,,,10,Passen,as,dooth,a,shadwe,upon,the,wal
@@ -111,12 +111,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 14,,,10,in@prep,which@gram_adj,arrai@n,we@pron%pl_nom,dauncen@v%pr_pl,jolili@adv
 
 "And if that he noght may, par aventure,",||,"And if that he noght may,° paraventure°"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,And,if,that,he,noght,may,par,aventure
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,and@conj,if@conj,that@part,he@pron1%nom,nought@adv,mouen@v3%pr_3,par@prep,aventure@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,And,if,that,he,noght,may,paraventure
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,u,S,u,S,u,S,uSuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,,10,and@conj,if@conj,that@part,he@pron1%nom,nought@adv,mouen@v3%pr_3,
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,And,if,that,he,noght,may,par,aventure
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,u,S,u,S,u,S,u,SuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,and@conj,if@conj,that@part,he@pron1%nom,nought@adv,mouen@v3%pr_3,par@prep,aventure@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,And,if,that,he,noght,may,paraventure
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,u,S,u,S,u,S,uSuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 15,DIFF,green,10,and@conj,if@conj,that@part,he@pron1%nom,nought@adv,mouen@v3%pr_3,paraventure@adv
 
 "Or ellis list no swich dispence endure,",||,"Or elles, list° no swich° dispence° endure,°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 16,,,10,Or,ellis,list,no,swich,dispence,endure
@@ -199,12 +199,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 25,,,10,ther@adv,ben@v%pt_3,a@indef_art,monk@n,a@indef_art,fair@adj,man@n,and@conj,a@indef_art,bold@adj,--@dash
 
 I trowe a thritty wynter he was oold --,||,"I trowe° of thritty winter° he was old,"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,I,trowe,a,thritty,wynter,he,was,oold
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,u,Sx,u,Su,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,ich@pron%nom,trouen@v%pr_1,a@indef_art,thriti@num_adj,winter@n,he@pron1%nom,ben@v%pt_3,olde@adj,--@dash
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,I,trowe,of,thritty,winter,he,was,old
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,u,Sx,u,Su,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,,10,ich@pron%nom,trouen@v%pr_1,,thriti@num_adj,winter@n,he@pron1%nom,ben@v%pt_3,olde@adj
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,I,trowe,a,thritty,wynter,he,was,oold
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,u,Sx,u,Su,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,ich@pron%nom,trouen@v%pr_1,a@indef_art,thriti@num_adj,winter@n,he@pron1%nom,ben@v%pt_3,olde@adj,--@dash
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,I,trowe,of,thritty,winter,he,was,old
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,u,Sx,u,Su,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 26,DIFF,green,10,ich@pron%nom,trouen@v%pr_1,of@prep,thriti@num_adj,winter@n,he@pron1%nom,ben@v%pt_3,olde@adj
 
 That evere in oon was drawynge to that place.,||,That ever in oon° was drawing to that place.
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 27,,,10,That,evere,in,oon,was,drawynge,to,that,place
@@ -247,12 +247,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 31,,,0,that@conj,in@prep,his@pron1%gen,hous@n,as@conj,familier@adj,ben@v%pt_3,he@pron1%nom
 
 As it is possible any freend to be.,||,As it possible is any freend to be.
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,As,it,is,possible,any,freend,to,be
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,u,S,u,Sux,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,as@conj,hit@pron,ben@v%pr_3,possible@adj,ani@gram_adj,frend@n,to@part,ben@v%inf
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,As,it,possible,is,any,freend,to,be
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,u,S,uSx,u,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,,10,as@conj,hit@pron,possible@adj,as@conj,ani@gram_adj,frend@n,to@part,ben@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,As,it,is,possible,any,freend,to,be
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,u,S,u,Sux,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,as@conj,hit@pron,ben@v%pr_3,possible@adj,ani@gram_adj,frend@n,to@part,ben@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,As,it,possible,is,any,freend,to,be
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,u,S,uSx,u,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 32,DIFF,green,10,as@conj,hit@pron,possible@adj,ben@v%pr_3,ani@gram_adj,frend@n,to@part,ben@v%inf
 
 "And for as muchel as this goode man,",||,¶And for as muchel as this goode man
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 33,,,10,And,for,as,muchel,as,this,goode,man
@@ -404,7 +404,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 51,DIFF,,0,as@conj,foul@n,ben@v%pr_3,fain@adj,whan@adv&conj,that@part,the@def_art,sonne@n,up@adv,risen@v%pr_3
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 51,DIFF,,10,As,fowl,is,fain,whan,that,the,sonne,upriseth
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 51,DIFF,,10,u,S,u,S,u,S,u,Sx,uSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 51,DIFF,,10,as@conj,foul@n,as@conj,fain@adj,whan@adv&conj,that@part,the@def_art,sonne@n,
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 51,DIFF,,10,as@conj,foul@n,ben@v%pr_3,fain@adj,whan@adv&conj,that@part,the@def_art,sonne@n,
 
 "Na moore of this as now, for it suffiseth.",||,"Na more of this as now, for it suffiseth."
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 52,,,10,Na,moore,of,this,as,now,for,it,suffiseth
@@ -468,7 +468,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 59,DIFF,,10,that@conj,he@pron1%nom,shulen@v1%pt_3,comen@v%inf,to@prep,seint-denis@n#propn,to@part,pleien@v1%inf
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 59,DIFF,,10,That,he,shold,come,to,Seint,Denis,to,pleye
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 59,DIFF,,10,u,S,u,Sx,u,S,uS,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 59,DIFF,,10,that@conj,he@pron1%nom,shulen@v1%pt_3,comen@v%inf,to@prep,,,to@prep,pleien@v1%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 59,DIFF,,10,that@conj,he@pron1%nom,shulen@v1%pt_3,comen@v%inf,to@prep,,denis@n#propn,to@part,pleien@v1%inf
 
 "With hym and with his wyf a day or tweye,",||,"With him and with his wif a day or tweye,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 60,,,10,With,hym,and,with,his,wyf,a,day,or,tweye
@@ -532,7 +532,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 67,DIFF,,10,and@conj,unto@prep,seint-denis@n#propn,he@pron1%nom,comen@v%pr_3,an-on@adv
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 67,DIFF,,10,And,unto,Seint,Denis,he,comth,anon
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 67,DIFF,,10,u,Su,S,uS,u,S,uS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 67,DIFF,,10,and@conj,unto@prep,,,he@pron1%nom,comen@v%pr_3,an-on@adv
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 67,DIFF,,10,and@conj,unto@prep,,denis@n#propn,he@pron1%nom,comen@v%pr_3,an-on@adv
 
 "Who was so welcome as my lord daun John,",||,"Who was so welcome as my lord daun John,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 68,,,10,Who,was,so,welcome,as,my,lord,daun,John
@@ -615,12 +615,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 77,,,10,and@conj,up@adv,in-to@prep,his@pron1%gen,countour-hous@n,gon@v%pr_3,he@pron1%nom
 
 "To rekene with hymself, wel may be,",||,"To reken° with himself, as wel may be,"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,9,To,rekene,with,hymself,wel,may,be
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,9,S,uSx,u,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,9,to@part,rekenen@v%inf,with@prep,him-self@pron,wel@adv,mouen@v3%pr_3,ben@v%inf
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,10,To,reken,with,himself,as,wel,may,be
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,10,u,Su,S,uS,u,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,,10,to@part,rekenen@v%inf,with@prep,him-self@pron,,wel@adv,mouen@v3%pr_3,ben@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,9,To,rekene,with,hymself,wel,may,be
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,9,S,uSx,u,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,9,to@part,rekenen@v%inf,with@prep,him-self@pron,wel@adv,mouen@v3%pr_3,ben@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,10,To,reken,with,himself,as,wel,may,be
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,10,u,Su,S,uS,u,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 78,DIFF,green,10,to@part,rekenen@v%inf,with@prep,him-self@pron,as@conj,wel@adv,mouen@v3%pr_3,ben@v%inf
 
 "Of thilke yeer how that it with hym stood,",||,"Of thilke yeer, how that it with him stood,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 79,,,10,Of,thilke,yeer,how,that,it,with,hym,stood
@@ -1044,7 +1044,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 131,DIFF,,10,for@conj,on@prep,min@pron%gen,port-hors@n,ich@pron%nom,maken@v1%pr_1,a@indef_art,oth@n
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 131,DIFF,,10,For,on,my,porthors,here,I,make,an,ooth
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 131,DIFF,,10,u,S,u,Su,Sx,u,Sx,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 131,DIFF,,10,for@conj,on@prep,min@pron%gen,port-hors@n,,ich@pron%nom,maken@v1%pr_1,on@prep,oth@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 131,DIFF,,10,for@conj,on@prep,min@pron%gen,port-hors@n,,ich@pron%nom,maken@v1%pr_1,a@indef_art,oth@n
 
 "That nevere in my lyf, for lief ne looth,",||,"That nevere in my lif, for lief ne loth,°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 132,,,10,That,nevere,in,my,lyf,for,lief,ne,looth
@@ -1071,12 +1071,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 134,,,10,the@def_art,same@pron,ayen@adv,to@prep,you@pron%pl_obj,quethen@v%pt_3,she@pron%nom,ich@pron%nom,seien@v1%pr_1
 
 "By God and by this portehors I swere,",||,"By God and by this porthors, I yow swere,"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,By,God,and,by,this,portehors,I,swere
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,u,S,u,S,u,SuS,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,bi@prep,god@n1#propn,and@conj,bi@prep,this@gram_adj,port-hors@n,ich@pron%nom,sweren@v%pr_1
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,By,God,and,by,this,porthors,I,yow,swere
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,u,S,u,S,u,Su,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,,10,bi@prep,god@n1#propn,and@conj,bi@prep,this@gram_adj,port-hors@n,ich@pron%nom,ich@pron%nom,sweren@v%pr_1
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,By,God,and,by,this,portehors,I,swere
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,u,S,u,S,u,SuS,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,bi@prep,god@n1#propn,and@conj,bi@prep,this@gram_adj,port-hors@n,ich@pron%nom,sweren@v%pr_1
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,By,God,and,by,this,porthors,I,yow,swere
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,u,S,u,S,u,Su,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 135,DIFF,green,10,bi@prep,god@n1#propn,and@conj,bi@prep,this@gram_adj,port-hors@n,ich@pron%nom,you@pron%pl_obj,sweren@v%pr_1
 
 "Though men me wolde al into pieces tere,",||,"Though men me wolde al into peces tere,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 136,,,10,Though,men,me,wolde,al,into,pieces,tere
@@ -1439,12 +1439,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 180,,,10,o@prep2,son-dai@n,nexte@adj%sup,ich@pron%nom,moten@v2%pt_3,nedes@adv,paien@v%inf
 
 "An hundred frankes, or ellis I am lorn.",||,"An hundred franks, or elles am I lorn.°"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,An,hundred,frankes,or,ellis,I,am,lorn
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,u,Su,Su,S,uS,x,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,a@indef_art,hundred@num_adj,frank@n2%pl,or@conj,elles@adv,ich@pron%nom,ben@v%pr_1,lesen@v4%ppl
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,An,hundred,franks,or,elles,am,I,lorn
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,u,Su,S,u,Su,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,,10,a@indef_art,hundred@num_adj,frank@n2%pl,or@conj,elles@adv,ben@v%pr_1,ich@pron%nom,lesen@v4%ppl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,An,hundred,frankes,or,ellis,I,am,lorn
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,u,Su,Su,S,uS,x,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,a@indef_art,hundred@num_adj,frank@n2%pl,or@conj,elles@adv,ich@pron%nom,ben@v%pr_1,lesen@v4%ppl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,An,hundred,franks,or,elles,am,I,lorn
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,u,Su,S,u,Su,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 181,DIFF,green,10,a@indef_art,hundred@num_adj,frank@n2%pl,or@conj,elles@adv,ben@v%pr_1,ich@pron%nom,lesen@v4%ppl
 
 Yet were me levere that I were unborn,||,Yet were me lever° that I were unborn
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 182,,,10,Yet,were,me,levere,that,I,were,unborn
@@ -1735,12 +1735,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 217,,,10,your@pron%pl_gen,somme@n2%pl,and@conj,your@pron%pl_gen,bok@n1%pl,and@conj,your@pron%pl_gen,thing@n%pl
 
 The devel have part on alle swiche rekenynges!,||,The devel have part° of al swich rekeninges!
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,The,devel,have,part,on,alle,swiche,rekenynges
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,u,Su,Sx,u,S,ux,Sx,uxSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,the@def_art,devel@n,haven@v%pr_3,part@n,on@prep,al@gram_adj,swich@gram_adj,rekeninge@ger%pl
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,The,devel,have,part,of,al,swich,rekeninges
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,u,Su,Sx,u,S,u,S,uxSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,,10,the@def_art,devel@n,haven@v%pr_3,part@n,,al@gram_adj,,rekeninge@ger%pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,The,devel,have,part,on,alle,swiche,rekenynges
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,u,Su,Sx,u,S,ux,Sx,uxSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,the@def_art,devel@n,haven@v%pr_3,part@n,on@prep,al@gram_adj,swich@gram_adj,rekeninge@ger%pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,The,devel,have,part,of,al,swich,rekeninges
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,u,Su,Sx,u,S,u,S,uxSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 218,DIFF,green,10,the@def_art,devel@n,haven@v%pr_3,part@n,of@prep,al@gram_adj,swich@gram_adj,rekeninge@ger%pl
 
 "Ye have ynough, pardee, of Goddes sonde;",||,"Ye have ynough, pardee, of Goddes sonde;°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 219,,,10,Ye,have,ynough,pardee,of,Goddes,sonde
@@ -1887,12 +1887,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 236,DIFF,,10,upon@prep,this@gram_adj,queinte@adj,world@n,,me@pron2%obj
 
 For everemoore we moote stonde in drede,||,For evermo we mote° stonde in drede°
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,For,everemoore,we,moote,stonde,in,drede
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,u,SuSux,S,ux,Sx,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,for@conj,ever-mor@adv,we@pron%pl_nom,moten@v2%pr_pl,stonden@v1%inf,in@prep,drede@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,For,evermo,we,mote,stonde,in,drede
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,u,SuS,u,Su,Sx,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,,10,for@conj,,we@pron%pl_nom,moten@v2%pr_pl,stonden@v1%inf,in@prep,drede@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,For,everemoore,we,moote,stonde,in,drede
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,u,SuSux,S,ux,Sx,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,for@conj,ever-mor@adv,we@pron%pl_nom,moten@v2%pr_pl,stonden@v1%inf,in@prep,drede@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,For,evermo,we,mote,stonde,in,drede
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,u,SuS,u,Su,Sx,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 237,DIFF,green,10,for@conj,ever-mor@adv,we@pron%pl_nom,moten@v2%pr_pl,stonden@v1%inf,in@prep,drede@n
 
 Of hap and fortune in oure chapmanhede.,||,Of hap° and fortune in our chapmanhede.°
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 238,,,10,Of,hap,and,fortune,in,oure,chapmanhede
@@ -2036,7 +2036,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 255,DIFF,,10,at@prep,after-dinner@n,daun@n#adj,john@n5#propn,sobreli@adv
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 255,DIFF,,10,At,after,diner,daun,John,sobrely
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 255,DIFF,,10,u,Su,Su,S,u,SuS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 255,DIFF,,10,at@prep,,,daun@n#adj,john@n5#propn,sobreli@adv
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 255,DIFF,,10,at@prep,,diner@n,daun@n#adj,john@n5#propn,sobreli@adv
 
 "This chapman took apart, and prively",||,"This chapman took apart,° and prively°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 256,,,10,This,chapman,took,apart,and,prively
@@ -2460,7 +2460,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 308,DIFF,,10,to@prep,seint-denis@n#propn,comen@v%ppl,ben@v%pr_3,daun@n#adj,john@n5#propn
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 308,DIFF,,10,To,Seint,Denis,ycomen,is,daun,John
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 308,DIFF,,10,u,S,uS,uSu,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 308,DIFF,,10,to@prep,,,comen@v%ppl,ben@v%pr_3,daun@n#adj,john@n5#propn
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 308,DIFF,,10,to@prep,,denis@n#propn,comen@v%ppl,ben@v%pr_3,daun@n#adj,john@n5#propn
 
 With crowne and berd al fressh and newe yshave.,||,With crowne° and berd all fresh and newe yshave.°
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 309,,,10,With,crowne,and,berd,al,fressh,and,newe,yshave
@@ -2604,7 +2604,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 326,DIFF,,10,to@prep,seint-denis@n#propn,he@pron1%nom,ginnen@v%pt_3,for@prep#adv,to@part,repairen@v%inf
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 326,DIFF,,10,To,Seint,Denis,he,gan,for,to,repaire
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 326,DIFF,,10,u,S,uS,u,S,u,S,uSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 326,DIFF,,10,to@prep,,,he@pron1%nom,ginnen@v%pt_3,for@prep#adv,to@prep,repairen@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 326,DIFF,,10,to@prep,,denis@n#propn,he@pron1%nom,ginnen@v%pt_3,for@prep#adv,to@part,repairen@v%inf
 
 "And with his wyf he maketh feeste and cheere,",||,"And with his wif he maketh feste and chere,°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 327,,,10,And,with,his,wyf,he,maketh,feeste,and,cheere
@@ -2631,12 +2631,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 329,,,10,that@conj,nedes@adv,moten@v2%pt_3,he@pron1%nom,maken@v1%inf,a@indef_art,chevisaunce@n
 
 For he was bounden in a reconyssaunce,||,For he was bounde in a reconissaunce°
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,For,he,was,bounden,in,a,reconyssaunce
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,u,S,u,Sx,u,S,uSuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,for@conj,he@pron1%nom,ben@v%pt_3,binden@v%ppl,in@prep,a@indef_art,reconisaunce@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,For,he,was,bounde,in,a,reconissaunce
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,u,S,u,Sx,u,S,uSuSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,,10,for@conj,he@pron1%nom,ben@v%pt_3,,in@prep,a@indef_art,reconisaunce@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,For,he,was,bounden,in,a,reconyssaunce
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,u,S,u,Sx,u,S,uSuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,for@conj,he@pron1%nom,ben@v%pt_3,binden@v%ppl,in@prep,a@indef_art,reconisaunce@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,For,he,was,bounde,in,a,reconissaunce
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,u,S,u,Sx,u,S,uSuSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 330,DIFF,green,10,for@conj,he@pron1%nom,ben@v%pt_3,binden@v%ppl,in@prep,a@indef_art,reconisaunce@n
 
 To paye twenty thousand sheeld anon.,||,To paye twenty thousand sheeld° anon.
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 331,,,9,To,paye,twenty,thousand,sheeld,anon
@@ -2687,12 +2687,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 336,,,0,for@prep,gret@adj,chierte@n,and@conj,gret@adj,affeccioun@n
 
 Unto daun John he first gooth hym to pleye;,||,"Unto daun John he gooth° him first, to pleye;"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,Unto,daun,John,he,first,gooth,hym,to,pleye
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,uS,u,S,u,S,u,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,unto@prep,daun@n#adj,john@n5#propn,he@pron1%nom,first@adv,gon@v%pr_3,him@pron%obj,to@part,pleien@v1%inf
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,Unto,daun,John,he,gooth,him,first,to,pleye
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,uS,u,S,u,S,u,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,,10,unto@prep,daun@n#adj,john@n5#propn,he@pron1%nom,gon@v%pr_3,him@pron%obj,first@adv,to@part,pleien@v1%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,Unto,daun,John,he,first,gooth,hym,to,pleye
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,uS,u,S,u,S,u,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,unto@prep,daun@n#adj,john@n5#propn,he@pron1%nom,first@adv,gon@v%pr_3,him@pron%obj,to@part,pleien@v1%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,Unto,daun,John,he,gooth,him,first,to,pleye
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,uS,u,S,u,S,u,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 337,DIFF,green,10,unto@prep,daun@n#adj,john@n5#propn,he@pron1%nom,gon@v%pr_3,him@pron%obj,first@adv,to@part,pleien@v1%inf
 
 "Nat for to axe or borwe of hym moneye,",||,"Nat for to axe or borwe of him moneye,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 338,,,0,Nat,for,to,axe,or,borwe,of,hym,moneye
@@ -2863,12 +2863,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 358,,,10,upon@prep,your@pron%pl_gen,benche@n,she@pron%nom,witen@v1%pr_1,hit@pron,wel@adv,certain@adv
 
 By certeyn tokenes that I kan hire telle.,||,By certein toknes° that I can yow telle.
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,By,certeyn,tokenes,that,I,kan,hire,telle
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,u,Su,Su,S,u,S,ux,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,bi@prep,certain@adj,tokene@n%pl,that@pron,ich@pron%nom,connen@v%pr_1,hire@pron2%fem_obj,tellen@v%inf
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,By,certein,toknes,that,I,can,yow,telle
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,u,Su,Su,S,u,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,,10,bi@prep,certain@adj,tokene@n%pl,that@pron,ich@pron%nom,connen@v%pr_1,ich@pron%nom,tellen@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,By,certeyn,tokenes,that,I,kan,hire,telle
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,u,Su,Su,S,u,S,ux,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,bi@prep,certain@adj,tokene@n%pl,that@pron,ich@pron%nom,connen@v%pr_1,hire@pron2%fem_obj,tellen@v%inf
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,By,certein,toknes,that,I,can,yow,telle
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,u,Su,Su,S,u,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 359,DIFF,green,10,bi@prep,certain@adj,tokene@n%pl,that@pron,ich@pron%nom,connen@v%pr_1,you@pron%pl_obj,tellen@v%inf
 
 "Now, by youre leve, I may no lenger dwelle;",||,"Now, by your leve, I may no lenger dwelle,°"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 360,,,10,Now,by,youre,leve,I,may,no,lenger,dwelle
@@ -2903,12 +2903,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 363,,,10,greten@v2%imp,wel@adv,oure@pron%pl_gen,dame@n,min@pron%gen,ouen@adj,nece@n,swete@adj
 
 "And fare wel, deere cosyn, til we meete!""",||,"And farwel, dere cosin, til we mete!”"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,And,fare,wel,deere,cosyn,til,we,meete
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,u,Sx,u,Su,Su,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,and@conj,faren@v%imp,wel@adv,dere@adj1,cosine@n,til@conj,we@pron%pl_nom,meten@v4%pr_pl
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,And,farwel,dere,cosin,til,we,mete
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,u,Su,Su,Su,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,,10,and@conj,,dere@adj1,cosine@n,til@conj,we@pron%pl_nom,meten@v4%pr_pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,And,fare,wel,deere,cosyn,til,we,meete
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,u,Sx,u,Su,Su,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,and@conj,faren@v%imp,wel@adv,dere@adj1,cosine@n,til@conj,we@pron%pl_nom,meten@v4%pr_pl
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,And,farwel,dere,cosin,til,we,mete
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,u,Su,Su,Su,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 364,DIFF,green,10,and@conj,farewel@interj,dere@adj1,cosine@n,til@conj,we@pron%pl_nom,meten@v4%pr_pl
 
 "This marchant, which that was ful war and wys,",||,"¶This marchant, which that was ful war° and wis,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 365,,,10,This,marchant,which,that,was,ful,war,and,wys
@@ -2967,12 +2967,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 371,,,10,that@conj,nedes@adv,moten@v2%pt_3,he@pron1%nom,winnen@v%inf,in@prep,that@art&gram_adj,viage@n
 
 A thousand frankes aboven al his costage.,||,A thousand franks above al his costage.°
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,A,thousand,frankes,aboven,al,his,costage
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,u,Su,Sx,uSx,u,S,uSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,a@indef_art,thousand@num_adj,frank@n2%pl,aboven@prep,al@gram_adj,his@pron1%gen,costage@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,A,thousand,franks,above,al,his,costage
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,u,Su,S,uSx,u,S,uSx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,,10,a@indef_art,thousand@num_adj,frank@n2%pl,,al@gram_adj,his@pron1%gen,costage@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,A,thousand,frankes,aboven,al,his,costage
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,u,Su,Sx,uSx,u,S,uSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,a@indef_art,thousand@num_adj,frank@n2%pl,aboven@prep,al@gram_adj,his@pron1%gen,costage@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,A,thousand,franks,above,al,his,costage
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,u,Su,S,uSx,u,S,uSx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 372,DIFF,green,10,a@indef_art,thousand@num_adj,frank@n2%pl,aboven@prep,al@gram_adj,his@pron1%gen,costage@n
 
 "His wyf ful redy mette hym atte gate,",||,"¶His wif ful redy mette him at the gate,"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 373,DIFF,,10,His,wyf,ful,redy,mette,hym,atte,gate
@@ -3148,7 +3148,7 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 394,DIFF,,10,ich@pron%nom,thinken@v2%pt_1,not@adv,to@part,asken@v%inf,him@pron%obj,no@gram_adj,thing@n
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 394,DIFF,,10,I,thoghte,nat,to,axe,of,him,nothing
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 394,DIFF,,10,u,Su,S,u,Sx,u,S,uS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 394,DIFF,,10,ich@pron%nom,thinken@v2%pt_1,not@adv,to@part,,,him@pron%obj,
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 394,DIFF,,10,ich@pron%nom,thinken@v2%pt_1,not@adv,to@part,asken@v%inf,of@prep,him@pron%obj,
 
 "I prey thee, wyf, ne do namoore so;",||,"I pray thee, wif, ne do namoore so;"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 395,,,10,I,prey,thee,wyf,ne,do,namoore,so
@@ -3223,12 +3223,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 403,,,10,ich@pron%nom,kepen@v%pr_1,not@adv,of@prep,his@pron1%gen,tokene@n%pl,never@adv,a@indef_art,del@n2
 
 "He took me certeyn gold, that woot I weel --",||,"He took° me certein° gold, this woot° I weel!"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,He,took,me,certeyn,gold,that,woot,I,weel
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,u,S,u,Su,S,u,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,he@pron1%nom,taken@v%pt_1,me@pron2%obj,certain@adj,gold@n,that@pron,witen@v1%pr_1,ich@pron%nom,wel@adv,--@dash
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,He,took,me,certein,gold,this,woot,I,weel
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,u,S,u,Su,S,u,S,u,S
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,,10,he@pron1%nom,taken@v%pt_1,me@pron2%obj,certain@adj,gold@n,,witen@v1%pr_1,ich@pron%nom,wel@adv
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,He,took,me,certeyn,gold,that,woot,I,weel
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,u,S,u,Su,S,u,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,he@pron1%nom,taken@v%pt_1,me@pron2%obj,certain@adj,gold@n,that@pron,witen@v1%pr_1,ich@pron%nom,wel@adv,--@dash
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,He,took,me,certein,gold,this,woot,I,weel
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,u,S,u,Su,S,u,S,u,S
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 404,DIFF,green,10,he@pron1%nom,taken@v%pt_1,me@pron2%obj,certain@adj,gold@n,--@dash,witen@v1%pr_1,ich@pron%nom,wel@adv
 
 What! Yvel thedam on his monkes snowte!,||,What! ivel° thedom° on his monkes snoute!
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 405,,,10,What,Yvel,thedam,on,his,monkes,snowte
@@ -3415,12 +3415,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 427,,,10,this@gram_adj,marchaunt@n,sen@v1%pt_3,ther@adv,ben@v%pt_3,no@gram_adj,remedie@n
 
 "And for to chide it nere but folie,",||,"And, for to chide,° it ner but° greet folie,"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,And,for,to,chide,it,nere,but,folie
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,u,S,u,Sx,u,Su,S,uS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,and@conj,for@prep#adv,to@part,chiden@v%inf,hit@pron,ben@v%pr_3_neg,but@conj,folie@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,And,for,to,chide,it,ner,but,greet,folie
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,u,S,u,Sx,u,S,u,S,uS
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,,10,and@conj,for@prep#adv,to@part,chiden@v%inf,hit@pron,ben@v%pr_3_neg,but@conj,,folie@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,And,for,to,chide,it,nere,but,folie
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,u,S,u,Sx,u,Su,S,uS
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,and@conj,for@prep#adv,to@part,chiden@v%inf,hit@pron,ben@v%pr_3_neg,but@conj,folie@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,And,for,to,chide,it,ner,but,greet,folie
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,u,S,u,Sx,u,S,u,S,uS
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 428,DIFF,green,10,and@conj,for@prep#adv,to@part,chiden@v%inf,hit@pron,ben@v%pr_3_neg,but@conj,gret@adj,folie@n
 
 Sith that the thyng may nat amended be.,||,Sith that the thing may nat amended be.
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 429,,,10,Sith,that,the,thyng,may,nat,amended,be
@@ -3447,12 +3447,12 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 431,,,10,but@conj,bi@prep,thin@pron%gen,lif@n,ne@adv,ben@v%imp,no_more@adv%comp,so@adv,large@adj
 
 "Keep bet thy good, this yeve I thee in charge.""",||,"Keep bet° our good,° this yeve I thee in charge.”"
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,Keep,bet,thy,good,this,yeve,I,thee,in,charge
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,kepen@v%imp,bet@adv%comp,thin@pron%gen,god@n2,this@pron,yeven@v%pr_1,ich@pron%nom,the@pron2%obj,in@prep,charge@n
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,Keep,bet,our,good,this,yeve,I,thee,in,charge
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,u,S,u,S,u,Sx,u,S,u,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,,10,kepen@v%imp,bet@adv%comp,,god@n2,this@pron,yeven@v%pr_1,ich@pron%nom,thin@pron%gen,in@prep,charge@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,Keep,bet,thy,good,this,yeve,I,thee,in,charge
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,u,S,u,S,u,Sx,u,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,kepen@v%imp,bet@adv%comp,thin@pron%gen,god@n2,this@pron,yeven@v%pr_1,ich@pron%nom,the@pron2%obj,in@prep,charge@n
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,Keep,bet,our,good,this,yeve,I,thee,in,charge
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,u,S,u,S,u,Sx,u,S,u,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 432,DIFF,green,10,kepen@v%imp,bet@adv%comp,oure@pron%pl_gen,god@n2,this@pron,yeven@v%pr_1,ich@pron%nom,thin@pron%gen,in@prep,charge@n
 
 "Thus endeth my tale, and God us sende",||,"Thus endeth now my tale, and God us sende"
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 433,DIFF,,9,Thus,endeth,my,tale,and,God,us,sende
@@ -3463,10 +3463,10 @@ data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/Sh
 data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 433,DIFF,,10,thus@adv,enden@v%pr_3,,min@pron%gen,tale@n,and@conj,god@n1#propn,us@pron%pl_obj,senden@v2%pr_3
 
 Taillynge ynough unto oure lyves ende. Amen,||,Taillinge° ynough unto our lives ende.
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,11,Taillynge,ynough,unto,oure,lyves,ende,Amen
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,11,uSx,uS,uS,ux,Su,Sx,ux
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,11,taillinge@ger,inough@adj,unto@prep,oure@pron%pl_gen,lif@n%gen,ende@n1,amen@interj
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,10,Taillinge,ynough,unto,our,lives,ende
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,10,uSx,uS,uS,u,Su,Sx
-data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,,10,taillinge@ger,inough@adj,unto@prep,oure@pron%pl_gen,lif@n%gen,ende@n1
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,11,Taillynge,ynough,unto,oure,lyves,ende,Amen
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,11,uSx,uS,uS,ux,Su,Sx,ux
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,11,taillinge@ger,inough@adj,unto@prep,oure@pron%pl_gen,lif@n%gen,ende@n1,amen@interj
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,10,Taillinge,ynough,unto,our,lives,ende
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,10,uSx,uS,uS,u,Su,Sx
+data/riverside_cats/ShipT_riv.cat,data/oxford_txts/ShipT_oxford.txt,data/csvs/ShipT,The Shipman's Tale 434,DIFF,green,10,taillinge@ger,inough@adj,unto@prep,oure@pron%pl_gen,lif@n%gen,ende@n1
 

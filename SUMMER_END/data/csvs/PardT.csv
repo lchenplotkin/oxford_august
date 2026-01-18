@@ -1,10 +1,10 @@
 In Flaundres whilom was a compaignye,||,¶In Flaundres whilom° was a companie
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,0,In,Flaundres,whilom,was,a,compaignye
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,0,,,,,,
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,0,in@prep,flaundres@n#propn,whilom@adv,ben@v%pt_3,a@indef_art,compaignie@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,10,In,Flaundres,whilom,was,a,companie
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,10,u,Su,Su,S,u,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,DIFF,,10,in@prep,flaundres@n#propn,whilom@adv,ben@v%pt_3,a@indef_art,compaignie@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,0,In,Flaundres,whilom,was,a,compaignye
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,0,,,,,,
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,0,in@prep,flaundres@n#propn,whilom@adv,ben@v%pt_3,a@indef_art,compaignie@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,10,In,Flaundres,whilom,was,a,companie
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,10,u,Su,Su,S,u,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 463,,,10,in@prep,flaundres@n#propn,whilom@adv,ben@v%pt_3,a@indef_art,compaignie@n
 
 "Of yonge folk that haunteden folye,",||,"Of yonge folk, that haunteden° folie,"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 464,,,0,Of,yonge,folk,that,haunteden,folye
@@ -23,28 +23,28 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 465,,,10,as@conj,riote@n,hasard@n,steue@n2%pl,and@conj,taverne@n%pl
 
 "Where as with harpes, lutes, and gyternes,",||,"Wheras,° with harpes, lutes, and giternes,°"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,Where,as,with,harpes,lutes,and,gyternes
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,ux,S,u,Su,Su,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,wher@adv&conj,as@conj,with@prep,harpe@n%pl,lute@n1%pl,and@conj,giterne@n%pl
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,Wheras,with,harpes,lutes,and,giternes
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,uS,u,Su,Su,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,,10,,with@prep,harpe@n%pl,lute@n1%pl,and@conj,giterne@n%pl
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,Where,as,with,harpes,lutes,and,gyternes
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,ux,S,u,Su,Su,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,wher@adv&conj,as@conj,with@prep,harpe@n%pl,lute@n1%pl,and@conj,giterne@n%pl
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,Wheras,with,harpes,lutes,and,giternes
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,uS,u,Su,Su,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 466,DIFF,green,10,wher-as@adv,with@prep,harpe@n%pl,lute@n1%pl,and@conj,giterne@n%pl
 
 "They daunce and pleyen at dees bothe day and nyght,",||,"They daunce and pleye at dees° both day and night,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,0,They,daunce,and,pleyen,at,dees,bothe,day,and,nyght
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,0,,,,,,,,,,
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,0,thei@pron%pl_nom,dauncen@v%pr_pl,and@conj,pleien@v1%pr_pl,at@prep,de@n%pl,bothe@num_conj,dai@n,and@conj,night@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,10,They,daunce,and,pleye,at,dees,both,day,and,night
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,10,u,Sx,u,S,u,S,u,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,,10,thei@pron%pl_nom,dauncen@v%pr_pl,and@conj,,at@prep,de@n%pl,bothe@num_conj,dai@n,and@conj,night@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,0,They,daunce,and,pleyen,at,dees,bothe,day,and,nyght
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,0,,,,,,,,,,
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,0,thei@pron%pl_nom,dauncen@v%pr_pl,and@conj,pleien@v1%pr_pl,at@prep,de@n%pl,bothe@num_conj,dai@n,and@conj,night@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,10,They,daunce,and,pleye,at,dees,both,day,and,night
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,10,u,Sx,u,S,u,S,u,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 467,DIFF,green,10,thei@pron%pl_nom,dauncen@v%pr_pl,and@conj,pleien@v1%pr_pl,at@prep,de@n%pl,bothe@num_conj,dai@n,and@conj,night@n
 
 "And eten also and drynken over hir myght,",||,"And ete also and drinke over hir might,°"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,And,eten,also,and,drynken,over,hir,myght
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,u,Su,Su,S,ux,Sx,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,and@conj,eten@v%pr_pl,also@adv,and@conj,drinken@v%pr_pl,over@prep,here@pron%pl_gen,might@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,And,ete,also,and,drinke,over,hir,might
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,u,Sx,uS,u,Sx,uS,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,,10,and@conj,,also@adv,and@conj,,over@prep,here@pron%pl_gen,might@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,And,eten,also,and,drynken,over,hir,myght
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,u,Su,Su,S,ux,Sx,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,and@conj,eten@v%pr_pl,also@adv,and@conj,drinken@v%pr_pl,over@prep,here@pron%pl_gen,might@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,And,ete,also,and,drinke,over,hir,might
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,u,Sx,uS,u,Sx,uS,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 468,DIFF,green,10,and@conj,eten@v%pr_pl,also@adv,and@conj,drinken@v%pr_pl,over@prep,here@pron%pl_gen,might@n
 
 Thurgh which they doon the devel sacrifise,||,Thurgh which they doon° the devel sacrifise
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 469,,,10,Thurgh,which,they,doon,the,devel,sacrifise
@@ -95,12 +95,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 474,,,10,oure@pron%pl_gen,blessed@ppl#adj,lord@n%gen,bodi@n,thei@pron%pl_nom,toteren@v%pt_pl,--@dash
 
 Hem thoughte that Jewes rente hym noght ynough --,||,Hem thoughte° Jewes rente° him noght ynough;
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,Hem,thoughte,that,Jewes,rente,hym,noght,ynough
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,u,Sx,u,Su,Sx,u,S,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,hem@pron%pl_obj,thinken@v1%pt_3,that@conj,jeu@n%pl,renden@v2%pt_pl,him@pron%obj,nought@adv,inough@adv,--@dash
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,Hem,thoughte,Jewes,rente,him,noght,ynough
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,u,Su,Su,Sx,u,S,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,,10,hem@pron%pl_obj,thinken@v1%pt_3,jeu@n%pl,renden@v2%pt_pl,hem@pron%pl_obj,nought@adv,inough@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,Hem,thoughte,that,Jewes,rente,hym,noght,ynough
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,u,Sx,u,Su,Sx,u,S,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,hem@pron%pl_obj,thinken@v1%pt_3,that@conj,jeu@n%pl,renden@v2%pt_pl,him@pron%obj,nought@adv,inough@adv,--@dash
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,Hem,thoughte,Jewes,rente,him,noght,ynough
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,u,Su,Su,Sx,u,S,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 475,DIFF,green,10,hem@pron%pl_obj,thinken@v1%pt_3,jeu@n%pl,renden@v2%pt_pl,him@pron%obj,nought@adv,inough@adv
 
 And ech of hem at otheres synne lough.,||,And ech of hem at otheres sinne lough.°
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 476,,,10,And,ech,of,hem,at,otheres,synne,lough
@@ -231,12 +231,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 491,,,10,to@part,slen@v%inf,the@def_art,baptist@n1#propn,john@n4#propn,ful@adv,giltles@adv
 
 Senec seith a good word doutelees;,||,Senek° seith eek a good word doutelees;°
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,9,Senec,seith,a,good,word,doutelees
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,9,Su,S,u,S,u,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,9,senec@n#propn,seien@v1%pr_3,a@indef_art,god@adj,word@n,douteles@adv
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,10,Senek,seith,eek,a,good,word,doutelees
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,10,uS,u,S,u,S,u,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,,10,senec@n#propn,seien@v1%pr_3,,a@indef_art,god@adj,word@n,douteles@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,9,Senec,seith,a,good,word,doutelees
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,9,Su,S,u,S,u,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,9,senec@n#propn,seien@v1%pr_3,a@indef_art,god@adj,word@n,douteles@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,10,Senek,seith,eek,a,good,word,doutelees
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,10,uS,u,S,u,S,u,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 492,DIFF,green,10,senec@n#propn,seien@v1%pr_3,ek@adv,a@indef_art,god@adj,word@n,douteles@adv
 
 He seith he kan no difference fynde,||,"He seith, he can no difference finde"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 493,,,10,He,seith,he,kan,no,difference,fynde
@@ -551,12 +551,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 531,,,10,ich@pron%nom,seien@v1%pr_1,hit@pron,nou@adv,wepen@v%prp_abs,with@prep,pitous@adj,voice@n,--@dash
 
 "They been enemys of Cristes croys,",||,"Ther been enemis of Cristes crois,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,They,been,enemys,of,Cristes,croys
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,S,u,SuS,u,Su,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,thei@pron%pl_nom,ben@v%pr_pl,enemi@n%pl,of@prep,crist@n#propn%gen,crois@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,Ther,been,enemis,of,Cristes,crois
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,S,u,SuS,u,Su,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,,9,,ben@v%pr_pl,enemi@n%pl,of@prep,crist@n#propn%gen,crois@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,They,been,enemys,of,Cristes,croys
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,S,u,SuS,u,Su,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,thei@pron%pl_nom,ben@v%pr_pl,enemi@n%pl,of@prep,crist@n#propn%gen,crois@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,Ther,been,enemis,of,Cristes,crois
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,S,u,SuS,u,Su,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 532,DIFF,green,9,ther@adv,ben@v%pr_pl,enemi@n%pl,of@prep,crist@n#propn%gen,crois@n
 
 "Of whiche the ende is deeth; wombe is hir god!""",||,"Of which the ende is deeth, wombe is her° God.”"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 533,,,10,Of,whiche,the,ende,is,deeth,wombe,is,hir,god
@@ -671,12 +671,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 546,,,10,to@part,maken@v1%inf,him@pron%obj,yet@adv,a@indef_art,neue@adj%comp,appetit@n
 
 "But, certes, he that haunteth swiche delices",||,"But certes, he that haunteth° swich delices°"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,But,certes,he,that,haunteth,swiche,delices
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,u,Su,S,u,Su,Sx,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,but@conj,certes@adv,he@pron1%nom,that@pron,haunten@v1%pr_3,swich@gram_adj,delice@n%pl
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,But,certes,he,that,haunteth,swich,delices
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,u,Su,S,u,Su,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,,,10,but@conj,certes@adv,he@pron1%nom,that@pron,haunten@v1%pr_3,swich@gram_adj,delice@n%pl
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,But,certes,he,that,haunteth,swiche,delices
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,u,Su,S,u,Su,Sx,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,but@conj,certes@adv,he@pron1%nom,that@pron,haunten@v1%pr_3,swich@gram_adj,delice@n%pl
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,But,certes,he,that,haunteth,swich,delices
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,u,Su,S,u,Su,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 547,DIFF,green,10,but@conj,certes@adv,he@pron1%nom,that@pron,haunten@v1%pr_3,swich@gram_adj,delice@n%pl
 
 "Is deed, whil that he lyveth in tho vices.",||,Is deed whil that he liveth in tho vices.
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 548,,,10,Is,deed,whil,that,he,lyveth,in,tho,vices
@@ -815,12 +815,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 564,,,10,that@pron,ben@v%pr_3,to@part,sellen@v%inf,in@prep,fisshstrete@n#propn,or@conj,in@prep,chep@n2#propn
 
 This wyn of Spaigne crepeth subtilly,||,This win of Spaine crepeth subtilly
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,This,wyn,of,Spaigne,crepeth,subtilly
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,u,S,u,Su,Su,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,this@gram_adj,win@n,of@prep,spaine@n#propn,crepen@v%pr_3,sotilli@adv
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,This,win,of,Spaine,crepeth,subtilly
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,u,S,u,Su,Su,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,,10,this@gram_adj,win@n,of@prep,,crepen@v%pr_3,sotilli@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,This,wyn,of,Spaigne,crepeth,subtilly
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,u,S,u,Su,Su,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,this@gram_adj,win@n,of@prep,spaine@n#propn,crepen@v%pr_3,sotilli@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,This,win,of,Spaine,crepeth,subtilly
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,u,S,u,Su,Su,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 565,DIFF,green,10,this@gram_adj,win@n,of@prep,spaine@n#propn,crepen@v%pr_3,sotilli@adv
 
 "In othere wynes, growynge faste by,",||,"In othere wines, growing faste by,"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 566,,,10,In,othere,wynes,growynge,faste,by
@@ -855,12 +855,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 569,,,10,and@conj,wenen@v2%pr_3,that@conj,he@pron1%nom,ben@v%pr_3,at@prep,hom@n,in@prep,chep@n2#propn
 
 "He is in Spaigne, right at the toune of Lepe --",||,"He is in Spaine, right at the toune of Lepe,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,He,is,in,Spaigne,right,at,the,toune,of,Lepe
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,u,S,u,Sx,u,S,u,Sx,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,he@pron1%nom,ben@v%pr_3,in@prep,spaine@n#propn,righte@adv,at@prep,the@def_art,toun@n,of@prep,lepe@n#propn,--@dash
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,He,is,in,Spaine,right,at,the,toune,of,Lepe
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,u,S,u,Sx,u,S,u,Sx,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,,10,he@pron1%nom,ben@v%pr_3,in@prep,,righte@adv,at@prep,the@def_art,toun@n,of@prep,lepe@n#propn
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,He,is,in,Spaigne,right,at,the,toune,of,Lepe
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,he@pron1%nom,ben@v%pr_3,in@prep,spaine@n#propn,righte@adv,at@prep,the@def_art,toun@n,of@prep,lepe@n#propn,--@dash
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,He,is,in,Spaine,right,at,the,toune,of,Lepe
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,u,S,u,Sx,u,S,u,Sx,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 570,DIFF,green,10,he@pron1%nom,ben@v%pr_3,in@prep,spaine@n#propn,righte@adv,at@prep,the@def_art,toun@n,of@prep,lepe@n#propn
 
 "Nat at the Rochele, ne at Burdeux toun --",||,Nat at the Rochel ne at Burdeux toun;
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 571,,,10,Nat,at,the,Rochele,ne,at,Burdeux,toun
@@ -1007,12 +1007,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 588,,,10,no_more@n,of@prep,this@pron,for@conj,hit@pron,mouen@v3%pr_3,wel@adv,suffisen@v%inf
 
 "And now that I have spoken of glotonye,",||,"¶And now that I have spoke of glotonie,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,0,And,now,that,I,have,spoken,of,glotonye
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,0,,,,,,,,
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,0,and@conj,nou@conj,that@part,ich@pron%nom,haven@v%pr_1,speken@v%ppl,of@prep,glotonie@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,10,And,now,that,I,have,spoke,of,glotonie
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,10,u,S,u,S,ux,Sx,u,SuS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,,10,and@conj,nou@conj,that@part,ich@pron%nom,haven@v%pr_1,,of@prep,glotonie@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,0,And,now,that,I,have,spoken,of,glotonye
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,0,,,,,,,,
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,0,and@conj,nou@conj,that@part,ich@pron%nom,haven@v%pr_1,speken@v%ppl,of@prep,glotonie@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,10,And,now,that,I,have,spoke,of,glotonie
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,10,u,S,u,S,ux,Sx,u,SuS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 589,DIFF,green,10,and@conj,nou@conj,that@part,ich@pron%nom,haven@v%pr_1,speken@v%ppl,of@prep,glotonie@n
 
 Now wol I yow deffenden hasardrye.,||,Now wol I yow defenden° hasardrie.°
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 590,,,0,Now,wol,I,yow,deffenden,hasardrye
@@ -1191,12 +1191,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 611,,,10,and@conj,seien@v1%pt_3,ther@adv,willen@v%pr_1,ich@pron%nom,not@adv,lesen@v4%inf,min@pron%gen,name@n
 
 "Ne I wol nat take on me so greet defame,",||,"N’I wol nat° take on me so greet defame,°"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,Ne,I,wol,nat,take,on,me,so,greet,defame
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,u,S,u,S,ux,S,x,u,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,ne@conj1,ich@pron%nom,willen@v%pr_1,not@adv,taken@v%inf,on@prep,me@pron2%obj,so@adv,gret@adj,defame@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,NI,wol,nat,take,on,me,so,greet,defame
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,u,S,u,Sx,u,S,u,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,,10,ne@conj1,willen@v%pr_1,not@adv,taken@v%inf,ne@conj1,me@pron2%obj,so@adv,gret@adj,defame@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,Ne,I,wol,nat,take,on,me,so,greet,defame
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,u,S,u,S,ux,S,x,u,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,ne@conj1,ich@pron%nom,willen@v%pr_1,not@adv,taken@v%inf,on@prep,me@pron2%obj,so@adv,gret@adj,defame@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,NI,wol,nat,take,on,me,so,greet,defame
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,u,S,u,Sx,u,S,u,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 612,DIFF,green,10,ne@conj1,willen@v%pr_1,not@adv,taken@v%inf,on@prep,me@pron2%obj,so@adv,gret@adj,defame@n
 
 Yow for to allie unto none hasardours.,||,Yow for t’allie unto° none hasardours.
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 613,DIFF,,10,Yow,for,to,allie,unto,none,hasardours
@@ -1927,12 +1927,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 703,,,10,to@part,liven@v1%inf,and@conj,dien@v%inf,ech@pron,of@prep,hem@pron%pl_obj,for@prep,other@pron
 
 As though he were his owene ybore brother.,||,As though he were his owene yboren brother.
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,As,though,he,were,his,owene,ybore,brother
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,u,S,u,Sx,u,Sux,Sux,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,as@conj,though@conj,he@pron1%nom,ben@v%pt_3,his@pron1%gen,ouen@adj,iberen@v1#adj%ppl,brother@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,As,though,he,were,his,owene,yboren,brother
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,u,S,u,Sx,u,Sux,Sux,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,,10,as@conj,though@conj,he@pron1%nom,ben@v%pt_3,his@pron1%gen,ouen@adj,,brother@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,As,though,he,were,his,owene,ybore,brother
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,u,S,u,Sx,u,Sux,Sux,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,as@conj,though@conj,he@pron1%nom,ben@v%pt_3,his@pron1%gen,ouen@adj,iberen@v1#adj%ppl,brother@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,As,though,he,were,his,owene,yboren,brother
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,u,S,u,Sx,u,Sux,Sux,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 704,DIFF,green,10,as@conj,though@conj,he@pron1%nom,ben@v%pt_3,his@pron1%gen,ouen@adj,iberen@v1%ppl,brother@n
 
 "And up they stirte, al dronken in this rage,",||,"And up they sterte° al° dronken, in this rage,°"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 705,,,10,And,up,they,stirte,al,dronken,in,this,rage
@@ -2079,12 +2079,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 722,,,10,a@indef_art,man@n,though@conj,that@part,ich@pron%nom,walken@v1%pt_1,in-to@prep,inde@n1#propn
 
 "Neither in citee ne in no village,",||,"Neither in citee nor in no village,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,Neither,in,citee,ne,in,no,village
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,uS,u,Su,S,u,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,neither@conj,in@prep,cite@n,ne@conj1,in@prep,no@gram_adj,village@n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,Neither,in,citee,nor,in,no,village
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,uS,u,Su,S,u,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,,10,neither@conj,in@prep,cite@n,,in@prep,in@prep,village@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,Neither,in,citee,ne,in,no,village
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,uS,u,Su,S,u,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,neither@conj,in@prep,cite@n,ne@conj1,in@prep,no@gram_adj,village@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,Neither,in,citee,nor,in,no,village
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,uS,u,Su,S,u,S,uSx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 723,DIFF,green,10,neither@conj,in@prep,cite@n,nor@conj,ne@conj1,in@prep,village@n
 
 That wolde chaunge his youthe for myn age;,||,That wolde chaunge° his youthe for min age;
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 724,,,10,That,wolde,chaunge,his,youthe,for,myn,age
@@ -2263,12 +2263,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 745,,,10,ne@conj1,don@v1%imp,unto@prep,a@indef_art,olde@adj,man@n,non@gram_adj,harm@n,nou@adv
 
 Namoore than that ye wolde men did to yow,||,Namore than ye wold° men did to yow
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,Namoore,than,that,ye,wolde,men,did,to,yow
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,uSx,u,S,u,Sx,u,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,no_more@adv%comp,than@conj,that@part,ye@pron%pl_nom,willen@v%pt_pl,man@n%pl,don@v1%pt_pl,to@prep,you@pron%pl_obj
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,Namore,than,ye,wold,men,did,to,yow
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,uSu,S,u,S,u,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,,10,no_more@adv%comp,than@conj,ye@pron%pl_nom,willen@v%pt_pl,man@n%pl,don@v1%pt_pl,to@prep,ye@pron%pl_nom
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,Namoore,than,that,ye,wolde,men,did,to,yow
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,uSx,u,S,u,Sx,u,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,no_more@adv%comp,than@conj,that@part,ye@pron%pl_nom,willen@v%pt_pl,man@n%pl,don@v1%pt_pl,to@prep,you@pron%pl_obj
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,Namore,than,ye,wold,men,did,to,yow
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,uSu,S,u,S,u,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 746,DIFF,green,10,no_more@adv%comp,than@conj,ye@pron%pl_nom,willen@v%pt_pl,man@n%pl,don@v1%pt_pl,to@prep,you@pron%pl_obj
 
 "In age, if that ye so longe abyde.",||,"In age, if that ye so longe abide;°"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 747,,,10,In,age,if,that,ye,so,longe,abyde
@@ -2407,12 +2407,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 763,,,10,under@prep,a@indef_art,tre@n,and@conj,ther@adv,he@pron1%nom,willen@v%pr_3,abiden@v%inf
 
 Noght for youre boost he wole him no thyng hyde.,||,Nat for your boost° he wol him no thing° hide.
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,Noght,for,youre,boost,he,wole,him,no,thyng,hyde
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,u,S,ux,S,u,Sx,u,S,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,nought@adv,for@prep,your@pron%pl_gen,bost@n,he@pron1%nom,willen@v%pr_3,him@pron%obj,no@gram_adj,thing@n,hiden@v%inf
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,Nat,for,your,boost,he,wol,him,no,thing,hide
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,u,S,u,S,u,S,u,S,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,,10,,for@prep,your@pron%pl_gen,bost@n,he@pron1%nom,willen@v%pr_3,him@pron%obj,no@gram_adj,thing@n,hiden@v%inf
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,Noght,for,youre,boost,he,wole,him,no,thyng,hyde
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,u,S,ux,S,u,Sx,u,S,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,nought@adv,for@prep,your@pron%pl_gen,bost@n,he@pron1%nom,willen@v%pr_3,him@pron%obj,no@gram_adj,thing@n,hiden@v%inf
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,Nat,for,your,boost,he,wol,him,no,thing,hide
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,u,S,u,S,u,S,u,S,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 764,DIFF,green,10,not@adv,for@prep,your@pron%pl_gen,bost@n,he@pron1%nom,willen@v%pr_3,him@pron%obj,no@gram_adj,thing@n,hiden@v%inf
 
 Se ye that ook? Right there ye shal hym fynde.,||,See ye that ook?° right ther ye shul him finde.
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 765,,,10,Se,ye,that,ook,Right,there,ye,shal,hym,fynde
@@ -2511,12 +2511,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 776,,,10,the@def_art,werste@n,of@prep,hem@pron%pl_obj,he@pron1%nom,speken@v%pt_3,the@def_art,first@num_adj,word@n
 
 """Bretheren,"" quod he, ""taak kep what that I seye;",||,"“Brethren,” quod he, “tak kepe° what I seye;"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,Bretheren,quod,he,taak,kep,what,that,I,seye
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,uSx,u,S,u,S,u,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,brother@n%pl,quethen@v%pt_3,he@pron1%nom,taken@v%imp,kep@n,what@pron,that@pron,ich@pron%nom,seien@v1%pr_1
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,Brethren,quod,he,tak,kepe,what,I,seye
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,uS,u,S,u,Su,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,,10,brother@n%pl,quethen@v%pt_3,he@pron1%nom,taken@v%imp,kep@n,what@pron,ich@pron%nom,seien@v1%pr_1
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,Bretheren,quod,he,taak,kep,what,that,I,seye
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,uSx,u,S,u,S,u,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,brother@n%pl,quethen@v%pt_3,he@pron1%nom,taken@v%imp,kep@n,what@pron,that@pron,ich@pron%nom,seien@v1%pr_1
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,Brethren,quod,he,tak,kepe,what,I,seye
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,uS,u,S,u,Su,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 777,DIFF,green,10,brother@n%pl,quethen@v%pt_3,he@pron1%nom,taken@v%imp,kep@n,what@pron,ich@pron%nom,seien@v1%pr_1
 
 "My wit is greet, though that I bourde and pleye.",||,"My wit° is greet, though that I bourde° and pleye."
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 778,,,10,My,wit,is,greet,though,that,I,bourde,and,pleye
@@ -2535,12 +2535,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 779,,,11,this@gram_adj,tresour@n,haven@v%pr_3,fortune@n#propn,unto@prep,us@pron%pl_obj,yeven@v%ppl
 
 "In myrthe and joliftee oure lyf to lyven,",||,"In mirthe and jolitee our lif to liven,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,In,myrthe,and,joliftee,oure,lyf,to,lyven
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,u,Sx,u,SuS,ux,S,u,Su
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,in@prep,mirthe@n,and@conj,jolite@n,oure@pron%pl_gen,lif@n,to@part,liven@v1%inf
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,In,mirthe,and,jolitee,our,lif,to,liven
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,u,Sx,u,SuS,u,S,u,Su
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,,11,in@prep,mirthe@n,and@conj,,oure@pron%pl_gen,lif@n,to@part,liven@v1%inf
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,In,myrthe,and,joliftee,oure,lyf,to,lyven
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,u,Sx,u,SuS,ux,S,u,Su
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,in@prep,mirthe@n,and@conj,jolite@n,oure@pron%pl_gen,lif@n,to@part,liven@v1%inf
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,In,mirthe,and,jolitee,our,lif,to,liven
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,u,Sx,u,SuS,u,S,u,Su
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 780,DIFF,green,11,in@prep,mirthe@n,and@conj,jolite@n,oure@pron%pl_gen,lif@n,to@part,liven@v1%inf
 
 "And lightly as it comth, so wol we spende.",||,"And lightly° as it comth,° so wol we spende."
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 781,,,10,And,lightly,as,it,comth,so,wol,we,spende
@@ -2703,12 +2703,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 800,,,10,whan@adv&conj,hit@pron,ben@v%pr_3,night@n,we@pron%pl_nom,willen@v%pr_3,this@gram_adj,tresour@n,carien@v%inf
 
 "By oon assent, where as us thynketh best.""",||,"By oon assent,° wheras° us thinketh° best.”"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,By,oon,assent,where,as,us,thynketh,best
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,u,S,uS,ux,S,u,Su,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,bi@prep,on@num_adj,assent@n,wher@adv&conj,as@conj,us@pron%pl_obj,thinken@v1%pr_3,best@adjas_n%sup
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,By,oon,assent,wheras,us,thinketh,best
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,u,S,uS,uS,u,Su,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,,10,bi@prep,on@num_adj,assent@n,,as@conj,thinken@v1%pr_3,best@adjas_n%sup
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,By,oon,assent,where,as,us,thynketh,best
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,u,S,uS,ux,S,u,Su,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,bi@prep,on@num_adj,assent@n,wher@adv&conj,as@conj,us@pron%pl_obj,thinken@v1%pr_3,best@adjas_n%sup
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,By,oon,assent,wheras,us,thinketh,best
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,u,S,uS,uS,u,Su,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 801,DIFF,green,10,bi@prep,on@num_adj,assent@n,wher-as@adv,as@conj,thinken@v1%pr_3,best@adjas_n%sup
 
 "That oon of hem the cut broghte in his fest,",||,"¶That oon of hem the cut broughte in his fest,°"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 802,,,10,That,oon,of,hem,the,cut,broghte,in,his,fest
@@ -2836,7 +2836,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 817,DIFF,,9,he@pron1%nom,witen@v1%pr_3,that@conj,the@def_art,gold@n,ben@v%pr_3,with@prep,us@pron%pl_obj,twein@num_n
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 817,DIFF,,10,He,woot,how,that,the,gold,is,with,us,tweye
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 817,DIFF,,10,u,S,u,S,u,S,u,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 817,DIFF,,10,he@pron1%nom,witen@v1%pr_3,he@pron1%nom,that@conj,the@def_art,gold@n,ben@v%pr_3,with@prep,ben@v%pr_3,twein@num_n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 817,DIFF,,10,he@pron1%nom,witen@v1%pr_3,,that@conj,the@def_art,gold@n,ben@v%pr_3,with@prep,us@pron%pl_obj,twein@num_n
 
 "What shal we doon? What shal we to hym seye?""",||,"What shal we doon, what shal we to him seye?”"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 818,,,10,What,shal,we,doon,What,shal,we,to,hym,seye
@@ -2903,12 +2903,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 825,,,10,and@conj,two@num_n,of@prep,us@pron%pl_obj,shulen@v1%pr_pl,strengere@adj%comp,ben@v%inf,than@conj,on@pron
 
 "Looke whan that he is set, that right anoon",||,"Look whan that he is set,° and right anoon"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,Looke,whan,that,he,is,set,that,right,anoon
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,ux,S,u,S,u,S,u,S,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,loken@v2%imp,whan@adv&conj,that@part,he@pron1%nom,ben@v%pr_3,setten@v%ppl,that@conj,righte@adv,an-on@adv
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,Look,whan,that,he,is,set,and,right,anoon
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,u,S,u,S,u,S,u,S,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,,10,loken@v2%imp,whan@adv&conj,that@part,he@pron1%nom,ben@v%pr_3,setten@v%ppl,,righte@adv,an-on@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,Looke,whan,that,he,is,set,that,right,anoon
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,ux,S,u,S,u,S,u,S,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,loken@v2%imp,whan@adv&conj,that@part,he@pron1%nom,ben@v%pr_3,setten@v%ppl,that@conj,righte@adv,an-on@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,Look,whan,that,he,is,set,and,right,anoon
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,u,S,u,S,u,S,u,S,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 826,DIFF,green,10,loken@v2%imp,whan@adv&conj,that@part,he@pron1%nom,ben@v%pr_3,setten@v%ppl,and@conj,righte@adv,an-on@adv
 
 "Arys as though thou woldest with hym pleye,",||,"Aris,° as though thou woldest with him pleye;"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 827,,,10,Arys,as,though,thou,woldest,with,hym,pleye
@@ -3076,7 +3076,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 847,DIFF,,10,for-whi@conj,the@def_art,fend@n,finden@v%pt_3,him@pron%obj,in@prep,swich@gram_adj,livinge@ger
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 847,DIFF,,10,For,why,the,feend,fond,him,in,swich,livinge
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 847,DIFF,,10,u,S,u,S,u,S,u,S,uSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 847,DIFF,,10,,,the@def_art,fend@n,fend@n,him@pron%obj,in@prep,swich@gram_adj,livinge@ger
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 847,DIFF,,10,,,the@def_art,fend@n,finden@v%pt_3,him@pron%obj,in@prep,swich@gram_adj,livinge@ger
 
 That he hadde leve him to sorwe brynge.,||,"That he had leve° him to sorwe bringe,"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 848,,,10,That,he,hadde,leve,him,to,sorwe,brynge
@@ -3188,7 +3188,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 861,DIFF,,10,in@prep,al@gram_adj,this@gram_adj,world@n,ther@adv,ben@v%pr_3,no@gram_adj,creature@n
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 861,DIFF,,10,In,al,this,world,ther,nis,no,creature
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 861,DIFF,,10,u,S,u,S,u,S,u,SuSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 861,DIFF,,10,in@prep,al@gram_adj,this@gram_adj,world@n,ther@adv,,in@prep,creature@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 861,DIFF,,10,in@prep,al@gram_adj,this@gram_adj,world@n,ther@adv,,no@gram_adj,creature@n
 
 That eten or dronken hath of this confiture,||,That ete or dronke hath of this confiture°
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,That,eten,or,dronken,hath,of,this,confiture
@@ -3196,7 +3196,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,that@pron,eten@v%ppl,or@conj,drinken@v%ppl,haven@v%pr_3,of@prep,this@gram_adj,confiture@n
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,That,ete,or,dronke,hath,of,this,confiture
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,u,Sx,u,Sx,u,S,u,SuSx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,that@pron,,or@conj,,haven@v%pr_3,of@prep,this@gram_adj,confiture@n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 862,DIFF,,10,that@pron,,or@conj,drinken@v%ppl,haven@v%pr_3,of@prep,this@gram_adj,confiture@n
 
 "Noght but the montance of a corn of whete,",||,"Noght but the mountance° of a corn° of whete,"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 863,,,10,Noght,but,the,montance,of,a,corn,of,whete
@@ -3623,12 +3623,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 915,,,10,as@conj,ye@pron%pl_nom,ben@v%pt_pl,beren@v1%ppl,--@dash,and@conj,lo@interj,sire@n%pl,thus@adv,ich@pron%nom,prechen@v%pr_1
 
 "And Jhesu Crist, that is oure soules leche,",||,"And Jesu Crist, that is our soules leche,°"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,And,Jhesu,Crist,that,is,oure,soules,leche
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,u,Su,S,u,S,ux,Su,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,and@conj,jesu@n1#propn,crist@n#propn,that@pron,ben@v%pr_3,oure@pron%pl_gen,soule@n%gen,leche@n3
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,And,Jesu,Crist,that,is,our,soules,leche
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,u,Su,S,u,S,u,Su,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,,10,and@conj,,crist@n#propn,that@pron,ben@v%pr_3,oure@pron%pl_gen,soule@n%gen,leche@n3
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,And,Jhesu,Crist,that,is,oure,soules,leche
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,u,Su,S,u,S,ux,Su,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,and@conj,jesu@n1#propn,crist@n#propn,that@pron,ben@v%pr_3,oure@pron%pl_gen,soule@n%gen,leche@n3
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,And,Jesu,Crist,that,is,our,soules,leche
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,u,Su,S,u,S,u,Su,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 916,DIFF,green,10,and@conj,jesu@n1#propn,crist@n#propn,that@pron,ben@v%pr_3,oure@pron%pl_gen,soule@n%gen,leche@n3
 
 "So graunte yow his pardoun to receyve,",||,So graunte yow his pardon to receive;
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 917,,,10,So,graunte,yow,his,pardoun,to,receyve
@@ -3695,12 +3695,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 924,,,10,offren@v%inf,and@conj,haven@v%inf,min@pron%gen,absolucioun@n
 
 "Com forth anon, and kneleth heere adoun,",||,"Cometh forth anon, and kneleth heer adoun,"
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,Com,forth,anon,and,kneleth,heere,adoun
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,u,S,uS,u,Su,Sx,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,comen@v%imp,forth@adv,an-on@adv,and@conj,knelen@v%imp,her@adv,adoun@adv
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,Cometh,forth,anon,and,kneleth,heer,adoun
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,uS,u,Su,S,ux,S,uS
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,,10,,forth@adv,an-on@adv,and@conj,knelen@v%imp,her@adv,adoun@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,Com,forth,anon,and,kneleth,heere,adoun
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,u,S,uS,u,Su,Sx,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,comen@v%imp,forth@adv,an-on@adv,and@conj,knelen@v%imp,her@adv,adoun@adv
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,Cometh,forth,anon,and,kneleth,heer,adoun
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,uS,u,Su,S,ux,S,uS
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 925,DIFF,green,10,comen@v%imp,forth@adv,an-on@adv,and@conj,knelen@v%imp,her@adv,adoun@adv
 
 And mekely receyveth my pardoun;,||,And mekely receiveth my pardoun:
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 926,,,10,And,mekely,receyveth,my,pardoun
@@ -3724,7 +3724,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 928,DIFF,,10,al@adv,neue@adj,and@conj,fresh@adj,at@prep,everi@pron_gram_adj,mile@n1%gen,ende@n1
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 928,DIFF,,10,Al,newe,and,fresh,at,every,tounes,ende
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 928,DIFF,,10,u,Sx,u,S,u,SuS,ux,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 928,DIFF,,10,al@adv,neue@adj,and@conj,fresh@adj,at@prep,everi@pron_gram_adj,,and@conj
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 928,DIFF,,10,al@adv,neue@adj,and@conj,fresh@adj,at@prep,everi@pron_gram_adj,,ende@n1
 
 "So that ye offren, alwey newe and newe,",||,So° that ye offren alwey newe and newe°
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 929,,,10,So,that,ye,offren,alwey,newe,and,newe
@@ -3735,12 +3735,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 929,,,10,so@adv,that@conj,ye@pron%pl_nom,offren@v%pr_pl,al-wei@adv,neue@adv,and@conj,neue@adv
 
 "Nobles or pens, whiche that be goode and trewe.",||,"Nobles and pens, which that be gode and trewe."
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,Nobles,or,pens,whiche,that,be,goode,and,trewe
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,uS,u,S,ux,S,u,Sx,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,noble@n2%pl,or@conj,peni@n%pl,which@pron,that@pron,ben@v%pr_pl,god@adj,and@conj,treu@adj
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,Nobles,and,pens,which,that,be,gode,and,trewe
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,uS,u,S,u,S,u,Sx,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,,10,noble@n2%pl,and@conj,peni@n%pl,which@pron,that@pron,ben@v%pr_pl,god@adj,and@conj,treu@adj
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,Nobles,or,pens,whiche,that,be,goode,and,trewe
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,uS,u,S,ux,S,u,Sx,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,noble@n2%pl,or@conj,peni@n%pl,which@pron,that@pron,ben@v%pr_pl,god@adj,and@conj,treu@adj
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,Nobles,and,pens,which,that,be,gode,and,trewe
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,uS,u,S,u,S,u,Sx,u,Sx
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 930,DIFF,green,10,noble@n2%pl,and@conj,peni@n%pl,which@pron,that@pron,ben@v%pr_pl,god@adj,and@conj,treu@adj
 
 It is an honour to everich that is heer,||,"It is an honour to everich° that is heer,"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 931,,,10,It,is,an,honour,to,everich,that,is,heer
@@ -3764,7 +3764,7 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 933,DIFF,,10,to@part,assoilen@v%inf,you@pron%pl_obj,in@prep,contree@n,as@conj,ye@pron%pl_nom,riden@v%pr_pl
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 933,DIFF,,10,Tassoille,yow,in,contree,as,ye,ride
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 933,DIFF,,10,uSu,S,u,Su,S,u,Sx
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 933,DIFF,,10,,you@pron%pl_obj,in@prep,contree@n,as@conj,you@pron%pl_obj,riden@v%pr_pl
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 933,DIFF,,10,,you@pron%pl_obj,in@prep,contree@n,as@conj,ye@pron%pl_nom,riden@v%pr_pl
 
 For aventures whiche that may bityde.,||,For aventures° which that may bitide.
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 934,,,10,For,aventures,whiche,that,may,bityde
@@ -3775,12 +3775,12 @@ data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/Pa
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 934,,,10,for@prep,aventure@n%pl,which@pron,that@pron,mouen@v3%pr_pl,bitiden@v%inf
 
 Paraventure ther may fallen oon or two,||,¶Peraventure° ther may falle oon or two
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,Paraventure,ther,may,fallen,oon,or,two
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,uSuSx,u,S,ux,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,paraventure@adv,ther@adv,mouen@v3%pr_3,fallen@v%inf,on@pron,or@conj,two@num_n
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,Peraventure,ther,may,falle,oon,or,two
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,uSuSx,u,S,ux,S,u,S
-data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,,10,paraventure@adv,ther@adv,mouen@v3%pr_3,,on@pron,or@conj,two@num_n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,Paraventure,ther,may,fallen,oon,or,two
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,uSuSx,u,S,ux,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,paraventure@adv,ther@adv,mouen@v3%pr_3,fallen@v%inf,on@pron,or@conj,two@num_n
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,Peraventure,ther,may,falle,oon,or,two
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,uSuSx,u,S,ux,S,u,S
+data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 935,DIFF,green,10,paraventure@adv,ther@adv,mouen@v3%pr_3,fallen@v%inf,on@pron,or@conj,two@num_n
 
 Doun of his hors and breke his nekke atwo.,||,"Doun of° his hors, and breke his nekke atwo.°"
 data/riverside_cats/PardT_riv.cat,data/oxford_txts/PardT_oxford.txt,data/csvs/PardT,The Pardoner's Tale 936,,,10,Doun,of,his,hors,and,breke,his,nekke,atwo
