@@ -2303,12 +2303,12 @@ data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/Fr
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1016,,,10,til@conj,that@part,the@def_art,bright@adj,sonne@n,losen@v2%pt_3,his@pron1%gen,heu@n
 
 For th' orisonte hath reft the sonne his lyght --,||,For th’orisonte° hath reft° the sonne his light;
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,For,th,orisonte,hath,reft,the,sonne,his,lyght
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,u,,SuSx,u,S,u,Sx,u,S
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,for@conj,the@def_art,orisonte@n,haven@v%pr_3,reven@v%ppl,the@def_art,sonne@n,his@pron1%gen,light@n,--@dash
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,For,thorisonte,hath,reft,the,sonne,his,light
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,u,SuSx,u,S,u,Sx,u,S
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,DIFF,,10,for@conj,,haven@v%pr_3,reven@v%ppl,the@def_art,sonne@n,his@pron1%gen,light@n
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,For,th,orisonte,hath,reft,the,sonne,his,lyght
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,u,,SuSx,u,S,u,Sx,u,S
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,for@conj,the@def_art,orisonte@n,haven@v%pr_3,reven@v%ppl,the@def_art,sonne@n,his@pron1%gen,light@n,--@dash
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,For,th,orisonte,hath,reft,the,sonne,his,light
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,u,,SuSx,u,S,u,Sx,u,S
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1017,,,10,for@conj,the@def_art,orisonte@n,haven@v%pr_3,reven@v%ppl,the@def_art,sonne@n,his@pron1%gen,light@n,--@dash
 
 This is as muche to seye as it was nyght --,||,This is as much to seye as it was night.
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1018,,,10,This,is,as,muche,to,seye,as,it,was,nyght
@@ -5026,9 +5026,9 @@ data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/Fr
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,Fro,which,t,escape,woot,I,no,socour
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,u,S,,uSu,S,u,S,uS
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,from@prep,which@pron,to@part,escapen@v%inf,witen@v1%pr_1,ich@pron%nom,no@gram_adj,socour@n
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,For,which,tescape,woot,I,no,socour
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,u,S,uSu,S,u,S,uS
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,,which@pron,,witen@v1%pr_1,ich@pron%nom,no@gram_adj,socour@n
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,For,which,t,escape,woot,I,no,socour
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,u,S,,uSu,S,u,S,uS
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1357,DIFF,,10,,which@pron,to@part,escapen@v%inf,witen@v1%pr_1,ich@pron%nom,no@gram_adj,socour@n
 
 Save oonly deeth or elles dishonour;,||,Save° only deeth or elles dishonour;
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1358,,,10,Save,oonly,deeth,or,elles,dishonour
@@ -5127,12 +5127,12 @@ data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/Fr
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1369,,,10,haven@v%pt_pl,slen@v%ppl,phidon@n#propn,in@prep,athenes@n#propn,atte@prep,feste@n
 
 They comanded his doghtres for t' areste,||,"They comanded his doghtres for t’areste,°"
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,They,comanded,his,doghtres,for,t,areste
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,u,SuS,u,Su,S,,uSx
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,thei@pron%pl_nom,commaunden@v%pt_pl,his@pron1%gen,doughter@n%pl,for@prep#adv,to@part,aresten@v%inf
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,They,comanded,his,doghtres,for,tareste
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,u,SuS,u,Su,S,uSx
-data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,DIFF,,10,thei@pron%pl_nom,commaunden@v%pt_pl,his@pron1%gen,doughter@n%pl,for@prep#adv,
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,They,comanded,his,doghtres,for,t,areste
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,u,SuS,u,Su,S,,uSx
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,thei@pron%pl_nom,commaunden@v%pt_pl,his@pron1%gen,doughter@n%pl,for@prep#adv,to@part,aresten@v%inf
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,They,comanded,his,doghtres,for,t,areste
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,u,SuS,u,Su,S,,uSx
+data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1370,,,10,thei@pron%pl_nom,commaunden@v%pt_pl,his@pron1%gen,doughter@n%pl,for@prep#adv,to@part,aresten@v%inf
 
 "And bryngen hem biforn hem in despit,",||,And bringen hem biforn hem in despit°
 data/riverside_cats/FranT_riv.cat,data/oxford_txts/FranT_oxford.txt,data/csvs/FranT,The Franklin's Tale 1371,,,10,And,bryngen,hem,biforn,hem,in,despit

@@ -1442,9 +1442,9 @@ data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/c
 data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,For,nothing,elles,and,I,shal,nat,lye
 data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,u,Su,Su,S,u,S,u,S
 data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,for@prep,no-thing@adv,elles@adj,and@conj,ich@pron%nom,shulen@v1%pr_1,not@adv,lien@v2%inf
-data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,The,longe,day,I,shoop,me,for,tabide
-data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,u,Su,S,u,S,u,S,uSx
-data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,ich@pron%nom,,dai@n,ich@pron%nom,shapen@v%pt_3,me@pron2%obj,for@prep,
+data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,The,longe,day,I,shoop,me,for,t,abide
+data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,u,Su,S,u,S,u,S,,uSx
+data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 181,DIFF,,10,ich@pron%nom,,dai@n,ich@pron%nom,shapen@v%pt_3,me@pron2%obj,for@prep,,
 
 "But for to loke upon the dayesie,",||,"For nothing elles,° and° I shal nat lie,"
 data/riverside_cats/LGW_FPro_riv.cat,data/oxford_txts/LGW_FPro_oxford.txt,data/csvs/LGW_FPro,The Legend of Good Women; Prologue F 182,DIFF,,10,But,for,to,loke,upon,the,dayesie

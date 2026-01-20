@@ -2351,12 +2351,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 294,,,10,that@conj,first@num_adj,vertu@n,ben@v%pr_3,to@part,kepen@v%inf,tonge@n2
 
 """And nere it that I wilne as now t' abregge",||,"“And, nere it that I wilne as now t’abregge"
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,And,nere,it,that,I,wilne,as,now,t,abregge
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,u,Sx,u,S,u,Sx,u,S,,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,and@conj,ben@v%pr_3_neg,hit@pron,that@conj,ich@pron%nom,wilnen@v%pr_1,as@conj,nou@adv,to@part,abreggen@v%inf
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,And,nere,it,that,I,wilne,as,now,tabregge
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,u,Sx,u,S,u,Sx,u,S,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,DIFF,,10,and@conj,ben@v%pr_3_neg,hit@pron,that@conj,ich@pron%nom,wilnen@v%pr_1,as@conj,nou@adv,
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,And,nere,it,that,I,wilne,as,now,t,abregge
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,u,Sx,u,S,u,Sx,u,S,,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,and@conj,ben@v%pr_3_neg,hit@pron,that@conj,ich@pron%nom,wilnen@v%pr_1,as@conj,nou@adv,to@part,abreggen@v%inf
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,And,nere,it,that,I,wilne,as,now,t,abregge
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,u,Sx,u,S,u,Sx,u,S,,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 295,,,10,and@conj,ben@v%pr_3_neg,hit@pron,that@conj,ich@pron%nom,wilnen@v%pr_1,as@conj,nou@adv,to@part,abreggen@v%inf
 
 "Diffusioun of speche, I koude almoost",||,"Diffusioun of speche, I coude almost"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 296,,,10,Diffusioun,of,speche,I,koude,almoost
@@ -2759,12 +2759,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 345,,,10,which@pron,that@pron,the@def_art,soule@n,of@prep,troilus@n#propn,tho@adv,felen@v1%pt_3
 
 Heryng th' effect of Pandarus byheste?,||,Hering th’effect of Pandarus biheste?
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,Heryng,th,effect,of,Pandarus,byheste
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,uS,,uS,u,SuS,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,heren@v%prp_abs,the@def_art,effect@n,of@prep,pandare@n#propn%gen,biheste@n
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,Hering,theffect,of,Pandarus,biheste
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,uS,uS,u,SuS,uSx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,DIFF,,10,heren@v%prp_abs,,of@prep,pandare@n#propn%gen,biheste@n
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,Heryng,th,effect,of,Pandarus,byheste
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,uS,,uS,u,SuS,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,heren@v%prp_abs,the@def_art,effect@n,of@prep,pandare@n#propn%gen,biheste@n
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,Hering,th,effect,of,Pandarus,biheste
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,uS,,uS,u,SuS,uSx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 346,,,10,heren@v%prp_abs,the@def_art,effect@n,of@prep,pandare@n#propn%gen,biheste@n
 
 "His olde wo, that made his herte swelte,",||,"His olde wo, that made his herte swelte,"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 347,,,10,His,olde,wo,that,made,his,herte,swelte
@@ -9674,9 +9674,9 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,Ne,hadde,I,er,now,my,swete,herte,deere
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,u,Sx,u,S,u,S,ux,Su,Sx
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,ne@adv,haven@v%pt_1,ich@pron%nom,er@prep,nou@n,min@pron%gen,swete@adj,herte@n,dere@adj1
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,Nadde,I,er,now,my,swete,herte,dere
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,ux,S,u,S,u,Su,Su,Sx
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,,ich@pron%nom,er@prep,ne@adv,min@pron%gen,swete@adj,herte@n,dere@adj1
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,N,adde,I,er,now,my,swete,herte,dere
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,,ux,S,u,S,u,Su,Su,Sx
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1210,DIFF,,10,ne@adv,,ich@pron%nom,er@prep,nou@n,min@pron%gen,swete@adj,herte@n,dere@adj1
 
 "Ben yolde, ywis, I were now nought heere!""",||,"Ben yolde, ywis, I were now not here!”"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1211,DIFF,green,10,Ben,yolde,ywis,I,were,now,nought,heere
@@ -10671,12 +10671,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1334,,,10,and@conj,putten@v%pr_1,hit@pron,al@adv,in@prep,your@pron%pl_gen,discrecioun@n
 
 To encresse or maken dymynucioun,||,T’encresse or maken diminucioun
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,To,encresse,or,maken,dymynucioun
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,u,Sux,S,ux,SuSuS
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,to@part,encresen@v%inf,or@conj,maken@v1%inf,diminucioun@n
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,Tencresse,or,maken,diminucioun
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,uSx,u,Su,SuSuS
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,DIFF,,10,,or@conj,maken@v1%inf,diminucioun@n
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,To,encresse,or,maken,dymynucioun
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,u,Sux,S,ux,SuSuS
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,to@part,encresen@v%inf,or@conj,maken@v1%inf,diminucioun@n
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,T,encresse,or,maken,diminucioun
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,,uSx,u,Su,SuSuS
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1335,,,10,to@part,encresen@v%inf,or@conj,maken@v1%inf,diminucioun@n
 
 "Of my langage, and that I yow biseche.",||,"Of my langage, and that I yow biseche;"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1336,,,10,Of,my,langage,and,that,I,yow,biseche
@@ -13023,12 +13023,12 @@ data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Tr
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1628,,,10,and@conj,hit@pron,remembren@v%inf,whan@adv&conj,hit@pron,passen@v%ppl,ben@v%pr_3
 
 Th' art wis ynough; forthi do nat amys:,||,"Th’art wis ynough, forthy do nought amis;"
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,Th,art,wis,ynough,forthi,do,nat,amys
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,,u,S,uS,uS,u,S,uS
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,thou@pron%nom,ben@v%pr_2,wise@adj,inough@adv,for-thi@adv&conj,don@v1%imp,not@adv,amis@adv
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,Thart,wis,ynough,forthy,do,nought,amis
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,u,S,uS,uS,u,S,uS
-data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,,10,,wise@adj,inough@adv,for-thi@adv&conj,don@v1%imp,nought@adv,amis@adv
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,Th,art,wis,ynough,forthi,do,nat,amys
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,,u,S,uS,uS,u,S,uS
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,thou@pron%nom,ben@v%pr_2,wise@adj,inough@adv,for-thi@adv&conj,don@v1%imp,not@adv,amis@adv
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,Th,art,wis,ynough,forthy,do,nought,amis
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,,u,S,uS,uS,u,S,uS
+data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1629,DIFF,green,10,thou@pron%nom,ben@v%pr_2,wise@adj,inough@adv,for-thi@adv&conj,don@v1%imp,nought@adv,amis@adv
 
 "Be naught to rakel, theigh thow sitte warme,",||,"Be not to rakel, though thou sitte warme,"
 data/riverside_cats/TC3_riv.cat,data/oxford_txts/TC3_oxford.txt,data/csvs/TC3,Troilus and Criseyde; Book III 1630,DIFF,green,10,Be,naught,to,rakel,theigh,thow,sitte,warme

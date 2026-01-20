@@ -2207,12 +2207,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 274,DIFF,green,10,his@pron1%gen,resoun@n2%pl,speken@v%pt_3,he@pron1%nom,ful@adv,solempneli@adv
 
 Sownynge alwey th' encrees of his wynnyng.,||,Souninge alway th’encrees of his winning.
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,Sownynge,alwey,th,encrees,of,his,wynnyng
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,uSx,uS,,uS,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,sounen@v%prp_abs,al-wei@adv,the@def_art,encres@n,of@prep,his@pron1%gen,winninge@ger1
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,Souninge,alway,thencrees,of,his,winning
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,uSx,uS,uS,u,S,uS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,DIFF,,10,sounen@v%prp_abs,al-wei@adv,,of@prep,his@pron1%gen,winninge@ger1
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,Sownynge,alwey,th,encrees,of,his,wynnyng
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,uSx,uS,,uS,u,S,uS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,sounen@v%prp_abs,al-wei@adv,the@def_art,encres@n,of@prep,his@pron1%gen,winninge@ger1
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,Souninge,alway,th,encrees,of,his,winning
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,uSx,uS,,uS,u,S,uS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 275,,,10,sounen@v%prp_abs,al-wei@adv,the@def_art,encres@n,of@prep,his@pron1%gen,winninge@ger1
 
 He wolde the see were kept for any thyng,||,He wold the see were kept for any thing
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 276,,,10,He,wolde,the,see,were,kept,for,any,thyng
@@ -5735,12 +5735,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 715,DIFF,green,10,nou@adv,haven@v%pr_1,ich@pron%nom,tellen@v%ppl,you@pron%pl_obj,shortli@adv,in@prep,a@indef_art,clause@n
 
 "Th' estaat, th' array, the nombre, and eek the cause",||,"Th’estat, th’array, the nombre, and the cause"
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,Th,estaat,th,array,the,nombre,and,eek,the,cause
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,,uS,,uS,u,Sx,u,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,the@def_art,estat@n,the@def_art,arrai@n,the@def_art,nombre@n,and@conj,ek@adv,the@def_art,cause@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,Thestat,tharray,the,nombre,and,the,cause
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,uS,uS,u,Su,S,u,Sx
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,,10,,,the@def_art,nombre@n,and@conj,the@def_art,cause@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,Th,estaat,th,array,the,nombre,and,eek,the,cause
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,,uS,,uS,u,Sx,u,S,u,Sx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,the@def_art,estat@n,the@def_art,arrai@n,the@def_art,nombre@n,and@conj,ek@adv,the@def_art,cause@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,Th,estat,th,array,the,nombre,and,the,cause
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,,uS,,uS,u,Su,S,u,Sx
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 716,DIFF,green,10,the@def_art,estat@n,the@def_art,arrai@n,the@def_art,nombre@n,and@conj,the@def_art,cause@n
 
 Why that assembled was this compaignye,||,Why that assembled was this compaignie
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 717,,,0,Why,that,assembled,was,this,compaignye
@@ -5815,12 +5815,12 @@ data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The G
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 725,,,10,but@conj,first@adv,ich@pron%nom,preien@v1%pr_1,you@pron%pl_obj,of@prep,your@pron%pl_gen,courteisie@n
 
 "That ye n' arette it nat my vileynye,",||,"That ye n’arette it nat my vileinie,"
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,0,That,ye,n,arette,it,nat,my,vileynye
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,0,,,,,,,,
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,0,that@conj,ye@pron%pl_nom,ne@adv,aretten@v%pr_pl,hit@pron,not@adv,min@pron%gen,vileinie@n
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,10,That,ye,narette,it,nat,my,vileinie
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,10,u,S,uSx,u,S,u,SuS
-data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,DIFF,,10,that@conj,ye@pron%pl_nom,,hit@pron,not@adv,min@pron%gen,vileinie@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,0,That,ye,n,arette,it,nat,my,vileynye
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,0,,,,,,,,
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,0,that@conj,ye@pron%pl_nom,ne@adv,aretten@v%pr_pl,hit@pron,not@adv,min@pron%gen,vileinie@n
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,10,That,ye,n,arette,it,nat,my,vileinie
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,10,u,S,,uSx,u,S,u,SuS
+data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 726,,,10,that@conj,ye@pron%pl_nom,ne@adv,aretten@v%pr_pl,hit@pron,not@adv,min@pron%gen,vileinie@n
 
 "Thogh that I pleynly speke in this mateere,",||,"Thogh that I pleinly speke in this matere,"
 data/riverside_cats/GP_riv.cat,data/oxford_txts/GP_oxford.txt,data/csvs/GP,The General Prologue 727,,,10,Thogh,that,I,pleynly,speke,in,this,mateere
