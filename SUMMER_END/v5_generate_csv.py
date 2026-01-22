@@ -387,9 +387,12 @@ convert_file('data/csvs/HF.csv', 'for_gui/to_do/HF_gui.csv')
 """
 
 target = 10
+for name in ['Anelida','ABC']:
+	make_formatted('data/riverside_cats/'+name+'_riv.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
+	convert_file('data/csvs/'+name+'.csv','for_gui/to_do/'+name+'_gui.csv')
 
-make_formatted('data/riverside_cats/MkT_riverside_reordered.cat','data/oxford_txts/MkT_oxford.txt','data/csvs/MkT_reordered.csv','data/oxford_cats/MkT_oxford.cat')
-convert_file('data/csvs/MkT_reordered.csv', 'for_gui/to_do/MkT_reordered.csv')
+#make_formatted('data/riverside_cats/MkT_riverside_reordered.cat','data/oxford_txts/MkT_oxford.txt','data/csvs/MkT_reordered.csv','data/oxford_cats/MkT_oxford.cat')
+#convert_file('data/csvs/MkT_reordered.csv', 'for_gui/to_do/MkT_reordered.csv')
 """
 for name in ['MLT','LGW_FPro','GP','PF','TC1','TC2','TC3','TC4','TC5','ClT','CYT','KnT','MancT','MilT','NPT','PardT','PhyT','PrT','RvT','ShipT','SNT','SqT','Thop','FranT','FriT','MerT','SumT','WBPro','WBT']:
 	make_formatted('data/riverside_cats/'+name+'_riv.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
