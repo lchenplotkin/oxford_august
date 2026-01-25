@@ -62,7 +62,7 @@ def strip_for_matching(payload):
 	Remove tags for comparison only.
 	"""
 	text = payload.replace('{', ' ').split()
-	text = text[2:]
+	text = text[4:]
 	return " ".join(w for w in text if '}' not in w)
 
 
@@ -121,10 +121,11 @@ def reorder_by_greedy_swaps(riv_cat, ox_txt, output_cat):
 
 # ---------- RUN EXAMPLE ----------
 
+name = "ParsPro"
 if __name__ == "__main__":
 	reorder_by_greedy_swaps(
-		"data/riverside_cats/MkT_riv.cat",
-		"data/oxford_txts/MkT_oxford.txt",
-		"data/riverside_cats/MkT_riverside_reordered.cat"
+		"data/riverside_cats/"+name+"_riv.cat",
+		"data/oxford_txts/"+name+"_oxford.txt",
+		"data/riverside_cats/"+name+"_riverside_reordered.cat"
 	)
 

@@ -13,7 +13,7 @@ doc = docx.Document()
 doc.add_heading('Adjective Declension Exceptions in the Oxford Chaucer', 0)
 
 # Configuration
-base_csv_dir = 'data/csvs'
+base_csv_dir = 'for_gui/done'
 
 ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
                     "hadden", "his", "her", "him", "hers", "hide", "hir",
@@ -232,7 +232,7 @@ def process_csv_directory(csv_dir):
     file_count = 0
     for root, dirs, files in os.walk(csv_dir):
         for file in files:
-            if not file.endswith('_gui.csv'):
+            if not file.endswith('_gui_complete.csv'):
                 continue
 
             csv_path = os.path.join(root, file)
