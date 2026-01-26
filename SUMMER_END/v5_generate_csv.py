@@ -7,8 +7,8 @@ from sheets_to_gui import *
 import json
 
 
-# Load the oxford_prelim.json file at the start
-with open('for_gui/oxford_prelim.json', 'r', encoding='utf-8') as f:
+# Load the json file at the start
+with open('for_gui/UPDATED.json', 'r', encoding='utf-8') as f:
 	oxford_prelim = json.load(f)
 
 
@@ -187,7 +187,7 @@ def check_naught_not_only_diff(riv_words, ox_words, riv_line, ox_line):
 	return len(differences) > 0
 
 def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
-	tolerance = 100
+	tolerance = 80
 	cat_output = ""
 	with open(riverside_file, encoding='utf-8') as riv:
 		cat_lines = [line.rstrip('\n') for line in riv if line.strip() != '']
@@ -259,7 +259,7 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 							#tags.append('')
 							#flag = ""
 					if do_extra == True:
-						# Look through the oxford_prelim.json
+						# Look through the json
 						if ox_clean in oxford_prelim:
 							word_tags = oxford_prelim[ox_clean]
 							
@@ -280,12 +280,12 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 								else:
 									found_it = False
 									remaining_tags = [
-									    tag for i, tag in enumerate(riv_tags)
-									    if i not in used_indices
+										tag for i, tag in enumerate(riv_tags)
+										if i not in used_indices
 									]
 									remaining_tags = [
-									    tag.removeprefix("{*").removesuffix("*}")
-									    for tag in remaining_tags
+										tag.removeprefix("{*").removesuffix("*}")
+										for tag in remaining_tags
 									]
 
 									if "nought@adv" in remaining_tags: 
@@ -304,9 +304,18 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 												
 									for sorted_tag in sorted_tags:
 										the_tag = sorted_tag[0]
-										if the_tag in remaining_tags and not found_it:
-											tags.append(the_tag)
-											found_it = True
+										if "@" in the_tag:
+											for remaining_tag in remaining_tags:
+												if not found_it:
+													if the_tag == remaining_tag:
+														tags.append(the_tag)
+														found_it = True
+													elif remaining_tag.split("@")[1] == the_tag.split("@")[1] and sorted_tag[1]/most_common_count > .25:
+														tags.append(the_tag)
+														found_it = True
+													elif the_tag == remaining_tag + "_neg":
+														tags.append(the_tag)
+														found_it = True
 									
 									if not found_it:	
 										# No high confidence tag
@@ -392,11 +401,6 @@ target = 10
 	#make_formatted('data/riverside_cats/'+name+'_riv.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
 #	convert_file('data/csvs/'+name+'.csv','for_gui/to_do/'+name+'_gui.csv')
 
-name = "ParsPro"
-make_formatted('data/riverside_cats/ParsPro_riverside_reordered.cat','data/oxford_txts/ParsPro_oxford.txt','data/csvs/ParsPro_reordered.csv','data/oxford_cats/ParsPro_oxford.cat')
-convert_file('data/csvs/ParsPro_reordered.csv', 'for_gui/to_do/ParsPro_reordered.csv')
-"""
-for name in ['MLT','LGW_FPro','GP','PF','TC1','TC2','TC3','TC4','TC5','ClT','CYT','KnT','MancT','MilT','NPT','PardT','PhyT','PrT','RvT','ShipT','SNT','SqT','Thop','FranT','FriT','MerT','SumT','WBPro','WBT']:
-	make_formatted('data/riverside_cats/'+name+'_riv.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
+for name in ['LGW']:
+	make_formatted('data/riverside_cats/'+name+'_riverside_reordered.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
 	convert_file('data/csvs/'+name+'.csv','for_gui/to_do/'+name+'_gui.csv')
-"""

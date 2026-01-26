@@ -62,7 +62,8 @@ def strip_for_matching(payload):
 	Remove tags for comparison only.
 	"""
 	text = payload.replace('{', ' ').split()
-	text = text[4:]
+	text = text[1:]
+	#print(text)
 	return " ".join(w for w in text if '}' not in w)
 
 
@@ -90,6 +91,7 @@ def reorder_by_greedy_swaps(riv_cat, ox_txt, output_cat):
 	ox_norm = [normalize(l) for l in ox_lines]
 
 	n = min(len(payloads), len(ox_norm))
+	print(len(payloads),len(ox_norm))
 
 	# Greedy pass
 	for i in range(n):
@@ -108,7 +110,7 @@ def reorder_by_greedy_swaps(riv_cat, ox_txt, output_cat):
 		if found is not None:
 			payloads[i], payloads[found] = payloads[found], payloads[i]
 			match_texts[i], match_texts[found] = match_texts[found], match_texts[i]
-			print('swapped line', i,'with line',found)
+			#print('swapped line', i,'with line',found)
 
 	# Write output CAT
 	with open(output_cat, "w", encoding="utf-8") as f:
@@ -121,7 +123,7 @@ def reorder_by_greedy_swaps(riv_cat, ox_txt, output_cat):
 
 # ---------- RUN EXAMPLE ----------
 
-name = "ParsPro"
+name = "LGW"
 if __name__ == "__main__":
 	reorder_by_greedy_swaps(
 		"data/riverside_cats/"+name+"_riv.cat",
