@@ -1,4 +1,32 @@
 headword,word,line_number,filename,context,is_elided,is_final
+riche,riche,The Shipman's Tale 2,data/oxford_txts/ShipT_oxford.txt,"That riche was, for which men helde° him wis;",False,False
+smal,smale,The Shipman's Tale 24,data/oxford_txts/ShipT_oxford.txt,"Amonges alle his gestes,° grete and smale",False,True
+fre,free,The Shipman's Tale 43,data/oxford_txts/ShipT_oxford.txt,"¶Free was daun John, and manly° of dispence,°",False,False
+dere,dere,The Shipman's Tale 69,data/oxford_txts/ShipT_oxford.txt,"Our dere cosin, ful of curteisie?",False,False
+riche,riche,The Shipman's Tale 84,data/oxford_txts/ShipT_oxford.txt,"Ful riche was his tresor and his hord,°",False,False
+maide,maide,The Shipman's Tale 95,data/oxford_txts/ShipT_oxford.txt,A maide° child cam in hir compaignie°,False,False
+smal,smale,The Shipman's Tale 105,data/oxford_txts/ShipT_oxford.txt,Were° al forstraught° with houndes grete and smale.,False,True
+dere,dere,The Shipman's Tale 106,data/oxford_txts/ShipT_oxford.txt,"But dere nece, why be ye so pale?",False,False
+pale,pale,The Shipman's Tale 106,data/oxford_txts/ShipT_oxford.txt,"But dere nece, why be ye so pale?",False,True
+god,goode,The Shipman's Tale 107,data/oxford_txts/ShipT_oxford.txt,I trowe° certes that our goode man,False,False
+secre,secree,The Shipman's Tale 130,data/oxford_txts/ShipT_oxford.txt,"Al your anoy,° for it shal been secree;",False,True
+wise,wise,The Shipman's Tale 176,data/oxford_txts/ShipT_oxford.txt,"Hardy,° and wise, and riche, and therto° free,°",True,False
+riche,riche,The Shipman's Tale 176,data/oxford_txts/ShipT_oxford.txt,"Hardy,° and wise, and riche, and therto° free,°",True,False
+fre,free,The Shipman's Tale 176,data/oxford_txts/ShipT_oxford.txt,"Hardy,° and wise, and riche, and therto° free,°",False,True
+dere,dere,The Shipman's Tale 196,data/oxford_txts/ShipT_oxford.txt,"“Now, trewely, min owne lady dere",False,True
+treu,trewe,The Shipman's Tale 207,data/oxford_txts/ShipT_oxford.txt,"Goth now, and beeth as trewe as I shal be.”",True,False
+long,longe,The Shipman's Tale 216,data/oxford_txts/ShipT_oxford.txt,How longe time wol ye rekene° and caste°,False,False
+mek,meke,The Shipman's Tale 242,data/oxford_txts/ShipT_oxford.txt,As be to every wight buxom° and meke,False,True
+straunge,strange,The Shipman's Tale 263,data/oxford_txts/ShipT_oxford.txt,Bitwix us two nedeth no strange fare;°,False,False
+secre,secree,The Shipman's Tale 277,data/oxford_txts/ShipT_oxford.txt,"But lat this thing be secree,° I yow preye",True,False
+dere,dere,The Shipman's Tale 279,data/oxford_txts/ShipT_oxford.txt,"And far now wel, min owne cosin dere",False,True
+dere,dere,The Shipman's Tale 328,data/oxford_txts/ShipT_oxford.txt,"And telleth hir that chaffare° is so dere,°",False,True
+riche,riche,The Shipman's Tale 351,data/oxford_txts/ShipT_oxford.txt,"And if that I were riche, as have I blisse",True,False
+swete,swete,The Shipman's Tale 363,data/oxford_txts/ShipT_oxford.txt,"Greet wel our dame, min owne nece swete",False,True
+riche,riche,The Shipman's Tale 376,data/oxford_txts/ShipT_oxford.txt,For he was riche and cleerly out of dette.,True,False
+bel,bele,The Shipman's Tale 409,data/oxford_txts/ShipT_oxford.txt,"For cosinage,° and eek for bele cheere°",False,False
+dere,dere,The Shipman's Tale 425,data/oxford_txts/ShipT_oxford.txt,"Forgive it me, min owne spouse dere;",False,True
+large,large,The Shipman's Tale 431,data/oxford_txts/ShipT_oxford.txt,"But, by thy lif, ne be namoor so large;°",False,True
 grene,grene,The Wife of Bath's Tale 861,data/oxford_txts/WBT_oxford.txt,Daunced ful ofte in many a grene mede;°,False,False
 thikke,thikke,The Wife of Bath's Tale 868,data/oxford_txts/WBT_oxford.txt,As thikke as motes° in the sonne-beem,True,False
 riche,riche,The Wife of Bath's Tale 927,data/oxford_txts/WBT_oxford.txt,"Som, riche array,° som seiden, lust abedde",True,False
@@ -31,6 +59,104 @@ neue,newe,The Wife of Bath's Tale 1244,data/oxford_txts/WBT_oxford.txt,"As ever 
 yong,yonge,The Wife of Bath's Tale 1259,data/oxford_txts/WBT_oxford.txt,"Housbondes meke, yonge, and fresshe abedde",True,False
 fresh,fresshe,The Wife of Bath's Tale 1259,data/oxford_txts/WBT_oxford.txt,"Housbondes meke, yonge, and fresshe abedde",True,False
 olde,olde,The Wife of Bath's Tale 1263,data/oxford_txts/WBT_oxford.txt,And olde and angry nigards° of dispence,True,False
+large,large,The Merchant's Prologue 1223,data/oxford_txts/MerPro_oxford.txt,Ther is a long and large difference,False,False
+gret,grete,The Merchant's Prologue 1224,data/oxford_txts/MerPro_oxford.txt,Bitwix° Grisildis grete pacience,False,False
+ware,ware,100-ch 593,data/oxford_txts/LGW_oxford.txt,He lafte hir falsly er° that she was ware°,False,True
+long,longe,100-ch 619,data/oxford_txts/LGW_oxford.txt,"Hit were to longe, lest that I shold slake°",False,False
+blithe,blithe,100-ch 647,data/oxford_txts/LGW_oxford.txt,"He bringeth° the cuppe, and biddeth° hem be blithe;°",False,True
+dere,dere,100-ch 701,data/oxford_txts/LGW_oxford.txt,"For love of Antony, that was hir° so dere:—",False,True
+treu,trewe,100-ch 703,data/oxford_txts/LGW_oxford.txt,"Now, er° I finde a man thus trewe and stable",True,False
+stable,stable,100-ch 703,data/oxford_txts/LGW_oxford.txt,"Now, er° I finde a man thus trewe and stable",False,True
+heigh,hie,100-ch 709,data/oxford_txts/LGW_oxford.txt,"Ful hie,° of harde tiles wel ybake.°",True,False
+olde,olde,100-ch 739,data/oxford_txts/LGW_oxford.txt,Of olde time of his fundacioun;°,False,False
+narwe,narwe,100-ch 740,data/oxford_txts/LGW_oxford.txt,"But yit this clifte° was so narwe and lite,°",True,False
+lite,lite,100-ch 740,data/oxford_txts/LGW_oxford.txt,"But yit this clifte° was so narwe and lite,°",False,True
+dere,dere,100-ch 741,data/oxford_txts/LGW_oxford.txt,"It nas nat° sene, dere ynogh a mite.°",False,False
+narwe,narwe,100-ch 744,data/oxford_txts/LGW_oxford.txt,Ye founden first this litel narwe clifte;,False,False
+long,longe,100-ch 772,data/oxford_txts/LGW_oxford.txt,And longe time they wroghte° in this manere,False,False
+brod,brode,100-ch 782,data/oxford_txts/LGW_oxford.txt,"And, for the feldes° been so brode° and wide",True,False
+wid,wide,100-ch 782,data/oxford_txts/LGW_oxford.txt,"And, for the feldes° been so brode° and wide",False,True
+treu,trewe,100-ch 800,data/oxford_txts/LGW_oxford.txt,That ever woman wolde be so trewe,False,True
+wilde,wilde,100-ch 805,data/oxford_txts/LGW_oxford.txt,¶Allas! than comth° a wilde leonesse,False,False
+pale,pale,100-ch 831,data/oxford_txts/LGW_oxford.txt,"And pale he wex,° therwith his heer aroos,°",False,False
+dere,dere,100-ch 868,data/oxford_txts/LGW_oxford.txt,"That it was Piramus, her herte dere.°",False,True
+large,large,100-ch 893,data/oxford_txts/LGW_oxford.txt,"To make my wounde large ynogh, I gesse.",False,False
+deinte,deintee,100-ch 920,data/oxford_txts/LGW_oxford.txt,For it is deintee° to° us men to finde,False,False
+treu,trewe,100-ch 921,data/oxford_txts/LGW_oxford.txt,A man that can in love be trewe and kinde.,True,False
+kinde,kinde,100-ch 921,data/oxford_txts/LGW_oxford.txt,A man that can in love be trewe and kinde.,False,True
+wilde,wilde,100-ch 980,data/oxford_txts/LGW_oxford.txt,With any wilde boor or other beste°,False,False
+swete,swete,100-ch 1042,data/oxford_txts/LGW_oxford.txt,Whom sholde he loven but this lady swete?,False,True
+mete,mete,100-ch 1043,data/oxford_txts/LGW_oxford.txt,There nis° no womman to him half so mete.°,False,True
+neue,newe,100-ch 1045,data/oxford_txts/LGW_oxford.txt,"Hath sodeinly° broght in so newe a chaunce,°",True,False
+hard,harde,100-ch 1056,data/oxford_txts/LGW_oxford.txt,"And al hir tempest° and hir harde cas,°",False,False
+noble,noble,100-ch 1064,data/oxford_txts/LGW_oxford.txt,That ever swich a noble man as he,False,False
+noble,noble,100-ch 1070,data/oxford_txts/LGW_oxford.txt,"And had a noble visage° for the nones,°",False,False
+large,large,100-ch 1116,data/oxford_txts/LGW_oxford.txt,"Ne large palfrey,° esy for the nones,°",False,False
+large,large,100-ch 1118,data/oxford_txts/LGW_oxford.txt,"Ne sakkes ful of gold, of large wighte,°",False,False
+wilde,wilde,100-ch 1121,data/oxford_txts/LGW_oxford.txt,"Ne hound, for hert° or wilde boor or dere,°",False,False
+kene,kene,100-ch 1190,data/oxford_txts/LGW_oxford.txt,"The nettes dresse,° and speres brode° and kene;°",False,True
+fresh,fresshe,100-ch 1191,data/oxford_txts/LGW_oxford.txt,An hunting° wol this lusty° fresshe° quene;,False,False
+huge,huge,100-ch 1197,data/oxford_txts/LGW_oxford.txt,And of her wommen eek an huge route.°,False,False
+thikke,thikke,100-ch 1198,data/oxford_txts/LGW_oxford.txt,"Upon a thikke° palfrey,° paper-whit",False,False
+red,rede,100-ch 1199,data/oxford_txts/LGW_oxford.txt,"With sadel rede,° enbrouded° with delit,°",True,False
+sik,seke,100-ch 1203,data/oxford_txts/LGW_oxford.txt,That heleth seke° folk of nightes sorwe.,False,False
+yong,yonge,100-ch 1216,data/oxford_txts/LGW_oxford.txt,"Thus seyn thise yonge folk, and up they kille",False,False
+treu,trewe,100-ch 1266,data/oxford_txts/LGW_oxford.txt,"That feineth him° so trewe and obeising,°",True,False
+tender,tendre,100-ch 1389,data/oxford_txts/LGW_oxford.txt,For ever as° tendre a capoun° et° the fox,True,False
+muche,moche,100-ch 1433,data/oxford_txts/LGW_oxford.txt,"That spitten fir, and moche thing° ther was.",False,False
+straunge,straunge,100-ch 1474,data/oxford_txts/LGW_oxford.txt,To witen° yif that any straunge° wight°,False,False
+straunge,straunge,100-ch 1508,data/oxford_txts/LGW_oxford.txt,"Thise straunge° folk, and doth hem greet honour",False,False
+treu,trewe,100-ch 1521,data/oxford_txts/LGW_oxford.txt,"Sad,° wis, and trewe, of wordes avisee,°",True,False
+treu,trewe,100-ch 1526,data/oxford_txts/LGW_oxford.txt,That half so trewe a man ther nas° of love,True,False
+secre,secree,100-ch 1528,data/oxford_txts/LGW_oxford.txt,"And he was wis, hardy,° secree,° and riche.",True,False
+riche,riche,100-ch 1528,data/oxford_txts/LGW_oxford.txt,"And he was wis, hardy,° secree,° and riche.",False,True
+ded,dede,100-ch 1531,data/oxford_txts/LGW_oxford.txt,Alle tho° that liven or been dede;,False,True
+lik,like,100-ch 1569,data/oxford_txts/LGW_oxford.txt,"That they be like,° of alle thing,° ywis,°",True,False
+long,longe,100-ch 1571,data/oxford_txts/LGW_oxford.txt,"And preyed° God, or° it were longe while",False,False
+muche,moche,100-ch 1613,data/oxford_txts/LGW_oxford.txt,Ye han yourself yput in moche doute.°,False,False
+treu,trewe,100-ch 1636,data/oxford_txts/LGW_oxford.txt,"That Jasoun shal her wedde, as trewe knight;",False,False
+sterne,sterne,100-ch 1695,data/oxford_txts/LGW_oxford.txt,"With Romains, that ful sterne° were and stoute,°",False,False
+stoute,stoute,100-ch 1695,data/oxford_txts/LGW_oxford.txt,"With Romains, that ful sterne° were and stoute,°",False,True
+digne,digne,100-ch 1738,data/oxford_txts/LGW_oxford.txt,"Her countenaunce° is to her herte digne,°",False,True
+treu,trewe,100-ch 1843,data/oxford_txts/LGW_oxford.txt,Her herte was so wifly° and so trewe.,False,True
+treu,trewe,100-ch 1874,data/oxford_txts/LGW_oxford.txt,"I tell it, for she was of° love so trewe",False,True
+wroth,wrothe,100-ch 1892,data/oxford_txts/LGW_oxford.txt,"Ben wrothe,° and wreche han take° for thy sinne.",True,False
+gret,grete,100-ch 1895,data/oxford_txts/LGW_oxford.txt,That° had an hundred citees stronge and grete,False,True
+strong,stronge,100-ch 1903,data/oxford_txts/LGW_oxford.txt,But natheles° the walles be so stronge,False,True
+yong,yonge,100-ch 1948,data/oxford_txts/LGW_oxford.txt,And forth is lad° this woful yonge knight,False,False
+derk,derke,100-ch 1961,data/oxford_txts/LGW_oxford.txt,"Doun in the botom derke and wonder° lowe,°",True,False
+lef,leve,100-ch 1978,data/oxford_txts/LGW_oxford.txt,"And seide, “Phedra, leve° suster dere",False,False
+dere,dere,100-ch 1978,data/oxford_txts/LGW_oxford.txt,"And seide, “Phedra, leve° suster dere",False,True
+kinde,kinde,100-ch 2087,data/oxford_txts/LGW_oxford.txt,To me and to my suster here so kinde,False,True
+fre,free,100-ch 2152,data/oxford_txts/LGW_oxford.txt,"And took his wif, and eek° her suster free,°",False,True
+neue,newe,100-ch 2160,data/oxford_txts/LGW_oxford.txt,And gat him ther a newe barge° anoon,False,False
+swete,swete,100-ch 2190,data/oxford_txts/LGW_oxford.txt,"And cried, “Theseus! min herte swete!°",False,True
+fair,faire,100-ch 2247,data/oxford_txts/LGW_oxford.txt,King Pandiones faire doghter dere,False,False
+dere,dere,100-ch 2247,data/oxford_txts/LGW_oxford.txt,King Pandiones faire doghter dere,False,True
+dere,dere,100-ch 2296,data/oxford_txts/LGW_oxford.txt,"“Now, son,” quod he, “that art to me so dere",False,True
+riche,riche,100-ch 2302,data/oxford_txts/LGW_oxford.txt,"¶And soothly,° he hath mad him riche feste,°",False,False
+dere,dere,100-ch 2329,data/oxford_txts/LGW_oxford.txt,"And “Fader dere!"""" and “Help me, God in hevene!”",True,False
+large,large,100-ch 2360,data/oxford_txts/LGW_oxford.txt,She had ywoven° in a stamin° large,False,True
+treu,trewe,100-ch 2391,data/oxford_txts/LGW_oxford.txt,Ful litel° while shul ye trewe° him have,True,False
+large,large,100-ch 2406,data/oxford_txts/LGW_oxford.txt,"Toward Athenes, to his paleis° large;",False,True
+large,large,100-ch 2515,data/oxford_txts/LGW_oxford.txt,Her lettre was right long and therto° large;,False,True
+fair,faire,100-ch 2526,data/oxford_txts/LGW_oxford.txt,"Upon your linage° and your faire tonge,°",False,False
+dere,dere,100-ch 2574,data/oxford_txts/LGW_oxford.txt,"A doghter dere,° and dide her for to calle°",True,False
+sad,sadde,100-ch 2582,data/oxford_txts/LGW_oxford.txt,"Pitouse,° sadde,° wise, and trewe as steel;",False,False
+wise,wise,100-ch 2582,data/oxford_txts/LGW_oxford.txt,"Pitouse,° sadde,° wise, and trewe as steel;",True,False
+treu,trewe,100-ch 2582,data/oxford_txts/LGW_oxford.txt,"Pitouse,° sadde,° wise, and trewe as steel;",True,False
+feble,feble,100-ch 2590,data/oxford_txts/LGW_oxford.txt,"So feble, that his malice is him raft,°",False,False
+dere,dere,100-ch 2632,data/oxford_txts/LGW_oxford.txt,"As thou, min Ypermistra, doghter dere!",False,True
+grene,grene,100-ch 2648,data/oxford_txts/LGW_oxford.txt,And quook° as dooth the leef of aspe° grene;,False,True
+kene,kene,100-ch 2654,data/oxford_txts/LGW_oxford.txt,"And out he caughte° a knif, as rasour° kene;°",False,True
+strong,stronge,100-ch 2670,data/oxford_txts/LGW_oxford.txt,The narcotiks and opies° been so stronge:,False,True
+long,longe,100-ch 2675,data/oxford_txts/LGW_oxford.txt,"And shortly, lest this tale be to longe",False,True
+muche,moche,100-ch 2685,data/oxford_txts/LGW_oxford.txt,"And dreed° of death doth her so moche wo,°",False,False
+swifte,swifte,100-ch 2711,data/oxford_txts/LGW_oxford.txt,"¶This Lino swifte was, and light° of fote",False,False
+muche,muche,The Friar's Prologue 1273,data/oxford_txts/FriPro_oxford.txt,"Ye han seid muche thing right wel, I seye;",False,False
+hende,hende,The Friar's Prologue 1286,data/oxford_txts/FriPro_oxford.txt,"¶Our Host tho spak, “A! sir, ye shold be hende°",False,True
+lef,leve,The Friar's Prologue 1300,data/oxford_txts/FriPro_oxford.txt,"“Tel forth your tale, leve° maister deere.”",False,False
+dere,deere,The Friar's Prologue 1300,data/oxford_txts/FriPro_oxford.txt,"“Tel forth your tale, leve° maister deere.”",False,True
 lame,lame,Troilus and Criseyde; Book II 17,data/oxford_txts/TC2_oxford.txt,"Disblameth me, if any word be lame",False,True
 whit,white,Troilus and Criseyde; Book II 51,data/oxford_txts/TC2_oxford.txt,"That fresshe floures, blewe, and white, and rede",True,False
 red,rede,Troilus and Criseyde; Book II 51,data/oxford_txts/TC2_oxford.txt,"That fresshe floures, blewe, and white, and rede",False,True
@@ -189,6 +315,38 @@ yong,yonge,The Manciple's Tale 334,data/oxford_txts/MancT_oxford.txt,Thus lerne 
 neue,newe,The Manciple's Tale 359,data/oxford_txts/MancT_oxford.txt,"My son, be war, and be non auctour newe°",False,True
 fals,false,The Manciple's Tale 360,data/oxford_txts/MancT_oxford.txt,"Of tidinges,° whether they ben false or trewe.",True,False
 treu,trewe,The Manciple's Tale 360,data/oxford_txts/MancT_oxford.txt,"Of tidinges,° whether they ben false or trewe.",False,True
+dere,dere,The Friar's Tale 1337,data/oxford_txts/FriT_oxford.txt,"Ne spareth nat,° min owne maister dere.”",False,True
+glad,gladde,The Friar's Tale 1348,data/oxford_txts/FriT_oxford.txt,And they were gladde for to fille his purs,False,False
+kene,kene,The Friar's Tale 1381,data/oxford_txts/FriT_oxford.txt,"A bowe he bar, and arwes brighte and kene;°",False,True
+dere,deere,The Friar's Tale 1395,data/oxford_txts/FriT_oxford.txt,"¶“ ‘Depardieux,’° quod this yeman, ‘deere brother",False,False
+softe,softe,The Friar's Tale 1412,data/oxford_txts/FriT_oxford.txt,This yeman him answerde in softe speche,False,False
+streit,streite,The Friar's Tale 1426,data/oxford_txts/FriT_oxford.txt,My wages been ful streite° and ful smale.,True,False
+smal,smale,The Friar's Tale 1426,data/oxford_txts/FriT_oxford.txt,My wages been ful streite° and ful smale.,False,True
+lef,leve,The Friar's Tale 1444,data/oxford_txts/FriT_oxford.txt,"But, leve brother, tel me than thy name,’",False,False
+lef,leve,The Friar's Tale 1474,data/oxford_txts/FriT_oxford.txt,"‘Ful many a cause, leve sir somnour,’",False,False
+bar,bare,The Friar's Tale 1480,data/oxford_txts/FriT_oxford.txt,"For, brother min, thy wit is al to bare",False,True
+dere,dere,The Friar's Tale 1515,data/oxford_txts/FriT_oxford.txt,"Thou shalt herafterward, my brother dere",False,True
+treu,trewe,The Friar's Tale 1529,data/oxford_txts/FriT_oxford.txt,For to be trewe brother in this cas;,False,False
+treu,trewe,The Friar's Tale 1534,data/oxford_txts/FriT_oxford.txt,"Lat him be trewe, and parte it with his brother.’",True,False
+muche,muche,The Friar's Tale 1546,data/oxford_txts/FriT_oxford.txt,So muche wo as I have with yow tholed!°,False,False
+dere,deere,The Friar's Tale 1567,data/oxford_txts/FriT_oxford.txt,"Heer may ye see, min owne deere brother",False,False
+olde,olde,The Friar's Tale 1582,data/oxford_txts/FriT_oxford.txt,"‘Com out,’ quod he, ‘thou olde viritrate!",False,False
+swete,swete,The Friar's Tale 1585,data/oxford_txts/FriT_oxford.txt,"God save you, sir, what is your swete wille?’",False,False
+lite,lite,The Friar's Tale 1600,data/oxford_txts/FriT_oxford.txt,I shall no profit han therby but lite;,False,True
+povre,poure,The Friar's Tale 1608,data/oxford_txts/FriT_oxford.txt,Ye knowen wel that I am poure and old;,True,False
+povre,povre,The Friar's Tale 1609,data/oxford_txts/FriT_oxford.txt,Kith° youre almesse° on me povre wrecche.’,False,False
+treu,trewe,The Friar's Tale 1621,data/oxford_txts/FriT_oxford.txt,Ne nevere I nas° but of my body trewe!°,False,True
+dere,dere,The Friar's Tale 1626,data/oxford_txts/FriT_oxford.txt,"‘Now Mabely, min owne moder dere",False,True
+bonde,bonde,The Friar's Tale 1660,data/oxford_txts/FriT_oxford.txt,"The feend, that yow wold make thral and bonde.°",False,True
+fre,free,ABC 12,data/oxford_txts/ABC_oxford.txt,"Axeth° thin help. Thin herte is ay so free,°",False,True
+dere,dere,ABC 17,data/oxford_txts/ABC_oxford.txt,"Comfort is noon,° but° in yow, lady dere",False,True
+dere,dere,ABC 28,data/oxford_txts/ABC_oxford.txt,"For certes,° Cristes blisful moder dere",False,True
+lame,lame,ABC 76,data/oxford_txts/ABC_oxford.txt,Him thar not° drede° in° soule to be lame.°,False,True
+noble,noble,ABC 97,data/oxford_txts/ABC_oxford.txt,"Noble princess, that never haddest pere,°",False,False
+dere,dere,ABC 99,data/oxford_txts/ABC_oxford.txt,"That cometh of° thee, thou Cristes moder dere,°",False,True
+blind,blinde,ABC 105,data/oxford_txts/ABC_oxford.txt,O verrey° light of eyen° that ben blinde,False,True
+noble,noble,ABC 153,data/oxford_txts/ABC_oxford.txt,"Virgin, that art so noble of apparaile,°",True,False
+bright,brighte,ABC 181,data/oxford_txts/ABC_oxford.txt,"Now lady brighte, sith° thou canst and wilt°",False,False
 foul,foule,The Prioress' Tale 491,data/oxford_txts/PrT_oxford.txt,"For foule usure° and lucre of vilanie,°",True,False
 fre,free,The Prioress' Tale 494,data/oxford_txts/PrT_oxford.txt,"For it was free, and open at either ende.",True,False
 dere,dere,The Prioress' Tale 510,data/oxford_txts/PrT_oxford.txt,"Our blisful lady, Cristes moder dere",False,True
@@ -245,6 +403,65 @@ treu,trewe,The Wife of Bath's Prologue 819,data/oxford_txts/WBPro_oxford.txt,"An
 kinde,kinde,The Wife of Bath's Prologue 823,data/oxford_txts/WBPro_oxford.txt,"God help me so, I was to him as kinde",False,True
 treu,trewe,The Wife of Bath's Prologue 825,data/oxford_txts/WBPro_oxford.txt,"And also trewe,° and so was he to me.",True,False
 dere,dere,The Wife of Bath's Prologue 827,data/oxford_txts/WBPro_oxford.txt,"So blesse his soule, for his mercy dere!",False,True
+fre,free,02-1-ch 35,data/oxford_txts/MLPro_oxford.txt,Ye been submitted° thurgh your free assent,True,False
+olde,olde,02-1-ch 50,data/oxford_txts/MLPro_oxford.txt,"Of olde time,° as knoweth many a man.",False,False
+olde,olde,02-1-ch 55,data/oxford_txts/MLPro_oxford.txt,"In his Epistelles, that been ful olde.",False,True
+sobre,sobre,02-1-ch 97,data/oxford_txts/MLPro_oxford.txt,"And with that word he, with a sobre chere",False,False
+noble,noble,The Second Nun's Tale 121,data/oxford_txts/SNT_oxford.txt,"Was comen of Romains,° and of noble kinde,°",False,False
+humble,humble,The Second Nun's Tale 131,data/oxford_txts/SNT_oxford.txt,"She, ful devout and humble in hir corage,°",True,False
+dere,dere,The Second Nun's Tale 144,data/oxford_txts/SNT_oxford.txt,“O swete and wel biloved spouse dere,False,True
+clene,clene,The Second Nun's Tale 159,data/oxford_txts/SNT_oxford.txt,"And if that ye in clene love me gie,°",False,False
+mek,meke,The Second Nun's Tale 199,data/oxford_txts/SNT_oxford.txt,"As meke as ever was any lamb, to yow!”",True,False
+clene,clene,The Second Nun's Tale 225,data/oxford_txts/SNT_oxford.txt,“With body clene and with unwemmed° thoght,True,False
+sote,sote,The Second Nun's Tale 229,data/oxford_txts/SNT_oxford.txt,"Ne lese° her sote° savour, trusteth me;",False,False
+lef,leve,The Second Nun's Tale 257,data/oxford_txts/SNT_oxford.txt,"So shaltow seen hem, leve° brother dere",False,False
+dere,dere,The Second Nun's Tale 257,data/oxford_txts/SNT_oxford.txt,"So shaltow seen hem, leve° brother dere",False,True
+clene,clene,The Second Nun's Tale 269,data/oxford_txts/SNT_oxford.txt,"The idoles and be clene,° and elles naught.”—",True,False
+dere,dere,The Second Nun's Tale 272,data/oxford_txts/SNT_oxford.txt,Solempnely this noble doctour dere,False,True
+domb,dombe,The Second Nun's Tale 286,data/oxford_txts/SNT_oxford.txt,"For they been dombe,° and therto they been deve,°",True,False
+def,deve,The Second Nun's Tale 286,data/oxford_txts/SNT_oxford.txt,"For they been dombe,° and therto they been deve,°",False,True
+fair,faire,The Second Nun's Tale 293,data/oxford_txts/SNT_oxford.txt,Seid this blisful faire maide dere;,False,False
+dere,dere,The Second Nun's Tale 293,data/oxford_txts/SNT_oxford.txt,Seid this blisful faire maide dere;,False,True
+clene,clene,The Second Nun's Tale 300,data/oxford_txts/SNT_oxford.txt,And make thee clene; so that thou mowe° biholde,False,False
+dere,dere,The Second Nun's Tale 302,data/oxford_txts/SNT_oxford.txt,"Tiburce answerde and seide, “Brother dere",False,True
+dere,dere,The Second Nun's Tale 321,data/oxford_txts/SNT_oxford.txt,"This lif to lese, min owene dere brother",False,False
+dere,dere,The Second Nun's Tale 333,data/oxford_txts/SNT_oxford.txt,"To whom answerde Tiburce, “O suster dere",False,True
+dere,dere,The Second Nun's Tale 383,data/oxford_txts/SNT_oxford.txt,"“Now, Cristes owene knightes leve° and dere",False,True
+humble,humble,The Second Nun's Tale 397,data/oxford_txts/SNT_oxford.txt,With humble herte and sad° devocioun,False,False
+rude,rude,The Second Nun's Tale 432,data/oxford_txts/SNT_oxford.txt,“Of whennes comth thin answering so rude?”,False,True
+fair,faire,The Second Nun's Tale 461,data/oxford_txts/SNT_oxford.txt,At which the holy blisful faire maide,False,False
+wikke,wikke,The Second Nun's Tale 524,data/oxford_txts/SNT_oxford.txt,"For he, Almachius, with ful wikke entente",True,False
+noble,noble,The Second Nun's Tale 552,data/oxford_txts/SNT_oxford.txt,"In which, into this day, in noble wise",False,False
+riche,riche,The Squire's Tale 19,data/oxford_txts/SqT_oxford.txt,"And therto° he was hardy,° wis, and riche",False,True
+stable,stable,The Squire's Tale 22,data/oxford_txts/SqT_oxford.txt,Of his corage° as any centre stable;°,False,True
+hot,hote,The Squire's Tale 51,data/oxford_txts/SqT_oxford.txt,"In Aries, the colerik° hote signe.",False,False
+shene,shene,The Squire's Tale 53,data/oxford_txts/SqT_oxford.txt,"For which the foules, again° the sonne shene,°",False,True
+kene,kene,The Squire's Tale 57,data/oxford_txts/SqT_oxford.txt,Again the swerd of winter kene and cold.,True,False
+riche,riche,The Squire's Tale 61,data/oxford_txts/SqT_oxford.txt,"And halt° his fest,° so solempne and so riche",False,True
+deinte,deintee,The Squire's Tale 70,data/oxford_txts/SqT_oxford.txt,"Ther is som mete° that is ful deintee° holde,°",False,False
+yong,yonge,The Squire's Tale 88,data/oxford_txts/SqT_oxford.txt,Ful bisily° they waiten° yonge and olde.,True,False
+olde,olde,The Squire's Tale 88,data/oxford_txts/SqT_oxford.txt,Ful bisily° they waiten° yonge and olde.,False,True
+dep,depe,The Squire's Tale 155,data/oxford_txts/SqT_oxford.txt,Al be his woundes never so° depe and wide.,True,False
+wid,wide,The Squire's Tale 155,data/oxford_txts/SqT_oxford.txt,Al be his woundes never so° depe and wide.,False,True
+thikke,thikke,The Squire's Tale 159,data/oxford_txts/SqT_oxford.txt,Were it as thikke as is a branched ook;°,True,False
+bright,brighte,The Squire's Tale 170,data/oxford_txts/SqT_oxford.txt,"His stede, which that shoon as sonne brighte",False,True
+wise,wise,The Squire's Tale 376,data/oxford_txts/SqT_oxford.txt,"Thise olde wommen that been gladly wise,°",False,True
+sote,sote,The Squire's Tale 389,data/oxford_txts/SqT_oxford.txt,Arraied° after the lusty° seson sote°,False,True
+fremed,fremde,The Squire's Tale 429,data/oxford_txts/SqT_oxford.txt,"Of fremde° land; and evermore, as she stood",False,False
+long,longe,The Squire's Tale 444,data/oxford_txts/SqT_oxford.txt,A longe while to waiten° hir she stood,False,False
+treu,trewe,The Squire's Tale 465,data/oxford_txts/SqT_oxford.txt,"And, as I am a kinges doghter trewe",False,True
+fre,free,The Squire's Tale 489,data/oxford_txts/SqT_oxford.txt,"But for to obeye unto your herte free,°",False,True
+stille,stille,The Squire's Tale 497,data/oxford_txts/SqT_oxford.txt,Til that the faucon bad hir to be stille;,False,True
+humble,humble,The Squire's Tale 507,data/oxford_txts/SqT_oxford.txt,"It was so wrapped under humble chere,°",False,False
+nice,nice,The Squire's Tale 525,data/oxford_txts/SqT_oxford.txt,"Til that min hert, to pitous° and to nice,°",False,True
+lite,lite,The Squire's Tale 565,data/oxford_txts/SqT_oxford.txt,"Al were it° never so lite,° and I it wiste",True,False
+muche,muche,The Squire's Tale 586,data/oxford_txts/SqT_oxford.txt,That he had felt as muche harm as I,False,False
+treu,trewe,The Squire's Tale 588,data/oxford_txts/SqT_oxford.txt,"But nathelees, I thoughte he was so trewe",False,True
+propre,propre,The Squire's Tale 610,data/oxford_txts/SqT_oxford.txt,"Men loven of propre kind° newfangelnesse,°",False,False
+softe,softe,The Squire's Tale 613,data/oxford_txts/SqT_oxford.txt,And strawe° hir cage faire and softe as silk,True,False
+propre,propre,The Squire's Tale 619,data/oxford_txts/SqT_oxford.txt,And loven novelries° of propre kinde;,False,False
+fin,fine,The Squire's Tale 640,data/oxford_txts/SqT_oxford.txt,"Of herbes precious, and fine° of hewe,°",True,False
+grene,grene,The Squire's Tale 646,data/oxford_txts/SqT_oxford.txt,"And al without,° the mewe is peinted grene",False,True
 fair,faire,Troilus and Criseyde; Book III 2,data/oxford_txts/TC3_oxford.txt,Adorneth al the thridde hevene faire!,False,True
 dere,dere,Troilus and Criseyde; Book III 3,data/oxford_txts/TC3_oxford.txt,"O sonnes leef, O Joves doughter dere",False,True
 salt,salte,Troilus and Criseyde; Book III 8,data/oxford_txts/TC3_oxford.txt,"In hevene and helle, in erthe and salte see",False,False
@@ -344,6 +561,64 @@ heigh,hie,Troilus and Criseyde; Book III 1745,data/oxford_txts/TC3_oxford.txt,"L
 stable,stable,Troilus and Criseyde; Book III 1751,data/oxford_txts/TC3_oxford.txt,"“That that the world with feith, which that is stable",False,True
 treu,trewe,Troilus and Criseyde; Book III 1771,data/oxford_txts/TC3_oxford.txt,"On hertes sore, and kepe hem that ben trewe.”",False,True
 swete,swete,Troilus and Criseyde; Book III 1820,data/oxford_txts/TC3_oxford.txt,"Is with Criseyde, his owne herte swete.",False,True
+clene,clene,The Merchant's Tale 1264,data/oxford_txts/MerT_oxford.txt,"For wedlok is so esy° and so clene,°",False,True
+treu,trewe,The Merchant's Tale 1288,data/oxford_txts/MerT_oxford.txt,"Who is so trewe, and eek so ententif°",True,False
+treu,trewe,The Merchant's Tale 1298,data/oxford_txts/MerT_oxford.txt,"A trewe servant dooth more diligence,°",False,False
+treu,trewe,The Merchant's Tale 1302,data/oxford_txts/MerT_oxford.txt,Thy verrai° frendes or a trewe knave°,False,False
+povre,povre,The Merchant's Tale 1342,data/oxford_txts/MerT_oxford.txt,"If he be povre,° she helpeth him to swinke;°",False,False
+treu,trewe,The Merchant's Tale 1359,data/oxford_txts/MerT_oxford.txt,They been so trewe and therwithal° so wise;,True,False
+wise,wise,The Merchant's Tale 1359,data/oxford_txts/MerT_oxford.txt,They been so trewe and therwithal° so wise;,False,True
+humble,humble,The Merchant's Tale 1376,data/oxford_txts/MerT_oxford.txt,"As seith Senek,° above an humble wif.",False,False
+tender,tendre,The Merchant's Tale 1407,data/oxford_txts/MerT_oxford.txt,Unto som maide fair and tendre of age.,True,False
+straunge,straunge,The Merchant's Tale 1440,data/oxford_txts/MerT_oxford.txt,"In straunge hand, and this I tell yow alle.",False,False
+dere,dere,The Merchant's Tale 1479,data/oxford_txts/MerT_oxford.txt,"Ful litel nede° had ye, my lord so dere",False,True
+dere,dere,The Merchant's Tale 1488,data/oxford_txts/MerT_oxford.txt,Min owene dere brother and my lord,False,False
+ouen,owene,The Merchant's Tale 1490,data/oxford_txts/MerT_oxford.txt,I hold° your owene conseil is the beste.,False,False
+stable,stable,The Merchant's Tale 1499,data/oxford_txts/MerT_oxford.txt,"What that° he seith, I holde it° ferme and stable;",False,True
+sobre,sobre,The Merchant's Tale 1533,data/oxford_txts/MerT_oxford.txt,"Wher° she be wis,° or sobre, or dronkelewe,°",True,False
+riche,riche,The Merchant's Tale 1536,data/oxford_txts/MerT_oxford.txt,"Or° riche, or poore, or elles mannish° wood.°",True,False
+povre,poore,The Merchant's Tale 1536,data/oxford_txts/MerT_oxford.txt,"Or° riche, or poore, or elles mannish° wood.°",True,False
+riche,riche,The Merchant's Tale 1593,data/oxford_txts/MerT_oxford.txt,"And somme were riche, and hadden badde name.°",True,False
+badde,badde,The Merchant's Tale 1593,data/oxford_txts/MerT_oxford.txt,"And somme were riche, and hadden badde name.°",False,False
+tender,tendre,The Merchant's Tale 1601,data/oxford_txts/MerT_oxford.txt,Hir fresshe beautee and hir age tendre,False,True
+badde,badde,The Merchant's Tale 1608,data/oxford_txts/MerT_oxford.txt,Him thoughte ech° other mannes wit° so badde,False,True
+sengle,sengle,The Merchant's Tale 1667,data/oxford_txts/MerT_oxford.txt,Wel ofte rather than a sengle° man!,False,False
+dere,dere,The Merchant's Tale 1683,data/oxford_txts/MerT_oxford.txt,"Beth nat agast° herof,° my brother dere”—",False,True
+long,longe,The Merchant's Tale 1696,data/oxford_txts/MerT_oxford.txt,"I trowe° it were to longe yow to tarie,°",False,False
+tender,tendre,The Merchant's Tale 1738,data/oxford_txts/MerT_oxford.txt,Whan tendre youthe hath wedded stouping° age,False,False
+mek,meke,The Merchant's Tale 1745,data/oxford_txts/MerT_oxford.txt,"On Assuer, so meke a look hath she.",True,False
+kene,kene,The Merchant's Tale 1759,data/oxford_txts/MerT_oxford.txt,"Al my corage,° it is so sharp and kene;",False,True
+fals,false,The Merchant's Tale 1785,data/oxford_txts/MerT_oxford.txt,"O servant traitour, false hoomly° hewe,°",False,False
+rude,rude,The Merchant's Tale 1798,data/oxford_txts/MerT_oxford.txt,"Night with his mantel, that is derk and rude,°",False,True
+fresh,fresshe,The Merchant's Tale 1882,data/oxford_txts/MerT_oxford.txt,Unto his faire fresshe° lady May.,False,False
+secre,secree,The Merchant's Tale 1937,data/oxford_txts/MerT_oxford.txt,"In secree wise° his purs, and eek his bille,°",False,False
+fair,faire,The Merchant's Tale 1955,data/oxford_txts/MerT_oxford.txt,¶Who studieth° now but faire fresshe May?,False,False
+grene,grene,The Merchant's Tale 2037,data/oxford_txts/MerT_oxford.txt,That stood under a laurer° alwey° grene.,False,True
+ofte,ofte,The Merchant's Tale 2038,data/oxford_txts/MerT_oxford.txt,"¶Ful ofte time he, Pluto, and his quene",False,False
+queinte,queinte,The Merchant's Tale 2061,data/oxford_txts/MerT_oxford.txt,O brotil° joye! o swete venim queinte!°,False,True
+fre,free,The Merchant's Tale 2069,data/oxford_txts/MerT_oxford.txt,"Allas! this noble Januarie free,°",False,True
+warm,warme,The Merchant's Tale 2117,data/oxford_txts/MerT_oxford.txt,"In warme wex° hath emprented° the cliket,°",False,False
+fre,free,The Merchant's Tale 2138,data/oxford_txts/MerT_oxford.txt,"“Ris up, my wif, my love, my lady free;°",False,True
+swete,swete,The Merchant's Tale 2139,data/oxford_txts/MerT_oxford.txt,"The turtles vois is herd, my douve° swete;",False,True
+olde,olde,The Merchant's Tale 2149,data/oxford_txts/MerT_oxford.txt,¶Swiche olde lewed° wordes used he;,False,False
+treu,trewe,The Merchant's Tale 2164,data/oxford_txts/MerT_oxford.txt,"Than thee offende,° trewe dere wif!",False,False
+dere,dere,The Merchant's Tale 2164,data/oxford_txts/MerT_oxford.txt,"Than thee offende,° trewe dere wif!",False,False
+dere,dere,The Merchant's Tale 2194,data/oxford_txts/MerT_oxford.txt,"By the leve° of yow, my lord so dere:",False,True
+grene,grene,The Merchant's Tale 2235,data/oxford_txts/MerT_oxford.txt,"Upon a bench of turves,° fresh and grene",False,True
+wilde,wilde,The Merchant's Tale 2252,data/oxford_txts/MerT_oxford.txt,A wilde fir° and corrupt pestilence,False,False
+blind,blinde,The Merchant's Tale 2259,data/oxford_txts/MerT_oxford.txt,Unto this olde blinde worthy knight,False,False
+treu,trewe,The Merchant's Tale 2281,data/oxford_txts/MerT_oxford.txt,"Wommen ful trewe, ful gode, and vertuous.",False,False
+god,gode,The Merchant's Tale 2281,data/oxford_txts/MerT_oxford.txt,"Wommen ful trewe, ful gode, and vertuous.",True,False
+treu,trewe,The Merchant's Tale 2285,data/oxford_txts/MerT_oxford.txt,Of many a verrai trewe wif also.,False,False
+riche,riche,The Merchant's Tale 2294,data/oxford_txts/MerT_oxford.txt,What though he were riche and glorious?,True,False
+shene,shene,The Merchant's Tale 2328,data/oxford_txts/MerT_oxford.txt,"This fresshe May, that is so bright and shene,°",False,True
+rude,rude,The Merchant's Tale 2351,data/oxford_txts/MerT_oxford.txt,"I can nat glose,° I am a rude° man.",False,False
+store,store,The Merchant's Tale 2367,data/oxford_txts/MerT_oxford.txt,"“O stronge° lady store,° what dostow?”°",False,False
+god,gode,The Merchant's Tale 2387,data/oxford_txts/MerT_oxford.txt,"“Ye maze,° maze, gode sire,” quod she",False,False
+kinde,kinde,The Merchant's Tale 2389,data/oxford_txts/MerT_oxford.txt,"Allas!” quod she, “That ever I was so kinde!”",False,True
+ripe,ripe,The Reeve's Prologue 3875,data/oxford_txts/RvPro_oxford.txt,"Til we be roten, can we nat be ripe;",False,True
+grene,grene,The Reeve's Prologue 3878,data/oxford_txts/RvPro_oxford.txt,"To have an hoor heed° and a grene tail,°",False,False
+olde,olde,The Reeve's Prologue 3898,data/oxford_txts/RvPro_oxford.txt,"With olde folk, save dotage,° is namore.”°",False,False
 fre,free,Sir Thopas 721,data/oxford_txts/Thop_oxford.txt,"His fader was a man ful free,°",False,True
 wilde,wilde,Sir Thopas 736,data/oxford_txts/Thop_oxford.txt,He coude° hunte at° wilde deer,False,False
 wilde,wilde,Sir Thopas 755,data/oxford_txts/Thop_oxford.txt,Therinne° is many a wilde best,False,False
@@ -356,6 +631,41 @@ trie,trie,Sir Thopas 856,data/oxford_txts/Thop_oxford.txt,    With sugre tha
 cler,clere,Sir Thopas 858,data/oxford_txts/Thop_oxford.txt,Of clooth of lake° fin and clere,False,True
 fre,free,Sir Thopas 892,data/oxford_txts/Thop_oxford.txt,"Bothe knight and lady free,°",False,True
 god,goode,Sir Thopas 914,data/oxford_txts/Thop_oxford.txt,    Of herbes fine and goode.,False,True
+large,large,The Franklin's Tale 755,data/oxford_txts/FranT_oxford.txt,"Ye profre me to have so large a reine,°",True,False
+humble,humble,The Franklin's Tale 758,data/oxford_txts/FranT_oxford.txt,"Sire, I wol be your humble trewe wif",False,False
+treu,trewe,The Franklin's Tale 758,data/oxford_txts/FranT_oxford.txt,"Sire, I wol be your humble trewe wif",False,False
+fre,free,The Franklin's Tale 767,data/oxford_txts/FranT_oxford.txt,Love is a thing as any spirit free;,False,True
+humble,humble,The Franklin's Tale 791,data/oxford_txts/FranT_oxford.txt,¶Heer may men seen an humble wis accord;,False,False
+stable,stable,The Franklin's Tale 871,data/oxford_txts/FranT_oxford.txt,"Of swich a parfit wis God and a stable,°",False,True
+riche,riche,The Franklin's Tale 933,data/oxford_txts/FranT_oxford.txt,"Yong, strong, right vertuous, and riche and wis",True,False
+yong,yonge,The Franklin's Tale 956,data/oxford_txts/FranT_oxford.txt,"Ther° yonge folk kepen° hir observaunces,°",False,False
+clene,clene,The Franklin's Tale 995,data/oxford_txts/FranT_oxford.txt,"I sey, whan ye han maad the coost so clene",False,True
+neue,newe,The Franklin's Tale 1015,data/oxford_txts/FranT_oxford.txt,But sodeinly bigonne revel° newe,False,True
+loue,lowe,The Franklin's Tale 1035,data/oxford_txts/FranT_oxford.txt,As thin herberwe° chaungeth lowe or heighe,True,False
+dere,dere,The Franklin's Tale 1072,data/oxford_txts/FranT_oxford.txt,To graunte me my soverein lady dere,False,True
+derk,derke,The Franklin's Tale 1074,data/oxford_txts/FranT_oxford.txt,Into hir owne derke regioun,False,False
+long,longe,The Franklin's Tale 1081,data/oxford_txts/FranT_oxford.txt,And longe time he lay forth° in a traunce.,False,False
+kene,kene,The Franklin's Tale 1112,data/oxford_txts/FranT_oxford.txt,But in his herte ay was the arwe° kene.,False,True
+large,large,The Franklin's Tale 1143,data/oxford_txts/FranT_oxford.txt,"That tregetours,° withinne an halle large",False,True
+red,rede,The Franklin's Tale 1148,data/oxford_txts/FranT_oxford.txt,"Somtime a vine, and grapes white and rede;",False,True
+ded,dede,The Franklin's Tale 1181,data/oxford_txts/FranT_oxford.txt,And he answerde him that they dede° were,False,False
+wilde,wilde,The Franklin's Tale 1190,data/oxford_txts/FranT_oxford.txt,"Forestes, parkes° ful of wilde deer;",False,False
+wilde,wilde,The Franklin's Tale 1195,data/oxford_txts/FranT_oxford.txt,"He saugh, whan voided° wer thise wilde deer",False,False
+straunge,straunge,The Franklin's Tale 1223,data/oxford_txts/FranT_oxford.txt,"¶He made it straunge,° and swoor, so God him save",True,False
+double,double,The Franklin's Tale 1252,data/oxford_txts/FranT_oxford.txt,"Janus sit by the fir, with double berd",False,False
+humble,humble,The Franklin's Tale 1309,data/oxford_txts/FranT_oxford.txt,"With dredful° herte and with ful humble chere,°",False,False
+dere,dere,The Franklin's Tale 1310,data/oxford_txts/FranT_oxford.txt,Salewed° hath his soverein lady dere:,False,True
+pale,pale,The Franklin's Tale 1353,data/oxford_txts/FranT_oxford.txt,"With face pale and with ful sorweful chere,°",True,False
+noble,noble,The Franklin's Tale 1364,data/oxford_txts/FranT_oxford.txt,"Hath ther nat many a noble wif, er this",False,False
+treu,trewe,The Franklin's Tale 1424,data/oxford_txts/FranT_oxford.txt,I wol be trewe unto Arveragus,True,False
+dere,dere,The Franklin's Tale 1426,data/oxford_txts/FranT_oxford.txt,As did Demociones doghter dere,False,True
+treu,trewe,The Franklin's Tale 1439,data/oxford_txts/FranT_oxford.txt,How trewe eek was to Alcebiades,True,False
+muche,muche,The Franklin's Tale 1471,data/oxford_txts/FranT_oxford.txt,"This is to muche, and° it were Goddes wille.”",True,False
+stille,stille,The Franklin's Tale 1472,data/oxford_txts/FranT_oxford.txt,"¶“Ye, wif,” quod he, “lat slepen that° is stille;°",False,True
+bar,bare,The Franklin's Tale 1545,data/oxford_txts/FranT_oxford.txt,¶She thonketh him upon hir knees al bare,False,True
+bar,bare,The Franklin's Tale 1580,data/oxford_txts/FranT_oxford.txt,To goon abegged° in my kirtle bare.°,False,True
+lef,leve,The Franklin's Tale 1607,data/oxford_txts/FranT_oxford.txt,"¶This philosophre answerd, “Leve° brother",False,False
+fre,free,The Franklin's Tale 1622,data/oxford_txts/FranT_oxford.txt,"Which was the moste free,° as thinketh yow?°",True,False
 shene,shene,Troilus and Criseyde; Book IV 38,data/oxford_txts/TC4_oxford.txt,"But on a day wel armed, bright and shene",False,True
 lef,leve,Troilus and Criseyde; Book IV 82,data/oxford_txts/TC4_oxford.txt,And for the Grekes weren me so leve,False,True
 wroth,wrothe,Troilus and Criseyde; Book IV 122,data/oxford_txts/TC4_oxford.txt,Ben with the folk of Troye alwey so wrothe,False,True
@@ -463,6 +773,94 @@ dere,dere,The Miller's Tale 3775,data/oxford_txts/MilT_oxford.txt,"Than Gerveis 
 treu,trewe,The Miller's Tale 3781,data/oxford_txts/MilT_oxford.txt,"Thou sholdest have, as I am trewe smith;",False,False
 swete,swete,The Miller's Tale 3805,data/oxford_txts/MilT_oxford.txt,"“Spek, swete brid,° I noot° nat wher thou art.”",False,False
 smal,smale,The Miller's Tale 3826,data/oxford_txts/MilT_oxford.txt,"The neighebores, bothe smale and grete,°",True,False
+dere,dere,The Clerk's Tale 101,data/oxford_txts/ClT_oxford.txt,"Yet for as muche as ye, my lord so dere",False,True
+grene,grene,The Clerk's Tale 120,data/oxford_txts/ClT_oxford.txt,"And though your grene youthe floure as yit,°",False,False
+heigh,hye,The Clerk's Tale 135,data/oxford_txts/ClT_oxford.txt,"And tak a wif, for hye Goddes sake;",False,False
+straunge,straunge,The Clerk's Tale 138,data/oxford_txts/ClT_oxford.txt,And that a straunge successour shold take,False,False
+mek,meke,The Clerk's Tale 141,data/oxford_txts/ClT_oxford.txt,Hir° meke preiere and hir pitous chere°,False,False
+dere,dere,The Clerk's Tale 143,data/oxford_txts/ClT_oxford.txt,"“Ye wol,” quod he, “min owene peple dere",False,True
+selde,selde,The Clerk's Tale 146,data/oxford_txts/ClT_oxford.txt,That selde time is founde in mariage;,False,False
+fre,free,The Clerk's Tale 147,data/oxford_txts/ClT_oxford.txt,"Ther° I was free, I moot been in servage.",True,False
+treu,trewe,The Clerk's Tale 148,data/oxford_txts/ClT_oxford.txt,But nathelees I see your trewe entente,True,False
+humble,humble,The Clerk's Tale 186,data/oxford_txts/ClT_oxford.txt,"And they, with humble entente,° buxomly,°",True,False
+povre,povre,The Clerk's Tale 200,data/oxford_txts/ClT_oxford.txt,In which that povre folk of that village,False,False
+povre,povre,The Clerk's Tale 204,data/oxford_txts/ClT_oxford.txt,Amonges thise povre folk ther dwelte a man,False,False
+tender,tendre,The Clerk's Tale 218,data/oxford_txts/ClT_oxford.txt,But thogh this maide tendre were of age,False,False
+ripe,ripe,The Clerk's Tale 220,data/oxford_txts/ClT_oxford.txt,Ther was enclosed ripe and sad corage;°,True,False
+povre,povre,The Clerk's Tale 222,data/oxford_txts/ClT_oxford.txt,Hir olde povre fader fostred she;°,False,False
+hard,harde,The Clerk's Tale 228,data/oxford_txts/ClT_oxford.txt,And made hir bed ful harde and nothing softe;,True,False
+softe,softe,The Clerk's Tale 228,data/oxford_txts/ClT_oxford.txt,And made hir bed ful harde and nothing softe;,False,True
+ofte,ofte,The Clerk's Tale 233,data/oxford_txts/ClT_oxford.txt,Ful ofte sithe° this markis sette his eye,False,False
+humble,humble,The Clerk's Tale 298,data/oxford_txts/ClT_oxford.txt,"And she with reverence, in humble chere,°",False,False
+lege,lige,The Clerk's Tale 310,data/oxford_txts/ClT_oxford.txt,And art my feithful lige man ybore;,False,False
+dere,dere,The Clerk's Tale 321,data/oxford_txts/ClT_oxford.txt,I wol no thing; ye be my lord so dere;,False,True
+dere,dere,The Clerk's Tale 334,data/oxford_txts/ClT_oxford.txt,And tentifly° she kepte hir fader dere.,False,True
+pale,pale,The Clerk's Tale 340,data/oxford_txts/ClT_oxford.txt,For which she loked with ful pale face.,False,False
+sobre,sobre,The Clerk's Tale 366,data/oxford_txts/ClT_oxford.txt,And forth he gooth with a ful sobre chere°,False,False
+smal,smale,The Clerk's Tale 382,data/oxford_txts/ClT_oxford.txt,And sette hir ful of nowches° grete and smale;,False,True
+dere,dere,The Clerk's Tale 400,data/oxford_txts/ClT_oxford.txt,To every wight° she woxen is° so dere,False,True
+digne,digne,The Clerk's Tale 411,data/oxford_txts/ClT_oxford.txt,So benigne and so digne of reverence,True,False
+yong,yonge,The Clerk's Tale 419,data/oxford_txts/ClT_oxford.txt,"That men and wommen, as wel yonge as olde",True,False
+olde,olde,The Clerk's Tale 419,data/oxford_txts/ClT_oxford.txt,"That men and wommen, as wel yonge as olde",False,True
+wroth,wrothe,The Clerk's Tale 437,data/oxford_txts/ClT_oxford.txt,"Were wrothe,° she wold bringen hem atoon;°",False,False
+wise,wise,The Clerk's Tale 438,data/oxford_txts/ClT_oxford.txt,So° wise and ripe° wordes hadde she,True,False
+long,longe,The Clerk's Tale 442,data/oxford_txts/ClT_oxford.txt,Nat longe time after that this Grisild,False,False
+maide,maide,The Clerk's Tale 446,data/oxford_txts/ClT_oxford.txt,For though a maide child come al bifore,False,False
+sterne,sterne,The Clerk's Tale 465,data/oxford_txts/ClT_oxford.txt,With sterne face and with ful trouble chere,False,False
+trouble,trouble,The Clerk's Tale 465,data/oxford_txts/ClT_oxford.txt,With sterne face and with ful trouble chere,False,False
+povre,povre,The Clerk's Tale 467,data/oxford_txts/ClT_oxford.txt,That I yow took out of your povre array,True,False
+povre,povre,The Clerk's Tale 473,data/oxford_txts/ClT_oxford.txt,That I yow took in povre estaat ful lowe,True,False
+dere,dere,The Clerk's Tale 479,data/oxford_txts/ClT_oxford.txt,And though to me that ye be lief° and dere,False,True
+ouen,owene,The Clerk's Tale 504,data/oxford_txts/ClT_oxford.txt,Your owene thing;° werketh after your wille.,False,False
+mek,meke,The Clerk's Tale 538,data/oxford_txts/ClT_oxford.txt,And as a lamb she sitteth meke and stille,True,False
+yong,yonge,The Clerk's Tale 567,data/oxford_txts/ClT_oxford.txt,“Have heer again your litel yonge maide.°,False,False
+dere,dere,The Clerk's Tale 578,data/oxford_txts/ClT_oxford.txt,And him presenteth with his doghter dere.,False,True
+kinde,kinde,The Clerk's Tale 602,data/oxford_txts/ClT_oxford.txt,But ever in oon ylike sad° and kinde.,False,True
+humble,humble,The Clerk's Tale 603,data/oxford_txts/ClT_oxford.txt,"As glad, as humble, as bisy in servise",True,False
+ouen,owne,The Clerk's Tale 652,data/oxford_txts/ClT_oxford.txt,"Ye been our lord, doth with your owne thing",False,False
+stable,stable,The Clerk's Tale 663,data/oxford_txts/ClT_oxford.txt,Al your plesaunce ferme and stable I holde;,True,False
+treu,trewe,The Clerk's Tale 713,data/oxford_txts/ClT_oxford.txt,"The more trewe, if that it were possible",True,False
+povre,povre,The Clerk's Tale 724,data/oxford_txts/ClT_oxford.txt,For° he a povre womman wedded hadde,False,False
+riche,riche,The Clerk's Tale 776,data/oxford_txts/ClT_oxford.txt,"In riche array, this maiden for to gide;°",True,False
+digne,digne,The Clerk's Tale 818,data/oxford_txts/ClT_oxford.txt,I ne heeld me never digne° in no manere,True,False
+humble,humble,The Clerk's Tale 824,data/oxford_txts/ClT_oxford.txt,But humble servant to your worthinesse,False,False
+clene,clene,The Clerk's Tale 836,data/oxford_txts/ClT_oxford.txt,"A widwe clene, in body, herte, and al.",True,False
+treu,trewe,The Clerk's Tale 838,data/oxford_txts/ClT_oxford.txt,"And am your trewe wif, it is no drede",False,False
+neue,newe,The Clerk's Tale 841,data/oxford_txts/ClT_oxford.txt,"And of your newe wif, God of his grace",False,False
+kinde,kinde,The Clerk's Tale 852,data/oxford_txts/ClT_oxford.txt,O gode God! how gentil and how kinde,False,True
+treu,trewe,The Clerk's Tale 855,data/oxford_txts/ClT_oxford.txt,"But sooth is seid, algate I finde it trewe—",False,True
+neue,newe,The Clerk's Tale 857,data/oxford_txts/ClT_oxford.txt,Love is noght old as whan that it is newe.,False,True
+bar,bare,The Clerk's Tale 879,data/oxford_txts/ClT_oxford.txt,Be seyn al bare; wherfor I yow preye,False,False
+dere,dere,The Clerk's Tale 881,data/oxford_txts/ClT_oxford.txt,"Remembre yow, min owne lord so dere",False,True
+stille,stille,The Clerk's Tale 891,data/oxford_txts/ClT_oxford.txt,"Lat it be stille, and ber it forth with thee.”",True,False
+bar,bare,The Clerk's Tale 895,data/oxford_txts/ClT_oxford.txt,"And in hir smok, with heed and foot al bare",False,True
+povre,povre,The Clerk's Tale 904,data/oxford_txts/ClT_oxford.txt,For out of doute this olde povre man,False,False
+rude,rude,The Clerk's Tale 916,data/oxford_txts/ClT_oxford.txt,"For rude° was the cloth, and more of age°",False,False
+tender,tendre,The Clerk's Tale 927,data/oxford_txts/ClT_oxford.txt,"No tendre mouth, non herte delicaat",False,False
+mek,meke,The Clerk's Tale 931,data/oxford_txts/ClT_oxford.txt,And to hir housbonde ever meke and stable.,True,False
+stable,stable,The Clerk's Tale 931,data/oxford_txts/ClT_oxford.txt,And to hir housbonde ever meke and stable.,False,True
+treu,trewe,The Clerk's Tale 937,data/oxford_txts/ClT_oxford.txt,"As womman can, ne can ben half so trewe",False,True
+neue,newe,The Clerk's Tale 942,data/oxford_txts/ClT_oxford.txt,"Was couth° eek, that a newe markisesse",False,False
+noble,noble,The Clerk's Tale 945,data/oxford_txts/ClT_oxford.txt,So noble array in al West Lumbardie.,True,False
+humble,humble,The Clerk's Tale 949,data/oxford_txts/ClT_oxford.txt,And she with humble herte and glad visage,False,False
+badde,badde,The Clerk's Tale 965,data/oxford_txts/ClT_oxford.txt,"Though thin array° be badde and ivel biseie,°",True,False
+tender,tendre,The Clerk's Tale 989,data/oxford_txts/ClT_oxford.txt,"Than is Grisild, and more tendre of age",True,False
+neue,newe,The Clerk's Tale 997,data/oxford_txts/ClT_oxford.txt,Deliting ever in rumbel° that is newe,False,True
+dere,dere,The Clerk's Tale 999,data/oxford_txts/ClT_oxford.txt,"Ay ful of clapping,° dere ynogh a jane;°",False,False
+sad,sadde,The Clerk's Tale 1002,data/oxford_txts/ClT_oxford.txt,Thus seiden sadde folk° in that citee,False,False
+neue,newe,The Clerk's Tale 1005,data/oxford_txts/ClT_oxford.txt,To han a newe lady of hir toun.,False,False
+rude,rude,The Clerk's Tale 1012,data/oxford_txts/ClT_oxford.txt,Though it were rude° and somdel eek torent.°,True,False
+povre,povre,The Clerk's Tale 1020,data/oxford_txts/ClT_oxford.txt,That in so povre array was for to see,True,False
+povre,povre,The Clerk's Tale 1043,data/oxford_txts/ClT_oxford.txt,As coude a povre° fostred creature.”,False,False
+dere,dere,The Clerk's Tale 1056,data/oxford_txts/ClT_oxford.txt,"Now knowe I, dere wif, thy stedfastnesse,”",False,False
+deinte,deintee,The Clerk's Tale 1112,data/oxford_txts/ClT_oxford.txt,That it was deintee° for to seen the chere,False,False
+riche,riche,The Clerk's Tale 1118,data/oxford_txts/ClT_oxford.txt,With a coroune of many a riche stoon°,False,False
+fresh,fresshe,The Clerk's Tale 1173,data/oxford_txts/ClT_oxford.txt,I wol with lusty° herte fresshe and grene,True,False
+grene,grene,The Clerk's Tale 1173,data/oxford_txts/ClT_oxford.txt,I wol with lusty° herte fresshe and grene,False,True
+kinde,kinde,The Clerk's Tale 1187,data/oxford_txts/ClT_oxford.txt,As of Grisildis pacient and kinde;,False,True
+strong,stronge,The Clerk's Tale 1196,data/oxford_txts/ClT_oxford.txt,Sin° ye be stronge as is a greet camaille;°,True,False
+egre,egre,The Clerk's Tale 1199,data/oxford_txts/ClT_oxford.txt,Beth egre° as is a tigre yond in Inde;°,True,False
+fre,free,The Clerk's Tale 1209,data/oxford_txts/ClT_oxford.txt,"If thou be foul,° be free° of thy dispence,°",True,False
 riche,riche,The Knight's Tale 864,data/oxford_txts/KnT_oxford.txt,Ful many a riche contree hadde he wonne;,False,False
 large,large,The Knight's Tale 886,data/oxford_txts/KnT_oxford.txt,"I have, God woot,° a large feeld to ere,°",False,False
 weik,waike,The Knight's Tale 887,data/oxford_txts/KnT_oxford.txt,And waike° been the oxen in my plough.,False,False
@@ -568,6 +966,50 @@ drie,dreie,The Knight's Tale 3024,data/oxford_txts/KnT_oxford.txt,The brode rive
 due,due,The Knight's Tale 3044,data/oxford_txts/KnT_oxford.txt,And namely° that to us alle is due.,False,True
 ouen,owne,The Knight's Tale 3077,data/oxford_txts/KnT_oxford.txt,"That gentil Palamon, your owne knight",False,False
 povre,povre,The Knight's Tale 3085,data/oxford_txts/KnT_oxford.txt,"And, though° he were a povre bacheler,°",False,False
+pale,pale,Prologue to the Manciple's Tale 20,data/oxford_txts/MancPro_oxford.txt,"This Cook, that was ful pale and no thing reed,°",True,False
+pale,pale,Prologue to the Manciple's Tale 30,data/oxford_txts/MancPro_oxford.txt,"For, in good feith, thy visage is ful pale",False,True
+nice,nice,Prologue to the Manciple's Tale 69,data/oxford_txts/MancPro_oxford.txt,"¶But yet, Maunciple, in feith thou art to nice,°",False,True
+ripe,ripe,Prologue to the Manciple's Tale 83,data/oxford_txts/MancPro_oxford.txt,"A draught of win, ye, of a ripe grape",False,False
+fers,ferse,Anelida and Arcite 1,data/oxford_txts/Anelida_oxford.txt,"Thou ferse° god of armes, Mars the rede",False,False
+noble,noble,Anelida and Arcite 13,data/oxford_txts/Anelida_oxford.txt,As it hath freten mony a noble storie,False,False
+gret,grete,Anelida and Arcite 22,data/oxford_txts/Anelida_oxford.txt,"Whan Theseus, with werres longe and grete",False,True
+large,large,Anelida and Arcite 30,data/oxford_txts/Anelida_oxford.txt,"The trompes come, and in° his baner large",False,True
+shene,shene,Anelida and Arcite 38,data/oxford_txts/Anelida_oxford.txt,"With Emelie, hir yonge suster shene,°",False,True
+wroth,wrothe,Anelida and Arcite 56,data/oxford_txts/Anelida_oxford.txt,"That everich other slough,° so wer they wrothe.°",False,True
+ded,dede,Anelida and Arcite 59,data/oxford_txts/Anelida_oxford.txt,"Were dede, and slaine proud Campaneus",True,False
+bar,bare,Anelida and Arcite 62,data/oxford_txts/Anelida_oxford.txt,So desolat stood Thebes and so bare,False,True
+shene,shene,Anelida and Arcite 73,data/oxford_txts/Anelida_oxford.txt,That fairer was then is the sonne shene;°,False,True
+riche,riche,Anelida and Arcite 77,data/oxford_txts/Anelida_oxford.txt,Of al the women in this worlde riche.,False,True
+treu,trewe,Anelida and Arcite 142,data/oxford_txts/Anelida_oxford.txt,For she to him so lowly was and trewe,False,True
+neue,newe,Anelida and Arcite 144,data/oxford_txts/Anelida_oxford.txt,"And saw another lady, proud and newe",False,True
+mat,mate,Anelida and Arcite 176,data/oxford_txts/Anelida_oxford.txt,"And thus endureth, til that she was so mate°",False,True
+neue,newe,Anelida and Arcite 180,data/oxford_txts/Anelida_oxford.txt,"His hert was elleswhere, newe and grene",True,False
+grene,grene,Anelida and Arcite 180,data/oxford_txts/Anelida_oxford.txt,"His hert was elleswhere, newe and grene",False,True
+proud,proude,Anelida and Arcite 192,data/oxford_txts/Anelida_oxford.txt,"But lest that he wer proude, she held him lowe;",False,False
+straunge,straunge,Anelida and Arcite 202,data/oxford_txts/Anelida_oxford.txt,"In thing that straunge is, also God me save!",True,False
+bar,bare,Anelida and Arcite 213,data/oxford_txts/Anelida_oxford.txt,"    Min herte, bare of blis and blak of hewe",True,False
+treu,trewe,Anelida and Arcite 216,data/oxford_txts/Anelida_oxford.txt,    Sith it availeth not for to ben trewe;,False,True
+blithe,blithe,Anelida and Arcite 225,data/oxford_txts/Anelida_oxford.txt,"    And whan that he was glad, than was I blithe,°",False,True
+treu,trewe,Anelida and Arcite 283,data/oxford_txts/Anelida_oxford.txt,    Whiche is the wey to doon° yow to be trewe?,False,True
+tame,tame,Anelida and Arcite 315,data/oxford_txts/Anelida_oxford.txt,Is that a tame° best that is ay fein°,False,False
+treu,trewe,Anelida and Arcite 332,data/oxford_txts/Anelida_oxford.txt,"For to be trewe, and mercy me to preye.°",True,False
+drie,drie,Anelida and Arcite 336,data/oxford_txts/Anelida_oxford.txt,Ne never mo min eyen two be drie,False,True
+pale,pale,Anelida and Arcite 353,data/oxford_txts/Anelida_oxford.txt,"With face deed, betwixe pale and grene,°",True,False
+ofte,ofte,The Physician's Tale 62,data/oxford_txts/PhyT_oxford.txt,"She hath ful ofte time sik hir feined,°",False,False
+ripe,ripe,The Physician's Tale 68,data/oxford_txts/PhyT_oxford.txt,"To sone ripe° and bold, as men may see",True,False
+olde,olde,The Physician's Tale 72,data/oxford_txts/PhyT_oxford.txt,"¶And ye maistresses° in your olde lif,°",False,False
+wikke,wikke,The Physician's Tale 88,data/oxford_txts/PhyT_oxford.txt,Lest ye be dampned for your wikke entente;,True,False
+softe,softe,The Physician's Tale 101,data/oxford_txts/PhyT_oxford.txt,Under a shepherd softe and necligent,True,False
+wid,wide,The Physician's Tale 112,data/oxford_txts/PhyT_oxford.txt,Bothe of hir beautee and hir bountee° wide;,False,True
+dere,dere,The Physician's Tale 119,data/oxford_txts/PhyT_oxford.txt,"Toward a temple, with hir moder dere",False,True
+secre,secree,The Physician's Tale 143,data/oxford_txts/PhyT_oxford.txt,"In secree wise,° and made him to ensure,°",False,False
+dere,dere,The Physician's Tale 148,data/oxford_txts/PhyT_oxford.txt,And yaf° him yiftes preciouse and dere.,False,True
+dere,dere,The Physician's Tale 178,data/oxford_txts/PhyT_oxford.txt,"“To yow, my lord, sire Apius so dere,°",False,True
+povre,povre,The Physician's Tale 179,data/oxford_txts/PhyT_oxford.txt,Sheweth° your povre servant Claudius,False,False
+dere,dere,The Physician's Tale 231,data/oxford_txts/PhyT_oxford.txt,"¶“O mercy, dere fader,” quod this maide",False,False
+god,gode,The Physician's Tale 235,data/oxford_txts/PhyT_oxford.txt,"And seide, “Gode fader, shal I die?",False,False
+dere,dere,The Physician's Tale 237,data/oxford_txts/PhyT_oxford.txt,"“No, certes, dere doghter min,” quod he.",False,False
+prive,privee,The Physician's Tale 281,data/oxford_txts/PhyT_oxford.txt,"Of° wikked lif, though it so privee° be",False,False
 sik,seke,18,oxford_txts/GP.txt,That hem hath holpen whan that they were seke,False,True
 wid,wide,28,oxford_txts/GP.txt,The chambres and the stables weren wide,False,True
 ofte,ofte,52,oxford_txts/GP.txt,Ful ofte time he had the bord bigonne,False,False
@@ -785,6 +1227,36 @@ neue,newe,Book of the Duchess 1288,data/oxford_txts/BD_oxford.txt,Our joy was ev
 wroth,wrothe,Book of the Duchess 1294,data/oxford_txts/BD_oxford.txt,Ylich they were both glad and wrothe;°,False,True
 ded,dede,Book of the Duchess 1300,data/oxford_txts/BD_oxford.txt,¶Therwith he waxe° as dede as stoon,True,False
 riche,riche,Book of the Duchess 1319,data/oxford_txts/BD_oxford.txt,By Seint Johan! on a riche hille,False,False
+olde,olde,The Summoner's Tale 1725,data/oxford_txts/SumT_oxford.txt,"Hir freendes soules, as wel olde as yonge",True,False
+yong,yonge,The Summoner's Tale 1725,data/oxford_txts/SumT_oxford.txt,"Hir freendes soules, as wel olde as yonge",False,True
+lef,leve,The Summoner's Tale 1751,data/oxford_txts/SumT_oxford.txt,"A dagon° of your blanket,° leve° dame",False,False
+dere,dere,The Summoner's Tale 1752,data/oxford_txts/SumT_oxford.txt,"Our suster dere, lo! here I write your name;",False,False
+dere,dere,The Summoner's Tale 1762,data/oxford_txts/SumT_oxford.txt,"¶“Pees,” quod our Host, “for Cristes moder dere;",False,True
+gret,grete,The Summoner's Tale 1813,data/oxford_txts/SumT_oxford.txt,"But of your grete goodness, by your leve",False,False
+slou,slowe,The Summoner's Tale 1816,data/oxford_txts/SumT_oxford.txt,Thise curatz° been ful necligent and slowe,False,True
+softe,softe,The Summoner's Tale 1840,data/oxford_txts/SumT_oxford.txt,"And of your softe breed nat but° a shivere,°",False,False
+clene,clene,The Summoner's Tale 1879,data/oxford_txts/SumT_oxford.txt,"Whoso wol preye, he moot° faste and be clene,°",False,True
+lene,lene,The Summoner's Tale 1880,data/oxford_txts/SumT_oxford.txt,And fatte° his soule and make his body lene.,False,True
+god,gode,The Summoner's Tale 1882,data/oxford_txts/SumT_oxford.txt,"Suffisen° us, though they be nat ful gode.",False,True
+sobre,sobre,The Summoner's Tale 1902,data/oxford_txts/SumT_oxford.txt,But° they be sobre that° for the peple preye,False,False
+povre,povre,The Summoner's Tale 1923,data/oxford_txts/SumT_oxford.txt,‘Blessed be they that povre° in spirit been.’,True,False
+humble,humble,The Summoner's Tale 1936,data/oxford_txts/SumT_oxford.txt,But we that humble been and chast and pore,False,False
+povre,pore,The Summoner's Tale 1936,data/oxford_txts/SumT_oxford.txt,But we that humble been and chast and pore,False,True
+chaste,chaste,The Summoner's Tale 1940,data/oxford_txts/SumT_oxford.txt,Of charitable and chaste bisy freres,False,False
+lite,lite,The Summoner's Tale 1962,data/oxford_txts/SumT_oxford.txt,Your maladie is for° we han to lite.,False,True
+ouen,owne,The Summoner's Tale 1977,data/oxford_txts/SumT_oxford.txt,And for to builden Cristes owne chirche.,False,False
+mek,meke,The Summoner's Tale 1984,data/oxford_txts/SumT_oxford.txt,"Your wif, that is so meke and pacient.",True,False
+muche,muche,The Summoner's Tale 2011,data/oxford_txts/SumT_oxford.txt,I coude of ire sey so muche sorwe,False,False
+povre,poure,The Summoner's Tale 2076,data/oxford_txts/SumT_oxford.txt,But if° it be unto a poure man.,False,False
+povre,poure,The Summoner's Tale 2077,data/oxford_txts/SumT_oxford.txt,To a poure man men sholde hise vices telle,False,False
+lef,leve,The Summoner's Tale 2089,data/oxford_txts/SumT_oxford.txt,"¶“Now Thomas, leve brother, lef° thin ire;°",False,False
+wilde,wilde,The Summoner's Tale 2160,data/oxford_txts/SumT_oxford.txt,He looked as it° were a wilde boor;,False,False
+povre,poure,The Summoner's Tale 2178,data/oxford_txts/SumT_oxford.txt,"That in this world is noon so poure° a page,°",True,False
+large,large,The Summoner's Tale 2188,data/oxford_txts/SumT_oxford.txt,Neither in market n’in° your large halle.”,False,False
+proud,proude,The Summoner's Tale 2227,data/oxford_txts/SumT_oxford.txt,"O nice° proude cherl, I shrewe° his face!",False,False
+hard,harde,The Summoner's Tale 2228,data/oxford_txts/SumT_oxford.txt,"Lo, sires,” quod the lord, “with harde grace,°",False,False
+noble,noble,The Summoner's Tale 2265,data/oxford_txts/SumT_oxford.txt,"Your noble confessour, ther God him save,°",False,False
+neue,newe,The Summoner's Tale 2293,data/oxford_txts/SumT_oxford.txt,And Jankin hath ywonne a newe goune.—,False,False
 swete,swete,Troilus and Criseyde; Book V 63,data/oxford_txts/TC5_oxford.txt,Whan she forgoth hir owene swete herte?,False,False
 huge,huge,Troilus and Criseyde; Book V 65,data/oxford_txts/TC5_oxford.txt,"With hauke on hond, and with an huge route",False,False
 pale,pale,Troilus and Criseyde; Book V 86,data/oxford_txts/TC5_oxford.txt,"With face pale, and unto Diomede",True,False
@@ -894,6 +1366,12 @@ gret,grete,Troilus and Criseyde; Book V 1782,data/oxford_txts/TC5_oxford.txt,Tha
 mek,meke,Troilus and Criseyde; Book V 1847,data/oxford_txts/TC5_oxford.txt,"And sin he best to love is, and most meke",False,True
 olde,olde,Troilus and Criseyde; Book V 1854,data/oxford_txts/TC5_oxford.txt,"Lo here, the forme of olde clerkes speche",False,False
 digne,digne,Troilus and Criseyde; Book V 1868,data/oxford_txts/TC5_oxford.txt,"So make us, Jesus, for thi mercy digne",False,True
+povre,povre,Prologue to the Nun's Priest's Tale 2775,data/oxford_txts/NPPro_oxford.txt,"As whan a man hath been in povre estaat,°",True,False
+dep,depe,Prologue to the Nun's Priest's Tale 2798,data/oxford_txts/NPPro_oxford.txt,Although the slough° had never been so depe;,False,True
+rude,rude,Prologue to the Nun's Priest's Tale 2808,data/oxford_txts/NPPro_oxford.txt,"¶Than spak our Host, with rude° speche and bold",False,False
+blithe,blithe,Prologue to the Nun's Priest's Tale 2812,data/oxford_txts/NPPro_oxford.txt,"Be blithe,° though thou ride upon a jade.°",False,False
+foul,foule,Prologue to the Nun's Priest's Tale 2813,data/oxford_txts/NPPro_oxford.txt,What though° thin hors be bothe foule° and lene,True,False
+lene,lene,Prologue to the Nun's Priest's Tale 2813,data/oxford_txts/NPPro_oxford.txt,What though° thin hors be bothe foule° and lene,False,True
 sore,sore,Parliament of Fowls 13,data/oxford_txts/PF_oxford.txt,"I dar not seyn, his strokes° been so sore",False,True
 dere,dere,Parliament of Fowls 41,data/oxford_txts/PF_oxford.txt,"And how his auncestre, African so dere",False,True
 lite,lite,Parliament of Fowls 64,data/oxford_txts/PF_oxford.txt,"Than bad he him, sin° erthe was so lite",False,True
@@ -1006,6 +1484,8 @@ dere,dere,The Nun's Priest's Tale 3347,data/oxford_txts/NPT_oxford.txt,"¶O Gauf
 shrille,shrille,The Nun's Priest's Tale 3395,data/oxford_txts/NPT_oxford.txt,Ne made never shoutes half so shrille,False,True
 wikke,wikke,The Nun's Priest's Tale 3423,data/oxford_txts/NPT_oxford.txt,"But, sire, I dide it in no wikke° entente;",True,False
 stille,stille,The Nun's Priest's Tale 3443,data/oxford_txts/NPT_oxford.txt,"Taketh the fruit, and lat the chaf° be stille.",False,True
+more,more,Prologue to the Parson's Tale 6,data/oxford_txts/ParsPro_oxford.txt,"For eleven foot, or litel more or lesse",True,False
+ofte,ofte,The Summoner's Prologue 1675,data/oxford_txts/SumPro_oxford.txt,"For pardee,° ye han ofte time herd telle",False,False
 dere,dere,Troilus and Criseyde; Book I 32,data/oxford_txts/TC1_oxford.txt,And eek for me preyeth to God so dere,False,True
 ouen,owne,Troilus and Criseyde; Book I 51,data/oxford_txts/TC1_oxford.txt,As though I were hir owne brother dere.,False,False
 dere,dere,Troilus and Criseyde; Book I 51,data/oxford_txts/TC1_oxford.txt,As though I were hir owne brother dere.,False,True
@@ -1056,3 +1536,5 @@ sobre,sobre,Troilus and Criseyde; Book I 1013,data/oxford_txts/TC1_oxford.txt,"W
 fre,free,Troilus and Criseyde; Book I 1080,data/oxford_txts/TC1_oxford.txt,"The gentileste, and eek the moste free",False,True
 ded,dede,Troilus and Criseyde; Book I 1083,data/oxford_txts/TC1_oxford.txt,Dede were his japes and his crueltee,False,False
 straunge,estraunge,Troilus and Criseyde; Book I 1084,data/oxford_txts/TC1_oxford.txt,His heighe port and his manere estraunge,False,True
+sobre,sobre,Prologue to Sir Thopas 692,data/oxford_txts/ThopPro_oxford.txt,"As sobre° was, that wonder was to se",False,False
+deinte,deintee,Prologue to Sir Thopas 711,data/oxford_txts/ThopPro_oxford.txt,"Som deintee° thing, me thinketh by his chere.”°",False,False

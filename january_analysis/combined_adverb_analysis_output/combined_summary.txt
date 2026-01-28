@@ -1,0 +1,25 @@
+COMBINED ADVERB ANALYSIS SUMMARY
+======================================================================
+
+RULE 13: Adverbs (except common) end in -e
+----------------------------------------------------------------------
+Oxford: 2583/16195 with -e (15.9%)
+Riverside: 3448/16278 with -e (21.2%)
+
+RULE 14: lich should be liche
+----------------------------------------------------------------------
+Oxford: 36/47 liche (76.6%)
+Riverside: 28/38 liche (73.7%)
+
+RULE 15: where is monosyllabic
+----------------------------------------------------------------------
+Oxford: 1/19 monosyllabic (5.3%)
+Riverside: 2/52 monosyllabic (3.8%)
+
+RULE 16: than (normal) vs thanne (emphatic)
+----------------------------------------------------------------------
+Oxford: 435/468 than (92.9%)
+Riverside: 282/481 than (58.6%)
+
+Total Oxford exceptions: 13641
+Total Riverside exceptions: 12890

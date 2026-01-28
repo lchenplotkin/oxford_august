@@ -1,5 +1,10 @@
 headword,word,line_number,filename,context,is_elided,is_final
 mo,mo,The Wife of Bath's Tale 864,data/oxford_txts/WBT_oxford.txt,But now can no man see none elves mo.,False,True
+ful,ful,100-ch 649,data/oxford_txts/LGW_oxford.txt,With pottes ful of lim° they goon togider;,True,False
+ful,ful,100-ch 873,data/oxford_txts/LGW_oxford.txt,And how she weep° of teres ful° his wounde,True,False
+ful,ful,100-ch 1118,data/oxford_txts/LGW_oxford.txt,"Ne sakkes ful of gold, of large wighte,°",True,False
+tender,tender,100-ch 1370,data/oxford_txts/LGW_oxford.txt,"Of gentil° wommen, tender creatures",False,False
+ful,ful,100-ch 1736,data/oxford_txts/LGW_oxford.txt,"And eek her teres, ful of honestee,°",True,False
 god,good,Troilus and Criseyde; Book II 166,data/oxford_txts/TC2_oxford.txt,And been of good condiciouns therto;,False,False
 tough,tough,Troilus and Criseyde; Book II 1025,data/oxford_txts/TC2_oxford.txt,As make it with thise argumentes tough;,False,True
 sori,sory,Troilus and Criseyde; Book II 1351,data/oxford_txts/TC2_oxford.txt,So were his dayes sory outher gladde.,True,False
@@ -7,6 +12,7 @@ mo,mo,Troilus and Criseyde; Book II 1405,data/oxford_txts/TC2_oxford.txt,"To tel
 mo,mo,The Canon's Yeoman's Tale 1255,data/oxford_txts/CYT_oxford.txt,"“Of quiksilver, withouten wordes mo,°",False,True
 hevi,hevy,The Canon's Yeoman's Tale 1404,data/oxford_txts/CYT_oxford.txt,And empten° also grete and hevy purses,False,False
 ful,ful,The Legend of Good Women; Prologue F 143,data/oxford_txts/LGW_FPro_oxford.txt,Upon the braunches ful of blosmes° softe,True,False
+mo,mo,The Friar's Tale 1367,data/oxford_txts/FriT_oxford.txt,Certein he knew of briberyes° mo°,False,True
 mo,mo,The Wife of Bath's Prologue 36,data/oxford_txts/WBPro_oxford.txt,I trowe° he hadde wives mo than oon;,False,False
 mo,mo,The Wife of Bath's Prologue 57,data/oxford_txts/WBPro_oxford.txt,And ech of hem had wives mo than two;,False,False
 smal,smal,The Wife of Bath's Prologue 121,data/oxford_txts/WBPro_oxford.txt,"Of urine, and our bothe thinges smal°",False,True
@@ -14,19 +20,33 @@ mo,mo,The Wife of Bath's Prologue 179,data/oxford_txts/WBPro_oxford.txt,For I sh
 mo,mo,The Wife of Bath's Prologue 686,data/oxford_txts/WBPro_oxford.txt,He knew of hem mo legendes and lives,False,False
 worth,worth,The Wife of Bath's Prologue 708,data/oxford_txts/WBPro_oxford.txt,"Of Venus werkes worth his olde sho,°",True,False
 mo,mo,The Wife of Bath's Prologue 773,data/oxford_txts/WBPro_oxford.txt,"And therwithal, he knew of mo proverbes",False,False
+ful,ful,The Second Nun's Tale 403,data/oxford_txts/SNT_oxford.txt,With angels ful of cleernesse and of light,True,False
+mo,mo,The Squire's Tale 301,data/oxford_txts/SqT_oxford.txt,And deintees° mo than been in my knowing.,False,False
 ful,ful,Troilus and Criseyde; Book III 1381,data/oxford_txts/TC3_oxford.txt,"Tho bisy wrecches, ful of wo and drede!",True,False
+lef,lever,The Merchant's Tale 1438,data/oxford_txts/MerT_oxford.txt,Yet were me lever° houndes had me eten,False,False
+stark,stark,The Merchant's Tale 1458,data/oxford_txts/MerT_oxford.txt,I fele my limes° stark° and suffisaunt,True,False
+wise,wiser,The Merchant's Tale 1569,data/oxford_txts/MerT_oxford.txt,Of scole-termes;° wiser men than thow,False,False
+fresh,fresh,The Merchant's Tale 2235,data/oxford_txts/MerT_oxford.txt,"Upon a bench of turves,° fresh and grene",True,False
 broun,broun,Sir Thopas 733,data/oxford_txts/Thop_oxford.txt,Of Brugges were his hosen° broun,False,True
+ful,ful,The Franklin's Tale 1190,data/oxford_txts/FranT_oxford.txt,"Forestes, parkes° ful of wilde deer;",True,False
+ful,ful,The Franklin's Tale 1368,data/oxford_txts/FranT_oxford.txt,"Whan thritty tiraunts, ful of cursednesse",True,False
+ful,ful,The Franklin's Tale 1375,data/oxford_txts/FranT_oxford.txt,"For which thise woful maidens, ful of drede",True,False
+mo,mo,The Franklin's Tale 1419,data/oxford_txts/FranT_oxford.txt,¶“What sholde I mo ensamples heerof° sayn,True,False
 mo,mo,Troilus and Criseyde; Book IV 500,data/oxford_txts/TC4_oxford.txt,"Withouten wordes mo, I wol be deed.",True,False
 ful,ful,Troilus and Criseyde; Book IV 1486,data/oxford_txts/TC4_oxford.txt,"Among the Grekes, ful of worthinesse",True,False
 ful,ful,The Miller's Tale 3237,data/oxford_txts/MilT_oxford.txt,"Upon hir lendes,° ful of many a gore.°",True,False
 mo,mo,The Miller's Tale 3408,data/oxford_txts/MilT_oxford.txt,"And right anon, withouten wordes mo",False,True
 mo,mo,The Miller's Tale 3650,data/oxford_txts/MilT_oxford.txt,"Withouten wordes mo, they goon to bedde",False,False
 mo,mo,The Miller's Tale 3819,data/oxford_txts/MilT_oxford.txt,He sit him up withouten wordes mo,False,True
+mo,mo,The Clerk's Tale 318,data/oxford_txts/ClT_oxford.txt,He stood unnethes° seide he wordes mo,False,True
+mo,mo,The Clerk's Tale 449,data/oxford_txts/ClT_oxford.txt,"Ther fil, as it bifalleth times mo",False,True
+ful,ful,The Clerk's Tale 1183,data/oxford_txts/ClT_oxford.txt,"O noble wives, ful of heigh prudence",True,False
 mo,mo,The Knight's Tale 1029,data/oxford_txts/KnT_oxford.txt,Terme of his lif; what nedeth wordes mo?,False,True
 mo,mo,The Knight's Tale 1715,data/oxford_txts/KnT_oxford.txt,"And seide: “Sire, what nedeth wordes mo?",False,True
 fair,fairest,The Knight's Tale 2201,data/oxford_txts/KnT_oxford.txt,What ladies fairest been or best daunsinge,False,False
 mo,mo,The Knight's Tale 2430,data/oxford_txts/KnT_oxford.txt,With othere rites mo; and atte laste,True,False
 ful,ful,The Knight's Tale 2949,data/oxford_txts/KnT_oxford.txt,"And cuppes ful of win, and milke and blood",True,False
+ful,ful,Anelida and Arcite 248,data/oxford_txts/Anelida_oxford.txt,Your wordes ful of plesaunce and humblesse?,True,False
 mo,mo,810,oxford_txts/GP.txt,Tel me anon withouten wordes mo,False,True
 mo,mo,851,oxford_txts/GP.txt,As ye han herd what nedeth wordes mo,False,True
 cler,clerer,The Man of Law's Tale 194,data/oxford_txts/MLT_oxford.txt,"For in the sterres, clerer than is glas,°",False,False
@@ -44,3 +64,4 @@ mo,mo,The Pardoner's Tale 678,data/oxford_txts/PardT_oxford.txt,And wente his we
 god,good,The Pardoner's Tale 904,data/oxford_txts/PardT_oxford.txt,"¶Now, good men, God foryeve yow your trespas,°",False,False
 whit,whitter,The Nun's Priest's Tale 2863,data/oxford_txts/NPT_oxford.txt,His nailes whitter than the lilie flour,False,False
 god,good,The Nun's Priest's Tale 3445,data/oxford_txts/NPT_oxford.txt,"As seith my lord, so make us al good men;",False,False
+mo,mo,Prologue to the Parson's Tale 16,data/oxford_txts/ParsPro_oxford.txt,Now lakketh us no tales mo than oon.,False,False

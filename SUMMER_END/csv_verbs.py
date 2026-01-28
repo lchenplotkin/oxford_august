@@ -24,7 +24,7 @@ import matplotlib.pyplot as plt
 #doc.add_heading('Verb Rules Analysis in the Oxford Chaucer', 0)
 #
 # Configuration
-base_csv_dir = 'data/csvs'
+base_csv_dir = 'for_gui/done'
 
 # Define verb tag patterns to search for
 verb_tags = ['v%pr_1','v%pr_2','v%pr_3','v%pt_1','v%pt_2','v%pt_3','v%pr_pl','v%inf', 'v%pt', 'v%ppl', 'v%pt_pl', 'ger']
@@ -112,18 +112,17 @@ def check_verb_rules(headword, word, tag):
 				verb_dict[headword][0][word] = 0
 			verb_dict[headword][0][word]+=1
 
-	'''
 	if tag in ['v%pt_1','v%pt_3']:
 		if headword not in verb_dict.keys():
 			verb_dict[headword] = [{},{},{},0,0,0]
 
 		if not word.endswith('n'):
-			if word.endswith('t') or word.endswith('d'):
-				verb_dict[headword][4]+=1
-				if word not in verb_dict[headword][1].keys():
-					verb_dict[headword][1][word] = 0
-				verb_dict[headword][1][word]+=1
-			else:
+			if not(word.endswith('t') or word.endswith('d') or word.endswith('e')):
+				#verb_dict[headword][4]+=1
+				#if word not in verb_dict[headword][1].keys():
+				#	verb_dict[headword][1][word] = 0
+				#verb_dict[headword][1][word]+=1
+			#else:
 				verb_dict[headword][5]+=1
 				if word not in verb_dict[headword][2].keys():
 					verb_dict[headword][2][word] = 0
@@ -133,7 +132,6 @@ def check_verb_rules(headword, word, tag):
 			if word not in verb_dict[headword][0].keys():
 				verb_dict[headword][0][word] = 0
 			verb_dict[headword][0][word]+=1
-	'''
 
 
 	if tag == 'v%inf':  # infinitive should end in -e, -en, or vowel
@@ -169,34 +167,33 @@ def search_verb_patterns_csv(df, verbs, exception_log):
 
 	lines = 0
 	for idx, row in df.iterrows():
-		if row["MATCH"] != "DIFF":
-			lines += 1
-			oxford_text = row['OXFORD_TEXT']
-			oxford_tagging = row['OXFORD_TAGGING']
-			line_number = row['LINE_NUMBER']
-			filename = row['OXFORD_FILENAME']
+		lines += 1
+		oxford_text = row['OXFORD_TEXT']
+		oxford_tagging = row['OXFORD_TAGGING']
+		line_number = row['LINE_NUMBER']
+		filename = row['OXFORD_FILENAME']
 
-			words, headwords, tags = parse_tagged_text(oxford_text, oxford_tagging)
+		words, headwords, tags = parse_tagged_text(oxford_text, oxford_tagging)
 
-			for j, (word, headword, tag) in enumerate(zip(words, headwords, tags)):
-				if tag in verb_tags:
-					follows_rule, rule_description = check_verb_rules(headword, word, tag)
+		for j, (word, headword, tag) in enumerate(zip(words, headwords, tags)):
+			if tag in verb_tags:
+				follows_rule, rule_description = check_verb_rules(headword, word, tag)
 
-					verbs[headword]['forms'].append(word)
-					verbs[headword]['forms'] = list(set(verbs[headword]['forms']))
+				verbs[headword]['forms'].append(word)
+				verbs[headword]['forms'] = list(set(verbs[headword]['forms']))
 
-					if follows_rule:
-						rule_followers[tag] += 1
-						verbs[headword]['following'] += 1
-					else:
-						rule_violators[tag] += 1
-						verbs[headword]['violating'] += 1
+				if follows_rule:
+					rule_followers[tag] += 1
+					verbs[headword]['following'] += 1
+				else:
+					rule_violators[tag] += 1
+					verbs[headword]['violating'] += 1
 
-						exception_text = f"{tag}: {word} - {rule_description}\nLine {line_number}: {oxford_text}\n\n"
-						exception_lines.append(exception_text)
+					exception_text = f"{tag}: {word} - {rule_description}\nLine {line_number}: {oxford_text}\n\n"
+					exception_lines.append(exception_text)
 
-						# Add to Word document
-						#add_exception_to_doc(tag, word, oxford_text, line_number, filename, rule_description)
+					# Add to Word document
+					#add_exception_to_doc(tag, word, oxford_text, line_number, filename, rule_description)
 
 	exception_log.extend(exception_lines)
 	return lines, rule_followers, rule_violators
@@ -210,7 +207,7 @@ def process_csv_directory(csv_dir):
 	for root, dirs, files in os.walk(csv_dir):
 		for file in files:
 			verb_dict = {}
-			if not file.endswith('_gui.csv'):
+			if not file.endswith('_complete.csv'):
 				continue
 
 			csv_path = os.path.join(root, file)
