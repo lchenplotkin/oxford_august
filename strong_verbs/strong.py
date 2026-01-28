@@ -63,13 +63,21 @@ def parse_tagged_text(oxford_text, oxford_tagging):
 #doc.add_heading('Verb Rules Analysis in the Oxford Chaucer', 0)
 #
 # Configuration
-base_csv_dir = 'for_gui/done'
+base_csv_dir = '../january_analysis/dataset'
 verb_list_file = 'verb_forms_gold.csv'
 verb_list_file = 'fixed_with_headwords.csv'
 verb_df = pd.read_csv(verb_list_file, encoding='utf-8')
-#known_headwords = list(verb_df['headword'])
 
-print(verb_df)
+# Create a dictionary for faster lookup
+known_verbs = {}
+for idx, row in verb_df.iterrows():
+	hw = row['headword']
+	known_verbs[hw] = {
+		'classification': row['classification'] if 'classification' in row and pd.notna(row['classification']) else '',
+		'notes': row['notes'] if 'notes' in row and pd.notna(row['notes']) else ''
+	}
+
+#print(verb_df)
 verb_dict = {}
 for root, dirs, files in os.walk(base_csv_dir):
 	for file in files:
@@ -94,9 +102,9 @@ for root, dirs, files in os.walk(base_csv_dir):
 				tag = clean_tag(tag)
 				if headword not in verb_dict.keys() and tag in ["v%pt_1","v%pt_3","v%ppl"]:
 					verb_dict[headword] = [{},{},{},'','']
-					if headword in verb_df.keys():
-						verb_dict[headword][4] = verb_df[headword]['classification']
-						verb_dict[headword][5] = verb_df[headword]['notes']
+					if headword in known_verbs: 
+						verb_dict[headword][3] = known_verbs[headword]['classification']
+						verb_dict[headword][4] = known_verbs[headword]['notes']
 		
 				#if tag == "v%inf":
 				#	if word not in verb_dict[headword][0].keys():
@@ -144,4 +152,40 @@ for headword in verb_dict:
 		else:
 			verb_dict[headword][3] = 'TODO'
 		verb_dict[headword][4] = 'classified by computer (CHECK)'
-print(verb_dict)	
+
+# Write verb_dict to CSV
+output_file = 'classifications.csv'
+with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+	fieldnames = ['headword', 'infinitive', 'preterite', 'past_participle', 'classification', 'notes']
+	writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+	
+	writer.writeheader()
+	
+	for headword in sorted(verb_dict.keys()):
+		row = verb_dict[headword]
+		
+		# Format infinitive - currently not stored, using headword
+		infinitive = headword
+		
+		# Format preterite forms
+		pret_dict = row[1]
+		preterite = ', '.join([f"{form}({count})" for form, count in sorted(pret_dict.items(), key=lambda x: x[1], reverse=True)])
+		
+		# Format past participle forms
+		part_dict = row[2]
+		past_participle = ', '.join([f"{form}({count})" for form, count in sorted(part_dict.items(), key=lambda x: x[1], reverse=True)])
+		
+		# Classification and notes
+		classification = row[3] if len(row) > 3 else ''
+		notes = row[4] if len(row) > 4 else ''
+		
+		writer.writerow({
+			'headword': headword,
+			'infinitive': infinitive,
+			'preterite': preterite,
+			'past_participle': past_participle,
+			'classification': classification,
+			'notes': notes
+		})
+
+print(f"CSV file '{output_file}' has been created successfully!")
