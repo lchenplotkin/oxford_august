@@ -1,0 +1,10 @@
+group_name,group_type,num_files,total_monosyllabic,overall_accuracy,overall_total,overall_correct,overall_accuracy_filtered,overall_total_filtered,overall_correct_filtered,weak_accuracy,weak_total,weak_correct,plural_accuracy,plural_total,plural_correct,strong_accuracy,strong_total,strong_correct,strong_accuracy_filtered,strong_total_filtered,strong_correct_filtered
+BD,aggregate,1,293,55.29,293,162,65.19,293,191,71.15,52,37,85.71,21,18,48.64,220,107,61.82,220,136
+PF,aggregate,1,139,71.22,139,99,82.73,139,115,92.31,26,24,95.24,21,20,59.78,92,55,77.17,92,71
+TC,aggregate,5,1584,70.96,1584,1124,80.11,1584,1269,88.51,383,339,93.18,176,164,60.59,1025,621,74.73,1025,766
+LGW,aggregate,2,533,72.05,533,384,80.68,533,430,89.68,155,139,90.00,60,54,60.06,318,191,74.53,318,237
+Early_CT,aggregate,1,85,68.24,85,58,81.18,85,69,93.33,15,14,90.91,11,10,57.63,59,34,76.27,59,45
+EarlyMid_CT,aggregate,8,726,73.28,726,532,83.61,726,607,94.20,138,130,89.23,65,58,65.77,523,344,80.11,523,419
+LateMid_CT,aggregate,7,1053,69.52,1053,732,80.63,1053,849,85.42,240,205,84.21,76,64,62.82,737,463,78.70,737,580
+Late_CT,aggregate,17,970,72.27,970,701,81.96,970,795,90.05,211,190,77.78,81,63,66.08,678,448,79.94,678,542
+Links,aggregate,12,152,71.05,152,108,83.55,152,127,82.14,28,23,84.62,13,11,66.67,111,74,83.78,111,93

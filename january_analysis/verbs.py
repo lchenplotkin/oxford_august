@@ -22,7 +22,7 @@ ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
 					"hadden", "his", "her", "him", "hers", "hide", "hir",
 					"hire", "hires", "hirs", "han"]
 
-form_csv = 'verb_forms_simple.csv'
+form_csv = 'complete_verbs.csv'
 verbs_dict = {}
 with open(form_csv, 'r', encoding='utf-8') as csvfile:
 	reader = csv.DictReader(csvfile)
@@ -101,8 +101,8 @@ def classify_ending(word):
 		return '-ed'
 	if word.endswith('d'):
 		return '-d'
-	#if word.endswith('est'):
-	#	return '-est'
+	if word.endswith('est'):
+		return '-est'
 	if word.endswith('et'):
 		return '-et'
 	if word.endswith('t'):
@@ -111,6 +111,8 @@ def classify_ending(word):
 		return 'vowel'
 	if word.endswith('ing'):
 		return '-ing'
+	if word.endswith('n'):
+		return('-n')	
 	return 'other'
 
 def analyze_verbs(df, results, text_type, doc, current_filename):
@@ -141,27 +143,32 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			# Skip if elided
 			if is_elided(word, next_word):
 				continue
-			if not (tag.startswith('v') or tag.startswith('ger')):
+			if next_word == 'END':
+				continue
+			#skip if end of line
+			if not (tag.startswith('v')):# or tag.startswith('ger')):
 				continue
 
 			ending = classify_ending(word)
 			
 			# Determine verb classification
-			verb_class = 'unknown'
-			#verb_class = 'weak'
+		#	verb_class = 'unknown'
+			verb_class = 'weak'
 			if headword in verbs_dict:
 				if is_strong(headword):
 					verb_class = 'strong'
 				elif not is_weak(headword):
 					verb_class = 'irregular'
-				elif is_weak(headword):
-					verb_class = 'weak'
+		#		elif is_weak(headword):
+		#			verb_class = 'weak'
 				#else:
 				#	verb_class = 'weak'
 
 			# Count ending distribution - overall
 			results['ending_counts'][tag][ending] += 1
 			results['verb_tag_counts'][headword][tag][ending] += 1
+			results['word_tag_counts'][headword][tag][word] += 1
+
 			
 			# Count ending distribution by verb class
 			results['ending_counts_by_class'][(tag, verb_class)][ending] += 1
@@ -174,48 +181,53 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			# Rule checks
 			violated = False
 			reason = ""
-			if tag.startswith('v%imp') and ending[-1] == 'e':
-				violated = True
-				reason += "RULE 3: imperative (singular) are always endingless"
-			if tag in ['v%pr_2','v%pr_3'] and ending[-1] == 'e':
-				violated = True
-				reason += "RULE 12: Second and third person present (indicative) does not end in -e"
+			#if tag in ['v%pr_2','v%pr_3'] and ending[-1] == 'e':
+			#	violated = True
+			#	reason += "RULE 12: Second and third person present (indicative) does not end in -e"
 			if tag in ['v%pt_1','v%pt_3'] and ending in ['-en']:
 				print(line_number)
 				print(original_text)
-			if tag == 'v%inf' and ending not in ['-en', '-e','vowel']:
+			if tag == 'v%inf' and not (word.endswith(('a','i','o','u')) or word.endswith('en') or word.endswith('e') or word.endswith('vowel')):
 				violated = True
 				reason += "RULE 1: The infinitive ends in -en or -e unless the stem ends in a vowel."
-			if tag == 'v%pt_pl' and ending not in ['-en', '-e']:
+			if tag.startswith('v%imp') and word.endswith('e'):
+				violated = True
+				reason += "RULE 3: imperative (singular) are always endingless"
+			if tag == 'v%pt_pl' and not (word.endswith('en') or word.endswith('e')): 
 				violated = True
 				reason += "RULE 4: Preterite plural verbs end in -e/-en"
-			if tag == 'v%pr_1' and ending not in ['-en','-e']:
+			if tag == 'v%pr_1' and not (word.endswith('en') or word.endswith('e')):
 				violated = True
 				reason += "RULE 5: First person singular present tense verbs end in -e/-en"
-			if tag == 'v%pr_pl' and ending not in ['-en', '-e']:
+			if tag == 'v%pr_pl' and not (word.endswith('en') or word.endswith('e')):
 				violated = True
 				reason += "RULE 6: Present plural verbs end in -e/-en"
-			#if tag == 'v%pr_3' and ending != '-eth':
-			#	violated = True
-			#	reason += "Present 3rd sg must end in -eth "
-			#if headword in verbs_dict:
-			if verb_class == "weak"	 and tag in ['v%pt_1', 'v%pt_3'] and ending not in ['-ede','-de','-te','-ed','-d','-t','-est','-et']:
+			if verb_class == "weak"	 and tag in ['v%pt_1', 'v%pt_3'] and not (word.endswith('e') or word.endswith('d') or word.endswith('t')): 
 				violated = True
-				reason += "Rule 7: Singular weak preterite verbs in the first and third person end in -ede, -de, -te, -ed, -d, or -t"
-			if verb_class == "weak" and tag=="v%pt_2" and ending[-1]=="e":
-				print('aaaa')
+				reason += "Rule 7: Singular weak preterite verbs in the first and third person end in -e/-d/-t"
+			if verb_class == "strong" and tag == 'v%ppl' and not (word.endswith('e') or word.endswith('en')):
 				violated = True
-				reason += "RULE 15, 2nd person singular weak prerite does not end in -e (barney)"
-			if verb_class == "weak" and tag.startswith("v%ppl") and ending[-1] == "e":
-				print('aaaa')
+				reason +=" Rule 8: Past participles of strong verbs end in -e/-en"
+			if verb_class in ["strong", "weak"] and tag.startswith("v%prp") and not (word.endswith('e') or word.endswith('en')):
 				violated = True
-				reason += "RULE 16, weak past participle does not end in -e (barney)"
-			if verb_class == "strong" and tag in ['v%pt_1', 'v%pt_3'] and ending in ['-e']:
+				reason += "Rule 9: Present participle of strong and weak verbs end in -e"
+			if verb_class == "strong" and tag == "v%pt_2" and not word.endswith('e'):
 				violated = True
-				reason += "Rule 8: Singular strong preterite verbs in the first and third person do not end in -e" 
-			if verb_class == "strong" and tag.startswith('v%ppl') and ending not in ['-en', '-e']:
+				reason += "Rule 10: 2nd person singular preterit of strong verbs end in -e"
+			"""
+			Skipping these rules for now.
+			11.	 gerund of monosyllabic verbs end in -e (e.g  to done)
+			12.	2nd and third present indicative singular do not end in -e (Barney and Donaldson)
+			"""
+			if verb_class == "strong" and tag in ["v%pt_1", "v%pt_3"] and word.endswith('e'):
 				violated = True
-				reason += "Strong participle must end in -en or -e "
+				reason += "Rule 13: 1st and 3rd person singular strong preterites do not end in -e (Barney)"
+			if verb_class == "weak" and tag=="v%pt_2" and word.endswith('e'):		
+				violated = True
+				reason += "Rule 14: 2nd person singular weak preterite do not end in -e (Barney)"
+			if verb_class == "weak" and tag=="v%ppl" and word.endswith('e'):
+				violated = True
+				reason += "Rule 15: The weak past participle does not end in -e (Barney)"
 			if violated:
 				record = {
 					'headword': headword,
@@ -242,7 +254,8 @@ def process_csv_directory(csv_dir, text_type, doc):
 		'file_exceptions': defaultdict(list),
 		'file_ending_counts': defaultdict(lambda: defaultdict(Counter)),
 		'file_verb_tag_counts': defaultdict(lambda: defaultdict(lambda: defaultdict(Counter))),
-		'file_ending_counts_by_class': defaultdict(lambda: defaultdict(Counter))
+		'file_ending_counts_by_class': defaultdict(lambda: defaultdict(Counter)),
+		'word_tag_counts': defaultdict(lambda: defaultdict(Counter))  # headword → tag → word → count
 	}
 
 	file_count = 0
@@ -372,8 +385,14 @@ def write_combined_results(oxford_results, riverside_results, output_dir):
 
 	# Combined exceptions with TYPE column
 	with open(os.path.join(output_dir, 'combined_exceptions.csv'), 'w', newline='', encoding='utf-8') as csvfile:
-		fieldnames = ['TYPE', 'headword', 'word', 'tag', 'oxford_count', 'riverside_count', 
-					  'oxford_files', 'riverside_files', 'oxford_contexts', 'riverside_contexts']
+		fieldnames = [
+			'TYPE', 'headword', 'word', 'tag',
+			'oxford_count', 'riverside_count',
+			'oxford_pct_of_headword_tag', 
+			'riverside_pct_of_headword_tag',
+			'oxford_files', 'riverside_files',
+			'oxford_contexts', 'riverside_contexts'
+		]
 		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 		writer.writeheader()
 
@@ -405,18 +424,39 @@ def write_combined_results(oxford_results, riverside_results, output_dir):
 					if (exc['headword'], exc['word'], exc['tag']) == key:
 						riverside_contexts.append(f"{exc['line_number']}: {exc['context']}")
 						riverside_files.append(exc['filename'])
+			
+			headword, word, tag = key
+
+			# --- Oxford percentage ---
+			oxford_pct = ''
+			if in_oxford:
+				total_tag_tokens = sum(oxford_results['word_tag_counts'][headword][tag].values())
+				word_tokens = oxford_results['word_tag_counts'][headword][tag][word]
+				if total_tag_tokens > 0:
+					oxford_pct = f"{(word_tokens / total_tag_tokens) * 100:.2f}%"
+
+			# --- Riverside percentage ---
+			riverside_pct = ''
+			if in_riverside:
+				total_tag_tokens = sum(riverside_results['word_tag_counts'][headword][tag].values())
+				word_tokens = riverside_results['word_tag_counts'][headword][tag][word]
+				if total_tag_tokens > 0:
+					riverside_pct = f"{(word_tokens / total_tag_tokens) * 100:.2f}%"
+
 
 			writer.writerow({
-				'TYPE': exc_type,
-				'headword': key[0],
-				'word': key[1],
-				'tag': key[2],
-				'oxford_count': len(oxford_contexts),
-				'riverside_count': len(riverside_contexts),
-				'oxford_files': '; '.join(set(oxford_files)),
-				'riverside_files': '; '.join(set(riverside_files)),
-				'oxford_contexts': ' | '.join(oxford_contexts[:3]),  # Limit to 3 examples
-				'riverside_contexts': ' | '.join(riverside_contexts[:3])
+			    'TYPE': exc_type,
+			    'headword': headword,
+			    'word': word,
+			    'tag': tag,
+			    'oxford_count': len(oxford_contexts),
+			    'riverside_count': len(riverside_contexts),
+			    'oxford_pct_of_headword_tag': oxford_pct,          # NEW
+			    'riverside_pct_of_headword_tag': riverside_pct,    # NEW
+			    'oxford_files': '; '.join(set(oxford_files)),
+			    'riverside_files': '; '.join(set(riverside_files)),
+			    'oxford_contexts': ' | '.join(oxford_contexts[:3]),
+			    'riverside_contexts': ' | '.join(riverside_contexts[:3])
 			})
 
 	# Summary statistics

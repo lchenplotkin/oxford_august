@@ -1,129 +1,122 @@
-headword,word,line_number,filename,context,is_elided,is_final
-sori,sory,The Shipman's Tale 117,data/oxford_txts/ShipT_oxford.txt,That lasse lust° hath to that sory pley.°,False,False
-derk,derkest,The Wife of Bath's Tale 1139,data/oxford_txts/WBT_oxford.txt,"¶“ ‘Taak fir,° and ber it in the derkest hous",False,False
-god,good,The Merchant's Prologue 1233,data/oxford_txts/MerPro_oxford.txt,¶A! good sir Hoost! I have ywedded be°,False,False
-hevi,hevy,100-ch 885,data/oxford_txts/LGW_oxford.txt,On her he caste° his hevy deedly yën,False,False
-chef,cheef,100-ch 937,data/oxford_txts/LGW_oxford.txt,That of the citee was the cheef dungeoun;°,False,False
-right,right,100-ch 942,data/oxford_txts/LGW_oxford.txt,"That was his sone,° in his right hand, and fledde;",False,False
-fair,fairest,100-ch 974,data/oxford_txts/LGW_oxford.txt,But she was yit° the fairest creature,False,False
-leste,lest,100-ch 1313,data/oxford_txts/LGW_oxford.txt,"His thral,° his servant in the lest° degree;",False,False
-treu,trew,100-ch 1686,data/oxford_txts/LGW_oxford.txt,"The verray wif, the verray trew° Lucresse",False,False
-gret,grettest,100-ch 2053,data/oxford_txts/LGW_oxford.txt,Oon of the grettest men of my contree.,False,False
-gret,gretter,100-ch 2213,data/oxford_txts/LGW_oxford.txt,Wher is thy gretter part away ygoon?,False,False
-bet,bet,Troilus and Criseyde; Book II 128,data/oxford_txts/TC2_oxford.txt,"What? bet than swiche five? Ey, nay, ywis!",False,False
-sori,sory,Troilus and Criseyde; Book II 464,data/oxford_txts/TC2_oxford.txt,“A! Lord! what me is tid a sory chaunce!,False,False
-werse,wers,Troilus and Criseyde; Book II 865,data/oxford_txts/TC2_oxford.txt,"Or love the wers, though wrecches on it cryen?",False,False
-laste,last,Troilus and Criseyde; Book II 924,data/oxford_txts/TC2_oxford.txt,Til at the last the dede sleep hir hente.,False,False
-right,right,Troilus and Criseyde; Book II 1065,data/oxford_txts/TC2_oxford.txt,First he gan hir his right lady calle,False,False
-gret,grettest,Troilus and Criseyde; Book II 1143,data/oxford_txts/TC2_oxford.txt,"And seide, “Now is this the grettest wonder",False,False
-yonder,yonder,Troilus and Criseyde; Book II 1188,data/oxford_txts/TC2_oxford.txt,"The yonder hous, that stant aforyein us?”",False,False
-god,good,Troilus and Criseyde; Book II 1209,data/oxford_txts/TC2_oxford.txt,"Of his good wil, and doth him not to deie.",False,False
-wise,wisest,The Canon's Yeoman's Tale 967,data/oxford_txts/CYT_oxford.txt,"He that semeth the wisest, by Jhesus!",False,False
-fals,fals,The Canon's Yeoman's Tale 1073,data/oxford_txts/CYT_oxford.txt,God kepe us from his fals dissimulinge!°,False,False
-fals,fals,The Canon's Yeoman's Tale 1159,data/oxford_txts/CYT_oxford.txt,"This fals chanoun, the foule feend him fecche!°",False,False
-sori,sory,The Canon's Yeoman's Tale 1349,data/oxford_txts/CYT_oxford.txt,Than had this preest this sory° craft to lere;°,False,False
-graunt,grant,The Canon's Yeoman's Tale 1380,data/oxford_txts/CYT_oxford.txt,"Quod the chanoun, “and farwel, grant mercy!”",False,False
-prive,privy,The Canon's Yeoman's Tale 1452,data/oxford_txts/CYT_oxford.txt,“Tel me the name of the privy° stoon?”,False,False
-flouri,floury,The Legend of Good Women; Prologue F 174,data/oxford_txts/LGW_FPro_oxford.txt,As god and goddesse of the floury mede;°,False,False
-fresh,fresshest,The Legend of Good Women; Prologue F 229,data/oxford_txts/LGW_FPro_oxford.txt,The fresshest sin° the world was first bigonne.,False,False
-ouen,owen,The Legend of Good Women; Prologue F 399,data/oxford_txts/LGW_FPro_oxford.txt,And ever have reward° to his owen degree.°,False,False
-north,north,The Friar's Tale 1413,data/oxford_txts/FriT_oxford.txt,"‘Brother,’ quod he, ‘fer in the north contree",False,False
-swete,sweet,The Friar's Tale 1613,data/oxford_txts/FriT_oxford.txt,"¶“ ‘Pay me,’ quod he, ‘or by the sweet Seinte Anne",False,False
-crisp,crisp,The Wife of Bath's Prologue 304,data/oxford_txts/WBPro_oxford.txt,"For his crisp° heer, shininge as gold so fin",False,False
-blind,blind,The Wife of Bath's Prologue 656,data/oxford_txts/WBPro_oxford.txt,"And priketh° his blind hors over the falwes,°",False,False
-bright,bright,The Second Nun's Tale 120,data/oxford_txts/SNT_oxford.txt,"This maiden bright Cecilie, as hir lif seith",False,False
-gret,gret,The Squire's Tale 469,data/oxford_txts/SqT_oxford.txt,As wisly helpe me gret God of kinde!°,False,False
-heigh,heigh,Troilus and Criseyde; Book III 516,data/oxford_txts/TC3_oxford.txt,Wheras at leiser al this heigh matere,False,False
-prive,priv,Troilus and Criseyde; Book III 921,data/oxford_txts/TC3_oxford.txt,"His privé coming, and the siker place",False,False
-bet,bet,Troilus and Criseyde; Book III 1223,data/oxford_txts/TC3_oxford.txt,"Now is this bet, than bothe two be lorn!",False,False
-bright,bright,Troilus and Criseyde; Book III 1453,data/oxford_txts/TC3_oxford.txt,For every bore hath oon of thy bright yën!,False,False
-ouen,owen,Troilus and Criseyde; Book III 1485,data/oxford_txts/TC3_oxford.txt,"“But nathelees, min owen lady bright",False,False
-real,real,Troilus and Criseyde; Book III 1534,data/oxford_txts/TC3_oxford.txt,"Retorned to his real palais, sone",False,False
-werste,worst,Troilus and Criseyde; Book III 1626,data/oxford_txts/TC3_oxford.txt,The worst kinde of infortune is this,False,False
-yong,yongest,The Merchant's Tale 1559,data/oxford_txts/MerT_oxford.txt,The yongest man that is in al this route°,False,False
-ful,ful,The Merchant's Tale 2066,data/oxford_txts/MerT_oxford.txt,That haddest him for thy ful frend received?,False,False
-red,red,Sir Thopas 747,data/oxford_txts/Thop_oxford.txt,    That bereth the red hepe.°,False,False
-fair,fair,Sir Thopas 832,data/oxford_txts/Thop_oxford.txt,    And thurgh his fair beringe.°,False,False
-hevi,hevy,The Franklin's Tale 822,data/oxford_txts/FranT_oxford.txt,"Hir frendes, which that° knewe hir hevy° thoght",False,False
-wise,wis,The Franklin's Tale 871,data/oxford_txts/FranT_oxford.txt,"Of swich a parfit wis God and a stable,°",False,False
-ouen,own,The Franklin's Tale 880,data/oxford_txts/FranT_oxford.txt,That thou it madest lik to thin own merk.°,False,False
-heigh,heigh,The Franklin's Tale 989,data/oxford_txts/FranT_oxford.txt,"¶“Aurelie,” quod she, “by heigh God above",False,False
-heigh,hyest,The Franklin's Tale 1061,data/oxford_txts/FranT_oxford.txt,The hyest rokke in Armorik Briteine;,False,False
-ouen,own,The Franklin's Tale 1093,data/oxford_txts/FranT_oxford.txt,"That loveth thee, as his own hertes lif.",False,False
-gret,grettest,The Franklin's Tale 1192,data/oxford_txts/FranT_oxford.txt,The grettest that ever were seyn with eye.,False,False
-foul,foul,The Franklin's Tale 1396,data/oxford_txts/FranT_oxford.txt,To been defouled° with mannes foul delit,False,False
-god,good,The Franklin's Tale 1443,data/oxford_txts/FranT_oxford.txt,“What seith Omer of good Penalopee?,False,False
-heigh,hyest,The Franklin's Tale 1479,data/oxford_txts/FranT_oxford.txt,Trouthe is the hyest thing that man may kepe”:—,False,False
-quik,quikkest,The Franklin's Tale 1502,data/oxford_txts/FranT_oxford.txt,"Amid° the toun, right in the quikkest° strete",False,False
-bitter,bitter,Troilus and Criseyde; Book IV 710,data/oxford_txts/TC4_oxford.txt,That yeven signes of the bitter peine,False,False
-heigh,heigh,Troilus and Criseyde; Book IV 805,data/oxford_txts/TC4_oxford.txt,"Hir heigh compleinte, and therfore I it pace.",False,False
-laste,last,Troilus and Criseyde; Book IV 1252,data/oxford_txts/TC4_oxford.txt,Til at the last this sorwful wight Criseyde,False,False
-west,west,The Clerk's Tale 57,data/oxford_txts/ClT_oxford.txt,"Ther is, at the west side of Itaille",False,False
-povre,poor,The Clerk's Tale 232,data/oxford_txts/ClT_oxford.txt,"Upon Grisilde, this poor creature",False,False
-heigh,heigh,The Clerk's Tale 418,data/oxford_txts/ClT_oxford.txt,So spradde of hire heigh bountee the fame,False,False
-west,west,The Clerk's Tale 945,data/oxford_txts/ClT_oxford.txt,So noble array in al West Lumbardie.,False,False
-heigh,heigh,The Clerk's Tale 991,data/oxford_txts/ClT_oxford.txt,"And more plesant, for hir heigh linage;",False,False
-olde,eldest,The Knight's Tale 912,data/oxford_txts/KnT_oxford.txt,The eldest lady of hem alle spak,False,False
-chef,chief,The Knight's Tale 1057,data/oxford_txts/KnT_oxford.txt,"Which of the castel was the chief dongeoun,°",False,False
-yonder,yonder,The Knight's Tale 1119,data/oxford_txts/KnT_oxford.txt,Of hir that rometh in the yonder place;,False,False
-ouen,owen,The Knight's Tale 1556,data/oxford_txts/KnT_oxford.txt,For I dar noght biknowe° min owen name;,False,False
-chef,chief,The Knight's Tale 1730,data/oxford_txts/KnT_oxford.txt,And thou hast maked him thy chief squier;,False,False
-right,right,The Knight's Tale 1959,data/oxford_txts/KnT_oxford.txt,A citole° in hir right hand hadde she,False,False
-sori,sory,The Knight's Tale 2004,data/oxford_txts/KnT_oxford.txt,Al ful of chirking° was that sory place.,False,False
-paien,paien,The Knight's Tale 2370,data/oxford_txts/KnT_oxford.txt,With alle the rites of his paien wise.°,False,False
-heigh,heigh,The Knight's Tale 2537,data/oxford_txts/KnT_oxford.txt,“The lord hath of his heigh discrecioun°,False,False
-riche,richest,The Knight's Tale 2872,data/oxford_txts/KnT_oxford.txt,"With cloth of gold, the richest that he hadde.",False,False
-right,right,The Knight's Tale 2905,data/oxford_txts/KnT_oxford.txt,Upon the right hond wente old Egeus,False,False
-lift,left,The Knight's Tale 2953,data/oxford_txts/KnT_oxford.txt,"Upon the left hand, with a loud shoutinge",False,False
-sori,sory,Prologue to the Manciple's Tale 55,data/oxford_txts/MancPro_oxford.txt,So unweldy° was this sory palled gost.°,False,False
-hevi,hevy,Prologue to the Manciple's Tale 67,data/oxford_txts/MancPro_oxford.txt,In lifting up his hevy dronken cors.°,False,False
-proud,proud,Anelida and Arcite 59,data/oxford_txts/Anelida_oxford.txt,"Were dede, and slaine proud Campaneus",False,False
-prive,prevy,Anelida and Arcite 291,data/oxford_txts/Anelida_oxford.txt,Myself I mordre with my prevy° thoght;,False,False
-heigh,heigh,318,oxford_txts/GP.txt,For his science and for his heigh renoun,False,False
-heigh,hyer,401,oxford_txts/GP.txt,If that he faught and had the hyer hond,False,False
-short,shortest,838,oxford_txts/GP.txt,He which that hath the shortest shal biginne,False,False
-fers,fiers,The Man of Law's Tale 300,data/oxford_txts/MLT_oxford.txt,At the beginning of this fiers° viage,False,False
-derk,derkest,The Man of Law's Tale 304,data/oxford_txts/MLT_oxford.txt,Out of his angle° into the derkest hous.,False,False
-fair,fair,The Man of Law's Tale 319,data/oxford_txts/MLT_oxford.txt,Ther nis namore° but “farewel! fair Custance!”,False,False
-god,good,The Man of Law's Tale 817,data/oxford_txts/MLT_oxford.txt,"O Good Custance, allas! so wo is me",False,False
-bright,bright,The Man of Law's Tale 841,data/oxford_txts/MLT_oxford.txt,"“Moder,” quod she, “and maide bright, Marie",False,False
-heigh,heigh,The Man of Law's Tale 1000,data/oxford_txts/MLT_oxford.txt,As wel to shewen his heigh magnificence,False,False
-bitter,bitter,The Man of Law's Tale 1065,data/oxford_txts/MLT_oxford.txt,Long was the sobbing and the bitter peine,False,False
-derk,derk,Book of the Duchess 155,data/oxford_txts/BD_oxford.txt,Til he com to the derk valeie,False,False
-swete,sweet,Book of the Duchess 209,data/oxford_txts/BD_oxford.txt,"And farwel, sweet, my worldes blisse!",False,False
-most,most,Book of the Duchess 465,data/oxford_txts/BD_oxford.txt,"The most pitee, the moste routhe,°",False,False
-laste,last,Book of the Duchess 514,data/oxford_txts/BD_oxford.txt,"¶But at the last, to sayn right sothe",False,False
-fals,fals,Book of the Duchess 618,data/oxford_txts/BD_oxford.txt,For fals Fortune hath pleide a game,False,False
-god,good,Book of the Duchess 714,data/oxford_txts/BD_oxford.txt,"¶“A! good sir!” quod I, “Say not so!",False,False
-fair,fairest,Book of the Duchess 807,data/oxford_txts/BD_oxford.txt,"Trewly, the fairest companye",False,False
-swete,sweet,Book of the Duchess 832,data/oxford_txts/BD_oxford.txt,"It was my sweet, right as hirselve!",False,False
-fair,fair,Book of the Duchess 909,data/oxford_txts/BD_oxford.txt,"To mak that fair, that trewly she",False,False
-chef,chief,Book of the Duchess 910,data/oxford_txts/BD_oxford.txt,Was hir chief patrone° of beaute,False,False
-swete,sweet,Book of the Duchess 920,data/oxford_txts/BD_oxford.txt,"Had that sweet, my lives leche!°",False,False
-swete,sweet,Book of the Duchess 940,data/oxford_txts/BD_oxford.txt,"Had that sweet, that boon nor brekke°",False,False
-yonder,yonder,Troilus and Criseyde; Book V 575,data/oxford_txts/TC5_oxford.txt,"“And at that corner, in the yonder hous",False,False
-yonder,yonder,Troilus and Criseyde; Book V 580,data/oxford_txts/TC5_oxford.txt,"The blisful soun; and, in that yonder place",False,False
-yonder,yonder,Troilus and Criseyde; Book V 610,data/oxford_txts/TC5_oxford.txt,“And to the yonder hille I gan hire gide,False,False
-sori,sory,Troilus and Criseyde; Book V 627,data/oxford_txts/TC5_oxford.txt,“I am right sory Troilus wol deie.”,False,False
-god,good,Troilus and Criseyde; Book V 1081,data/oxford_txts/TC5_oxford.txt,"And my good word, al sholde I liven ever.",False,False
-bright,bright,Troilus and Criseyde; Book V 1241,data/oxford_txts/TC5_oxford.txt,Lay kissing ay his lady bright Criseyde:,False,False
-bright,bright,Troilus and Criseyde; Book V 1247,data/oxford_txts/TC5_oxford.txt,“My lady bright Criseyde hath me bitrayed,False,False
-bright,bright,Troilus and Criseyde; Book V 1264,data/oxford_txts/TC5_oxford.txt,"God wot I wende, O lady bright, Criseyde",False,False
-ded,deed,Troilus and Criseyde; Book V 1503,data/oxford_txts/TC5_oxford.txt,"Was dreint, and deed Parthonope of wounde;",False,False
-bright,bright,Troilus and Criseyde; Book V 1712,data/oxford_txts/TC5_oxford.txt,"How trewe is now thy nece, bright Criseyde!",False,False
-pleine,plein,Troilus and Criseyde; Book V 1818,data/oxford_txts/TC5_oxford.txt,To respect of the plein felicitee,False,False
-bitter,bitter,Parliament of Fowls 252,data/oxford_txts/PF_oxford.txt,Cam of the bitter goddesse Jalousie.,False,False
-treu,trewest,Parliament of Fowls 479,data/oxford_txts/PF_oxford.txt,"But I dar seyn, I am hir trewest man",False,False
-gret,grettest,The Pardoner's Tale 607,data/oxford_txts/PardT_oxford.txt,That all the grettest that were of that lond,False,False
-heigh,heigh,The Pardoner's Tale 913,data/oxford_txts/PardT_oxford.txt,"I yow assoile,° by min heigh power",False,False
-olde,old,The Pardoner's Tale 948,data/oxford_txts/PardT_oxford.txt,"Thou woldest make me kisse thin old breech,°",False,False
-wight,wight,The Reeve's Tale 4086,data/oxford_txts/RvT_oxford.txt,"I is ful wight,° God waat,° as is a ra;°",False,False
-ouen,awen,The Reeve's Tale 4239,data/oxford_txts/RvT_oxford.txt,"I is thin awen clerk, swa have I sel!”°",False,False
-fin,fin,The Nun's Priest's Tale 2859,data/oxford_txts/NPT_oxford.txt,His comb was redder than the fin° coral,False,False
-west,west,The Nun's Priest's Tale 3017,data/oxford_txts/NPT_oxford.txt,"And at the west gate of the toun,’ quod he",False,False
-west,west,The Nun's Priest's Tale 3035,data/oxford_txts/NPT_oxford.txt,"Unto the west gate of the toun, and fond",False,False
-neue,new,The Nun's Priest's Tale 3227,data/oxford_txts/NPT_oxford.txt,"O newe Scariot,° new Genilon!",False,False
-grek,greek,The Nun's Priest's Tale 3228,data/oxford_txts/NPT_oxford.txt,"False dissimilour,° O Greek Sinon",False,False
-sori,sory,The Summoner's Prologue 1701,data/oxford_txts/SumPro_oxford.txt,Upon the tormentz of this sory° place,False,False
-hevi,hevy,Troilus and Criseyde; Book I 651,data/oxford_txts/TC1_oxford.txt,Thin hevy charge; it shal the lasse dere.,False,False
-glad,glad,Troilus and Criseyde; Book I 1041,data/oxford_txts/TC1_oxford.txt,Adieu! be glad! God spede us bothe two!,False,False
+headword,word,line_number,filename,context,is_elided,is_final,source_csv
+west,west,The Clerk's Prologue 46,data/oxford_txts/ClPro_oxford.txt,That been the boundes of West Lumbardie,False,False,ClPro_gui_complete.csv
+sori,sory,The Shipman's Tale 117,data/oxford_txts/ShipT_oxford.txt,That lasse lust° hath to that sory pley.°,False,False,ShipT_gui_complete.csv
+derk,derkest,The Wife of Bath's Tale 1139,data/oxford_txts/WBT_oxford.txt,"¶“ ‘Taak fir,° and ber it in the derkest hous",False,False,WBT_gui_complete.csv
+god,good,The Merchant's Prologue 1233,data/oxford_txts/MerPro_oxford.txt,¶A! good sir Hoost! I have ywedded be°,False,False,MerPro_gui_complete.csv
+hevi,hevy,100-ch 885,data/oxford_txts/LGW_oxford.txt,On her he caste° his hevy deedly yën,False,False,LGW_gui_complete.csv
+chef,cheef,100-ch 937,data/oxford_txts/LGW_oxford.txt,That of the citee was the cheef dungeoun;°,False,False,LGW_gui_complete.csv
+right,right,100-ch 942,data/oxford_txts/LGW_oxford.txt,"That was his sone,° in his right hand, and fledde;",False,False,LGW_gui_complete.csv
+fair,fairest,100-ch 974,data/oxford_txts/LGW_oxford.txt,But she was yit° the fairest creature,False,False,LGW_gui_complete.csv
+leste,lest,100-ch 1313,data/oxford_txts/LGW_oxford.txt,"His thral,° his servant in the lest° degree;",False,False,LGW_gui_complete.csv
+treu,trew,100-ch 1686,data/oxford_txts/LGW_oxford.txt,"The verray wif, the verray trew° Lucresse",False,False,LGW_gui_complete.csv
+gret,grettest,100-ch 2053,data/oxford_txts/LGW_oxford.txt,Oon of the grettest men of my contree.,False,False,LGW_gui_complete.csv
+gret,gretter,100-ch 2213,data/oxford_txts/LGW_oxford.txt,Wher is thy gretter part away ygoon?,False,False,LGW_gui_complete.csv
+bet,bet,Troilus and Criseyde; Book II 128,data/oxford_txts/TC2_oxford.txt,"What? bet than swiche five? Ey, nay, ywis!",False,False,TC2_gui_complete.csv
+sori,sory,Troilus and Criseyde; Book II 464,data/oxford_txts/TC2_oxford.txt,“A! Lord! what me is tid a sory chaunce!,False,False,TC2_gui_complete.csv
+werse,wers,Troilus and Criseyde; Book II 865,data/oxford_txts/TC2_oxford.txt,"Or love the wers, though wrecches on it cryen?",False,False,TC2_gui_complete.csv
+laste,last,Troilus and Criseyde; Book II 924,data/oxford_txts/TC2_oxford.txt,Til at the last the dede sleep hir hente.,False,False,TC2_gui_complete.csv
+right,right,Troilus and Criseyde; Book II 1065,data/oxford_txts/TC2_oxford.txt,First he gan hir his right lady calle,False,False,TC2_gui_complete.csv
+gret,grettest,Troilus and Criseyde; Book II 1143,data/oxford_txts/TC2_oxford.txt,"And seide, “Now is this the grettest wonder",False,False,TC2_gui_complete.csv
+yonder,yonder,Troilus and Criseyde; Book II 1188,data/oxford_txts/TC2_oxford.txt,"The yonder hous, that stant aforyein us?”",False,False,TC2_gui_complete.csv
+god,good,Troilus and Criseyde; Book II 1209,data/oxford_txts/TC2_oxford.txt,"Of his good wil, and doth him not to deie.",False,False,TC2_gui_complete.csv
+wise,wisest,The Canon's Yeoman's Tale 967,data/oxford_txts/CYT_oxford.txt,"He that semeth the wisest, by Jhesus!",False,False,CYT_gui_complete.csv
+fals,fals,The Canon's Yeoman's Tale 1073,data/oxford_txts/CYT_oxford.txt,God kepe us from his fals dissimulinge!°,False,False,CYT_gui_complete.csv
+fals,fals,The Canon's Yeoman's Tale 1159,data/oxford_txts/CYT_oxford.txt,"This fals chanoun, the foule feend him fecche!°",False,False,CYT_gui_complete.csv
+sori,sory,The Canon's Yeoman's Tale 1349,data/oxford_txts/CYT_oxford.txt,Than had this preest this sory° craft to lere;°,False,False,CYT_gui_complete.csv
+graunt,grant,The Canon's Yeoman's Tale 1380,data/oxford_txts/CYT_oxford.txt,"Quod the chanoun, “and farwel, grant mercy!”",False,False,CYT_gui_complete.csv
+prive,privy,The Canon's Yeoman's Tale 1452,data/oxford_txts/CYT_oxford.txt,“Tel me the name of the privy° stoon?”,False,False,CYT_gui_complete.csv
+flouri,floury,The Legend of Good Women; Prologue F 174,data/oxford_txts/LGW_FPro_oxford.txt,As god and goddesse of the floury mede;°,False,False,LGW_FPro_gui_complete.csv
+fresh,fresshest,The Legend of Good Women; Prologue F 229,data/oxford_txts/LGW_FPro_oxford.txt,The fresshest sin° the world was first bigonne.,False,False,LGW_FPro_gui_complete.csv
+ouen,owen,The Legend of Good Women; Prologue F 399,data/oxford_txts/LGW_FPro_oxford.txt,And ever have reward° to his owen degree.°,False,False,LGW_FPro_gui_complete.csv
+north,north,The Friar's Tale 1413,data/oxford_txts/FriT_oxford.txt,"‘Brother,’ quod he, ‘fer in the north contree",False,False,FriT_gui_complete.csv
+swete,sweet,The Friar's Tale 1613,data/oxford_txts/FriT_oxford.txt,"¶“ ‘Pay me,’ quod he, ‘or by the sweet Seinte Anne",False,False,FriT_gui_complete.csv
+crisp,crisp,The Wife of Bath's Prologue 304,data/oxford_txts/WBPro_oxford.txt,"For his crisp° heer, shininge as gold so fin",False,False,WBPro_gui_complete.csv
+blind,blind,The Wife of Bath's Prologue 656,data/oxford_txts/WBPro_oxford.txt,"And priketh° his blind hors over the falwes,°",False,False,WBPro_gui_complete.csv
+gret,gret,The Squire's Tale 469,data/oxford_txts/SqT_oxford.txt,As wisly helpe me gret God of kinde!°,False,False,SqT_gui_complete.csv
+heigh,heigh,Troilus and Criseyde; Book III 516,data/oxford_txts/TC3_oxford.txt,Wheras at leiser al this heigh matere,False,False,TC3_gui_complete.csv
+prive,priv,Troilus and Criseyde; Book III 921,data/oxford_txts/TC3_oxford.txt,"His privé coming, and the siker place",False,False,TC3_gui_complete.csv
+bet,bet,Troilus and Criseyde; Book III 1223,data/oxford_txts/TC3_oxford.txt,"Now is this bet, than bothe two be lorn!",False,False,TC3_gui_complete.csv
+bright,bright,Troilus and Criseyde; Book III 1453,data/oxford_txts/TC3_oxford.txt,For every bore hath oon of thy bright yën!,False,False,TC3_gui_complete.csv
+ouen,owen,Troilus and Criseyde; Book III 1485,data/oxford_txts/TC3_oxford.txt,"“But nathelees, min owen lady bright",False,False,TC3_gui_complete.csv
+real,real,Troilus and Criseyde; Book III 1534,data/oxford_txts/TC3_oxford.txt,"Retorned to his real palais, sone",False,False,TC3_gui_complete.csv
+werste,worst,Troilus and Criseyde; Book III 1626,data/oxford_txts/TC3_oxford.txt,The worst kinde of infortune is this,False,False,TC3_gui_complete.csv
+yong,yongest,The Merchant's Tale 1559,data/oxford_txts/MerT_oxford.txt,The yongest man that is in al this route°,False,False,MerT_gui_complete.csv
+ful,ful,The Merchant's Tale 2066,data/oxford_txts/MerT_oxford.txt,That haddest him for thy ful frend received?,False,False,MerT_gui_complete.csv
+red,red,Sir Thopas 747,data/oxford_txts/Thop_oxford.txt,    That bereth the red hepe.°,False,False,Thop_gui_complete.csv
+fair,fair,Sir Thopas 832,data/oxford_txts/Thop_oxford.txt,    And thurgh his fair beringe.°,False,False,Thop_gui_complete.csv
+hevi,hevy,The Franklin's Tale 822,data/oxford_txts/FranT_oxford.txt,"Hir frendes, which that° knewe hir hevy° thoght",False,False,FranT_gui_complete.csv
+wise,wis,The Franklin's Tale 871,data/oxford_txts/FranT_oxford.txt,"Of swich a parfit wis God and a stable,°",False,False,FranT_gui_complete.csv
+ouen,own,The Franklin's Tale 880,data/oxford_txts/FranT_oxford.txt,That thou it madest lik to thin own merk.°,False,False,FranT_gui_complete.csv
+heigh,heigh,The Franklin's Tale 989,data/oxford_txts/FranT_oxford.txt,"¶“Aurelie,” quod she, “by heigh God above",False,False,FranT_gui_complete.csv
+heigh,hyest,The Franklin's Tale 1061,data/oxford_txts/FranT_oxford.txt,The hyest rokke in Armorik Briteine;,False,False,FranT_gui_complete.csv
+ouen,own,The Franklin's Tale 1093,data/oxford_txts/FranT_oxford.txt,"That loveth thee, as his own hertes lif.",False,False,FranT_gui_complete.csv
+gret,grettest,The Franklin's Tale 1192,data/oxford_txts/FranT_oxford.txt,The grettest that ever were seyn with eye.,False,False,FranT_gui_complete.csv
+god,good,The Franklin's Tale 1443,data/oxford_txts/FranT_oxford.txt,“What seith Omer of good Penalopee?,False,False,FranT_gui_complete.csv
+heigh,hyest,The Franklin's Tale 1479,data/oxford_txts/FranT_oxford.txt,Trouthe is the hyest thing that man may kepe”:—,False,False,FranT_gui_complete.csv
+quik,quikkest,The Franklin's Tale 1502,data/oxford_txts/FranT_oxford.txt,"Amid° the toun, right in the quikkest° strete",False,False,FranT_gui_complete.csv
+bitter,bitter,Troilus and Criseyde; Book IV 710,data/oxford_txts/TC4_oxford.txt,That yeven signes of the bitter peine,False,False,TC4_gui_complete.csv
+heigh,heigh,Troilus and Criseyde; Book IV 805,data/oxford_txts/TC4_oxford.txt,"Hir heigh compleinte, and therfore I it pace.",False,False,TC4_gui_complete.csv
+laste,last,Troilus and Criseyde; Book IV 1252,data/oxford_txts/TC4_oxford.txt,Til at the last this sorwful wight Criseyde,False,False,TC4_gui_complete.csv
+west,west,The Clerk's Tale 57,data/oxford_txts/ClT_oxford.txt,"Ther is, at the west side of Itaille",False,False,ClT_gui_complete.csv
+povre,poor,The Clerk's Tale 232,data/oxford_txts/ClT_oxford.txt,"Upon Grisilde, this poor creature",False,False,ClT_gui_complete.csv
+heigh,heigh,The Clerk's Tale 418,data/oxford_txts/ClT_oxford.txt,So spradde of hire heigh bountee the fame,False,False,ClT_gui_complete.csv
+west,west,The Clerk's Tale 945,data/oxford_txts/ClT_oxford.txt,So noble array in al West Lumbardie.,False,False,ClT_gui_complete.csv
+heigh,heigh,The Clerk's Tale 991,data/oxford_txts/ClT_oxford.txt,"And more plesant, for hir heigh linage;",False,False,ClT_gui_complete.csv
+olde,eldest,The Knight's Tale 912,data/oxford_txts/KnT_oxford.txt,The eldest lady of hem alle spak,False,False,KnT_gui_complete.csv
+chef,chief,The Knight's Tale 1057,data/oxford_txts/KnT_oxford.txt,"Which of the castel was the chief dongeoun,°",False,False,KnT_gui_complete.csv
+yonder,yonder,The Knight's Tale 1119,data/oxford_txts/KnT_oxford.txt,Of hir that rometh in the yonder place;,False,False,KnT_gui_complete.csv
+ouen,owen,The Knight's Tale 1556,data/oxford_txts/KnT_oxford.txt,For I dar noght biknowe° min owen name;,False,False,KnT_gui_complete.csv
+chef,chief,The Knight's Tale 1730,data/oxford_txts/KnT_oxford.txt,And thou hast maked him thy chief squier;,False,False,KnT_gui_complete.csv
+right,right,The Knight's Tale 1959,data/oxford_txts/KnT_oxford.txt,A citole° in hir right hand hadde she,False,False,KnT_gui_complete.csv
+sori,sory,The Knight's Tale 2004,data/oxford_txts/KnT_oxford.txt,Al ful of chirking° was that sory place.,False,False,KnT_gui_complete.csv
+paien,paien,The Knight's Tale 2370,data/oxford_txts/KnT_oxford.txt,With alle the rites of his paien wise.°,False,False,KnT_gui_complete.csv
+heigh,heigh,The Knight's Tale 2537,data/oxford_txts/KnT_oxford.txt,“The lord hath of his heigh discrecioun°,False,False,KnT_gui_complete.csv
+riche,richest,The Knight's Tale 2872,data/oxford_txts/KnT_oxford.txt,"With cloth of gold, the richest that he hadde.",False,False,KnT_gui_complete.csv
+right,right,The Knight's Tale 2905,data/oxford_txts/KnT_oxford.txt,Upon the right hond wente old Egeus,False,False,KnT_gui_complete.csv
+lift,left,The Knight's Tale 2953,data/oxford_txts/KnT_oxford.txt,"Upon the left hand, with a loud shoutinge",False,False,KnT_gui_complete.csv
+sori,sory,Prologue to the Manciple's Tale 55,data/oxford_txts/MancPro_oxford.txt,So unweldy° was this sory palled gost.°,False,False,MancPro_gui_complete.csv
+hevi,hevy,Prologue to the Manciple's Tale 67,data/oxford_txts/MancPro_oxford.txt,In lifting up his hevy dronken cors.°,False,False,MancPro_gui_complete.csv
+proud,proud,Anelida and Arcite 59,data/oxford_txts/Anelida_oxford.txt,"Were dede, and slaine proud Campaneus",False,False,Anelida_gui_complete.csv
+prive,prevy,Anelida and Arcite 291,data/oxford_txts/Anelida_oxford.txt,Myself I mordre with my prevy° thoght;,False,False,Anelida_gui_complete.csv
+heigh,heigh,318,oxford_txts/GP.txt,For his science and for his heigh renoun,False,False,GP_gui_complete.csv
+heigh,hyer,401,oxford_txts/GP.txt,If that he faught and had the hyer hond,False,False,GP_gui_complete.csv
+short,shortest,838,oxford_txts/GP.txt,He which that hath the shortest shal biginne,False,False,GP_gui_complete.csv
+fers,fiers,The Man of Law's Tale 300,data/oxford_txts/MLT_oxford.txt,At the beginning of this fiers° viage,False,False,MLT_gui_complete.csv
+derk,derkest,The Man of Law's Tale 304,data/oxford_txts/MLT_oxford.txt,Out of his angle° into the derkest hous.,False,False,MLT_gui_complete.csv
+fair,fair,The Man of Law's Tale 319,data/oxford_txts/MLT_oxford.txt,Ther nis namore° but “farewel! fair Custance!”,False,False,MLT_gui_complete.csv
+god,good,The Man of Law's Tale 817,data/oxford_txts/MLT_oxford.txt,"O Good Custance, allas! so wo is me",False,False,MLT_gui_complete.csv
+heigh,heigh,The Man of Law's Tale 1000,data/oxford_txts/MLT_oxford.txt,As wel to shewen his heigh magnificence,False,False,MLT_gui_complete.csv
+bitter,bitter,The Man of Law's Tale 1065,data/oxford_txts/MLT_oxford.txt,Long was the sobbing and the bitter peine,False,False,MLT_gui_complete.csv
+derk,derk,Book of the Duchess 155,data/oxford_txts/BD_oxford.txt,Til he com to the derk valeie,False,False,BD_gui_complete.csv
+swete,sweet,Book of the Duchess 209,data/oxford_txts/BD_oxford.txt,"And farwel, sweet, my worldes blisse!",False,False,BD_gui_complete.csv
+most,most,Book of the Duchess 465,data/oxford_txts/BD_oxford.txt,"The most pitee, the moste routhe,°",False,False,BD_gui_complete.csv
+laste,last,Book of the Duchess 514,data/oxford_txts/BD_oxford.txt,"¶But at the last, to sayn right sothe",False,False,BD_gui_complete.csv
+fals,fals,Book of the Duchess 618,data/oxford_txts/BD_oxford.txt,For fals Fortune hath pleide a game,False,False,BD_gui_complete.csv
+god,good,Book of the Duchess 714,data/oxford_txts/BD_oxford.txt,"¶“A! good sir!” quod I, “Say not so!",False,False,BD_gui_complete.csv
+fair,fairest,Book of the Duchess 807,data/oxford_txts/BD_oxford.txt,"Trewly, the fairest companye",False,False,BD_gui_complete.csv
+swete,sweet,Book of the Duchess 832,data/oxford_txts/BD_oxford.txt,"It was my sweet, right as hirselve!",False,False,BD_gui_complete.csv
+fair,fair,Book of the Duchess 909,data/oxford_txts/BD_oxford.txt,"To mak that fair, that trewly she",False,False,BD_gui_complete.csv
+chef,chief,Book of the Duchess 910,data/oxford_txts/BD_oxford.txt,Was hir chief patrone° of beaute,False,False,BD_gui_complete.csv
+swete,sweet,Book of the Duchess 920,data/oxford_txts/BD_oxford.txt,"Had that sweet, my lives leche!°",False,False,BD_gui_complete.csv
+swete,sweet,Book of the Duchess 940,data/oxford_txts/BD_oxford.txt,"Had that sweet, that boon nor brekke°",False,False,BD_gui_complete.csv
+yonder,yonder,Troilus and Criseyde; Book V 575,data/oxford_txts/TC5_oxford.txt,"“And at that corner, in the yonder hous",False,False,TC5_gui_complete.csv
+yonder,yonder,Troilus and Criseyde; Book V 580,data/oxford_txts/TC5_oxford.txt,"The blisful soun; and, in that yonder place",False,False,TC5_gui_complete.csv
+yonder,yonder,Troilus and Criseyde; Book V 610,data/oxford_txts/TC5_oxford.txt,“And to the yonder hille I gan hire gide,False,False,TC5_gui_complete.csv
+sori,sory,Troilus and Criseyde; Book V 627,data/oxford_txts/TC5_oxford.txt,“I am right sory Troilus wol deie.”,False,False,TC5_gui_complete.csv
+god,good,Troilus and Criseyde; Book V 1081,data/oxford_txts/TC5_oxford.txt,"And my good word, al sholde I liven ever.",False,False,TC5_gui_complete.csv
+ded,deed,Troilus and Criseyde; Book V 1503,data/oxford_txts/TC5_oxford.txt,"Was dreint, and deed Parthonope of wounde;",False,False,TC5_gui_complete.csv
+pleine,plein,Troilus and Criseyde; Book V 1818,data/oxford_txts/TC5_oxford.txt,To respect of the plein felicitee,False,False,TC5_gui_complete.csv
+bitter,bitter,Parliament of Fowls 252,data/oxford_txts/PF_oxford.txt,Cam of the bitter goddesse Jalousie.,False,False,PF_gui_complete.csv
+treu,trewest,Parliament of Fowls 479,data/oxford_txts/PF_oxford.txt,"But I dar seyn, I am hir trewest man",False,False,PF_gui_complete.csv
+gret,grettest,The Pardoner's Tale 607,data/oxford_txts/PardT_oxford.txt,That all the grettest that were of that lond,False,False,PardT_gui_complete.csv
+heigh,heigh,The Pardoner's Tale 913,data/oxford_txts/PardT_oxford.txt,"I yow assoile,° by min heigh power",False,False,PardT_gui_complete.csv
+olde,old,The Pardoner's Tale 948,data/oxford_txts/PardT_oxford.txt,"Thou woldest make me kisse thin old breech,°",False,False,PardT_gui_complete.csv
+wight,wight,The Reeve's Tale 4086,data/oxford_txts/RvT_oxford.txt,"I is ful wight,° God waat,° as is a ra;°",False,False,RvT_gui_complete.csv
+ouen,awen,The Reeve's Tale 4239,data/oxford_txts/RvT_oxford.txt,"I is thin awen clerk, swa have I sel!”°",False,False,RvT_gui_complete.csv
+fin,fin,The Nun's Priest's Tale 2859,data/oxford_txts/NPT_oxford.txt,His comb was redder than the fin° coral,False,False,NPT_gui_complete.csv
+west,west,The Nun's Priest's Tale 3017,data/oxford_txts/NPT_oxford.txt,"And at the west gate of the toun,’ quod he",False,False,NPT_gui_complete.csv
+west,west,The Nun's Priest's Tale 3035,data/oxford_txts/NPT_oxford.txt,"Unto the west gate of the toun, and fond",False,False,NPT_gui_complete.csv
+grek,greek,The Nun's Priest's Tale 3228,data/oxford_txts/NPT_oxford.txt,"False dissimilour,° O Greek Sinon",False,False,NPT_gui_complete.csv
+sori,sory,The Summoner's Prologue 1701,data/oxford_txts/SumPro_oxford.txt,Upon the tormentz of this sory° place,False,False,SumPro_gui_complete.csv
+hevi,hevy,Troilus and Criseyde; Book I 651,data/oxford_txts/TC1_oxford.txt,Thin hevy charge; it shal the lasse dere.,False,False,TC1_gui_complete.csv
+glad,glad,Troilus and Criseyde; Book I 1041,data/oxford_txts/TC1_oxford.txt,Adieu! be glad! God spede us bothe two!,False,False,TC1_gui_complete.csv
