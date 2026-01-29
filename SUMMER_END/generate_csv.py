@@ -190,13 +190,14 @@ def make_formatted(riverside_file, oxford_file, output_csv, output_cat):
 
 
 # Run
-target = 8
-make_formatted('data/riverside_cats/BD_riv.cat','data/oxford_txts/BD_oxford.txt','data/csvs/BD.csv','data/oxford_cats/BD_oxford.cat')
-convert_file('data/csvs/BD.csv', 'data/csvs/BD_gui.csv')
+#target = 8
+#make_formatted('data/riverside_cats/BD_riv.cat','data/oxford_txts/BD_oxford.txt','data/csvs/BD.csv','data/oxford_cats/BD_oxford.cat')
+#convert_file('data/csvs/BD.csv', 'data/csvs/BD_gui.csv')
 
 target = 10
 
 
-for name in ['MLT','LGW_FPro','GP','HF','PF','TC1','TC2','TC3','TC4','TC5','ClT','CYT','KnT','MancT','MilT','MkT','NPT','PardT','PhyT','PrT','RvT','ShipT','SNT','SqT','Thop','FranT','FriT','MerT','SumT','WBPro','WBT']:
+#for name in ['MLT','LGW_FPro','GP','HF','PF','TC1','TC2','TC3','TC4','TC5','ClT','CYT','KnT','MancT','MilT','MkT','NPT','PardT','PhyT','PrT','RvT','ShipT','SNT','SqT','Thop','FranT','FriT','MerT','SumT','WBPro','WBT']:
+for name in ['SqPro','MerEpi','FranPro','PardPro','PrPro']:
 	make_formatted('data/riverside_cats/'+name+'_riv.cat','data/oxford_txts/'+name+'_oxford.txt','data/csvs/'+name+'.csv','data/oxford_cats/'+name+'_oxford.cat')
-	convert_file('data/csvs/'+name+'.csv','data/csvs/'+name+'_gui.csv')
+	convert_file('data/csvs/'+name+'.csv','for_gui/to_do/'+name+'_gui.csv')
