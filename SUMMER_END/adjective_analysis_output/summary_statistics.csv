@@ -1,6 +1,6 @@
-Category,All Instances,"Strict Instances (not elided, not final)"
-Weak declension without -e,173,128
-Plural form without -e,66,24
-Strong form with -e (all),1539,595
-Strong form with -e (filtered),933,369
-Always -e adjectives found,85,N/A
+Category,All Instances,"Strict Instances (not elided, not final)",Accuracy Rate
+Weak declension (should have -e),1423,121,87.77%
+Plural form (should have -e),616,24,89.12%
+"Strong form (should not have -e, all)",4079,601,61.98%
+"Strong form (should not have -e, filtered)",4079,373,76.96%
+Always -e adjectives found,85,N/A,N/A

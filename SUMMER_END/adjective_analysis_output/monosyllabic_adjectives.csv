@@ -1,4 +1,12 @@
 Headword,Stem Forms,All Forms,Always Ends in E
+coi,coy,coy,No
+olde,old; olde,elder; eldest; old; olde,No
+heigh,heigh; heighe; hie; high; hy; hye; hyest,heigh; heighe; hie; high; hy; hye; hyer; hyest; hyeste,No
+ded,ded; dede; deed,ded; dede; deed,No
+swete,sweet; sweete; swete,sweet; sweete; swete,No
+west,west,west,No
+smal,smal; smale; small; smalle,smal; smale; small; smalle,No
+long,lange; long; longe,lange; lengest; long; longe,No
 riche,riche,riche; richest,Yes
 wise,wis; wise,wis; wise; wiser; wisest,No
 more,more,moor; mor; more,Yes
@@ -7,7 +15,6 @@ ouen,awen; owen; owene; own; owne,awen; owen; owene; own; owne,No
 noble,noble,noble; nobleste,Yes
 gret,great; greet; gret; grete,great; greet; gret; grete; gretter; grettest; gretteste,No
 fair,fair; faire; feir,fair; faire; fairer; fairest; faireste; feir,No
-smal,smal; smale; small; smalle,smal; smale; small; smalle,No
 bold,bold; bolde,bold; bolde,No
 yong,yong; yonge,yong; yonge; yongest; yongeste,No
 god,gode; good; goode,gode; good; goode,No
@@ -20,7 +27,6 @@ dere,deer; deere; der; dere,deer; deere; der; dere,No
 fin,fin; fine,fin; fine; fineste,No
 mene,mene,mene,Yes
 maide,maide,maide,Yes
-olde,old; olde,elder; eldest; old; olde,No
 pale,pale,pale,Yes
 red,red; rede; reed,red; redder; rede; reed,No
 lesse,,lasse; lesse,No
@@ -31,8 +37,6 @@ werste,,worst; worste,No
 nexte,,next; nexte,No
 foul,foul; foule,foul; foule; fouler,No
 treu,trew; trewe,trew; trewe; trewer; trewest; treweste,No
-long,lange; long; longe,lange; lengest; long; longe,No
-ded,ded; dede; deed,ded; dede; deed,No
 queinte,queint; queinte,queint; queinte,No
 mek,meek; meke,meek; meke; meker; mekeste,No
 straunge,estraunge; strange; straunge,estraunge; strange; straunge; straunger,Yes
@@ -40,7 +44,6 @@ graunt,grant; graunt,grant; graunt,No
 fain,fain; faine; fawe; fein,fain; faine; fawe; fein,No
 hole,hole; hool,hole; hool,No
 best,,best; beste,No
-swete,sweet; sweete; swete,sweet; sweete; swete,No
 ware,war; ware,war; ware,No
 tough,tough,tough,No
 laste,last,last; laste,No
@@ -53,7 +56,6 @@ large,large,large,Yes
 grene,grene,grene,Yes
 mo,,mo,No
 thikke,thikke,thikke; thikkeste,Yes
-heigh,heigh; heighe; hie; high; hy; hye; hyest,heigh; heighe; hie; high; hy; hye; hyer; hyest; hyeste,No
 clene,clene,clene,Yes
 stable,stable,stable,Yes
 sauf,sauf,sauf; save,No
@@ -108,7 +110,6 @@ fer,fer; ferre,fer; ferre; ferreste,No
 strong,strong; stronge,strong; stronge,No
 shene,shene,shene,Yes
 sad,sad; sadde,sad; sadde,No
-coi,coy,coy,No
 chaste,chaast; chast; chaste,chaast; chast; chaste,No
 smert,smart; smerte,smart; smerte,No
 sounde,sound; sounde,sound; sounde,No
@@ -131,6 +132,7 @@ swifte,swift; swifte,swift; swifte; swifter,No
 weik,waik; waike; weik,waik; waike; weik,No
 hende,hende,hende,Yes
 blak,blak; blake,blak; blake,No
+nice,nice,nice,Yes
 lame,lame,lame,Yes
 bleu,blew; blewe,blew; blewe,No
 quik,quik; quike; quikkest,quik; quike; quikkest,No
@@ -145,7 +147,6 @@ wan,wan,wan,No
 bai,bay; baye,bay; baye,No
 pure,pure,pure,Yes
 werse,,wers; werse; wors; worse,No
-nice,nice,nice,Yes
 prest,prest; preste,prest; preste,No
 dim,dimme,dimme,Yes
 don,donne; dunne,donne; dunne,Yes
@@ -174,6 +175,7 @@ north,north,north,No
 streit,streit; streite,streit; streite,No
 liard,lyard,lyard,No
 thral,thral,thral,No
+los,laus; loos,laus; loos,No
 pleine,plein,plein,No
 grei,gray; grey; greye,gray; grey; greye,No
 crisp,crisp; crispe,crisp; crispe,No
@@ -219,7 +221,6 @@ derne,derne,derne,Yes
 yern,yerne,yerne,Yes
 crul,crul; crulle,crul; crulle,No
 neigh,ny; nye,ny; nye,No
-west,west,west,No
 selde,selde,selde,Yes
 egre,egre,egre,Yes
 square,square,square,Yes
@@ -244,7 +245,6 @@ flat,flat; flatte,flat; flatte,No
 wo,wo,wo,No
 tought,toght,toght,No
 ethe,ethe,ethe,Yes
-los,laus; loos,laus; loos,No
 sour,sour,sour,No
 perte,pert,pert,No
 ille,il; ille,il; ille,No
