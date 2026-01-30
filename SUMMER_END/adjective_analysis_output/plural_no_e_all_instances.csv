@@ -6,6 +6,7 @@ ful,ful,100-ch 1118,data/oxford_txts/LGW_oxford.txt,"Ne sakkes ful of gold, of l
 tender,tender,100-ch 1370,data/oxford_txts/LGW_oxford.txt,"Of gentil° wommen, tender creatures",False,False,LGW_gui_complete.csv
 ful,ful,100-ch 1736,data/oxford_txts/LGW_oxford.txt,"And eek her teres, ful of honestee,°",True,False,LGW_gui_complete.csv
 mo,mo,Prologue to the Canon's Yeoman's Tale 693,data/oxford_txts/CYPro_oxford.txt,"“Hold thou thy pees,° and spek no wordes mo",False,True,CYPro_gui_complete.csv
+mo,mo,04-5-ch 2429,data/oxford_txts/MerEpi_oxford.txt,And yet she hath an heep° of vices mo;,False,True,MerEpi_gui_complete.csv
 god,good,Troilus and Criseyde; Book II 166,data/oxford_txts/TC2_oxford.txt,And been of good condiciouns therto;,False,False,TC2_gui_complete.csv
 tough,tough,Troilus and Criseyde; Book II 1025,data/oxford_txts/TC2_oxford.txt,As make it with thise argumentes tough;,False,True,TC2_gui_complete.csv
 sori,sory,Troilus and Criseyde; Book II 1351,data/oxford_txts/TC2_oxford.txt,So were his dayes sory outher gladde.,True,False,TC2_gui_complete.csv
@@ -48,6 +49,7 @@ fair,fairest,The Knight's Tale 2201,data/oxford_txts/KnT_oxford.txt,What ladies 
 mo,mo,The Knight's Tale 2430,data/oxford_txts/KnT_oxford.txt,With othere rites mo; and atte laste,True,False,KnT_gui_complete.csv
 ful,ful,The Knight's Tale 2949,data/oxford_txts/KnT_oxford.txt,"And cuppes ful of win, and milke and blood",True,False,KnT_gui_complete.csv
 ful,ful,Anelida and Arcite 248,data/oxford_txts/Anelida_oxford.txt,Your wordes ful of plesaunce and humblesse?,True,False,Anelida_gui_complete.csv
+mo,mo,Prologue to the Franklin's Tale 702,data/oxford_txts/FranPro_oxford.txt,¶“Telle on thy tale withouten wordes mo.”,False,True,FranPro_gui_complete.csv
 mo,mo,810,oxford_txts/GP.txt,Tel me anon withouten wordes mo,False,True,GP_gui_complete.csv
 mo,mo,851,oxford_txts/GP.txt,As ye han herd what nedeth wordes mo,False,True,GP_gui_complete.csv
 cler,clerer,The Man of Law's Tale 194,data/oxford_txts/MLT_oxford.txt,"For in the sterres, clerer than is glas,°",False,False,MLT_gui_complete.csv
@@ -55,6 +57,7 @@ mo,mo,The Man of Law's Tale 419,data/oxford_txts/MLT_oxford.txt,And deintees° m
 mo,mo,Book of the Duchess 266,data/oxford_txts/BD_oxford.txt,May winne of me mo fees° thus,False,False,BD_gui_complete.csv
 mo,mo,Book of the Duchess 408,data/oxford_txts/BD_oxford.txt,"To have mo floures, swiche seven°",False,False,BD_gui_complete.csv
 more,moor,Book of the Duchess 881,data/oxford_txts/BD_oxford.txt,In alle thinges moor mesure,False,False,BD_gui_complete.csv
+god,good,The Pardoner's Prologue 377,data/oxford_txts/PardPro_oxford.txt,"Good men and wommen, o° thing warne I yow",False,False,PardPro_gui_complete.csv
 mo,mo,Troilus and Criseyde; Book V 764,data/oxford_txts/TC5_oxford.txt,"For which, withouten any wordes mo",False,True,TC5_gui_complete.csv
 prest,prest,Troilus and Criseyde; Book V 800,data/oxford_txts/TC5_oxford.txt,Was in his nedes prest and corageous;,True,False,TC5_gui_complete.csv
 mo,mo,Troilus and Criseyde; Book V 1263,data/oxford_txts/TC5_oxford.txt,Who shal now trowe on any othes mo?,False,True,TC5_gui_complete.csv

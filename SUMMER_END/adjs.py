@@ -35,9 +35,9 @@ def vowel_cluster_count(w):
 	"""Count vowel clusters to determine syllables"""
 	return len(re.findall(r'[^aeiouy]*[aeiouy]+(?:[^aeiouy]+(?=[^aeiouy]*[aeiouy])|[^aeiouy]*)?', w)) or 1
 
-def is_elided(word, next_word):
+def is_elided(word, next_word, next_tag):
 	"""Check if word is elided before next word"""
-	if next_word[0] in 'aeiou' or next_word in ELISION_FOLLOWERS:
+	if next_word[0] in 'aeiou' or (next_word[0]=='h' and next_tag.startswith('pron')) or next_word in ELISION_FOLLOWERS:
 		return True
 	return False
 
@@ -193,10 +193,10 @@ def analyze_adjectives(df, results, current_file):
 				is_weak = is_weak_form(prev_tag, prev_word, tag, next_tag)
 				is_plural = is_plural_form(prev_tag, tag, next_tag)
 				is_final = (next_word == 'END')
-				is_word_elided = is_elided(word, next_word) if next_word != 'END' else False
+				is_word_elided = is_elided(word, next_word, next_tag) if next_word != 'END' else False
 				after_noun = False
-				if prev_tag.startswith("n"):
-					after_noun = True
+				#if prev_tag.startswith("n"):
+				#	after_noun = True
 
 				# Create record for this instance
 				record = {

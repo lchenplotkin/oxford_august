@@ -1,0 +1,42 @@
+headword,word,line_number,filename,context,is_elided,is_final,source_csv
+tender,tender,100-ch 1370,data/oxford_txts/LGW_oxford.txt,"Of gentil° wommen, tender creatures",False,False,LGW_gui_complete.csv
+god,good,Troilus and Criseyde; Book II 166,data/oxford_txts/TC2_oxford.txt,And been of good condiciouns therto;,False,False,TC2_gui_complete.csv
+hevi,hevy,The Canon's Yeoman's Tale 1404,data/oxford_txts/CYT_oxford.txt,And empten° also grete and hevy purses,False,False,CYT_gui_complete.csv
+mo,mo,The Wife of Bath's Prologue 36,data/oxford_txts/WBPro_oxford.txt,I trowe° he hadde wives mo than oon;,False,False,WBPro_gui_complete.csv
+mo,mo,The Wife of Bath's Prologue 57,data/oxford_txts/WBPro_oxford.txt,And ech of hem had wives mo than two;,False,False,WBPro_gui_complete.csv
+mo,mo,The Wife of Bath's Prologue 179,data/oxford_txts/WBPro_oxford.txt,For I shal telle ensamples mo than ten.,False,False,WBPro_gui_complete.csv
+mo,mo,The Wife of Bath's Prologue 686,data/oxford_txts/WBPro_oxford.txt,He knew of hem mo legendes and lives,False,False,WBPro_gui_complete.csv
+mo,mo,The Wife of Bath's Prologue 773,data/oxford_txts/WBPro_oxford.txt,"And therwithal, he knew of mo proverbes",False,False,WBPro_gui_complete.csv
+mo,mo,The Squire's Tale 301,data/oxford_txts/SqT_oxford.txt,And deintees° mo than been in my knowing.,False,False,SqT_gui_complete.csv
+lef,lever,The Merchant's Tale 1438,data/oxford_txts/MerT_oxford.txt,Yet were me lever° houndes had me eten,False,False,MerT_gui_complete.csv
+wise,wiser,The Merchant's Tale 1569,data/oxford_txts/MerT_oxford.txt,Of scole-termes;° wiser men than thow,False,False,MerT_gui_complete.csv
+mo,mo,Prologue to the Parson's Tale 16,data/oxford_txts/ParsPro_oxford.txt,Now lakketh us no tales mo than oon.,False,False,ParsPro_gui_complete.csv
+mo,mo,The Miller's Tale 3650,data/oxford_txts/MilT_oxford.txt,"Withouten wordes mo, they goon to bedde",False,False,MilT_gui_complete.csv
+fair,fairest,The Knight's Tale 2201,data/oxford_txts/KnT_oxford.txt,What ladies fairest been or best daunsinge,False,False,KnT_gui_complete.csv
+cler,clerer,The Man of Law's Tale 194,data/oxford_txts/MLT_oxford.txt,"For in the sterres, clerer than is glas,°",False,False,MLT_gui_complete.csv
+mo,mo,The Man of Law's Tale 419,data/oxford_txts/MLT_oxford.txt,And deintees° mo than I can yow devise,False,False,MLT_gui_complete.csv
+mo,mo,Book of the Duchess 266,data/oxford_txts/BD_oxford.txt,May winne of me mo fees° thus,False,False,BD_gui_complete.csv
+mo,mo,Book of the Duchess 408,data/oxford_txts/BD_oxford.txt,"To have mo floures, swiche seven°",False,False,BD_gui_complete.csv
+more,moor,Book of the Duchess 881,data/oxford_txts/BD_oxford.txt,In alle thinges moor mesure,False,False,BD_gui_complete.csv
+god,good,The Pardoner's Prologue 377,data/oxford_txts/PardPro_oxford.txt,"Good men and wommen, o° thing warne I yow",False,False,PardPro_gui_complete.csv
+mo,mo,House of Fame 124,data/oxford_txts/HF_oxford.txt,And with perre° mo pinacles,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 677,data/oxford_txts/HF_oxford.txt,And mo loves new begonne,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 679,data/oxford_txts/HF_oxford.txt,And mo loves casuelly°,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 685,data/oxford_txts/HF_oxford.txt,"Mo discords, mo jelousies",False,False,HF_gui_complete.csv
+mo,mo,House of Fame 685,data/oxford_txts/HF_oxford.txt,"Mo discords, mo jelousies",False,False,HF_gui_complete.csv
+mo,mo,House of Fame 686,data/oxford_txts/HF_oxford.txt,"Mo murmurs, and mo novelries",False,False,HF_gui_complete.csv
+mo,mo,House of Fame 686,data/oxford_txts/HF_oxford.txt,"Mo murmurs, and mo novelries",False,False,HF_gui_complete.csv
+mo,mo,House of Fame 687,data/oxford_txts/HF_oxford.txt,And mo dissimulacions;,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 689,data/oxford_txts/HF_oxford.txt,And mo berdes° in two houres,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 693,data/oxford_txts/HF_oxford.txt,And also mo renovelaunces°,False,False,HF_gui_complete.csv
+mo,mo,House of Fame 695,data/oxford_txts/HF_oxford.txt,Mo love-dayes° and acordes°,False,False,HF_gui_complete.csv
+god,good,House of Fame 1616,data/oxford_txts/HF_oxford.txt,Good werkes shal yow noght availe°,False,False,HF_gui_complete.csv
+sori,sory,House of Fame 1632,data/oxford_txts/HF_oxford.txt,Han these sory creatures!,False,False,HF_gui_complete.csv
+most,most,House of Fame 2025,data/oxford_txts/HF_oxford.txt,Wher thou maist most tidinges here;,False,False,HF_gui_complete.csv
+ful,ful,Troilus and Criseyde; Book V 1597,data/oxford_txts/TC5_oxford.txt,"“Your lettres ful, the papir al ypleinted",False,False,TC5_gui_complete.csv
+mo,mo,Parliament of Fowls 595,data/oxford_txts/PF_oxford.txt,"“There been mo sterres,° God wot, than a paire!”",False,False,PF_gui_complete.csv
+god,good,The Pardoner's Tale 904,data/oxford_txts/PardT_oxford.txt,"¶Now, good men, God foryeve yow your trespas,°",False,False,PardT_gui_complete.csv
+whit,whitter,The Nun's Priest's Tale 2863,data/oxford_txts/NPT_oxford.txt,His nailes whitter than the lilie flour,False,False,NPT_gui_complete.csv
+god,good,The Nun's Priest's Tale 3445,data/oxford_txts/NPT_oxford.txt,"As seith my lord, so make us al good men;",False,False,NPT_gui_complete.csv
+proud,proud,The Monk's Tale 2167,data/oxford_txts/MkT_oxford.txt,"This king of kinges proud was and elaat,°",False,False,MkT_gui_complete.csv
+mo,mo,The Monk's Tale 2552,data/oxford_txts/MkT_oxford.txt,That regnes° mo putte in subjeccioun,False,False,MkT_gui_complete.csv

@@ -9,7 +9,7 @@ smal,smal; smale; small; smalle,smal; smale; small; smalle,No
 long,lange; long; longe,lange; lengest; long; longe,No
 riche,riche,riche; richest,Yes
 wise,wis; wise,wis; wise; wiser; wisest,No
-more,more,moor; mor; more,Yes
+more,more,moor; moore; mor; more,Yes
 worth,worth; worthe,worth; worthe,No
 ouen,awen; owen; owene; own; owne,awen; owen; owene; own; owne,No
 noble,noble,noble; nobleste,Yes
@@ -37,7 +37,6 @@ werste,,worst; worste,No
 nexte,,next; nexte,No
 foul,foul; foule,foul; foule; fouler,No
 treu,trew; trewe,trew; trewe; trewer; trewest; treweste,No
-queinte,queint; queinte,queint; queinte,No
 mek,meek; meke,meek; meke; meker; mekeste,No
 straunge,estraunge; strange; straunge,estraunge; strange; straunge; straunger,Yes
 graunt,grant; graunt,grant; graunt,No
@@ -50,7 +49,7 @@ laste,last,last; laste,No
 wroth,wrooth; wroothe; wroth; wrothe,wrooth; wroothe; wroth; wrothe,No
 loth,looth; loothe; lothest,looth; loothe; lothest,No
 fals,fals; false,fals; false; falser,No
-bel,bele,bele,Yes
+bel,bel; bele,bel; bele,No
 ofte,ofte,ofte,Yes
 large,large,large,Yes
 grene,grene,grene,Yes
@@ -120,6 +119,7 @@ blind,blind; blinde,blind; blinde,No
 sharp,sharp; sharpe,sharp; sharpe,No
 cler,cleer; clere,cleer; clere; clerer,No
 quite,quit,quit,No
+queinte,queint; queinte,queint; queinte,No
 holwe,holwe,holwe,Yes
 domb,domb; dombe; doumb,domb; dombe; doumb,No
 short,short; shorte,short; shorte; shortest,No

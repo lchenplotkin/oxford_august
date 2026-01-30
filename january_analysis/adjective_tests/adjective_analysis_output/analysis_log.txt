@@ -1,0 +1,24 @@
+Chaucer Adjective Declension Analysis - Complete
+==================================================
+
+Total adjectives found: 904
+Monosyllabic adjectives found: 263
+Always -e adjectives found: 87
+Files processed: 53
+
+Files generated:
+- weak_no_e_all_instances.csv - All weak declension forms without -e
+- weak_no_e_strict_instances.csv - Strict weak declension exceptions
+- plural_no_e_all_instances.csv - All plural forms without -e
+- plural_no_e_strict_instances.csv - Strict plural exceptions
+- strong_with_e_all_instances.csv - All strong forms with -e
+- strong_with_e_strict_instances.csv - Strict strong form exceptions
+- strong_with_e_all_filtered_instances.csv - Strong forms with -e (filtered)
+- strong_with_e_strict_filtered_instances.csv - Strict strong exceptions (filtered)
+- summary_statistics.csv - Overall counts and accuracy rates
+- per_file_accuracy_breakdown.csv - Accuracy rates broken down by file
+- monosyllabic_adjectives.csv - List of all monosyllabic adjectives found
+- always_e_adjectives.csv - List of adjectives that always end in -e
+- analysis_summary.docx - Summary statistics document
+- declension_exceptions.docx - Detailed exception examples
+- analysis_log.txt - This log file
