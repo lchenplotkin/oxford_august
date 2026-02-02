@@ -16,13 +16,13 @@ feble,feble; fieble; fieblest,feble; fieble; fieblest,No
 ded,ded; dede,ded; dede,No
 cold,cold; colde,cold; colde,No
 right,righte; riht; rihte; ryhte,righte; riht; rihte; ryhte,No
-lift,left,left,No
+lift,,left,No
 pale,pale,pale,Yes
 hot,hoot; hot; hote; hotere; hotest; hoteste,hoot; hot; hote; hotere; hotest; hoteste,No
 warm,warm,warm,No
 gret,great; gret; grete; gretere; greteste; grettere,great; gret; grete; gretere; greteste; grettere,No
 proud,proud; proude; proudest,proud; proude; proudest,No
-heigh,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hy; hye; hyest; hyh; hyhe,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hy; hye; hyest; hyh; hyhe,No
+heigh,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hye; hyest; hyh; hyhe,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hy; hye; hyest; hyh; hyhe,No
 fals,fals; false; falseste,fals; false; falseste,No
 ouen,oghne; oughne; owen; owne,oghne; oughne; owen; owne,No
 dere,dere; diere,dere; diere,Yes
@@ -47,11 +47,11 @@ nice,nice; nyce,nice; nyce,Yes
 wise,wis; wise; wisest; wiseste; wys; wyse,wis; wise; wisest; wiseste; wys; wyse,No
 grene,greene; grene; griene,greene; grene; griene,Yes
 best,best; beste,best; beste,No
-slou,slou; slouh; slow; slowe; sloweste; slowh,slou; slouh; slow; slowe; sloweste; slowh,No
+slou,slou; slouh; slow; slowe; slowh,slou; slouh; slow; slowe; sloweste; slowh,No
 dep,dep; depe,dep; depe,No
 olde,eldeste; old; olde; tholde,eldeste; old; olde; tholde,No
 lesse,lasse; lesse,lasse; lesse,Yes
-more,mor; more,mor; more,No
+more,,mor; more,No
 swete,suete; swete,suete; swete,Yes
 lef,levere; levest; lief; lieve; lievest,levere; levest; lief; lieve; lievest,No
 riche,riche; richest; richeste,riche; richest; richeste,No
@@ -81,7 +81,7 @@ streit,streit; streite,streit; streite,No
 kinde,kinde,kinde,Yes
 wel,wel,wel,No
 fre,fre; free,fre; free,Yes
-sik,seck; sek; seke; siek; sieke; sik; sike,seck; sek; seke; siek; sieke; sik; sike,No
+sik,seck; sek; seke; siek; sik; sike,seck; sek; seke; siek; sieke; sik; sike,No
 lite,lite; lyte,lite; lyte,Yes
 bright,bright; brighte; briht; brihte; brihtere; bryghte; bryht; bryhte,bright; brighte; briht; brihte; brihtere; bryghte; bryht; bryhte,No
 loth,loth; lothe,loth; lothe,No
@@ -114,7 +114,7 @@ nexte,next; nexte,next; nexte,No
 sleigh,slih; slihe; slyeste; slyh; slyhe; slyheste,slih; slihe; slyeste; slyh; slyhe; slyheste,No
 blak,blak; blake,blak; blake,No
 tender,tender; tendre,tender; tendre,No
-bitter,biter; bitre; bitter,biter; bitre; bitter,No
+bitter,biter; bitter,biter; bitre; bitter,No
 moiste,moist; moiste; moyste,moist; moiste; moyste,No
 chef,chief,chief,No
 mis,mis; mys,mis; mys,No
@@ -176,7 +176,7 @@ thikke,thikke,thikke,Yes
 beau,beau,beau,No
 bonde,bonde,bonde,Yes
 def,def,def,No
-hende,hende,hende,Yes
+hende,,hende,No
 mad,mad; madd,mad; madd,No
 wight,wyhte,wyhte,Yes
 muche,moche,moche,Yes

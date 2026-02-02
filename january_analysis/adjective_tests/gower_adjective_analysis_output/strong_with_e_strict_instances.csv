@@ -1,27 +1,16 @@
 headword,word,line_number,filename,context,is_elided,is_final,source_csv
 prive,prive,52-gow168,gow/03/52-gow.cat,"Whan thei were in a prive place,",False,False,52-gow.csv
-laste,laste,52-gow206,gow/03/52-gow.cat,Was ate laste knowe and kid,False,False,52-gow.csv
 yong,yonge,52-gow256,gow/03/52-gow.cat,"Unto this wofull yonge wiht,",False,False,52-gow.csv
-feble,fieble,52-gow269,gow/03/52-gow.cat,"So as my fieble hand may wryte,",False,False,52-gow.csv
-hole,hole,52-gow288,gow/03/52-gow.cat,"And yit with al myn hole herte,",False,False,52-gow.csv
 wilde,wilde,52-gow325,gow/03/52-gow.cat,"Som wilde place, what it were,",False,False,52-gow.csv
-dere,diere,42-gow1653,gow/02/42-gow.cat,"""Mi diere fader, I am holde",False,False,42-gow.csv
 prive,prive,42-gow1705,gow/02/42-gow.cat,"Thogh it be prive for a throwe,",False,False,42-gow.csv
 pure,pure,42-gow1746,gow/02/42-gow.cat,That he for pure sorwe hath caght,False,False,42-gow.csv
 neue,newe,42-gow1761,gow/02/42-gow.cat,This newe king of newe Pride,False,False,42-gow.csv
 large,large,42-gow1834,gow/02/42-gow.cat,"And that was in a large feld,",False,False,42-gow.csv
 povre,povere,42-gow1847,gow/02/42-gow.cat,Desguised in a povere wede,False,False,42-gow.csv
-god,goode,109-gow2687,gow/04/109-gow.cat,"Mi goode Sone, soth to seie,",False,False,109-gow.csv
-ouen,oghne,119-gow75,gow/05/119-gow.cat,"That evene with min oghne lif,",False,False,119-gow.csv
 lef,levere,119-gow86,gow/05/119-gow.cat,I hadde hir levere than a Myn,False,False,119-gow.csv
-ouen,oghne,119-gow115,gow/05/119-gow.cat,"Nou demeth in youre oghne thoght,",False,False,119-gow.csv
 olde,olde,119-gow139,gow/05/119-gow.cat,"Of that befell be olde tyde,",False,False,119-gow.csv
-ouen,oghne,89-gow935,gow/04/89-gow.cat,"And as toward myn oghne wit,",False,False,89-gow.csv
-most,moste,89-gow959,gow/04/89-gow.cat,That is to me mi moste sorwe.,False,False,89-gow.csv
 vein,veine,30-gow2681,gow/01/30-gow.cat,The proude vice of veine gloire,False,False,30-gow.csv
-neue,newe,30-gow2692,gow/01/30-gow.cat,"His body newe, he wolde take",False,False,30-gow.csv
 neue,newe,30-gow2693,gow/01/30-gow.cat,A newe forme and leve his olde:,False,False,30-gow.csv
-humble,humble,20-gow1237,gow/01/20-gow.cat,"Al that is humble he desalloweth,",False,False,20-gow.csv
 ofte,ofte,20-gow1310,gow/01/20-gow.cat,For ofte time sche me bit,False,False,20-gow.csv
 treu,trewe,136-gow2877,gow/05/136-gow.cat,Ther mai no trewe querele arise,False,False,136-gow.csv
 most,moste,126-gow1517,gow/05/126-gow.cat,And failen ate moste nede.,False,False,126-gow.csv
@@ -31,22 +20,14 @@ wilde,wilde,126-gow1572,gow/05/126-gow.cat,"Cam ridende, in a wilde place",False
 treu,trewe,126-gow1595,gow/05/126-gow.cat,"Ne trewe, yit thei sprungen oute,",False,False,126-gow.csv
 wilde,wylde,250-gow5255,gow/07/250-gow.cat,"Lich to the chaced wylde bor,",False,False,250-gow.csv
 straunge,strange,250-gow5271,gow/07/250-gow.cat,Than forto werre in strange place,False,False,250-gow.csv
-ouen,oghne,250-gow5272,gow/07/250-gow.cat,And lese at hom here oghne grace.,False,False,250-gow.csv
-povre,povere,222-gow3224,gow/07/222-gow.cat,"In sori plit and povere he lay,",False,False,222-gow.csv
-god,goode,154-gow6426,gow/05/154-gow.cat,And natheles youre goode sawe,False,False,154-gow.csv
-more,more,154-gow6448,gow/05/154-gow.cat,So was it wel the more vice.,False,False,154-gow.csv
-laste,laste,154-gow6462,gow/05/154-gow.cat,And ate laste redyly,False,False,154-gow.csv
+chaste,chaste,240-gow4244,gow/07/240-gow.cat,Is non that chaste mai ben all.,False,False,240-gow.csv
+large,large,144-gow4858,gow/05/144-gow.cat,And he that large was and fre,False,False,144-gow.csv
 povre,povere,172-gow619,gow/06/172-gow.cat,To which no povere mai atteigne;,False,False,172-gow.csv
 lef,lieve,172-gow661,gow/06/172-gow.cat,"It is no wonder, lieve Sone,",False,False,172-gow.csv
 vein,veine,90-gow1010,gow/04/90-gow.cat,Bot he such veine gloire hadde,False,False,90-gow.csv
-laste,laste,90-gow1018,gow/04/90-gow.cat,"That ate laste sodeinly,",False,False,90-gow.csv
 nice,nyce,214-gow2802,gow/07/214-gow.cat,So is it bot a nyce Sinne,False,False,214-gow.csv
 werse,worse,204-gow2204,gow/07/204-gow.cat,Ther myhte be no worse thing,False,False,204-gow.csv
-right,rihte,29-gow2637,gow/01/29-gow.cat,"And hielde here rihte cours fro thenne,",False,False,29-gow.csv
-laste,laste,39-gow316,gow/02/39-gow.cat,"And sih wel ate laste tho,",False,False,39-gow.csv
 double,double,39-gow341,gow/02/39-gow.cat,That he himself be double weyhte,False,False,39-gow.csv
-ouen,oghne,39-gow370,gow/02/39-gow.cat,Min oghne harm to seche and finde,False,False,39-gow.csv
-large,large,266-gow3011,gow/08/266-gow.cat,That of here large retenue,False,False,266-gow.csv
 wikke,wikke,266-gow3025,gow/08/266-gow.cat,"So that no wikke man it dere,",False,False,266-gow.csv
 noble,noble,266-gow3042,gow/08/266-gow.cat,Which many a noble worthi toun,False,False,266-gow.csv
 humble,humble,266-gow3096,gow/08/266-gow.cat,Bot what kyng that with humble chere,False,False,266-gow.csv
@@ -56,37 +37,22 @@ wid,wyde,16-gow627,gow/01/16-gow.cat,"Among tho wyde furred hodes,",False,False,
 humble,humble,16-gow674,gow/01/16-gow.cat,"That feignen hem an humble port,",False,False,16-gow.csv
 softe,softe,16-gow679,gow/01/16-gow.cat,"With softe speche and with lesinge,",False,False,16-gow.csv
 straunge,strange,249-gow4791,gow/07/249-gow.cat,"In strange place and doun thei lihte,",False,False,249-gow.csv
-most,moste,249-gow4824,gow/07/249-gow.cat,"And that is al my moste care,",False,False,249-gow.csv
-god,goode,249-gow4839,gow/07/249-gow.cat,"And seide, ""Lo, mi goode diere,",False,False,249-gow.csv
 wilde,wylde,249-gow4905,gow/07/249-gow.cat,"As he which was a wylde man,",False,False,249-gow.csv
 pure,pure,249-gow4976,gow/07/249-gow.cat,"Hire vois hath lost for pure drede,",False,False,249-gow.csv
-god,goode,249-gow5029,gow/07/249-gow.cat,"""What mai you be, mi goode swete?""",False,False,249-gow.csv
 tender,tendre,249-gow5042,gow/07/249-gow.cat,"Bot tendre schame hire word delaieth,",False,False,249-gow.csv
-laste,laste,259-gow2298,gow/08/259-gow.cat,"This wold I for my laste word beseche,",False,False,259-gow.csv
 povre,povere,74-gow2386,gow/03/74-gow.cat,Bot for I lede a povere route,False,False,74-gow.csv
 povre,povere,74-gow2401,gow/03/74-gow.cat,A povere man to gret richesse,False,False,74-gow.csv
 fals,false,64-gow1252,gow/03/64-gow.cat,"""Thou lyest, false cherl, ywiss,""",False,False,64-gow.csv
 yong,yonge,196-gow1699,gow/07/196-gow.cat,"Lo, thus this worthi yonge king",False,False,196-gow.csv
 propre,propre,186-gow453,gow/07/186-gow.cat,"Ordeined him a propre stede,",False,False,186-gow.csv
 propre,propre,186-gow457,gow/07/186-gow.cat,A propre hous hath in the livere,False,False,186-gow.csv
-god,goode,38-gow221,gow/02/38-gow.cat,"Mi goode Sone, yit ther is",False,False,38-gow.csv
-laste,laste,163-gow7666,gow/05/163-gow.cat,"Til ate laste he seith, ""I wende"";",False,False,163-gow.csv
 double,double,163-gow7713,gow/05/163-gow.cat,Rewardeth him of double grace;,False,False,163-gow.csv
 fre,fre,163-gow7729,gow/05/163-gow.cat,And stant noght fre til it be quit.,False,False,163-gow.csv
-more,more,173-gow684,gow/06/173-gow.cat,Of love more delicat,False,False,173-gow.csv
 deinte,deinte,173-gow702,gow/06/173-gow.cat,"So that for lacke of deinte mete,",False,False,173-gow.csv
 god,goode,173-gow740,gow/06/173-gow.cat,"Nou, goode Sone, schrif thee clene",False,False,173-gow.csv
-ouen,oghne,173-gow749,gow/06/173-gow.cat,It groweth of min oghne thoght:,False,False,173-gow.csv
-more,more,173-gow782,gow/06/173-gow.cat,So is it wel the more feste,False,False,173-gow.csv
 deinte,deynte,173-gow848,gow/06/173-gow.cat,"A deynte feste, whan so is",False,False,173-gow.csv
-ouen,oghne,173-gow860,gow/06/173-gow.cat,"I seie as for myn oghne lif,",False,False,173-gow.csv
-laste,laste,205-gow2233,gow/07/205-gow.cat,"Bot ate laste, soth to sein,",False,False,205-gow.csv
 pure,pure,81-gow211,gow/04/81-gow.cat,"With pure ymaginacioun,",False,False,81-gow.csv
 god,goode,91-gow1072,gow/04/91-gow.cat,"Now goode fader, I you preie,",False,False,91-gow.csv
-slou,slowe,91-gow1082,gow/04/91-gow.cat,And is of slowe the sloweste.,False,False,91-gow.csv
-treu,trewe,267-gow3121,gow/08/267-gow.cat,That y have do my trewe peyne,False,False,267-gow.csv
-simple,simple,277-gow3052*,gow/09/277-gow.cat,"Write of my simple besinesse,",False,False,277-gow.csv
-treu,trewe,277-gow3067*,gow/09/277-gow.cat,But I have do my trewe peyne,False,False,277-gow.csv
 lef,levere,111-gow2747,gow/04/111-gow.cat,"I hadde levere be mi trowthe,",False,False,111-gow.csv
 blak,blake,111-gow2842,gow/04/111-gow.cat,"And seie, ""Awey, thou blake ymage,",False,False,111-gow.csv
 riche,riche,17-gow814,gow/01/17-gow.cat,"Wher that thei hadde a riche feste,",False,False,17-gow.csv
@@ -95,35 +61,23 @@ humble,humble,17-gow854,gow/01/17-gow.cat,"With humble chiere and thus answerde,
 prive,prive,17-gow875,gow/01/17-gow.cat,And al withinne in prive place,False,False,17-gow.csv
 softe,softe,17-gow876,gow/01/17-gow.cat,A softe bedd of large space,False,False,17-gow.csv
 large,large,17-gow876,gow/01/17-gow.cat,A softe bedd of large space,False,False,17-gow.csv
-more,more,17-gow1021,gow/01/17-gow.cat,"And tuo han more wit then on,",False,False,17-gow.csv
 riche,riche,75-gow2462,gow/03/75-gow.cat,And he which riche was ynowh,False,False,75-gow.csv
-ouen,oghne,187-gow516,gow/07/187-gow.cat,"Thei serve unto here oghne kinde,",False,False,187-gow.csv
 double,double,197-gow1733,gow/07/197-gow.cat,That in him be no double speche:,False,False,197-gow.csv
-lege,liege,197-gow1753,gow/07/197-gow.cat,As to here liege soverein.,False,False,197-gow.csv
-most,moste,258-gow2040,gow/08/258-gow.cat,Bot that is al my moste fere:,False,False,258-gow.csv
-hole,hole,258-gow2057,gow/08/258-gow.cat,"Youre hole conseil I beseche,",False,False,258-gow.csv
 right,rihte,258-gow2147,gow/08/258-gow.cat,Bot teche thee the rihte weie:,False,False,258-gow.csv
 fre,fre,258-gow2157,gow/08/258-gow.cat,And ye be fre from al the peine,False,False,258-gow.csv
-laste,laste,258-gow2203,gow/08/258-gow.cat,"Thanne ate laste we acorden,",False,False,258-gow.csv
 due,due,248-gow4604,gow/07/248-gow.cat,Which due was to here office,False,False,248-gow.csv
 ofte,ofte,248-gow4610,gow/07/248-gow.cat,"Bot ofte time it hadde hem grieved,",False,False,248-gow.csv
 prive,prive,248-gow4614,gow/07/248-gow.cat,"In Rome, a prive place he nom",False,False,248-gow.csv
-ouen,oghne,248-gow4629,gow/07/248-gow.cat,"As if myn oghne fader dede.""",False,False,248-gow.csv
 riche,riche,248-gow4702,gow/07/248-gow.cat,He let do make a riche feste,False,False,248-gow.csv
 lesse,lasse,118-gow3528,gow/04/118-gow.cat,The lasse love on him sche leide.,False,False,118-gow.csv
-hole,hole,118-gow3561,gow/04/118-gow.cat,"Ye knowen al min hole herte,",False,False,118-gow.csv
 riche,riche,118-gow3665,gow/04/118-gow.cat,A tumbe riche for the nones,False,False,118-gow.csv
+riche,riche,108-gow2589,gow/04/108-gow.cat,To hem that riche were afore:,False,False,108-gow.csv
 prive,prive,43-gow1917,gow/02/43-gow.cat,Of prive conseil Messagier.,False,False,43-gow.csv
-god,goode,43-gow1927,gow/02/43-gow.cat,"Mi goode Sone, and schrif the hier,",False,False,43-gow.csv
-god,goode,43-gow1931,gow/02/43-gow.cat,"Mi goode fader, certes no.",False,False,43-gow.csv
-god,goode,43-gow1957,gow/02/43-gow.cat,"Tell on. Mi goode fader, nay",False,False,43-gow.csv
-best,beste,43-gow1964,gow/02/43-gow.cat,Whan I my beste Semblant feigne,False,False,43-gow.csv
 ofte,ofte,43-gow2015,gow/02/43-gow.cat,Have feigned semblant ofte time,False,False,43-gow.csv
 straunge,strange,43-gow2060,gow/02/43-gow.cat,Unto non other strange man,False,False,43-gow.csv
 ouen,oghne,43-gow2111,gow/02/43-gow.cat,The profit of oure oghne lond:,False,False,43-gow.csv
 straunge,strange,43-gow2134,gow/02/43-gow.cat,"Which into strange place he bloweth,",False,False,43-gow.csv
 ofte,ofte,21-gow1356,gow/01/21-gow.cat,For ofte time thei despise,False,False,21-gow.csv
-ouen,oghne,21-gow1390,gow/01/21-gow.cat,"Thus drinke I in myn oghne swot,",False,False,21-gow.csv
 ofte,ofte,21-gow1400,gow/01/21-gow.cat,For ofte sithe in such a wise,False,False,21-gow.csv
 vein,veine,31-gow2723,gow/01/31-gow.cat,"Of veine gloire excuse me,",False,False,31-gow.csv
 yong,yonge,88-gow785,gow/04/88-gow.cat,"So that this wofull yonge qweene,",False,False,88-gow.csv
@@ -132,15 +86,10 @@ grene,grene,88-gow856,gow/04/88-gow.cat,With that upon a grene bowh,False,False,
 late,late,88-gow878,gow/04/88-gow.cat,Bot it was al to late thanne.,False,False,88-gow.csv
 large,large,127-gow1668,gow/05/127-gow.cat,"A large cloude hem overwente,",False,False,127-gow.csv
 most,moste,127-gow1696,gow/05/127-gow.cat,Bot ate moste nede of alle,False,False,127-gow.csv
-best,beste,127-gow1713,gow/05/127-gow.cat,"The Jwes in here beste plit,",False,False,127-gow.csv
 pure,pure,137-gow3009,gow/05/137-gow.cat,He scholde seme a pure Maide.,False,False,137-gow.csv
 prive,prive,137-gow3078,gow/05/137-gow.cat,"A prive conseil thei beginne,",False,False,137-gow.csv
-ouen,oghne,137-gow3167,gow/05/137-gow.cat,"He seide, after here oghne wille.",False,False,137-gow.csv
-laste,laste,251-gow5324,gow/07/251-gow.cat,"On was which ate laste spedde,",False,False,251-gow.csv
-more,more,251-gow5325,gow/07/251-gow.cat,"Bot that was more for likinge,",False,False,251-gow.csv
 double,double,233-gow3642,gow/07/233-gow.cat,Was double mor than was al his;,False,False,233-gow.csv
 lesse,lasse,233-gow3666,gow/07/233-gow.cat,"Thou schalt yit lasse poeple take,",False,False,233-gow.csv
-more,more,233-gow3694,gow/07/233-gow.cat,"So mai he be the more wys,",False,False,233-gow.csv
 pure,pure,233-gow3717,gow/07/233-gow.cat,"That I awok for pure drede.""",False,False,233-gow.csv
 ofte,ofte,233-gow3784,gow/07/233-gow.cat,But elles ofte time it faileth,False,False,233-gow.csv
 kinde,kinde,145-gow4908,gow/05/145-gow.cat,"That makth a kinde herte dull,",False,False,145-gow.csv
@@ -148,12 +97,9 @@ straunge,strange,113-gow2939,gow/04/113-gow.cat,"Into a strange regioun,",False,
 straunge,strange,113-gow2986,gow/04/113-gow.cat,"And that was in a strange lond,",False,False,113-gow.csv
 stille,stille,113-gow3009,gow/04/113-gow.cat,A stille water for the nones,False,False,113-gow.csv
 double,double,113-gow3088,gow/04/113-gow.cat,This infortune of double harm,False,False,113-gow.csv
-ouen,owne,275-gow2954*,gow/09/275-gow.cat,"As he which is myn owne clerk,",False,False,275-gow.csv
-right,rihte,275-gow2964*,gow/09/275-gow.cat,"And I my rihte weie cawhte,",False,False,275-gow.csv
-laste,laste,265-gow2909,gow/08/265-gow.cat,"Now thou art ate laste cast,",False,False,265-gow.csv
+treu,trewe,275-gow2968*,gow/09/275-gow.cat,For hem that trewe love fonde,False,False,275-gow.csv
 softe,softe,265-gow2967,gow/08/265-gow.cat,"Homward a softe pas y wente,",False,False,265-gow.csv
 neue,newe,48-gow2813,gow/02/48-gow.cat,"Gon forto chese a newe Pope,",False,False,48-gow.csv
-laste,laste,48-gow2816,gow/02/48-gow.cat,Til ate laste thei assente,False,False,48-gow.csv
 prive,prive,48-gow2858,gow/02/48-gow.cat,"He lai, and was a prive wyht",False,False,48-gow.csv
 due,due,48-gow2928,gow/02/48-gow.cat,"In due forme and al affermed,",False,False,48-gow.csv
 proud,proude,48-gow3020,gow/02/48-gow.cat,"Thou Bonefas, thou proude clerk,",False,False,48-gow.csv
@@ -161,36 +107,26 @@ whit,whyte,93-gow1310,gow/04/93-gow.cat,"That were al whyte, fatte and grete,",F
 riche,riche,93-gow1314,gow/04/93-gow.cat,So riche syh sche nevere non;,False,False,93-gow.csv
 riche,riche,93-gow1353,gow/04/93-gow.cat,A riche bridel for the nones,False,False,93-gow.csv
 softe,softe,93-gow1373,gow/04/93-gow.cat,"Ansuerde with ful softe speche,",False,False,93-gow.csv
-best,beste,83-gow295,gow/04/83-gow.cat,Sey what your beste conseil is.,False,False,83-gow.csv
+riche,riche,93-gow1407,gow/04/93-gow.cat,"Wherof that riche bridel serveth.""",False,False,93-gow.csv
 olde,tholde,217-gow2908,gow/07/217-gow.cat,"And forto speke of tholde dawe,",False,False,217-gow.csv
 ofte,ofte,207-gow2390,gow/07/207-gow.cat,For men sen ofte time falle,False,False,207-gow.csv
-laste,laste,161-gow7269,gow/05/161-gow.cat,Bot ate laste natheles,False,False,161-gow.csv
-more,more,161-gow7378,gow/05/161-gow.cat,"And suffre schame is more strong,",False,False,161-gow.csv
-fals,false,161-gow7392,gow/05/161-gow.cat,"Ayein an hundred false dele,",False,False,161-gow.csv
-laste,laste,161-gow7438,gow/05/161-gow.cat,Bot ate laste thei acorde,False,False,161-gow.csv
-smal,smale,161-gow7498,gow/05/161-gow.cat,"To grete and smale, forth withal",False,False,161-gow.csv
 drie,dreie,185-gow299,gow/07/185-gow.cat,"Of dreie thing, as it is ofte,",False,False,185-gow.csv
 pure,pure,77-gow2615,gow/03/77-gow.cat,"So gretly, that for pure sorwe",False,False,77-gow.csv
 ofte,ofte,77-gow2622,gow/03/77-gow.cat,For ofte time I have herd sein,False,False,77-gow.csv
 pure,pure,67-gow1505,gow/03/67-gow.cat,How that for love of pure wo,False,False,67-gow.csv
+werse,werse,67-gow1563,gow/03/67-gow.cat,That werse mihte it nevere be:,False,False,67-gow.csv
 double,double,67-gow1592,gow/03/67-gow.cat,Be double weie it is pite.,False,False,67-gow.csv
-god,goode,67-gow1610,gow/03/67-gow.cat,"Mi goode fader, if ye rewe",False,False,67-gow.csv
 lege,liege,238-gow4035,gow/07/238-gow.cat,"""Oure liege lord, we thee beseche",False,False,238-gow.csv
 humble,humble,238-gow4036,gow/07/238-gow.cat,That thou receive oure humble speche,False,False,238-gow.csv
 streit,streite,238-gow4042,gow/07/238-gow.cat,The comun poeple streite ladde:,False,False,238-gow.csv
 riche,riche,238-gow4050,gow/07/238-gow.cat,And he was riche whan he deide;,False,False,238-gow.csv
 tender,tendre,238-gow4056,gow/07/238-gow.cat,With tendre herte we thee preie,False,False,238-gow.csv
+yong,yonge,238-gow4077,gow/07/238-gow.cat,That yonge were and nothing wise.,False,False,238-gow.csv
 wod,wode,238-gow4111,gow/07/238-gow.cat,For as the wilde wode rage,False,False,238-gow.csv
-ouen,oghne,238-gow4124,gow/07/238-gow.cat,A king upon here oghne chois,False,False,238-gow.csv
-yong,yonge,238-gow4126,gow/07/238-gow.cat,And have here yonge lord forsake;,False,False,238-gow.csv
 povre,povere,238-gow4127,gow/07/238-gow.cat,A povere knyht Jeroboas,False,False,238-gow.csv
-god,goode,15-gow568,gow/01/15-gow.cat,"My goode Sone, god thamende:",False,False,15-gow.csv
 straunge,strange,05-gow604,gow/00/05-gow.cat,Wher stod a wonder strange ymage.,False,False,05-gow.csv
 lesse,lasse,05-gow629,gow/00/05-gow.cat,"And waxe lasse worth and lasse,",False,False,05-gow.csv
 werse,werse,05-gow638,gow/00/05-gow.cat,Tokne of a werse world it was.,False,False,05-gow.csv
-god,goode,23-gow1941,gow/01/23-gow.cat,"Mi goode Sone, tell me how.",False,False,23-gow.csv
-god,goode,23-gow1943,gow/01/23-gow.cat,"Mi goode fader, how it is.",False,False,23-gow.csv
-ouen,oughne,23-gow1948,gow/01/23-gow.cat,Bot onliche of myn oughne thoght.,False,False,23-gow.csv
 gret,grete,168-gow435,gow/06/168-gow.cat,And for this ilke grete grace,False,False,168-gow.csv
 riche,riche,168-gow437,gow/06/168-gow.cat,"A riche temple let arere,",False,False,168-gow.csv
 glad,gladdere,178-gow1490,gow/06/178-gow.cat,A gladdere womman than was sche.,False,False,178-gow.csv
@@ -198,9 +134,6 @@ pure,pure,178-gow1502,gow/06/178-gow.cat,And as it were of pure dette,False,Fals
 tender,tendre,178-gow1514,gow/06/178-gow.cat,Ben honged with a tendre thred.,False,False,178-gow.csv
 bright,brihtere,178-gow1525,gow/06/178-gow.cat,Which brihtere than the sonne schon;,False,False,178-gow.csv
 straunge,strange,178-gow1640,gow/06/178-gow.cat,Whan he wente into strange lond;,False,False,178-gow.csv
-ouen,oghne,178-gow1715,gow/06/178-gow.cat,I have min oghne fader slain:,False,False,178-gow.csv
-god,goode,51-gow19,gow/03/51-gow.cat,"Mi goode fader, tell me this:",False,False,51-gow.csv
-ouen,oghne,51-gow42,gow/03/51-gow.cat,Save onlich of myn oghne thoght,False,False,51-gow.csv
 pure,pure,51-gow48,gow/03/51-gow.cat,It torneth me to pure grame.,False,False,51-gow.csv
 double,double,41-gow656,gow/02/41-gow.cat,"""Mi Sone, I am be double weie",False,False,41-gow.csv
 ofte,ofte,41-gow658,gow/02/41-gow.cat,For that miself have ofte sithe,False,False,41-gow.csv
@@ -208,149 +141,99 @@ neue,newe,41-gow660,gow/02/41-gow.cat,"Receive and take a newe feith,",False,Fal
 riche,riche,41-gow681,gow/02/41-gow.cat,A riche feste sche hem made:,False,False,41-gow.csv
 prive,prive,41-gow836,gow/02/41-gow.cat,"And stille with a prive lyht,",False,False,41-gow.csv
 noble,noble,41-gow915,gow/02/41-gow.cat,Sche was a noble creature.,False,False,41-gow.csv
-lege,liege,41-gow940,gow/02/41-gow.cat,"Thei sende unto here liege lord,",False,False,41-gow.csv
 lege,liege,41-gow960,gow/02/41-gow.cat,"""Oure liege lord, we thee beseke",False,False,41-gow.csv
 pure,pure,41-gow969,gow/02/41-gow.cat,"For drede of pure worldes schame,",False,False,41-gow.csv
 povre,povere,41-gow970,gow/02/41-gow.cat,A povere child and in the name,False,False,41-gow.csv
 neue,newe,41-gow1013,gow/02/41-gow.cat,"Ther was a newe lettre write,",False,False,41-gow.csv
-ouen,oghne,41-gow1047,gow/02/41-gow.cat,As thei here oghne Moder sihen,False,False,41-gow.csv
-hole,hole,41-gow1074,gow/02/41-gow.cat,With al myn hole besinesse,False,False,41-gow.csv
 sauf,save,41-gow1157,gow/02/41-gow.cat,"That we be save bothe tuo.""",False,False,41-gow.csv
-more,more,41-gow1169,gow/02/41-gow.cat,That a word more sche ne tolde.,False,False,41-gow.csv
 softe,softe,41-gow1509,gow/02/41-gow.cat,And riden after softe pas;,False,False,41-gow.csv
-god,goode,41-gow1515,gow/02/41-gow.cat,"Youre honour and your goode hele,",False,False,41-gow.csv
 ofte,ofte,41-gow1522,gow/02/41-gow.cat,"Wepende he keste hire ofte sithe,",False,False,41-gow.csv
 noble,noble,41-gow1547,gow/02/41-gow.cat,"The king a noble feste hem made,",False,False,41-gow.csv
 riche,riche,41-gow1558,gow/02/41-gow.cat,"And with full many a riche thing,",False,False,41-gow.csv
-laste,laste,41-gow1600,gow/02/41-gow.cat,Was ate laste set above;,False,False,41-gow.csv
 clene,clene,157-gow6732,gow/05/157-gow.cat,"A clene Maide and a Virgine,",False,False,157-gow.csv
 ofte,ofte,157-gow6786,gow/05/157-gow.cat,Bot ofte time love hath pleid,False,False,157-gow.csv
 prive,prive,157-gow6787,gow/05/157-gow.cat,"And stole many a prive game,",False,False,157-gow.csv
-god,goode,157-gow6802,gow/05/157-gow.cat,"Mi goode Sone, and for thi sake,",False,False,157-gow.csv
-ouen,oghne,147-gow5201,gow/05/147-gow.cat,He wot that on myn oghne side,False,False,147-gow.csv
 god,goode,147-gow5205,gow/05/147-gow.cat,"Nou, goode fader, as it is,",False,False,147-gow.csv
 lef,levere,231-gow3582,gow/07/231-gow.cat,That him were levere that he wolde,False,False,231-gow.csv
-laste,laste,243-gow4375,gow/07/243-gow.cat,Thanne ate laste he caste a wyle,False,False,243-gow.csv
 riche,riche,135-gow2689,gow/05/135-gow.cat,A riche Marchant of the lond,False,False,135-gow.csv
 gret,grete,135-gow2716,gow/05/135-gow.cat,For bot it be thurgh grete beyete,False,False,135-gow.csv
 nice,nyce,135-gow2818,gow/05/135-gow.cat,"Lo, there a nyce housebonde,",False,False,135-gow.csv
 ofte,ofte,135-gow2840,gow/05/135-gow.cat,For good mai ofte time save,False,False,135-gow.csv
-ouen,oghne,125-gow882,gow/05/125-gow.cat,Attitled to here oghne name.,False,False,125-gow.csv
-more,more,125-gow944,gow/05/125-gow.cat,So dede he wel the more thefte.,False,False,125-gow.csv
 paien,payene,125-gow1137,gow/05/125-gow.cat,"The folk Payene honoure and serve,",False,False,125-gow.csv
 nice,nyce,125-gow1147,gow/05/125-gow.cat,The whiche of nyce fantasie,False,False,125-gow.csv
-ouen,oghne,125-gow1383,gow/05/125-gow.cat,Be cause I am here oghne Prest;,False,False,125-gow.csv
 large,large,179-gow2075,gow/06/179-gow.cat,With large hornes for the nones:,False,False,179-gow.csv
-laste,laste,179-gow2196,gow/06/179-gow.cat,And ate laste he gan to loute,False,False,179-gow.csv
 due,due,179-gow2258,gow/06/179-gow.cat,So that in due time is bore,False,False,179-gow.csv
-laste,laste,179-gow2271,gow/06/179-gow.cat,"The tempeste ate laste cesseth,",False,False,179-gow.csv
-ouen,oghne,179-gow2304,gow/06/179-gow.cat,Or elles of myn oghne Sone,False,False,179-gow.csv
-lef,levere,22-gow1511,gow/01/22-gow.cat,This knyht hath levere forto dye,False,False,22-gow.csv
 pure,pure,22-gow1721,gow/01/22-gow.cat,"So that for pure gentilesse,",False,False,22-gow.csv
 gret,grete,22-gow1734,gow/01/22-gow.cat,He bringth this foule grete Coise,False,False,22-gow.csv
-laste,laste,22-gow1820,gow/01/22-gow.cat,Til ate laste longe and late,False,False,22-gow.csv
-hole,hole,22-gow1828,gow/01/22-gow.cat,"Thus grante I yow myn hole vois,",False,False,22-gow.csv
 vein,veine,32-gow2799,gow/01/32-gow.cat,"He was so full of veine gloire,",False,False,32-gow.csv
 humble,humble,32-gow2849,gow/01/32-gow.cat,And be mad humble to the wille,False,False,32-gow.csv
 vein,veine,32-gow2929,gow/01/32-gow.cat,"Of veine gloire, and of the sinne",False,False,32-gow.csv
 vein,veine,32-gow2952,gow/01/32-gow.cat,"Thurgh veine gloire, and as the blinde,",False,False,32-gow.csv
 vein,veine,32-gow2957,gow/01/32-gow.cat,"His herte aros of veine gloire,",False,False,32-gow.csv
 vein,veine,32-gow2962,gow/01/32-gow.cat,"That lord which veine gloire daunteth,",False,False,32-gow.csv
+vein,veine,32-gow3019,gow/01/32-gow.cat,"That veine gloire I schal eschuie,",False,False,32-gow.csv
 vein,veine,32-gow3037,gow/01/32-gow.cat,So that the Pride of veine gloire,False,False,32-gow.csv
-dere,diere,40-gow457,gow/02/40-gow.cat,"Whan I my diere ladi mete,",False,False,40-gow.csv
 lef,levere,40-gow530,gow/02/40-gow.cat,For me were levere lacke breth,False,False,40-gow.csv
-god,goode,40-gow570,gow/02/40-gow.cat,"Mi goode Sone, and thou therfore",False,False,40-gow.csv
 lef,levere,50-gow3291,gow/02/50-gow.cat,That him was levere forto chese,False,False,50-gow.csv
 double,double,50-gow3343,gow/02/50-gow.cat,"So schalt thou double hele finde,",False,False,50-gow.csv
 clene,clene,50-gow3447,gow/02/50-gow.cat,With clene water of the welle,False,False,50-gow.csv
-god,goode,50-gow3519,gow/02/50-gow.cat,"Mi goode Sone, and for thi lore",False,False,50-gow.csv
 povre,povere,146-gow4956,gow/05/146-gow.cat,"A povere man, which Bardus hihte,",False,False,146-gow.csv
-laste,laste,146-gow5124,gow/05/146-gow.cat,That it nys ate laste kidd:,False,False,146-gow.csv
-laste,laste,146-gow5150,gow/05/146-gow.cat,Bot ate laste natheles,False,False,146-gow.csv
-ouen,oghne,156-gow6577,gow/05/156-gow.cat,If I be noght myn oghne man,False,False,156-gow.csv
-laste,laste,156-gow6685,gow/05/156-gow.cat,Bot ate laste whanne I finde,False,False,156-gow.csv
-more,more,220-gow3160,gow/07/220-gow.cat,"He is the more gracious,",False,False,220-gow.csv
 treu,trewe,252-gow5390,gow/07/252-gow.cat,"Hou trewe, hou large, hou joust, hou chaste",False,False,252-gow.csv
 large,large,252-gow5390,gow/07/252-gow.cat,"Hou trewe, hou large, hou joust, hou chaste",False,False,252-gow.csv
-god,goode,252-gow5421,gow/07/252-gow.cat,"Forthi, my goode fader diere,",False,False,252-gow.csv
-god,goode,252-gow5430,gow/07/252-gow.cat,"Mi goode diere Sone, yis.",False,False,252-gow.csv
 dere,diere,252-gow5430,gow/07/252-gow.cat,"Mi goode diere Sone, yis.",False,False,252-gow.csv
-god,goode,134-gow2444,gow/05/134-gow.cat,"Mi goode Sone, as thou miht hiere,",False,False,134-gow.csv
-neue,newe,134-gow2487,gow/05/134-gow.cat,"Whil thei be newe, he wolde he hadde;",False,False,134-gow.csv
 lesse,lasse,134-gow2541,gow/05/134-gow.cat,I wolde hir noght the lasse love;,False,False,134-gow.csv
 riche,riche,134-gow2546,gow/05/134-gow.cat,"Yaf many a worthi riche thing,",False,False,134-gow.csv
 rude,ruide,134-gow2571,gow/05/134-gow.cat,"For ther be men so ruide some,",False,False,134-gow.csv
 pure,pure,134-gow2623,gow/05/134-gow.cat,Bot only riht for pure love;,False,False,134-gow.csv
 pure,pure,59-gow793,gow/03/59-gow.cat,"And kept in chambre of pure yowthe,",False,False,59-gow.csv
 wikke,wicke,59-gow805,gow/03/59-gow.cat,"Of hem whiche usen wicke speche,",False,False,59-gow.csv
-god,goode,59-gow817,gow/03/59-gow.cat,"Mi goode Sone, as I the rede.",False,False,59-gow.csv
-god,goode,49-gow3152,gow/02/49-gow.cat,"Forthi, my goode diere Sone,",False,False,49-gow.csv
 dere,diere,49-gow3152,gow/02/49-gow.cat,"Forthi, my goode diere Sone,",False,False,49-gow.csv
 noble,noble,102-gow2052,gow/04/102-gow.cat,"Riht so was thanne a noble kniht,",False,False,102-gow.csv
 noble,noble,102-gow2085,gow/04/102-gow.cat,"And every noble herte stereth,",False,False,102-gow.csv
-god,goode,264-gow2878,gow/08/264-gow.cat,"""Mi goode Sone,"" tho quod sche,",False,False,264-gow.csv
-lef,lieve,274-gow3220*,gow/09/274-gow.cat,"`What man art thou, mi lieve brother?",False,False,274-gow.csv
 riche,riche,274-gow3253*,gow/09/274-gow.cat,With him a riche trusse he ladde.,False,False,274-gow.csv
 neue,newe,274-gow3274*,gow/09/274-gow.cat,"Thus was ther made a newe change,",False,False,274-gow.csv
 humble,humble,274-gow3307*,gow/09/274-gow.cat,With humble herte I thee beseche;,False,False,274-gow.csv
-god,goode,274-gow3351*,gow/09/274-gow.cat,Here goode name may noght deie,False,False,274-gow.csv
 pure,pure,92-gow1143,gow/04/92-gow.cat,Of pure ymaginacioun;,False,False,92-gow.csv
-god,goode,92-gow1222,gow/04/92-gow.cat,"My goode fader, tell therfore,",False,False,92-gow.csv
 double,double,170-gow511,gow/06/170-gow.cat,"And thus be double weie drunke,",False,False,170-gow.csv
 large,large,184-gow186,gow/07/184-gow.cat,"Hou large, hou thikke was the ground,",False,False,184-gow.csv
 thikke,thikke,184-gow186,gow/07/184-gow.cat,"Hou large, hou thikke was the ground,",False,False,184-gow.csv
 yong,yonge,184-gow198,gow/07/184-gow.cat,Unto this worthi yonge king,False,False,184-gow.csv
-laste,laste,66-gow1378,gow/03/66-gow.cat,Til ate laste thei acorden,False,False,66-gow.csv
 fresh,freisshe,66-gow1390,gow/03/66-gow.cat,"At thilke unhappi freisshe welle,",False,False,66-gow.csv
 fresh,freisshe,66-gow1476,gow/03/66-gow.cat,Bot thus oure freisshe lusti yowthe,False,False,66-gow.csv
 lef,levere,66-gow1480,gow/03/66-gow.cat,That me is levere forto deie,False,False,66-gow.csv
 werse,worse,76-gow2598,gow/03/76-gow.cat,Whan he is worse than a beste.,False,False,76-gow.csv
-right,rihte,14-gow509,gow/01/14-gow.cat,That thei here rihte cours and weie,False,False,14-gow.csv
 clene,clene,128-gow1791,gow/05/128-gow.cat,"In clene lif forthwith good dede,",False,False,128-gow.csv
 neue,newe,128-gow1821,gow/05/128-gow.cat,"Such newe lore, I rede, eschuie,",False,False,128-gow.csv
-god,goode,138-gow3232,gow/05/138-gow.cat,"Mi goode Sone, and for thi sake",False,False,138-gow.csv
 tender,tendre,138-gow3237,gow/05/138-gow.cat,"Whan thei so tendre herte bere,",False,False,138-gow.csv
 foul,foule,73-gow2252,gow/03/73-gow.cat,That ilke foule horrible vice,False,False,73-gow.csv
-ouen,oghne,73-gow2292,gow/03/73-gow.cat,That werres in here oghne kinde,False,False,73-gow.csv
 double,double,73-gow2304,gow/03/73-gow.cat,Than so be double weie lese.,False,False,73-gow.csv
 riche,riche,73-gow2324,gow/03/73-gow.cat,"Whan that a riche worthi king,",False,False,73-gow.csv
 propre,propre,73-gow2361,gow/03/73-gow.cat,"Wherof a propre tale I rede,",False,False,73-gow.csv
-ouen,oghne,63-gow1153,gow/03/63-gow.cat,Am wery of myn oghne lif.,False,False,63-gow.csv
-ouen,oghne,191-gow732,gow/07/191-gow.cat,Be schynende of here oghne kinde,False,False,191-gow.csv
 gret,grete,11-gow343,gow/01/11-gow.cat,With Houndes and with grete Hornes,False,False,11-gow.csv
 olde,olde,01-gow7,gow/00/01-gow.cat,Essampled of these olde wyse,False,False,01-gow.csv
 werse,worse,01-gow57,gow/00/01-gow.cat,"In worse plit than it was tho,",False,False,01-gow.csv
-ouen,oghne,01-gow86,gow/00/01-gow.cat,"I sende unto myn oghne lord,",False,False,01-gow.csv
 riche,riche,271-gow7120*,gow/09/271-gow.cat,"To sen it was a riche thing,",False,False,271-gow.csv
 grene,grene,261-gow2436,gow/08/261-gow.cat,"That which was whilom grene gras,",False,False,261-gow.csv
 pure,pure,117-gow3474,gow/04/117-gow.cat,"Of pure sorwe, which I drye",False,False,117-gow.csv
-ouen,oghne,117-gow3476,gow/04/117-gow.cat,With drecchinge of myn oghne thoght,False,False,117-gow.csv
 noble,noble,165-gow29,gow/06/165-gow.cat,"He is a noble man of armes,",False,False,165-gow.csv
 drie,dreie,165-gow59,gow/06/165-gow.cat,"With dreie mouth he sterte him uppe,",False,False,165-gow.csv
 povre,povere,203-gow2119,gow/07/203-gow.cat,Hou Cinichus a povere kniht,False,False,203-gow.csv
 lege,liege,203-gow2143,gow/07/203-gow.cat,"Mot every liege man conforte,",False,False,203-gow.csv
 double,double,97-gow1875,gow/04/97-gow.cat,Which schal be tothe double schame,False,False,97-gow.csv
 neue,newe,87-gow560,gow/04/87-gow.cat,Than cast I many a newe lawe,False,False,87-gow.csv
-ouen,oghne,87-gow621,gow/04/87-gow.cat,Bot stomble upon myn oghne treine,False,False,87-gow.csv
 sote,swote,08-gow113,gow/01/08-gow.cat,"I fond a swote grene pleine,",False,False,08-gow.csv
 grene,grene,08-gow113,gow/01/08-gow.cat,"I fond a swote grene pleine,",False,False,08-gow.csv
-long,longe,08-gow171,gow/01/08-gow.cat,"Some wele after my longe wo.""",False,False,08-gow.csv
-ouen,oghne,08-gow196,gow/01/08-gow.cat,"O Genius myn oghne Clerk,",False,False,08-gow.csv
 prive,prive,18-gow1099,gow/01/18-gow.cat,In prive place so thei trete,False,False,18-gow.csv
 large,large,18-gow1112,gow/01/18-gow.cat,And of an ynche a large spanne,False,False,18-gow.csv
 wise,wise,235-gow3886,gow/07/235-gow.cat,"Whiche wise ben, and to remue",False,False,235-gow.csv
 clene,clene,153-gow6227,gow/05/153-gow.cat,"A clene Maide of worthi fame,",False,False,153-gow.csv
 prive,prive,153-gow6256,gow/05/153-gow.cat,In prive place unto a welle,False,False,153-gow.csv
 foul,foule,153-gow6275,gow/05/153-gow.cat,"Sche seide, ""Awey, thou foule beste,",False,False,153-gow.csv
-nice,nyce,143-gow4725,gow/05/143-gow.cat,"His hauk, as many a nyce doth.",False,False,143-gow.csv
 bar,bare,143-gow4736,gow/05/143-gow.cat,"Than wolde a bare straw amonte,",False,False,143-gow.csv
 werse,worse,131-gow2229,gow/05/131-gow.cat,For ther mai be no worse thing,False,False,131-gow.csv
-ouen,oghne,121-gow441,gow/05/121-gow.cat,Thus thurgh here oghne fantasie,False,False,121-gow.csv
 ofte,ofte,121-gow446,gow/05/121-gow.cat,I have herd ofte time telle,False,False,121-gow.csv
 noble,noble,257-gow277,gow/08/257-gow.cat,"Was coupled to a noble queene,",False,False,257-gow.csv
-laste,laste,257-gow370,gow/08/257-gow.cat,"Till ate laste longe and late,",False,False,257-gow.csv
 sterne,sturne,257-gow403,gow/08/257-gow.cat,"With sturne lok and sturdi chiere,",False,False,257-gow.csv
-lege,liege,257-gow488,gow/08/257-gow.cat,Bot for here liege lord to wepe;,False,False,257-gow.csv
 povre,povere,257-gow635,gow/08/257-gow.cat,Al naked in a povere plit:,False,False,257-gow.csv
 yong,yonge,257-gow673,gow/08/257-gow.cat,Of yonge lusti men withalle;,False,False,257-gow.csv
 large,large,257-gow689,gow/08/257-gow.cat,And that was in a large place,False,False,257-gow.csv
@@ -359,15 +242,10 @@ fresh,freisshe,257-gow816,gow/08/257-gow.cat,This yonge faire freisshe May,False
 yong,yonge,257-gow824,gow/08/257-gow.cat,This worthi yonge lady sende:,False,False,257-gow.csv
 riche,riche,257-gow957,gow/08/257-gow.cat,"Thei wedde and make a riche feste,",False,False,257-gow.csv
 riche,riche,257-gow988,gow/08/257-gow.cat,Of Penonceals a riche rewe.,False,False,257-gow.csv
-lege,liege,257-gow995,gow/08/257-gow.cat,"Her liege lord: and he appiereth,",False,False,257-gow.csv
 lege,liege,257-gow1003,gow/08/257-gow.cat,"""Forthi, oure liege lord, we seie",False,False,257-gow.csv
-ouen,oghne,257-gow1007,gow/08/257-gow.cat,And se youre oghne liege men,False,False,257-gow.csv
-bright,brihte,257-gow1047,gow/08/257-gow.cat,Wherof here brihte lok thei hyde.,False,False,257-gow.csv
 lef,lieve,257-gow1254,gow/08/257-gow.cat,"She seith, ""Grant mercy, lieve sire,",False,False,257-gow.csv
 pure,pure,257-gow1356,gow/08/257-gow.cat,Thurgh pure treson and envie.,False,False,257-gow.csv
-laste,laste,257-gow1404,gow/08/257-gow.cat,Til ate laste thei aryve,False,False,257-gow.csv
 prive,prive,257-gow1507,gow/08/257-gow.cat,"In prive place, as ye me biede.",False,False,257-gow.csv
-more,more,257-gow1520,gow/08/257-gow.cat,"And forto yive a more feith,",False,False,257-gow.csv
 riche,riche,257-gow1562,gow/08/257-gow.cat,"And riche was the sacrifice,",False,False,257-gow.csv
 pure,pure,257-gow1599,gow/08/257-gow.cat,"So that for pure sorwe and care,",False,False,257-gow.csv
 noble,noble,257-gow1611,gow/08/257-gow.cat,Which was a noble cite tho.,False,False,257-gow.csv
@@ -376,103 +254,66 @@ riche,riche,257-gow1755,gow/08/257-gow.cat,This lord tho made hem riche feste,Fa
 riche,riche,257-gow1840,gow/08/257-gow.cat,And after that a riche yifte,False,False,257-gow.csv
 pure,pure,257-gow1852,gow/08/257-gow.cat,For pure joie as in a rage,False,False,257-gow.csv
 pale,pale,257-gow1908,gow/08/257-gow.cat,The descoloured pale hewe,False,False,257-gow.csv
-lege,liege,257-gow1972,gow/08/257-gow.cat,"Him preiden, as here liege lord,",False,False,257-gow.csv
 ofte,ofte,247-gow4578,gow/07/247-gow.cat,"And ofte time he was so nyce,",False,False,247-gow.csv
-god,goode,188-gow604,gow/07/188-gow.cat,"Mi goode Sone, al the matiere",False,False,188-gow.csv
 straunge,strange,198-gow1799,gow/07/198-gow.cat,"Here names ben of strange note,",False,False,198-gow.csv
 noble,noble,198-gow1830,gow/07/198-gow.cat,The moste noble creature,False,False,198-gow.csv
-lesse,lasse,198-gow1840,gow/07/198-gow.cat,"What he wol make lasse, he lasseth,",False,False,198-gow.csv
-laste,laste,37-gow112,gow/02/37-gow.cat,Til ate laste he knew and herde,False,False,37-gow.csv
-laste,laste,37-gow140,gow/02/37-gow.cat,"Til ate laste he fond hem tuo,",False,False,37-gow.csv
 prive,prive,37-gow141,gow/02/37-gow.cat,In prive place wher thei stode,False,False,37-gow.csv
 wilde,wilde,37-gow161,gow/02/37-gow.cat,"And as it were a wilde beste,",False,False,37-gow.csv
-laste,laste,37-gow167,gow/02/37-gow.cat,"Til ate laste he him bethoghte,",False,False,37-gow.csv
 ofte,ofte,55-gow443,gow/03/55-gow.cat,For ofte time of his chidinge,False,False,55-gow.csv
-more,more,55-gow456,gow/03/55-gow.cat,For that is cause of more wonder;,False,False,55-gow.csv
 lef,levere,55-gow479,gow/03/55-gow.cat,I hadde levere to be lewed;,False,False,55-gow.csv
-softe,softe,55-gow506,gow/03/55-gow.cat,With tellinge of my softe tale.,False,False,55-gow.csv
-long,longe,55-gow525,gow/03/55-gow.cat,"Mi longe love, of which sche wot",False,False,55-gow.csv
 ofte,ofte,55-gow551,gow/03/55-gow.cat,Bot ofte time it hath betidd,False,False,55-gow.csv
 prive,prive,55-gow556,gow/03/55-gow.cat,"For thanne I made a prive mone,",False,False,55-gow.csv
-ouen,oghne,55-gow589,gow/03/55-gow.cat,"Bot torneth on myn oghne hed,",False,False,55-gow.csv
 olde,olde,55-gow615,gow/03/55-gow.cat,As tellen ous these olde wise:,False,False,55-gow.csv
 ofte,ofte,45-gow2330,gow/02/45-gow.cat,Full ofte time hath overthrowe,False,False,45-gow.csv
-god,goode,45-gow2429,gow/02/45-gow.cat,"Mi goode Sone, as of Supplant",False,False,45-gow.csv
 double,double,45-gow2439,gow/02/45-gow.cat,Be double weie take kepe:,False,False,45-gow.csv
-laste,laste,268-gow3138,gow/08/268-gow.cat,But now uppon my laste tide,False,False,268-gow.csv
-more,more,224-gow3287,gow/07/224-gow.cat,Which more worthi was than he.,False,False,224-gow.csv
-laste,laste,142-gow4578,gow/05/142-gow.cat,Yit ate laste here oghne guile,False,False,142-gow.csv
-ouen,oghne,142-gow4578,gow/05/142-gow.cat,Yit ate laste here oghne guile,False,False,142-gow.csv
-ouen,oghne,142-gow4579,gow/05/142-gow.cat,"Upon here oghne hed descendeth,",False,False,142-gow.csv
 prive,prive,142-gow4597,gow/05/142-gow.cat,"Bot so prive mai be nothing,",False,False,142-gow.csv
 treu,trewe,142-gow4627,gow/05/142-gow.cat,"That myn housbonde trewe were,",False,False,142-gow.csv
 prive,prive,142-gow4631,gow/05/142-gow.cat,"Which art prive to tho doinges,",False,False,142-gow.csv
+treu,trewe,142-gow4661,gow/05/142-gow.cat,Of alle hem that trewe be.,False,False,142-gow.csv
 fresh,freisshe,152-gow6159,gow/05/152-gow.cat,"This faire, freisshe, lusti mai,",False,False,152-gow.csv
 noble,noble,152-gow6189,gow/05/152-gow.cat,"And seide, ""O Pallas, noble queene,",False,False,152-gow.csv
-more,more,152-gow6207,gow/05/152-gow.cat,"Which was to hire a more delit,",False,False,152-gow.csv
 muche,moche,09-gow224,gow/01/09-gow.cat,So schal I moche thing foryete:,False,False,09-gow.csv
-leste,leste,09-gow277,gow/01/09-gow.cat,That ate leste thou schalt hiere,False,False,09-gow.csv
-more,more,120-gow248,gow/05/120-gow.cat,Mesure more than him nedeth.,False,False,120-gow.csv
-more,more,120-gow253,gow/05/120-gow.cat,"The more ydropesie drinketh,",False,False,120-gow.csv
 lesse,lasse,120-gow324,gow/05/120-gow.cat,Is lasse worth than is the rinde,False,False,120-gow.csv
 propre,propre,120-gow348,gow/05/120-gow.cat,Which of his oghne propre vice,False,False,120-gow.csv
 noble,noble,130-gow2031,gow/05/130-gow.cat,"Whan Rome stod in noble plit,",False,False,130-gow.csv
 wilde,wylde,130-gow2178,gow/05/130-gow.cat,A wylde fyr into the depe,False,False,130-gow.csv
+ded,dede,130-gow2207,gow/05/130-gow.cat,Upon the corps that dede were,False,False,130-gow.csv
 povre,poure,130-gow2222,gow/05/130-gow.cat,Into his Mouth thei poure thanne.,False,False,130-gow.csv
 nice,nyce,26-gow2276,gow/01/26-gow.cat,Which of his Pride a nyce wone,False,False,26-gow.csv
-laste,laste,26-gow2288,gow/01/26-gow.cat,Bot ate laste he was beguiled:,False,False,26-gow.csv
 pure,pure,26-gow2347,gow/01/26-gow.cat,For pure pite that thei have,False,False,26-gow.csv
-most,moste,36-gow46,gow/02/36-gow.cat,"Than groweth al my moste fere,",False,False,36-gow.csv
 noble,noble,279-gow1,gow/10/279-gow.cat,"O WORTHI noble kyng, Henry the ferthe,",False,False,279-gow.csv
 paien,paiene,279-gow45,gow/10/279-gow.cat,"This sinful world was al paiene tho,",False,False,279-gow.csv
-lege,liege,279-gow82,gow/10/279-gow.cat,"Mi liege lord, tak hiede of that y seie,",False,False,279-gow.csv
-lege,liege,279-gow92,gow/10/279-gow.cat,"My liege lord, if that the list to seche",False,False,279-gow.csv
 neue,newe,279-gow118,gow/10/279-gow.cat,Ful ofte it is al newe to beginne:,False,False,279-gow.csv
 neue,newe,279-gow122,gow/10/279-gow.cat,"Ley to this olde sor a newe salve,",False,False,279-gow.csv
 olde,tholde,279-gow169,gow/10/279-gow.cat,"In tholde lawe, er Crist himself was bore,",False,False,279-gow.csv
-more,more,279-gow187,gow/10/279-gow.cat,"For Crist is more than was Moises,",False,False,279-gow.csv
 ouen,oghne,279-gow206,gow/10/279-gow.cat,"Bot Cristes oghne cause in special,",False,False,279-gow.csv
-ouen,oghne,279-gow229,gow/10/279-gow.cat,Here oghne cause among hemself redresse:,False,False,279-gow.csv
 humble,humble,279-gow257,gow/10/279-gow.cat,"And thus, whan humble pacience is prided,",False,False,279-gow.csv
 noble,noble,279-gow274,gow/10/279-gow.cat,"My worthi noble prince and kyng enoignt,",False,False,279-gow.csv
 lege,liege,279-gow358,gow/10/279-gow.cat,"My worthi liege lord, Henri be name,",False,False,279-gow.csv
-more,more,279-gow382,gow/10/279-gow.cat,And see the werre er more meschief falle:,False,False,279-gow.csv
 lege,liege,269-gow27*,gow/09/269-gow.cat,In al that evere a liege man,False,False,269-gow.csv
-lege,liege,269-gow42*,gow/09/269-gow.cat,My liege lord par chaunce I mette;,False,False,269-gow.csv
 neue,newe,269-gow51*,gow/09/269-gow.cat,"Som newe thing I sholde boke,",False,False,269-gow.csv
-ouen,oghne,44-gow2182,gow/02/44-gow.cat,And seith that as here oghne man,False,False,44-gow.csv
 drie,dreie,44-gow2224,gow/02/44-gow.cat,Bot whanne he stod on dreie ground,False,False,44-gow.csv
 wilde,wilde,44-gow2295,gow/02/44-gow.cat,And he thanne as a wilde man,False,False,44-gow.csv
 huge,huge,44-gow2300,gow/02/44-gow.cat,"And made an huge fyr upriht,",False,False,44-gow.csv
-ouen,oghne,54-gow406,gow/03/54-gow.cat,Which stant upon myn oghne herte,False,False,54-gow.csv
 prive,prive,62-gow1015,gow/03/62-gow.cat,And thus this king thurgh prive hate,False,False,62-gow.csv
 prive,prive,62-gow1027,gow/03/62-gow.cat,"Of prive hate, as thou schalt hiere,",False,False,62-gow.csv
 pure,pure,72-gow2214,gow/03/72-gow.cat,"Bot he schal slen of pure dette,",False,False,72-gow.csv
 muche,moche,180-gow2391,gow/06/180-gow.cat,"To conne moche thing it helpeth,",False,False,180-gow.csv
-god,goode,180-gow2401,gow/06/180-gow.cat,"Mi goode fader, grant mercy,",False,False,180-gow.csv
-god,goode,180-gow2420,gow/06/180-gow.cat,"Mi goode Sone, thou seist wel.",False,False,180-gow.csv
 lesse,lasse,190-gow700,gow/07/190-gow.cat,"Here cercles more or lasse be,",False,False,190-gow.csv
-due,due,190-gow709,gow/07/190-gow.cat,Here due cours tofore an other.,False,False,190-gow.csv
-lef,lieve,190-gow710,gow/07/190-gow.cat,"Bot nou, mi lieve dere brother,",False,False,190-gow.csv
 dere,dere,190-gow710,gow/07/190-gow.cat,"Bot nou, mi lieve dere brother,",False,False,190-gow.csv
-ouen,oghne,139-gow3453,gow/05/139-gow.cat,"He seide, ""Al at youre oghne wille,",False,False,139-gow.csv
 simple,simple,139-gow3480,gow/05/139-gow.cat,"And sche with simple chiere and meke,",False,False,139-gow.csv
 riche,riche,139-gow3484,gow/05/139-gow.cat,"Sche fette forth a riche ymage,",False,False,139-gow.csv
 riche,riche,139-gow3559,gow/05/139-gow.cat,Tho tok sche forth a riche Tye,False,False,139-gow.csv
-ouen,oghne,139-gow3656,gow/05/139-gow.cat,Youre hestes at youre oghne wille.,False,False,139-gow.csv
-swete,swete,139-gow3662,gow/05/139-gow.cat,"He seide, ""A_dieu, mi swete mai.""",False,False,139-gow.csv
-laste,laste,139-gow3682,gow/05/139-gow.cat,And ate laste thei acorde.,False,False,139-gow.csv
 long,longe,139-gow3704,gow/05/139-gow.cat,"For longe time it so befell,",False,False,139-gow.csv
 deinte,deynte,139-gow3838,gow/05/139-gow.cat,Tho was ther many a deynte fet,False,False,139-gow.csv
 wilde,wylde,139-gow4081,gow/05/139-gow.cat,More wylde than sche semeth ther:,False,False,139-gow.csv
 drie,drie,139-gow4143,gow/05/139-gow.cat,"A drie branche hem with to stere,",False,False,139-gow.csv
 fresh,freisshe,139-gow4206,gow/05/139-gow.cat,And whan that yonge freisshe queene,False,False,139-gow.csv
-ouen,oghne,260-gow2338,gow/08/260-gow.cat,Whiche of here oghne nycete,False,False,260-gow.csv
+lesse,lasse,129-gow2016,gow/05/129-gow.cat,Of tho that lasse ben than he,False,False,129-gow.csv
 olde,olde,260-gow2368,gow/08/260-gow.cat,"For thee and for suche olde sieke,",False,False,260-gow.csv
 riche,riche,271-gow7120*,gow/09/270-gow.cat,"To sen it was a riche thing,",False,False,270-gow.csv
 due,due,116-gow3370,gow/04/116-gow.cat,Which takth no hiede of due time.,False,False,116-gow.csv
 prive,prive,164-gow7800,gow/05/164-gow.cat,"So make I many a prive mone,",False,False,164-gow.csv
-long,longe,164-gow7802,gow/05/164-gow.cat,Mi longe love and noght amended,False,False,164-gow.csv
 god,goode,164-gow7806,gow/05/164-gow.cat,"Nou, goode fader, demeth ye:",False,False,164-gow.csv
 ofte,ofte,164-gow7823,gow/05/164-gow.cat,"For ofte time, as it is sene,",False,False,164-gow.csv
 stille,stille,164-gow7829,gow/05/164-gow.cat,"And stille be the scharpe schoures,",False,False,164-gow.csv
@@ -480,53 +321,33 @@ riche,riche,174-gow986,gow/06/174-gow.cat,"Crist seith: ""Ther was a riche man,"
 pure,pure,174-gow1098,gow/06/174-gow.cat,He seide hou thanne of pure fere,False,False,174-gow.csv
 pure,pure,96-gow1615,gow/04/96-gow.cat,That every love of pure kinde,False,False,96-gow.csv
 lef,lieve,96-gow1702,gow/04/96-gow.cat,"And so me thenketh, lieve Sire,",False,False,96-gow.csv
-more,more,96-gow1747,gow/04/96-gow.cat,"The more besinesse I leie,",False,False,96-gow.csv
 povre,povere,202-gow2062,gow/07/202-gow.cat,"Ther was a worthi povere kniht,",False,False,202-gow.csv
+treu,trewe,212-gow2753,gow/07/212-gow.cat,Be hem that trewe ben and wise.,False,False,212-gow.csv
 god,goode,69-gow1746,gow/03/69-gow.cat,"Now goode fader, I you preie,",False,False,69-gow.csv
-god,goode,79-gow24,gow/04/79-gow.cat,"Tell on. Mi goode fader, yis.",False,False,79-gow.csv
 neue,newe,244-gow4445,gow/07/244-gow.cat,Restorede hem to newe grace.,False,False,244-gow.csv
 prive,prive,132-gow2302,gow/05/132-gow.cat,That thei be set in prive stede.,False,False,132-gow.csv
 ful,fulle,132-gow2312,gow/05/132-gow.cat,"Thus be thei fulle bothe tuo,",False,False,132-gow.csv
-ouen,oghne,132-gow2346,gow/05/132-gow.cat,It stant upon youre oghne chance,False,False,132-gow.csv
-laste,laste,132-gow2355,gow/05/132-gow.cat,And ate laste thei acorde;,False,False,132-gow.csv
-ouen,oghne,132-gow2372,gow/05/132-gow.cat,Hath granted hem here oghne chois,False,False,132-gow.csv
-ouen,oghne,132-gow2386,gow/05/132-gow.cat,And bereth ye youre oghne wyte,False,False,132-gow.csv
 double,double,122-gow574,gow/05/122-gow.cat,And thus sche suffreth double peine.,False,False,122-gow.csv
 feble,fieble,122-gow591,gow/05/122-gow.cat,Makth the Jelous in fieble plit,False,False,122-gow.csv
-god,goode,122-gow630,gow/05/122-gow.cat,"My goode Sone, at thi preiere",False,False,122-gow.csv
 noble,noble,150-gow5551,gow/05/150-gow.cat,"Ther was a real noble king,",False,False,150-gow.csv
 noble,noble,150-gow5567,gow/05/150-gow.cat,"A noble kniht eke of his hond,",False,False,150-gow.csv
 feble,fieble,150-gow5688,gow/05/150-gow.cat,"That was a fieble dede of armes,",False,False,150-gow.csv
 god,goode,150-gow5750,gow/05/150-gow.cat,"Bot, goode lord, al is in thee,",False,False,150-gow.csv
-ouen,oughne,150-gow5841,gow/05/150-gow.cat,"Whan he myn oughne Soster tok,",False,False,150-gow.csv
 lesse,lasse,150-gow5864,gow/05/150-gow.cat,Hire sorwe is noght the lasse hot:,False,False,150-gow.csv
-more,more,150-gow5889,gow/05/150-gow.cat,Do Tereus no more grief,False,False,150-gow.csv
 prive,prive,150-gow5951,gow/05/150-gow.cat,"And forto duelle in prive place,",False,False,150-gow.csv
 fre,fre,150-gow5962,gow/05/150-gow.cat,Wole of hir oughne fre largesse,False,False,150-gow.csv
 pure,pure,150-gow5970,gow/05/150-gow.cat,"For pure schame and noght aros,",False,False,150-gow.csv
 bar,bare,150-gow5972,gow/05/150-gow.cat,"And that ther is no bare sticke,",False,False,150-gow.csv
 olde,olde,150-gow5980,gow/05/150-gow.cat,"For so these olde wise saide,",False,False,150-gow.csv
-wise,wise,150-gow5980,gow/05/150-gow.cat,"For so these olde wise saide,",False,False,150-gow.csv
 pure,pure,150-gow6025,gow/05/150-gow.cat,That thei ne wole of pure schame,False,False,150-gow.csv
 lef,levere,150-gow6054,gow/05/150-gow.cat,Me were levere be fortrode,False,False,150-gow.csv
 neue,newe,140-gow4270,gow/05/140-gow.cat,"A newe wif he tok to bedde,",False,False,140-gow.csv
 pure,pure,140-gow4349,gow/05/140-gow.cat,"For pure drede hire herte hath lore,",False,False,140-gow.csv
 neue,newe,140-gow4366,gow/05/140-gow.cat,Bot every newe love quemeth,False,False,140-gow.csv
 neue,newe,236-gow3898,gow/07/236-gow.cat,"And he, which was a newe king,",False,False,236-gow.csv
-laste,laste,226-gow3347,gow/07/226-gow.cat,"Til fortune ate laste cam,",False,False,226-gow.csv
 straunge,strange,34-gow3092,gow/01/34-gow.cat,What strange matiere he myhte use,False,False,34-gow.csv
-laste,laste,34-gow3094,gow/01/34-gow.cat,"And ate laste he hath it founde,",False,False,34-gow.csv
 humble,humble,34-gow3146,gow/01/34-gow.cat,"With humble herte and to him calle,",False,False,34-gow.csv
-laste,laste,34-gow3239,gow/01/34-gow.cat,Bot ate laste natheles,False,False,34-gow.csv
-lege,liege,34-gow3244,gow/01/34-gow.cat,"""Mi liege lord, so as I can,""",False,False,34-gow.csv
-lege,liege,34-gow3250,gow/01/34-gow.cat,"Mi liege lord, this wolde I rede:",False,False,34-gow.csv
 pure,pure,34-gow3277,gow/01/34-gow.cat,As for decerte of pure love,False,False,34-gow.csv
-heigh,hihe,34-gow3291,gow/01/34-gow.cat,Thus with your hihe reverence,False,False,34-gow.csv
-lege,liege,34-gow3317,gow/01/34-gow.cat,"Mi liege lord, of youre office",False,False,34-gow.csv
-fair,faire,34-gow3331,gow/01/34-gow.cat,"""Mi faire Maide, wel thee be!",False,False,34-gow.csv
-lege,liege,34-gow3347,gow/01/34-gow.cat,"""Mi liege lord, god mot you quite!",False,False,34-gow.csv
-noble,noble,34-gow3351,gow/01/34-gow.cat,"He mai wel thurgh your noble grace.""",False,False,34-gow.csv
-lege,liege,34-gow3362,gow/01/34-gow.cat,"""Mi liege lord, riht now tofore",False,False,34-gow.csv
 pure,pure,24-gow1987,gow/01/24-gow.cat,"Which caused was of pure drede,",False,False,24-gow.csv
 neue,newe,209-gow2483,gow/07/209-gow.cat,It was to hem a newe lore;,False,False,209-gow.csv
 double,double,219-gow3038,gow/07/219-gow.cat,And in this wise double mede,False,False,219-gow.csv
@@ -537,21 +358,16 @@ lik,like,192-gow1053,gow/07/192-gow.cat,"Like to the crabbe he hath semblance,",
 olde,olde,192-gow1056,gow/07/192-gow.cat,So as these olde wise men,False,False,192-gow.csv
 moiste,moiste,192-gow1111,gow/07/192-gow.cat,"This Signe is hot and moiste bothe,",False,False,192-gow.csv
 cold,colde,192-gow1205,gow/07/192-gow.cat,"The frosti colde Janever,",False,False,192-gow.csv
-ouen,oghne,70-gow1760,gow/03/70-gow.cat,The kinges founde here oghne liege,False,False,70-gow.csv
 prive,prive,70-gow1805,gow/03/70-gow.cat,Ther was a prive conseil nome.,False,False,70-gow.csv
 gret,grettere,94-gow1459,gow/04/94-gow.cat,"A grettere peine than sche hadde,",False,False,94-gow.csv
 pure,pure,84-gow331,gow/04/84-gow.cat,"And feigneth cause of pure drede,",False,False,84-gow.csv
-god,goode,176-gow1227,gow/06/176-gow.cat,"Mi goode Sone, as thou hast herd.",False,False,176-gow.csv
-ouen,oghne,166-gow85,gow/06/166-gow.cat,And waxen of here oghne thoght,False,False,166-gow.csv
 sobre,sobre,166-gow124,gow/06/166-gow.cat,I was yit sobre nevere siththe.,False,False,166-gow.csv
-ouen,oghne,166-gow126,gow/06/166-gow.cat,"With musinge of min oghne thoght,",False,False,166-gow.csv
-ouen,oghne,166-gow165,gow/06/166-gow.cat,And of myn oghne thoght so mat,False,False,166-gow.csv
 fair,faire,166-gow193,gow/06/166-gow.cat,And loke upon hire faire face;,False,False,166-gow.csv
 hot,hotere,166-gow210,gow/06/166-gow.cat,"The which is hotere than the fyr,",False,False,166-gow.csv
 swete,swete,166-gow219,gow/06/166-gow.cat,Was half so swete forto drinke.,False,False,166-gow.csv
-ouen,oghne,166-gow228,gow/06/166-gow.cat,"Bot whanne I se myn oghne harm,",False,False,166-gow.csv
 neue,newe,166-gow237,gow/06/166-gow.cat,"To take of love a newe thorst,",False,False,166-gow.csv
 drie,dreie,166-gow251,gow/06/166-gow.cat,With dreie lippe and yhen wete.,False,False,166-gow.csv
+sobre,sobre,166-gow279,gow/06/166-gow.cat,"That sobre schal I nevere worthe,",False,False,166-gow.csv
 ofte,ofte,114-gow3126,gow/04/114-gow.cat,For ofte time a man aslepe,False,False,114-gow.csv
 straunge,strange,114-gow3145,gow/04/114-gow.cat,"In strange place whanne I go,",False,False,114-gow.csv
 pure,pure,114-gow3151,gow/04/114-gow.cat,"Bot if it be for pure schame,",False,False,114-gow.csv
@@ -563,56 +379,32 @@ softe,softe,262-gow2682,gow/08/262-gow.cat,A softe pas thei dance and trede;,Fal
 sobre,sobre,262-gow2684,gow/08/262-gow.cat,"With sobre chier among thei smyle,",False,False,262-gow.csv
 pure,pure,262-gow2741,gow/08/262-gow.cat,Of gentilesse and pure trouthe,False,False,262-gow.csv
 vein,veine,03-gow262,gow/00/03-gow.cat,"And veine gloire is ek so slyh,",False,False,03-gow.csv
-god,goode,13-gow447,gow/01/13-gow.cat,"My goode Sone, and tak good hiede.",False,False,13-gow.csv
 prive,prive,148-gow5376,gow/05/148-gow.cat,Theseus in a prive stede,False,False,148-gow.csv
 noble,noble,148-gow5475,gow/05/148-gow.cat,Al thogh he were a noble kniht;,False,False,148-gow.csv
-god,goode,148-gow5500,gow/05/148-gow.cat,"Mi goode Sone, and for thi lore,",False,False,148-gow.csv
 right,rihte,193-gow1312,gow/07/193-gow.cat,Be rihte name men it calle;,False,False,193-gow.csv
 due,due,193-gow1430,gow/07/193-gow.cat,Of due constellacion.,False,False,193-gow.csv
-god,goode,61-gow865,gow/03/61-gow.cat,"My goode fader, as I wene,",False,False,61-gow.csv
-ouen,oghne,61-gow893,gow/03/61-gow.cat,Bot onliche of here oghne thoght:,False,False,61-gow.csv
-ouen,oghne,61-gow901,gow/03/61-gow.cat,"Thei mihten be here oghne deme,",False,False,61-gow.csv
 neue,newe,71-gow2033,gow/03/71-gow.cat,"Men sein, ""Old Senne newe schame"":",False,False,71-gow.csv
-laste,laste,71-gow2049,gow/03/71-gow.cat,Til ate laste thei it wonne;,False,False,71-gow.csv
-more,more,71-gow2082,gow/03/71-gow.cat,Bot what was more herd he noght sein;,False,False,71-gow.csv
 pure,pure,71-gow2178,gow/03/71-gow.cat,"For pure sorwe, which hire ledde,",False,False,71-gow.csv
 noble,noble,95-gow1507,gow/04/95-gow.cat,"A noble Duck, which Jepte hihte.",False,False,95-gow.csv
 glad,gladdere,95-gow1543,gow/04/95-gow.cat,Ther was non gladdere man than I:,False,False,95-gow.csv
 large,large,211-gow2571,gow/07/211-gow.cat,"Tuo large hornes set of bras,",False,False,211-gow.csv
-lege,liege,211-gow2628,gow/07/211-gow.cat,"""Mi liege lord, for mi servise,",False,False,211-gow.csv
 treu,trewe,211-gow2629,gow/07/211-gow.cat,"Which trewe hath stonden evere yit,",False,False,211-gow.csv
-more,more,105-gow2242,gow/04/105-gow.cat,"The lord is more forto charge,",False,False,105-gow.csv
 due,due,115-gow3247,gow/04/115-gow.cat,Of due constellacion,False,False,115-gow.csv
 pure,pure,273-gow3179*,gow/09/273-gow.cat,Of pure pite yaf him grace.,False,False,273-gow.csv
 ofte,ofte,123-gow728,gow/05/123-gow.cat,Which ofte time hath schent the hous.,False,False,123-gow.csv
-povre,povere,133-gow2432,gow/05/133-gow.cat,And povere he cam and povere he wente;,False,False,133-gow.csv
-povre,povere,133-gow2432,gow/05/133-gow.cat,And povere he cam and povere he wente;,False,False,133-gow.csv
 double,double,78-gow2688,gow/03/78-gow.cat,"""Mi Sone, I mot be double weie",False,False,78-gow.csv
-god,goode,78-gow2752,gow/03/78-gow.cat,"Mi goode fader, be your leve",False,False,78-gow.csv
 double,double,141-gow4398,gow/05/141-gow.cat,Mesure double and double weyhte:,False,False,141-gow.csv
 double,double,141-gow4442,gow/05/141-gow.cat,To take ayein be double weyhte,False,False,141-gow.csv
-hole,hole,141-gow4488,gow/05/141-gow.cat,"Min hole schrifte forto hiere,",False,False,141-gow.csv
-hole,hole,141-gow4494,gow/05/141-gow.cat,Min hole herte til I dye,False,False,141-gow.csv
-gret,grete,141-gow4505,gow/05/141-gow.cat,Mi grete love to compense.,False,False,141-gow.csv
 large,large,141-gow4508,gow/05/141-gow.cat,Be large weyhte and gret mesure,False,False,141-gow.csv
-gret,grete,141-gow4520,gow/05/141-gow.cat,Som of mi grete peine allyhte.,False,False,141-gow.csv
 povre,povere,141-gow4524,gow/05/141-gow.cat,So mot he nedes povere gon:,False,False,141-gow.csv
-god,goode,151-gow6103,gow/05/151-gow.cat,"My goode Sone, as thou miht hiere,",False,False,151-gow.csv
-laste,laste,237-gow3963,gow/07/237-gow.cat,"Thanne ate laste hem axeth this,",False,False,237-gow.csv
 yong,yonge,47-gow2537,gow/02/47-gow.cat,As thei that bothe yonge were;,False,False,47-gow.csv
 prive,prive,47-gow2538,gow/02/47-gow.cat,So that in prive conseil there,False,False,47-gow.csv
 pure,pure,57-gow733,gow/03/57-gow.cat,"Thogh it beginne on pure game,",False,False,57-gow.csv
-ouen,oghne,218-gow2963,gow/07/218-gow.cat,And nothing of myn oghne wit;,False,False,218-gow.csv
-laste,laste,208-gow2426,gow/07/208-gow.cat,Than ate laste comen there,False,False,208-gow.csv
 noble,noble,25-gow2028,gow/01/25-gow.cat,This kyng with noble pourveance,False,False,25-gow.csv
-laste,laste,25-gow2039,gow/01/25-gow.cat,Til he was ate laste war,False,False,25-gow.csv
 drie,dreie,25-gow2042,gow/01/25-gow.cat,That lich unto a dreie ymage,False,False,25-gow.csv
-ouen,oghne,25-gow2060,gow/01/25-gow.cat,Thei seiden of here oghne Pride,False,False,25-gow.csv
 povre,povere,25-gow2098,gow/01/25-gow.cat,That to so vil a povere wrecche,False,False,25-gow.csv
 sterne,sterne,25-gow2127,gow/01/25-gow.cat,"A trompe with a sterne breth,",False,False,25-gow.csv
 humble,humble,25-gow2183,gow/01/25-gow.cat,"This lord goth thanne an humble pas,",False,False,25-gow.csv
 noble,noble,25-gow2184,gow/01/25-gow.cat,That whilom proud and noble was;,False,False,25-gow.csv
-ouen,oghne,25-gow2230,gow/01/25-gow.cat,"Min oghne deth thurgh here ymage,",False,False,25-gow.csv
 humble,humble,35-gow3417,gow/01/35-gow.cat,With humble speche it is redresced:,False,False,35-gow.csv
 humble,humble,35-gow3429,gow/01/35-gow.cat,"Of humble port mai love appaie,",False,False,35-gow.csv
-god,goode,35-gow3433,gow/01/35-gow.cat,"Mi goode Sone, it schal be do:",False,False,35-gow.csv
