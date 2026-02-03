@@ -1,0 +1,448 @@
+"""Sire Clerk of Oxenford,"" oure Hooste sayde,",||,"¶“Sir Clerk of Oxenford,” our Hoste saide,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,Sire,Clerk,of,Oxenford,oure,Hooste,sayde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,ux,S,u,SuS,ux,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,sire@n#adj,clerk@n,of@prep,oxenford@n#propn,oure@pron%pl_gen,hoste@n2,seien@v1%pt_3
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,Sir,Clerk,of,Oxenford,our,Hoste,saide
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,u,S,u,SuS,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 1,,,10,sire@n#adj,clerk@n,of@prep,oxenford@n#propn,oure@pron%pl_gen,hoste@n2,seien@v1%pt_3
+
+"""Ye ryde as coy and stille as dooth a mayde",||,"“Ye ride as coy° and stille° as dooth a maide,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,Ye,ryde,as,coy,and,stille,as,dooth,a,mayde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,u,Sx,u,S,u,Sx,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,ye@pron%pl_nom,riden@v%pr_pl,as@conj,coi@adj,and@conj,stille@adv,as@conj,don@v1%pr_3,a@indef_art,maide@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,Ye,ride,as,coy,and,stille,as,dooth,a,maide
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,u,Sx,u,S,u,Sx,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 2,,,10,ye@pron%pl_nom,riden@v%pr_pl,as@conj,coi@adj,and@conj,stille@adv,as@conj,don@v1%pr_3,a@indef_art,maide@n
+
+"Were newe spoused, sittynge at the bord;",||,"Were° newe spoused,° sitting at the bord;°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,Were,newe,spoused,sittynge,at,the,bord
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,ux,Sx,uS,uSu,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,ben@v%pt_3,neue@adv,spousen@v%ppl,sitten@v%prp_abs,at@prep,the@def_art,bord@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,Were,newe,spoused,sitting,at,the,bord
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,ux,Su,Su,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 3,,,10,ben@v%pt_3,neue@adv,spousen@v%ppl,sitten@v%prp_abs,at@prep,the@def_art,bord@n
+
+This day ne herde I of youre tonge a word.,||,This day ne herde I of your tonge a word.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,This,day,ne,herde,I,of,youre,tonge,a,word
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,u,S,u,Sx,u,S,ux,Sx,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,this@gram_adj,dai@n,ne@adv,heren@v%pt_1,ich@pron%nom,of@prep,your@pron%pl_gen,tonge@n2,a@indef_art,word@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,This,day,ne,herde,I,of,your,tonge,a,word
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,u,S,u,Sx,u,S,u,Sx,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 4,,,10,this@gram_adj,dai@n,ne@adv,heren@v%pt_1,ich@pron%nom,of@prep,your@pron%pl_gen,tonge@n2,a@indef_art,word@n
+
+I trowe ye studie aboute som sophyme;,||,"I trowe° ye studie aboute som sophime,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,I,trowe,ye,studie,aboute,som,sophyme
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,u,Sx,u,Su,Sux,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,ich@pron%nom,trouen@v%pr_1,ye@pron%pl_nom,studien@v%pr_pl,abouten@prep,som@gram_adj,sophime@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,I,trowe,ye,studie,aboute,som,sophime
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,u,Sx,u,Su,Sux,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 5,,,10,ich@pron%nom,trouen@v%pr_1,ye@pron%pl_nom,studien@v%pr_pl,abouten@prep,som@gram_adj,sophime@n
+
+But Salomon seith `every thyng hath tyme.',||,"But Salomon seith, ‘Every thing hath time.’"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,But,Salomon,seith,every,thyng,hath,tyme
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,u,SuS,u,Sxu,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,but@conj,salomon@n#propn,seien@v1%pr_3,everi@pron_gram_adj,thing@n,haven@v%pr_3,time@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,But,Salomon,seith,Every,thing,hath,time
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,u,SuS,u,Sxu,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 6,,,10,but@conj,salomon@n#propn,seien@v1%pr_3,everi@pron_gram_adj,thing@n,haven@v%pr_3,time@n
+
+"""For Goddes sake, as beth of bettre cheere!",||,"For Goddes sake, as beth of bettre chere,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,For,Goddes,sake,as,beth,of,bettre,cheere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,u,Su,Sx,u,S,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,for@prep,god@n1#propn%gen,sake@n,as@conj,ben@v%imp,of@prep,bettre@adj%comp,chere@n1
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,For,Goddes,sake,as,beth,of,bettre,chere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,u,Su,Sx,u,S,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 7,,,10,for@prep,god@n1#propn%gen,sake@n,as@conj,ben@v%imp,of@prep,bettre@adj%comp,chere@n1
+
+It is no tyme for to studien heere.,||,It is no time for to studien here.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,It,is,no,tyme,for,to,studien,heere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,u,S,u,Sx,u,S,uSu,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,hit@pron,ben@v%pr_3,no@gram_adj,time@n,for@prep#adv,to@part,studien@v%inf,her@adv
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,It,is,no,time,for,to,studien,here
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,u,S,u,Sx,u,S,uSu,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 8,,,10,hit@pron,ben@v%pr_3,no@gram_adj,time@n,for@prep#adv,to@part,studien@v%inf,her@adv
+
+"Telle us som myrie tale, by youre fey!",||,"Telle us som mery tale, by your fey;"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,Telle,us,som,myrie,tale,by,youre,fey
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,ux,S,u,Su,Sx,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,tellen@v%imp,us@pron%pl_obj,som@gram_adj,mirie@adj,tale@n,bi@prep,your@pron%pl_gen,feith@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,Telle,us,som,mery,tale,by,your,fey
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,ux,S,u,Su,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 9,,,10,tellen@v%imp,us@pron%pl_obj,som@gram_adj,mirie@adj,tale@n,bi@prep,your@pron%pl_gen,feith@n
+
+"For what man that is entred in a pley,",||,"For what man that is entred in a pley,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,For,what,man,that,is,entred,in,a,pley
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,u,S,u,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,for@conj,what@gram_adj,man@n,that@pron,ben@v%pr_3,entren@v%ppl,in@prep,a@indef_art,pleie@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,For,what,man,that,is,entred,in,a,pley
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,u,S,u,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 10,,,10,for@conj,what@gram_adj,man@n,that@pron,ben@v%pr_3,entren@v%ppl,in@prep,a@indef_art,pleie@n
+
+He nedes moot unto the pley assente.,||,He nedes moot° unto the pley assente.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,He,nedes,moot,unto,the,pley,assente
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,u,Su,S,uS,u,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,he@pron1%nom,nedes@adv,moten@v2%pr_3,unto@prep,the@def_art,pleie@n,assenten@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,He,nedes,moot,unto,the,pley,assente
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,u,Su,S,uS,u,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 11,,,10,he@pron1%nom,nedes@adv,moten@v2%pr_3,unto@prep,the@def_art,pleie@n,assenten@v%inf
+
+"But precheth nat, as freres doon in Lente,",||,"But precheth nat, as freres doon in Lente,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,But,precheth,nat,as,freres,doon,in,Lente
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,u,Su,S,u,Su,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,but@conj,prechen@v%imp,not@adv,as@conj,frere@n%pl,don@v1%pr_pl,in@prep,lenten@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,But,precheth,nat,as,freres,doon,in,Lente
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,u,Su,S,u,Su,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 12,,,10,but@conj,prechen@v%imp,not@adv,as@conj,frere@n%pl,don@v1%pr_pl,in@prep,lenten@n
+
+"To make us for oure olde synnes wepe,",||,"To make us for our olde sinnes wepe,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,To,make,us,for,oure,olde,synnes,wepe
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,u,Sx,u,S,ux,Su,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,to@part,maken@v1%inf,us@pron%pl_obj,for@prep,oure@pron%pl_gen,olde@adj,sinne@n%pl,wepen@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,To,make,us,for,our,olde,sinnes,wepe
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,u,Sx,u,S,u,Su,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 13,,,10,to@part,maken@v1%inf,us@pron%pl_obj,for@prep,oure@pron%pl_gen,olde@adj,sinne@n%pl,wepen@v%inf
+
+Ne that thy tale make us nat to slepe.,||,Ne that thy tale make us nat to slepe.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,Ne,that,thy,tale,make,us,nat,to,slepe
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,u,S,u,Su,Sx,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,ne@conj1,that@conj,thin@pron%gen,tale@n,maken@v1%pr_3,us@pron%pl_obj,not@adv,to@part,slepen@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,Ne,that,thy,tale,make,us,nat,to,slepe
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,u,S,u,Su,Sx,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 14,,,10,ne@conj1,that@conj,thin@pron%gen,tale@n,maken@v1%pr_3,us@pron%pl_obj,not@adv,to@part,slepen@v%inf
+
+"""Telle us som murie thyng of aventures.",||,Telle us som mery thing of aventures;—
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,Telle,us,som,murie,thyng,of,aventures
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,ux,S,u,Su,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,tellen@v%imp,us@pron%pl_obj,som@gram_adj,mirie@adj,thing@n,of@prep,aventure@n%pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,Telle,us,som,mery,thing,of,aventures
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,ux,S,u,Su,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 15,,,10,tellen@v%imp,us@pron%pl_obj,som@gram_adj,mirie@adj,thing@n,of@prep,aventure@n%pl
+
+"Youre termes, youre colours, and youre figures,",||,"Your termes,° your colours, and your figures,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,Youre,termes,youre,colours,and,youre,figures
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,ux,Su,Sx,uS,u,Sx,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,your@pron%pl_gen,terme@n%pl,your@pron%pl_gen,colour@n%pl,and@conj,your@pron%pl_gen,figure@n%pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,Your,termes,your,colours,and,your,figures
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,u,Su,S,uS,u,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 16,,,10,your@pron%pl_gen,terme@n%pl,your@pron%pl_gen,colour@n%pl,and@conj,your@pron%pl_gen,figure@n%pl
+
+Keepe hem in stoor til so be ye endite,||,Kepe hem in stoor° til so be ye endite
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,Keepe,hem,in,stoor,til,so,be,ye,endite
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,ux,S,u,S,u,S,u,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,kepen@v%imp,hem@pron%pl_obj,in@prep,store@n1,til@conj,so@adv,ben@v%pr_3,ye@pron%pl_nom,enditen@v%pr_pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,Kepe,hem,in,stoor,til,so,be,ye,endite
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,ux,S,u,S,u,S,u,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 17,,,10,kepen@v%imp,hem@pron%pl_obj,in@prep,store@n1,til@conj,so@adv,ben@v%pr_3,ye@pron%pl_nom,enditen@v%pr_pl
+
+"Heigh style, as whan that men to kynges write.",||,"Heigh style, as whan that men to kinges write."
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,Heigh,style,as,whan,that,men,to,kynges,write
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,u,Sx,u,S,u,S,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,heigh@adj,stile@n2,as@conj,whan@adv&conj,that@part,man@n%pl,to@prep,king@n%pl,writen@v%pr_pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,Heigh,style,as,whan,that,men,to,kinges,write
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,u,Sx,u,S,u,S,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 18,,,10,heigh@adj,stile@n2,as@conj,whan@adv&conj,that@part,man@n%pl,to@prep,king@n%pl,writen@v%pr_pl
+
+"Speketh so pleyn at this tyme, we yow preye,",||,"Speketh so plein at this time, we yow preye,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,Speketh,so,pleyn,at,this,tyme,we,yow,preye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,uS,u,S,u,S,ux,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,speken@v%imp,so@adv,plaine@adv,at@prep,this@gram_adj,time@n,we@pron%pl_nom,you@pron%pl_obj,preien@v1%pr_pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,Speketh,so,plein,at,this,time,we,yow,preye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,uS,u,S,u,S,ux,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 19,,,10,speken@v%imp,so@adv,plaine@adv,at@prep,this@gram_adj,time@n,we@pron%pl_nom,you@pron%pl_obj,preien@v1%pr_pl
+
+"That we may understonde what ye seye.""",||,That we may understonde what ye seye.”
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,That,we,may,understonde,what,ye,seye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,u,S,u,SuSu,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,that@conj,we@pron%pl_nom,mouen@v3%pr_pl,understonden@v%inf,what@pron,ye@pron%pl_nom,seien@v1%pr_pl
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,That,we,may,understonde,what,ye,seye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,u,S,u,SuSu,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 20,,,10,that@conj,we@pron%pl_nom,mouen@v3%pr_pl,understonden@v%inf,what@pron,ye@pron%pl_nom,seien@v1%pr_pl
+
+This worthy clerk benignely answerde:,||,"¶This worthy Clerk benignely° answerde,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,This,worthy,clerk,benignely,answerde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,u,Su,S,uSuS,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,this@gram_adj,worthi@adj,clerk@n,benigneli@adv,answeren@v%pt_3
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,This,worthy,Clerk,benignely,answerde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,u,Su,S,uSuS,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 21,,,10,this@gram_adj,worthi@adj,clerk@n,benigneli@adv,answeren@v%pt_3
+
+"""Hooste,"" quod he, ""I am under youre yerde;",||,"“Hoste,” quod he, “I am under your yerde;°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,Hooste,quod,he,I,am,under,youre,yerde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,ux,S,u,S,u,Su,Sx,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,hoste@n2,quethen@v%pt_3,he@pron1%nom,ich@pron%nom,ben@v%pr_1,under@prep,your@pron%pl_gen,yerde@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,Hoste,quod,he,I,am,under,your,yerde
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,ux,S,u,S,u,Su,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 22,,,10,hoste@n2,quethen@v%pt_3,he@pron1%nom,ich@pron%nom,ben@v%pr_1,under@prep,your@pron%pl_gen,yerde@n
+
+"Ye han of us as now the governance,",||,"Ye han of us as now the governaunce,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,Ye,han,of,us,as,now,the,governance
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,u,S,u,S,u,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,ye@pron%pl_nom,haven@v%pr_pl,of@prep,us@pron%pl_obj,as@conj,nou@adv,the@def_art,governaunce@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,Ye,han,of,us,as,now,the,governaunce
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,u,S,u,S,u,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 23,,,10,ye@pron%pl_nom,haven@v%pr_pl,of@prep,us@pron%pl_obj,as@conj,nou@adv,the@def_art,governaunce@n
+
+"And therfore wol I do yow obeisance,",||,"And therfor wol I do yow obeisaunce,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,And,therfore,wol,I,do,yow,obeisance
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,u,Sux,S,u,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,and@conj,ther-fore@adv,willen@v%pr_1,ich@pron%nom,don@v1%inf,you@pron%pl_obj,obeisaunce@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,And,therfor,wol,I,do,yow,obeisaunce
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,u,Su,S,u,S,u,SuSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 24,,,10,and@conj,ther-fore@adv,willen@v%pr_1,ich@pron%nom,don@v1%inf,you@pron%pl_obj,obeisaunce@n
+
+"As fer as resoun axeth, hardily.",||,"As fer as reson axeth,° hardily."
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,As,fer,as,resoun,axeth,hardily
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,u,S,u,Su,Su,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,as@conj,fer@adv,as@conj,resoun@n2,asken@v%pr_3,hardili@adv
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,As,fer,as,reson,axeth,hardily
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,u,S,u,Su,Su,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 25,,,10,as@conj,fer@adv,as@conj,resoun@n2,asken@v%pr_3,hardili@adv
+
+I wol yow telle a tale which that I,||,I wol yow telle a tale which that I
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,I,wol,yow,telle,a,tale,which,that,I
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,u,S,u,Sx,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,ich@pron%nom,willen@v%pr_1,you@pron%pl_obj,tellen@v%inf,a@indef_art,tale@n,which@pron,that@pron,ich@pron%nom
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,I,wol,yow,telle,a,tale,which,that,I
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,u,S,u,Sx,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 26,,,10,ich@pron%nom,willen@v%pr_1,you@pron%pl_obj,tellen@v%inf,a@indef_art,tale@n,which@pron,that@pron,ich@pron%nom
+
+"Lerned at Padowe of a worthy clerk,",||,"Lerned at Padowe° of a worthy clerk,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,Lerned,at,Padowe,of,a,worthy,clerk
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,uS,u,Sux,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,lernen@v%pt_1,at@prep,padowe@n#propn,of@prep,a@indef_art,worthi@adj,clerk@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,Lerned,at,Padowe,of,a,worthy,clerk
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,uS,u,Sux,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 27,,,10,lernen@v%pt_1,at@prep,padowe@n#propn,of@prep,a@indef_art,worthi@adj,clerk@n
+
+As preved by his wordes and his werk.,||,As preved by his wordes and his werk.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,As,preved,by,his,wordes,and,his,werk
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,u,Su,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,as@conj,preven@v%pt_3,bi@prep,his@pron1%gen,word@n%pl,and@conj,his@pron1%gen,werk@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,As,preved,by,his,wordes,and,his,werk
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,u,Su,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 28,,,10,as@conj,preven@v%pt_3,bi@prep,his@pron1%gen,word@n%pl,and@conj,his@pron1%gen,werk@n
+
+He is now deed and nayled in his cheste;,||,"He is now deed and nailed in his cheste,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,He,is,now,deed,and,nayled,in,his,cheste
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,u,S,u,S,u,Su,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,he@pron1%nom,ben@v%pr_3,nou@adv,ded@adj,and@conj,nailen@v%ppl,in@prep,his@pron1%gen,cheste@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,He,is,now,deed,and,nailed,in,his,cheste
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,u,S,u,S,u,Su,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 29,,,10,he@pron1%nom,ben@v%pr_3,nou@adv,ded@adj,and@conj,nailen@v%ppl,in@prep,his@pron1%gen,cheste@n
+
+I prey to God so yeve his soule reste!,||,I prey to God so yeve his soule reste!
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,I,prey,to,God,so,yeve,his,soule,reste
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,u,S,u,S,u,Sx,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,ich@pron%nom,preien@v1%pr_1,to@prep,god@n1#propn,so@adv,yeven@v%pr_3,his@pron1%gen,soule@n,reste@n1
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,I,prey,to,God,so,yeve,his,soule,reste
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,u,S,u,S,u,Sx,u,Su,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 30,,,10,ich@pron%nom,preien@v1%pr_1,to@prep,god@n1#propn,so@adv,yeven@v%pr_3,his@pron1%gen,soule@n,reste@n1
+
+"""Fraunceys Petrak, the lauriat poete,",||,"Fraunceis Petrark, the laureat° poete,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,Fraunceys,Petrak,the,lauriat,poete
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,uS,uS,u,SuS,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,fraunceys@n#propn,petrak@n#propn,the@def_art,laureate@adj,poete@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,Fraunceis,Petrark,the,laureat,poete
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,uS,uS,u,SuS,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 31,DIFF,,10,fraunceys@n#propn,,the@def_art,laureate@adj,poete@n
+
+"Highte this clerk, whos rethorike sweete",||,"Highte this clerk,° whos rethorike sweete"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,Highte,this,clerk,whos,rethorike,sweete
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,Sx,u,S,u,SuSu,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,hoten@v1%pt_3,this@gram_adj,clerk@n,whos@pron%gen,rethorike@n,swete@adj
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,Highte,this,clerk,whos,rethorike,sweete
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,Sx,u,S,u,SuSu,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 32,,,9,hoten@v1%pt_3,this@gram_adj,clerk@n,whos@pron%gen,rethorike@n,swete@adj
+
+"Enlumyned al Ytaille of poetrie,",||,"Enlumined al Itaille of° poetrie,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,Enlumyned,al,Ytaille,of,poetrie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,uSux,S,uSx,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,enluminen@v%pt_3,al@gram_adj,itaille@n#propn,of@prep,poetrie@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,Enlumined,al,Itaille,of,poetrie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,uSux,S,uSx,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 33,,,10,enluminen@v%pt_3,al@gram_adj,itaille@n#propn,of@prep,poetrie@n
+
+"As Lynyan dide of philosophie,",||,As Linian° dide of philosophie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,As,Lynyan,dide,of,philosophie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,u,SuS,ux,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,as@conj,linian@n#propn,don@v1%pt_3,of@prep,philosophie@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,As,Linian,dide,of,philosophie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,u,SuS,ux,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 34,,,10,as@conj,linian@n#propn,don@v1%pt_3,of@prep,philosophie@n
+
+"Or lawe, or oother art particuler;",||,"Or lawe, or other art particuler;"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,Or,lawe,or,oother,art,particuler
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,u,Sx,u,Su,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,or@conj,laue@n,or@conj,other@gram_adj,art@n1,particuler@adj
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,Or,lawe,or,other,art,particuler
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,u,Sx,u,Su,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 35,,,10,or@conj,laue@n,or@conj,other@gram_adj,art@n1,particuler@adj
+
+"But Deeth, that wol nat suffre us dwellen heer,",||,"But deeth, that wol nat suffre us dwellen heer"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,But,Deeth,that,wol,nat,suffre,us,dwellen,heer
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,u,S,u,S,u,Sx,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,but@conj,deth@n#propn,that@pron,willen@v%pr_3,not@adv,sufferen@v%inf,us@pron%pl_obj,dwellen@v%inf,her@adv
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,But,deeth,that,wol,nat,suffre,us,dwellen,heer
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,u,S,u,S,u,Sx,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 36,,,10,but@conj,deth@n#propn,that@pron,willen@v%pr_3,not@adv,sufferen@v%inf,us@pron%pl_obj,dwellen@v%inf,her@adv
+
+"But as it were a twynklyng of an ye,",||,"But as it were a twinkling of an eye,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,But,as,it,were,a,twynklyng,of,an,ye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,u,S,u,Sx,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,but@conj,as@conj,hit@pron,ben@v%pt_3,a@indef_art,twinklinge@ger,of@prep,a@indef_art,eie@n1
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,But,as,it,were,a,twinkling,of,an,eye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,u,S,u,Sx,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 37,,,10,but@conj,as@conj,hit@pron,ben@v%pt_3,a@indef_art,twinklinge@ger,of@prep,a@indef_art,eie@n1
+
+"Hem bothe hath slayn, and alle shul we dye.",||,"Hem bothe hath slain, and alle shul we die."
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,Hem,bothe,hath,slayn,and,alle,shul,we,dye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,u,Sx,u,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,hem@pron%pl_obj,bothe@num_adj,haven@v%pr_3,slen@v%ppl,and@conj,al@gram_adj,shulen@v1%pr_pl,we@pron%pl_nom,dien@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,Hem,bothe,hath,slain,and,alle,shul,we,die
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,u,Sx,u,S,u,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 38,,,10,hem@pron%pl_obj,bothe@num_adj,haven@v%pr_3,slen@v%ppl,and@conj,al@gram_adj,shulen@v1%pr_pl,we@pron%pl_nom,dien@v%inf
+
+"""But forth to tellen of this worthy man",||,"But forth to tellen of this worthy man,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,But,forth,to,tellen,of,this,worthy,man
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,u,S,u,Su,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,but@conj,forth@adv,to@part,tellen@v%inf,of@prep,this@gram_adj,worthi@adj,man@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,But,forth,to,tellen,of,this,worthy,man
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,u,S,u,Su,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 39,,,10,but@conj,forth@adv,to@part,tellen@v%inf,of@prep,this@gram_adj,worthi@adj,man@n
+
+"That taughte me this tale, as I bigan,",||,"That taughte me this tale, as I bigan,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,That,taughte,me,this,tale,as,I,bigan
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,u,Su,S,u,Sx,u,S,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,that@pron,techen@v%pt_3,me@pron2%obj,this@gram_adj,tale@n,as@conj,ich@pron%nom,biginnen@v%pt_1
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,That,taughte,me,this,tale,as,I,bigan
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,u,Su,S,u,Sx,u,S,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 40,,,10,that@pron,techen@v%pt_3,me@pron2%obj,this@gram_adj,tale@n,as@conj,ich@pron%nom,biginnen@v%pt_1
+
+"I seye that first with heigh stile he enditeth,",||,"I seye that first with heigh style he enditeth,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,I,seye,that,first,with,heigh,stile,he,enditeth
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,u,S,u,S,u,S,ux,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,ich@pron%nom,seien@v1%pr_1,that@conj,first@adv,with@prep,heigh@adj,stile@n2,he@pron1%nom,enditen@v%pr_3
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,I,seye,that,first,with,heigh,style,he,enditeth
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,u,S,u,S,u,S,ux,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 41,,,10,ich@pron%nom,seien@v1%pr_1,that@conj,first@adv,with@prep,heigh@adj,stile@n2,he@pron1%nom,enditen@v%pr_3
+
+"Er he the body of his tale writeth,",||,"Er he the body of his tale writeth,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,Er,he,the,body,of,his,tale,writeth
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,u,S,u,Su,S,u,Sx,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,er@conj1,he@pron1%nom,the@def_art,bodi@n,of@prep,his@pron1%gen,tale@n,writen@v%pr_3
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,Er,he,the,body,of,his,tale,writeth
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,u,S,u,Su,S,u,Sx,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 42,,,10,er@conj1,he@pron1%nom,the@def_art,bodi@n,of@prep,his@pron1%gen,tale@n,writen@v%pr_3
+
+"A prohemye, in the which discryveth he",||,"A proheme,° in the which discriveth he"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,0,A,prohemye,in,the,which,discryveth,he
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,0,,,,,,,
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,0,a@indef_art,prohemie@n,in@prep,the@def_art,which@pron,descriven@v%pr_3,he@pron1%nom
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,10,A,proheme,in,the,which,discriveth,he
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,10,u,Sux,S,u,S,uSu,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 43,,,10,a@indef_art,prohemie@n,in@prep,the@def_art,which@pron,descriven@v%pr_3,he@pron1%nom
+
+"Pemond and of Saluces the contree,",||,"Pemond,° and of Saluces° the contree,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,Pemond,and,of,Saluces,the,contree
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,uS,u,S,uSu,S,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,pemond@n#propn,and@conj,of@prep,saluce@n#propn,the@def_art,contree@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,Pemond,and,of,Saluces,the,contree
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,uS,u,S,uSu,S,uS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 44,,,10,pemond@n#propn,and@conj,of@prep,saluce@n#propn,the@def_art,contree@n
+
+"And speketh of Apennyn, the hilles hye,",||,"And speketh of Apennin,° the hilles hie,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,And,speketh,of,Apennyn,the,hilles,hye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,u,Su,S,uSu,S,ux,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,and@conj,speken@v%pr_3,of@prep,apennin@n#propn,the@def_art,hille@n%pl,heigh@adj
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,And,speketh,of,Apennin,the,hilles,hie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,u,Su,S,uSu,S,ux,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 45,,,10,and@conj,speken@v%pr_3,of@prep,apennin@n#propn,the@def_art,hille@n%pl,heigh@adj
+
+"That been the boundes of West Lumbardye,",||,"That been the boundes of West Lumbardie,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,0,That,been,the,boundes,of,West,Lumbardye
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,0,,,,,,,
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,0,that@pron,ben@v%pr_pl,the@def_art,bounde@n%pl,of@prep,west@adj,lombardie@n#propn
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,10,That,been,the,boundes,of,West,Lumbardie
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,10,u,S,u,Su,S,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 46,,,10,that@pron,ben@v%pr_pl,the@def_art,bounde@n%pl,of@prep,west@adj,lombardie@n#propn
+
+"And of Mount Vesulus in special,",||,"And of Mount Vesulus in special,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,And,of,Mount,Vesulus,in,special
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,u,S,u,SuS,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,and@conj,of@prep,mount@n1,vesulus@n#propn,in@prep,speciale@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,And,of,Mount,Vesulus,in,special
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,u,S,u,SuS,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 47,,,10,and@conj,of@prep,mount@n1,vesulus@n#propn,in@prep,speciale@n
+
+Where as the Poo out of a welle smal,||,"Where as the Poo,° out of a welle° smal,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,Where,as,the,Poo,out,of,a,welle,smal
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,ux,S,u,S,u,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,wher@adv&conj,as@conj,the@def_art,poo@n#propn,oute@adv#prep,of@prep,a@indef_art,welle@n,smal@adj
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,Where,as,the,Poo,out,of,a,welle,smal
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,ux,S,u,S,u,S,u,Su,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 48,,,10,wher@adv&conj,as@conj,the@def_art,poo@n#propn,oute@adv#prep,of@prep,a@indef_art,welle@n,smal@adj
+
+"Taketh his firste spryngyng and his sours,",||,"Taketh his firste springing and his sours,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,Taketh,his,firste,spryngyng,and,his,sours
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,uS,u,Su,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,taken@v%pr_3,his@pron1%gen,first@num_adj,springinge@ger,and@conj,his@pron1%gen,sours@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,Taketh,his,firste,springing,and,his,sours
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,uS,u,Su,Su,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 49,,,10,taken@v%pr_3,his@pron1%gen,first@num_adj,springinge@ger,and@conj,his@pron1%gen,sours@n
+
+That estward ay encresseth in his cours,||,That estward ay encresseth in his cours
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,That,estward,ay,encresseth,in,his,cours
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,u,Su,S,uSu,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,that@pron,estward@adv,ai@adv,encresen@v%pr_3,in@prep,his@pron1%gen,cours@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,That,estward,ay,encresseth,in,his,cours
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,u,Su,S,uSu,S,u,S
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 50,,,10,that@pron,estward@adv,ai@adv,encresen@v%pr_3,in@prep,his@pron1%gen,cours@n
+
+"To Emele-ward, to Ferrare, and Venyse,",||,"To Emelward,° to Ferrare, and Venise:"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,To,Emeleward,to,Ferrare,and,Venyse
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,u,SuSu,S,uSx,u,xSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,to@prep,emeleward@n,to@prep,ferrare@n#propn,and@conj,venice@n#propn
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,To,Emelward,to,Ferrare,and,Venise
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,u,SuS,u,Sux,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 51,,,10,to@prep,emeleward@n,to@prep,ferrare@n#propn,and@conj,venice@n#propn
+
+The which a long thyng were to devyse.,||,The which a long thing were to devise.
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,The,which,a,long,thyng,were,to,devyse
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,u,S,u,S,u,Su,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,the@def_art,which@pron,a@indef_art,long@adj1,thing@n,ben@v%pt_3,to@part,devisen@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,The,which,a,long,thing,were,to,devise
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,u,S,u,S,u,Su,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 52,,,10,the@def_art,which@pron,a@indef_art,long@adj1,thing@n,ben@v%pt_3,to@part,devisen@v%inf
+
+"And trewely, as to my juggement,",||,"And trewely, as to my jugement,"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,And,trewely,as,to,my,juggement
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,u,SuS,u,S,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,and@conj,treuli@adv,as@conj,to@prep,min@pron%gen,jugement@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,And,trewely,as,to,my,jugement
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,u,SuS,u,S,u,SuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 53,,,10,and@conj,treuli@adv,as@conj,to@prep,min@pron%gen,jugement@n
+
+"Me thynketh it a thyng impertinent,",||,"Me thinketh it a thing impertinent,°"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,Me,thynketh,it,a,thyng,impertinent
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,u,Su,S,u,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,me@pron2%obj,thinken@v1%pr_3,hit@pron,a@indef_art,thing@n,impertinent@adj
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,Me,thinketh,it,a,thing,impertinent
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,u,Su,S,u,S,uSuS
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 54,,,10,me@pron2%obj,thinken@v1%pr_3,hit@pron,a@indef_art,thing@n,impertinent@adj
+
+Save that he wole conveyen his mateere;,||,Save that he wol conveien° his matere:
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,Save,that,he,wole,conveyen,his,mateere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,ux,S,u,Sx,uSu,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,sauf@prep#conj,that@conj,he@pron1%nom,willen@v%pr_3,conveien@v%inf,his@pron1%gen,matere@n
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,Save,that,he,wol,conveien,his,matere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,ux,S,u,S,uSu,S,uSx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 55,,,10,sauf@prep#conj,that@conj,he@pron1%nom,willen@v%pr_3,conveien@v%inf,his@pron1%gen,matere@n
+
+"But this his tale, which that ye may heere.""",||,"But this his tale, which that ye may here.”"
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,But,this,his,tale,which,that,ye,may,heere
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,u,S,u,Su,S,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,but@conj,this@pron%contr,his@pron1%gen,tale@n,which@pron,that@pron,ye@pron%pl_nom,mouen@v3%pr_pl,heren@v%inf
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,But,this,his,tale,which,that,ye,may,here
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,u,S,u,Su,S,u,S,u,Sx
+data/riverside_cats/ClPro_riv.cat,data/oxford_txts/ClPro_oxford.txt,data/csvs/ClPro,The Clerk's Prologue 56,,,10,but@conj,this@pron%contr,his@pron1%gen,tale@n,which@pron,that@pron,ye@pron%pl_nom,mouen@v3%pr_pl,heren@v%inf
+

@@ -49,7 +49,7 @@ def merge_with_green_flags(todo_file, in_progress_file, output_file):
 # Usage
 if __name__ == "__main__":
     merge_with_green_flags(
-        todo_file='for_gui/to_do/PF_gui.csv',
-        in_progress_file='for_gui/in_progress/PF_inprogress.csv',
-        output_file='for_gui/in_progress/PF_gui_WORKINGCOPY.csv'
+        todo_file='for_gui/to_do/HF_gui.csv',
+        in_progress_file='for_gui/done/HF_gui_complete.csv',
+        output_file='for_gui/done/HF_gui_corrected_scansion.csv'
     )

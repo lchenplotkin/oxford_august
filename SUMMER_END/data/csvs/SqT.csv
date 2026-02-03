@@ -207,12 +207,12 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 34,,,9,but@conj,for@prep#adv,to@part,tellen@v%inf,you@pron%pl_obj,al@gram_adj,hire@pron1%fem_gen,beaute@n
 
 "It lyth nat in my tonge, n' yn my konnyng;",||,"It lith° nat in my tonge, n’in° my conning;°"
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,It,lyth,nat,in,my,tonge,n,yn,my,konnyng
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,u,S,u,S,u,Sx,,u,S,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,ne@conj1,in@prep,min@pron%gen,conninge@ger
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,It,lith,nat,in,my,tonge,nin,my,conning
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,u,S,u,S,u,Sx,u,S,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,DIFF,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,,min@pron%gen,conninge@ger
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,It,lyth,nat,in,my,tonge,n,yn,my,konnyng
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,u,S,u,S,u,Sx,,u,S,uS
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,ne@conj1,in@prep,min@pron%gen,conninge@ger
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,It,lith,nat,in,my,tonge,n,in,my,conning
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,u,S,u,S,u,Sx,,u,S,uS
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 35,,,10,hit@pron,lien@v1%pr_3,not@adv,in@prep,min@pron%gen,tonge@n2,ne@conj1,in@prep,min@pron%gen,conninge@ger
 
 I dar nat undertake so heigh a thyng.,||,I dar nat undertak so heigh a thing.
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 36,,,10,I,dar,nat,undertake,so,heigh,a,thyng
@@ -431,12 +431,12 @@ data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,Th
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 62,,,10,that@conj,in@prep,this@gram_adj,world@n,ne@adv,ben@v%pt_3,ther@adv,non@pron,hit@pron,like@prep
 
 "Of which if I shal tellen al th' array,",||,"Of which if I shal tellen al th’array,°"
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,Of,which,if,I,shal,tellen,al,th,array
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,u,S,u,S,u,Su,S,,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,the@def_art,arrai@n
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,Of,which,if,I,shal,tellen,al,tharray
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,u,S,u,S,u,Su,S,uS
-data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,DIFF,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,Of,which,if,I,shal,tellen,al,th,array
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,u,S,u,S,u,Su,S,,uS
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,the@def_art,arrai@n
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,Of,which,if,I,shal,tellen,al,th,array
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,u,S,u,S,u,Su,S,,uS
+data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 63,,,10,of@prep,which@pron,if@conj,ich@pron%nom,shulen@v1%pr_3,tellen@v%inf,al@gram_adj,the@def_art,arrai@n
 
 "Thanne wolde it occupie a someres day,",||,Than wolde it occupie a someres day;
 data/riverside_cats/SqT_riv.cat,data/oxford_txts/SqT_oxford.txt,data/csvs/SqT,The Squire's Tale 64,,,10,Thanne,wolde,it,occupie,a,someres,day

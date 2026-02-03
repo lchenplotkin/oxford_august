@@ -1,10 +1,10 @@
 "In th' olde dayes of the Kyng Arthour,",||,"¶In th’olde dayes of the king Arthour,"
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,In,th,olde,dayes,of,the,Kyng,Arthour
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,u,,Su,Su,S,u,S,uS
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,in@prep,the@def_art,olde@adj,dai@n%pl,of@prep,the@def_art,king@n,arthour@n#propn
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,In,tholde,dayes,of,the,king,Arthour
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,u,Su,Su,S,u,S,uS
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,DIFF,,10,in@prep,,dai@n%pl,of@prep,the@def_art,king@n,arthour@n#propn
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,In,th,olde,dayes,of,the,Kyng,Arthour
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,u,,Su,Su,S,u,S,uS
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,in@prep,the@def_art,olde@adj,dai@n%pl,of@prep,the@def_art,king@n,arthour@n#propn
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,In,th,olde,dayes,of,the,king,Arthour
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,u,,Su,Su,S,u,S,uS
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 857,,,10,in@prep,the@def_art,olde@adj,dai@n%pl,of@prep,the@def_art,king@n,arthour@n#propn
 
 "Of which that Britons speken greet honour,",||,"Of which that Britons speken greet honour,"
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 858,,,10,Of,which,that,Britons,speken,greet,honour
@@ -1743,12 +1743,12 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1074,,,10,that@conj,for@prep,min@pron%gen,necligence@n,ich@pron%nom,don@v1%pr_1,no@gram_adj,cure@n1
 
 To tellen yow the joye and al th' array,||,To tellen yow the joye and al th’array°
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,To,tellen,yow,the,joye,and,al,th,array
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,u,Su,S,u,S,u,S,,uS
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,to@part,tellen@v%inf,you@pron%pl_obj,the@def_art,joie@n,and@conj,al@gram_adj,the@def_art,arrai@n
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,To,tellen,yow,the,joye,and,al,tharray
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,u,Su,S,u,S,u,S,uS
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,DIFF,,10,to@part,tellen@v%inf,you@pron%pl_obj,the@def_art,joie@n,and@conj,al@gram_adj,
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,To,tellen,yow,the,joye,and,al,th,array
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,u,Su,S,u,S,u,S,,uS
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,to@part,tellen@v%inf,you@pron%pl_obj,the@def_art,joie@n,and@conj,al@gram_adj,the@def_art,arrai@n
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,To,tellen,yow,the,joye,and,al,th,array
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,u,Su,S,u,S,u,S,,uS
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1075,,,10,to@part,tellen@v%inf,you@pron%pl_obj,the@def_art,joie@n,and@conj,al@gram_adj,the@def_art,arrai@n
 
 That at the feeste was that ilke day.,||,That at the feste° was that ilke day.
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1076,,,10,That,at,the,feeste,was,that,ilke,day
@@ -3223,12 +3223,12 @@ data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,Th
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1259,,,10,hous-bonde@n%pl,mek@adj,yong@adj,and@conj,fresh@adj,abedde@adv
 
 And grace t' overbyde hem that we wedde;,||,And grace t’overbide° hem that we wedde.
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,And,grace,t,overbyde,hem,that,we,wedde
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,u,Su,,SuSx,u,S,u,Sx
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,and@conj,grace@n,to@part,overbiden@v%inf,hem@pron%pl_obj,that@pron,we@pron%pl_nom,wedden@v%pr_pl
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,And,grace,toverbide,hem,that,we,wedde
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,u,Su,SuSx,u,S,u,Sx
-data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,DIFF,,10,and@conj,grace@n,,hem@pron%pl_obj,that@pron,we@pron%pl_nom,wedden@v%pr_pl
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,And,grace,t,overbyde,hem,that,we,wedde
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,u,Su,,SuSx,u,S,u,Sx
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,and@conj,grace@n,to@part,overbiden@v%inf,hem@pron%pl_obj,that@pron,we@pron%pl_nom,wedden@v%pr_pl
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,And,grace,t,overbide,hem,that,we,wedde
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,u,Su,,SuSx,u,S,u,Sx
+data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1260,,,10,and@conj,grace@n,to@part,overbiden@v%inf,hem@pron%pl_obj,that@pron,we@pron%pl_nom,wedden@v%pr_pl
 
 And eek I praye Jhesu shorte hir lyves,||,And eek I praye Jhesu shorte hir lives
 data/riverside_cats/WBT_riv.cat,data/oxford_txts/WBT_oxford.txt,data/csvs/WBT,The Wife of Bath's Tale 1261,,,10,And,eek,I,praye,Jhesu,shorte,hir,lyves
