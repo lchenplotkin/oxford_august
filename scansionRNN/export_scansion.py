@@ -48,6 +48,9 @@ def build_stress_line(text, marked):
         is_vowel = c.lower() in 'aeiouy'
         
         if is_vowel:
+            if i>1:
+                if marked[i-1]==c:
+                    vowel_positions.append((char_pos, 'x', c.lower()))
             if c == c.upper():
                 vowel_positions.append((char_pos, 'S', c.lower()))
             else:
