@@ -15,7 +15,7 @@ def vowel_clusters(word: str) -> List[Tuple[str, str, str]]:
 	Returns a list of tuples (prev_consonant, vowel_cluster, next_consonant)
 	where consonants are shared between adjacent clusters.
 	"""
-	clusters = re.findall(r"(^|[^aeiouy]+)([aeiouy]+)([^aeiouy]+$)?", word.lower())
+	clusters = re.findall(r"(^|[^aeou]+)([aeou]+)([^aeou]+$)?", word.lower())
 	if not clusters:
 		return []
 
@@ -156,7 +156,7 @@ def analyze_word(word: str, prev_word: str = None, next_word: str = None) -> Lis
 				counts = [1]
 			elif is_final_e:
 				# Final -e after consonant: can be silent (0) or unstressed (1)
-				counts = [0, 1]
+				counts = [1, 0]
 			elif is_vowel_ending and next_word_vowel and vowels == "e":
 				counts = [0, 1]
 			elif is_vowel_ending and next_word_vowel:
@@ -164,12 +164,14 @@ def analyze_word(word: str, prev_word: str = None, next_word: str = None) -> Lis
 			elif is_vowel_ending and next_word in ELISION_FOLLOWERS and vowels == "e":
 				counts = [0, 1]
 			elif is_vowel_ending and next_word_start and vowels == "e":
-				counts = [0, 1]
+				counts = [1, 0]
 			elif is_vowel_ending and next_word in ELISION_FOLLOWERS:
 				counts = [1, 0]
 			elif vowels == "e" and is_vowel_ending and end == "":
-				counts = [0, 1]
+				counts = [1, 0]
 			elif vowels == "e" and len(clusters)>1 and end in ['d','r','s','n','th','st']:
+				counts = [1, 0]
+			elif start == 'y':
 				counts = [1, 0]
 			else:
 				counts = [1]
