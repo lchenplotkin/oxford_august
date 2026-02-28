@@ -1,0 +1,9 @@
+[project]
+name = "chaucer"
+
+[dependency-groups]
+all = [
+  "numpy",
+  "torch",
+  "steamroller"
+]

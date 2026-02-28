@@ -1,3 +1,7 @@
 .DS_Store
 SUMMER_END/.DS_Store
 SUMMER_END/for_gui/.DS_Store
+custom.py
+.sconsign.dblite
+work
+*__pycache__*
