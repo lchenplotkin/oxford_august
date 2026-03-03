@@ -162,10 +162,14 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			word = words[j].lower()
 			headword = headwords[j]
 			tag = clean_tag(tags[j])
+			if j < len(tags)-1:
+				next_tag = clean_tag(tags[j+1])
+			else:
+				next_tag = ''
 			next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
 
 			# Skip if elided
-			if is_elided(word, next_word):
+			if is_elided(word, next_word, next_tag):
 				continue
 			if next_word == 'END':
 				continue
@@ -227,19 +231,19 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 				violated = True
 				reason += "example of irregular / preterite-present present plural verb not ending in -e/-en"
 			if verb_class == "weak" and tag in ['v%pt_1', 'v%pt_3']:
-				for ending in ['de','te','d','t']:
+				for ending in ['de','te']:#,'d','t']:
 					if word.endswith(ending):
 						pt_weak_endings[ending]+=1
-				if word.endswith('ede'):
-					print(word, tag, original_text, line_number)
-				if not (word.endswith('de') or word.endswith('te') or word.endswith('d') or word.endswith('t')): 
+				#if word.endswith('ede'):
+				#	print(word, tag, original_text, line_number)
+				if not (word.endswith('de') or word.endswith('te') or word.endswith('d')):# or word.endswith('t')): 
 					violated = True
-					reason += "Singular weak preterite verbs in 1st/3rd person end in -t(e)/-d(e)"
+					reason += "Singular weak preterite verbs in 1st/3rd person end in -e"# -t(e)/-d(e)"
 					pt_weak_endings['x']+=1
 			if verb_class == 'pretpres' and tag in ['v%pt_1', 'v%pt_3']:
-				if not (word.endswith('de') or word.endswith('te') or word.endswith('d') or word.endswith('t')): 
+				if not (word.endswith('de') or word.endswith('te')):# or word.endswith('d') or word.endswith('t')): 
 					violated = True
-					reason += "Preterite-present verbs should act like weak verbs in the past tense, and should in 1st/3rd person preterite end in -t(e)/-d(e)"
+					reason += "Preterite-present verbs should act like weak verbs in the past tense, and should in 1st/3rd person preterite end in -e"#-t(e)/-d(e)"
 		
 			
 			if verb_class == "strong" and tag == 'v%ppl' and not (word.endswith('e') or word.endswith('en')):

@@ -138,10 +138,14 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			word = words[j].lower()
 			headword = headwords[j]
 			tag = clean_tag(tags[j])
+			if j<len(tags)-1:
+				next_tag = clean_tag(tags[j+1])
+			else:
+				next_tag = ''
 			next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
 
 			# Skip if elided
-			if is_elided(word, next_word):
+			if is_elided(word, next_word, next_tag):
 				continue
 			if next_word == 'END':
 				continue
@@ -185,9 +189,9 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			if tag == 'v%pr_pl' and not (word.endswith('en') or word.endswith('e')):
 				violated = True
 				reason += "RULE 6: Present plural verbs end in -e/-en"
-			if verb_class == "weak" and tag in ['v%pt_1', 'v%pt_3'] and not (word.endswith('de') or word.endswith('te') or word.endswith('d') or word.endswith('t')): 
+			if verb_class == "weak" and tag in ['v%pt_1', 'v%pt_3'] and not (word.endswith('de') or word.endswith('te')):# or word.endswith('d') or word.endswith('t')): 
 				violated = True
-				reason += "Rule 7: Singular weak preterite verbs in 1st/3rd person end in -t(e)/-d(e)"
+				reason += "Rule 7: Singular weak preterite verbs in 1st/3rd person end in -te/-de"
 			if verb_class == "strong" and tag == 'v%ppl' and not (word.endswith('e') or word.endswith('en')):
 				violated = True
 				reason += "Rule 8: Past participles of strong verbs end in -e/-en"

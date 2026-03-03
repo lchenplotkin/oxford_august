@@ -85,9 +85,9 @@ RULES.append(Rule(
 # RULE 7
 RULES.append(Rule(
     rule_id="R7_WEAK_PRET_END",
-    description="Weak singular preterite ends in -e/-d/-t",
+    description="Weak singular preterite ends in -e",#/-d/-t",
     applies_fn=lambda t: t["verb_class"] == "weak" and t["tag"] in ["v%pt_1", "v%pt_3"],
-    check_fn=lambda t: ends_with(t["word"], ["e", "d", "t"]),
+    check_fn=lambda t: ends_with(t["word"], ["e"]),#, "d", "t"]),
 ))
 
 # RULE 8

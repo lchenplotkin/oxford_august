@@ -49,9 +49,13 @@ def build_stress_line(text, marked):
         
         if is_vowel:
             if i>1:
-                if marked[i-1]==c:
+                if (marked[i-1] in 'AEIOUY' and c == c.upper()) or (marked[i-1] in 'aeiouy' and c == c.lower()):
                     vowel_positions.append((char_pos, 'x', c.lower()))
-            if c == c.upper():
+                elif c == c.upper():
+                    vowel_positions.append((char_pos, 'S', c.lower()))
+                else:
+                    vowel_positions.append((char_pos, 'u', c.lower()))
+            elif c == c.upper():
                 vowel_positions.append((char_pos, 'S', c.lower()))
             else:
                 vowel_positions.append((char_pos, 'u', c.lower()))
@@ -121,6 +125,7 @@ def create_scansion_docx(input_file, output_file):
             
             # Build stress line
             stress_line = build_stress_line(line, formatted['marked_words'])
+            print(stress_line)
             
             # Add stress notation line
             p1 = doc.add_paragraph()
@@ -138,6 +143,7 @@ def create_scansion_docx(input_file, output_file):
             run2 = p2.add_run(line)
             run2.font.name = 'Courier New'
             run2.font.size = Pt(11)
+            print(line)
             
             # Add metadata line
             p3 = doc.add_paragraph()
@@ -148,6 +154,7 @@ def create_scansion_docx(input_file, output_file):
             run3.font.name = 'Arial'
             run3.font.size = Pt(9)
             run3.font.color.rgb = RGBColor(102, 102, 102)
+            print(metadata_text)
         else:
             # Line failed to scan
             p1 = doc.add_paragraph()
@@ -156,6 +163,7 @@ def create_scansion_docx(input_file, output_file):
             run1.font.size = Pt(11)
             run1.font.color.rgb = RGBColor(255, 0, 0)
             p1.paragraph_format.space_after = Pt(18)
+            print("FAILED TO SCAN: ", line)
     
         num+=1
         print(num, "lines done")
