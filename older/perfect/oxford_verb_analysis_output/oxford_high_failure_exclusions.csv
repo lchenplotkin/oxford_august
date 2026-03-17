@@ -1,0 +1,50 @@
+rule,headword
+Past plural ends in -en/-e,quethen
+Infinitive ends in -en/-e,forgon
+Infinitive ends in -en/-e,gon
+Present 3rd sg ends in -th,amenden
+Present 3rd sg ends in -th,ben
+Present 3rd sg ends in -th,bidden
+Present 3rd sg ends in -th,bitiden
+Present 3rd sg ends in -th,blessen
+Present 3rd sg ends in -th,connen
+Present 3rd sg ends in -th,durren
+Present 3rd sg ends in -th,finden
+Present 3rd sg ends in -th,gien
+Present 3rd sg ends in -th,listen
+Present 3rd sg ends in -th,lusten
+Present 3rd sg ends in -th,meten
+Present 3rd sg ends in -th,moten
+Present 3rd sg ends in -th,mouen
+Present 3rd sg ends in -th,saven
+Present 3rd sg ends in -th,shelden
+Present 3rd sg ends in -th,shulen
+Present 3rd sg ends in -th,speden
+Present 3rd sg ends in -th,sterven
+Present 3rd sg ends in -th,thurven
+Present 3rd sg ends in -th,willen
+Present 3rd sg ends in -th,witen
+Present 3rd sg ends in -th,yelden
+Weak pt sg ends in -ed/-d/-t,aspien
+Weak pt sg ends in -ed/-d/-t,bien
+Weak pt sg ends in -ed/-d/-t,bisetten
+Weak pt sg ends in -ed/-d/-t,brennen
+Weak pt sg ends in -ed/-d/-t,casten
+Weak pt sg ends in -ed/-d/-t,durren
+Weak pt sg ends in -ed/-d/-t,feden
+Weak pt sg ends in -ed/-d/-t,fetten
+Weak pt sg ends in -ed/-d/-t,kepen
+Weak pt sg ends in -ed/-d/-t,kissen
+Weak pt sg ends in -ed/-d/-t,lepen
+Weak pt sg ends in -ed/-d/-t,sechen
+Weak pt sg ends in -ed/-d/-t,speden
+Weak pt sg ends in -ed/-d/-t,spenden
+Weak pt sg ends in -ed/-d/-t,stinten
+Weak pt sg ends in -ed/-d/-t,tellen
+Weak pt sg ends in -ed/-d/-t,werken
+Present plural ends in -en/-e,don
+Present plural ends in -en/-e,gon
+Present plural ends in -en/-e,mouen
+Present plural ends in -en/-e,shulen
+Present plural ends in -en/-e,willen
+Strong participle ends in -en/-e,sweren

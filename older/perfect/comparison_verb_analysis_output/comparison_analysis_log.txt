@@ -1,0 +1,21 @@
+Oxford vs Riverside Verb Comparison Analysis - Complete
+==================================================
+
+ORIGINAL COMPARISON (All Headwords):
+Oxford Only Exceptions: 276
+Riverside Only Exceptions: 212
+Exceptions in Both Texts: 5026
+
+EXCLUDED COMPARISON (High-Failure Headwords Removed):
+Oxford Only Exceptions: 490
+Riverside Only Exceptions: 165
+Exceptions in Both Texts: 1374
+
+Files generated in this directory:
+- *_original.csv - Original comparison files (all headwords)
+- *_excluded.csv - Excluded comparison files (high-failure headwords removed)
+- *_original.docx - Original comparison documents (all headwords)
+- *_excluded.docx - Excluded comparison documents (high-failure headwords removed)
+- comparison_summary_original.docx - Original detailed comparison summary
+- comparison_summary_excluded.docx - Excluded detailed comparison summary
+- comparison_analysis_log.txt - This log file

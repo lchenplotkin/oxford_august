@@ -1,0 +1,123 @@
+======================================================================
+CHAUCER ADJECTIVE DECLENSION - GROUP ANALYSIS SUMMARY
+======================================================================
+
+AGGREGATE GROUPS
+----------------------------------------------------------------------
+
+BD:
+  Files: 1
+  Monosyllabic adjectives: 293
+  Overall accuracy: 55.29% (162/293)
+  Overall accuracy (filtered): 65.19% (191/293)
+  Weak declension: 71.15% (37/52)
+  Plural forms: 85.71% (18/21)
+  Strong forms (filtered): 61.82% (136/220)
+
+EarlyMid_CT:
+  Files: 8
+  Monosyllabic adjectives: 726
+  Overall accuracy: 73.28% (532/726)
+  Overall accuracy (filtered): 83.61% (607/726)
+  Weak declension: 94.20% (130/138)
+  Plural forms: 89.23% (58/65)
+  Strong forms (filtered): 80.11% (419/523)
+
+Early_CT:
+  Files: 1
+  Monosyllabic adjectives: 85
+  Overall accuracy: 68.24% (58/85)
+  Overall accuracy (filtered): 81.18% (69/85)
+  Weak declension: 93.33% (14/15)
+  Plural forms: 90.91% (10/11)
+  Strong forms (filtered): 76.27% (45/59)
+
+LGW:
+  Files: 2
+  Monosyllabic adjectives: 533
+  Overall accuracy: 72.05% (384/533)
+  Overall accuracy (filtered): 80.68% (430/533)
+  Weak declension: 89.68% (139/155)
+  Plural forms: 90.00% (54/60)
+  Strong forms (filtered): 74.53% (237/318)
+
+LateMid_CT:
+  Files: 7
+  Monosyllabic adjectives: 1053
+  Overall accuracy: 69.52% (732/1053)
+  Overall accuracy (filtered): 80.63% (849/1053)
+  Weak declension: 85.42% (205/240)
+  Plural forms: 84.21% (64/76)
+  Strong forms (filtered): 78.70% (580/737)
+
+Late_CT:
+  Files: 17
+  Monosyllabic adjectives: 970
+  Overall accuracy: 72.27% (701/970)
+  Overall accuracy (filtered): 81.96% (795/970)
+  Weak declension: 90.05% (190/211)
+  Plural forms: 77.78% (63/81)
+  Strong forms (filtered): 79.94% (542/678)
+
+Links:
+  Files: 12
+  Monosyllabic adjectives: 152
+  Overall accuracy: 71.05% (108/152)
+  Overall accuracy (filtered): 83.55% (127/152)
+  Weak declension: 82.14% (23/28)
+  Plural forms: 84.62% (11/13)
+  Strong forms (filtered): 83.78% (93/111)
+
+PF:
+  Files: 1
+  Monosyllabic adjectives: 139
+  Overall accuracy: 71.22% (99/139)
+  Overall accuracy (filtered): 82.73% (115/139)
+  Weak declension: 92.31% (24/26)
+  Plural forms: 95.24% (20/21)
+  Strong forms (filtered): 77.17% (71/92)
+
+TC:
+  Files: 5
+  Monosyllabic adjectives: 1584
+  Overall accuracy: 70.96% (1124/1584)
+  Overall accuracy (filtered): 80.11% (1269/1584)
+  Weak declension: 88.51% (339/383)
+  Plural forms: 93.18% (164/176)
+  Strong forms (filtered): 74.73% (766/1025)
+
+
+======================================================================
+INDIVIDUAL TEXTS
+----------------------------------------------------------------------
+
+BD: 65.19% (191/293) - 293 monosyllabic adj.
+CYT: 82.71% (110/133) - 133 monosyllabic adj.
+ClT: 77.61% (208/268) - 268 monosyllabic adj.
+FranT: 83.15% (148/178) - 178 monosyllabic adj.
+GP: 86.50% (205/237) - 237 monosyllabic adj.
+LGW: 80.68% (430/533) - 533 monosyllabic adj.
+MLT: 79.08% (155/196) - 196 monosyllabic adj.
+MancT: 77.61% (52/67) - 67 monosyllabic adj.
+MerT: 86.18% (237/275) - 275 monosyllabic adj.
+MilT: 81.98% (141/172) - 172 monosyllabic adj.
+NPT: 81.67% (98/120) - 120 monosyllabic adj.
+PF: 82.73% (115/139) - 139 monosyllabic adj.
+PardT: 75.24% (79/105) - 105 monosyllabic adj.
+PhyT: 85.07% (57/67) - 67 monosyllabic adj.
+PrT: 71.05% (27/38) - 38 monosyllabic adj.
+RvT: 86.05% (74/86) - 86 monosyllabic adj.
+SNT: 81.18% (69/85) - 85 monosyllabic adj.
+ShipT: 85.44% (88/103) - 103 monosyllabic adj.
+SqT: 86.72% (111/128) - 128 monosyllabic adj.
+SumT: 78.43% (80/102) - 102 monosyllabic adj.
+TC1: 84.36% (178/211) - 211 monosyllabic adj.
+TC2: 80.84% (270/334) - 334 monosyllabic adj.
+TC3: 77.38% (284/367) - 367 monosyllabic adj.
+TC4: 83.56% (249/298) - 298 monosyllabic adj.
+TC5: 77.01% (288/374) - 374 monosyllabic adj.
+Thop: 86.44% (51/59) - 59 monosyllabic adj.
+WBPro: 74.84% (119/159) - 159 monosyllabic adj.
+WBT: 80.77% (84/104) - 104 monosyllabic adj.
+
+======================================================================
