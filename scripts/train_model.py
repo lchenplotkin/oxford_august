@@ -3,7 +3,9 @@ import gzip
 import logging
 from copy import deepcopy
 import random
+from itertools import accumulate
 import os.path
+import re
 import argparse
 import torch
 from torch.nn import Module, Embedding, LSTM, Linear
@@ -11,20 +13,13 @@ from torch.nn.utils.rnn import pad_sequence, unpad_sequence
 from torch.nn.utils import clip_grad_norm_
 from torch.nn.functional import cross_entropy
 from torch.optim import AdamW
-from torch.utils.data import DataLoader
-from rnn import RNNModel
+import models
+from utils import run_epoch
+from data import DataSet, DataLoader
 
 
 logger = logging.getLogger("train_model")
 
-
-def collate(items):
-    words = pad_sequence([x for x, _, _, _, _ in items], batch_first=True)
-    stresses = pad_sequence([x for _, x, _, _, _ in items], batch_first=True)
-    lengths = torch.tensor([x for _, _, x, _, _ in items])
-    books = [x for _, _, _, x, _ in items]
-    return (words, stresses, lengths, books)
-        
 
 if __name__ == "__main__":
     
@@ -38,12 +33,16 @@ if __name__ == "__main__":
     parser.add_argument("--hidden_size", type=int, default=64)
     parser.add_argument("--batch_size", type=int, default=1024)
     parser.add_argument("--learning_rate", type=float, default=0.005)
-    parser.add_argument("--use_loss_for_lr", action="store_true", default=False)
     parser.add_argument("--max_epochs", type=int, default=10)
+    parser.add_argument("--limit", type=int, help="Limit each of train/dev/test to this number of lines")
+    parser.add_argument("--validation_metric", choices=["loss", "stress_accuracy", "scan_accuracy"], default="stress_accuracy")
     parser.add_argument("--unidirectional", action="store_true", default=False)
     parser.add_argument("--device")
+    parser.add_argument("--granularity", choices=["word_scan", "word_stress", "char_scan", "char_stress", "hierarchical_scan", "hierarchical_stress"], default="word_scan")
     args = parser.parse_args()
 
+    metric_weight = 1 if args.validation_metric == "loss" else -1
+    
     logging.basicConfig(level=logging.INFO)
     
     if args.seed != None:
@@ -58,116 +57,74 @@ if __name__ == "__main__":
         device = torch.device('cpu')
 
     torch.set_default_device(device)
-    logger.info("Using device = %s", torch.get_default_device())
+    logger.info("Using device = %s", device) #torch.get_default_device())
 
-    
-    stress_vocab = {None : 0}
+    model_class = getattr(models, "{}Model".format(args.granularity.replace("_", " ").title().replace(" ", ""))) #[args.model_type]
+
+    scan_vocab = {"" : 0}
+    stress_vocab = {None : 0, False : 1}
+    char_vocab = {None : 0}
     word_vocab = {None : 0}
     splits = {}
 
-    for split, fname in [
-            ("train", args.train),
+    splits["train"] = DataSet.from_files(args.train, limit=args.limit, zeroing_proportion=0.1).to(device)
+    for split_name, fname in [
             ("dev", args.dev),
             ("test", args.test)
             ]:
-        splits[split] = []
-        with gzip.open(fname, "rt") as ifd:
-            for line in ifd:
-                j = json.loads(line)
-                words = j["text"].split()
-                stresses = j["scansion"].split()
-                if len(words) == len(stresses):
-                    splits[split].append(
-                        (
-                            torch.tensor([word_vocab.setdefault(w, len(word_vocab)) for w in words]),
-                            torch.tensor([stress_vocab.setdefault(s, len(stress_vocab)) for s in stresses]),
-                            len(words),
-                            j["source"],
-                            j["line"]
-                        )
-                    )
+        splits[split_name] = DataSet.from_files(fname, reference=splits["train"], limit=args.limit).to(device)
+
     logger.info(
-        "Split data into %d/%d/%d train/dev/test lines, word vocabulary size=%d, stress pattern vocabulary size=%d",
+        "Split data into %d/%d/%d train/dev/test lines, #unique words=%d, characters=%d, word scans=%d, stress marks=%d",
         len(splits["train"]),
         len(splits["dev"]),
         len(splits["test"]),
-        len(word_vocab),
-        len(stress_vocab)
+        len(splits["train"]._id2word),
+        len(splits["train"]._id2char),
+        len(splits["train"]._scan2id),
+        len(splits["train"]._id2stress),        
     )
-    
-    train_dl = DataLoader(splits["train"], batch_size=args.batch_size, collate_fn=collate, shuffle=True, generator=torch.Generator(device=device))
-    dev_dl = DataLoader(splits["dev"], batch_size=args.batch_size, collate_fn=collate)
-    test_dl = DataLoader(splits["test"], batch_size=args.batch_size, collate_fn=collate)
 
-    model = RNNModel(args.embedding_size, word_vocab, args.hidden_size, stress_vocab, not args.unidirectional)
+    train_dl = DataLoader(splits["train"], batch_size=args.batch_size, shuffle=True, device=device)
+    dev_dl = DataLoader(splits["dev"], batch_size=args.batch_size, device=device)
+    test_dl = DataLoader(splits["test"], batch_size=args.batch_size, device=device)
+
+    model = model_class(
+        args.embedding_size,
+        splits["train"]._word2id,
+        splits["train"]._char2id,
+        splits["train"]._scan2id,
+        splits["train"]._stress2id,
+        args.hidden_size,
+        not args.unidirectional
+    ).to(device)
     
+    print(model)
+
     opt = AdamW(model.parameters(), lr=args.learning_rate)
-
+    
     best_dev_score = None
     best_state_dict = None
     for epoch in range(args.max_epochs):
-        train_losses = []
-        dev_losses = []
-        dev_guesses = []
-        dev_golds = []
-        model.train()
-        for words, stresses, lengths, fnames in train_dl:
-            out = model(words)
-            ces = cross_entropy(torch.transpose(out, 1, 2), stresses, reduction="none")
-            uces = unpad_sequence(ces, lengths, batch_first=True)
-            loss = sum([x.sum() for x in uces])
-            loss.backward()
-            clip_grad_norm_(model.parameters(), 3)
-            opt.step()
-            opt.zero_grad()
-            train_losses.append(loss.detach().item())
-        train_loss = sum(train_losses) / (len(train_losses) * args.batch_size)
-        model.eval()
-        for words, stresses, lengths, fnames in dev_dl:
-            out = model(words)
-            dev_guesses.append(torch.cat(unpad_sequence(out.argmax(dim=2).detach(), lengths, batch_first=True)))
-            dev_golds.append(torch.cat(unpad_sequence(stresses.detach(), lengths, batch_first=True)))            
-            kls = cross_entropy(torch.transpose(out, 1, 2), stresses, reduction="none")
-            loss = sum([x.sum() for x in unpad_sequence(kls, lengths, batch_first=True)])
-            dev_losses.append(loss.detach().item())
-        dev_loss = sum(dev_losses) / (len(dev_losses) * args.batch_size)
-        dev_guesses = torch.cat(dev_guesses)
-        dev_golds = torch.cat(dev_golds)
-        dev_acc = (dev_guesses == dev_golds).sum() / dev_guesses.shape[0]
+        train_results = run_epoch(model, train_dl, optimizer=opt)
+        dev_results = run_epoch(model, dev_dl)
         logger.info(
-            "Epoch %d average instance loss (train/dev): %f/%f\n  Dev accuracy: %f",
+            "Epoch %d average loss per word (train/dev): %.4f/%.4f\n  Dev stress/scan accuracy: %.4f/%.4f",
             epoch + 1,
-            train_loss,
-            dev_loss,
-            dev_acc
+            train_results["loss"],
+            dev_results["loss"],
+            dev_results["stress_accuracy"],
+            dev_results["scan_accuracy"]
         )        
-        dev_score = -dev_loss if args.use_loss_for_lr else dev_acc
-        if not best_dev_score or dev_score > best_dev_score:
+        if not best_dev_score or (metric_weight * dev_results[args.validation_metric]) < best_dev_score:
             logger.info("Saving new best model")
-            best_dev_score = dev_score
+            best_dev_score = metric_weight * dev_results[args.validation_metric]
             best_state_dict = deepcopy(model.state_dict())
 
     model.load_state_dict(best_state_dict)
-    model.eval()
-    test_losses = []
-    test_guesses = []
-    test_golds = []
-    test_fnames = []
-    
-    for words, stresses, lengths, fnames in test_dl:
-        out = model(words)
-        test_fnames.append(sum([[f] * l for l, f in zip(lengths, fnames)], []))
-        test_guesses.append(torch.cat(unpad_sequence(out.argmax(dim=2).detach(), lengths, batch_first=True)))
-        test_golds.append(torch.cat(unpad_sequence(stresses.detach(), lengths, batch_first=True)))            
-        kls = cross_entropy(torch.transpose(out, 1, 2), stresses, reduction="none")
-        loss = sum([x.sum() for x in torch.nn.utils.rnn.unpad_sequence(kls, lengths, batch_first=True)])
-        test_losses.append(loss.detach().item())
-        
-    test_fnames = sum(test_fnames, [])
-    test_guesses = torch.cat(test_guesses)
-    test_golds = torch.cat(test_golds)
-    test_acc = (test_guesses == test_golds).sum() / test_guesses.shape[0]        
-    logger.info("Final average instance loss (test): %f\n  Test accuracy: %f", sum(test_losses) / (len(test_losses) * args.batch_size), test_acc)
+    test_results = run_epoch(model, test_dl)
+
+    logger.info("Final test performance:\n  Average loss per word: %.4f\n  Stress/scan accuracy: %.4f/%.4f", test_results["loss"], test_results["stress_accuracy"], test_results["scan_accuracy"])
     
     with open(args.output, "wb") as ofd:
         torch.save(model, ofd)

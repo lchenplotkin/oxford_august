@@ -25,6 +25,8 @@ source local/bin/activate
 
 ## Running experiments
 
+Uncomment one level of the `custom.py` file, and potentially edit the settings to match your goals.
+
 While within the environment, invoking:
 
 ```
@@ -35,4 +37,4 @@ will print the commands that would be run to perform all defined experiments. Re
 
 ## Defining experiments
 
-Experiments are described in the `SConstruct` file, in terms of *build rules* each implemented as a Python script under `scripts/`, and how they are strung together. Variables can be overridden locally by adding or changing entries in the `custom.py` file (which is *not* under version control).
+Experimental structure is defined in the `SConstruct` file, in terms of *build rules* each implemented as a Python script under `scripts/`, and how they are strung together. Variables can be overridden locally by adding or changing entries in the `custom.py` file (which is *not* under version control): this is where the particular experiments to perform are defined.

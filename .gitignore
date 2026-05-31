@@ -5,3 +5,5 @@ custom.py
 .sconsign.dblite
 work
 *__pycache__*
+*~
+*#*
