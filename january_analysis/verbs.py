@@ -202,9 +202,9 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			if tag == 'v%pr_pl' and not (word.endswith('en') or word.endswith('e')):
 				violated = True
 				reason += "RULE 6: Present plural verbs end in -e/-en"
-			if verb_class == "weak"	 and tag in ['v%pt_1', 'v%pt_3'] and not (word.endswith('e') or word.endswith('d') or word.endswith('t')): 
+			if verb_class == "weak"	 and tag in ['v%pt_1', 'v%pt_3'] and not (word.endswith('de') or word.endswith('te') or word.endswith('d') or word.endswith('t')): 
 				violated = True
-				reason += "Rule 7: Singular weak preterite verbs in the first and third person end in -e/-d/-t"
+				reason += "Rule 7: Singular weak preterite verbs in the first and third person end in -t(e)/-d(e)"
 			if verb_class == "strong" and tag == 'v%ppl' and not (word.endswith('e') or word.endswith('en')):
 				violated = True
 				reason +=" Rule 8: Past participles of strong verbs end in -e/-en"

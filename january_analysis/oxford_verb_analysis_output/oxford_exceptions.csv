@@ -1190,6 +1190,7 @@ haven,han,v%pr_pl,Troilus and Criseyde; Book III 1559,data/oxford_txts/TC3_oxfor
 connen,can,v%pr_pl,Troilus and Criseyde; Book III 1563,data/oxford_txts/TC3_oxford.txt,"This mery morwe, nece, how can ye fare?”",OXFORD,TC3_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book III 1572,data/oxford_txts/TC3_oxford.txt,"And seide, “Nece, if that I shal ben deed",OXFORD,TC3_gui_complete.csv
 haven,have,v%imp,Troilus and Criseyde; Book III 1573,data/oxford_txts/TC3_oxford.txt,"Have here a swerd, and smiteth of min heed.”",OXFORD,TC3_gui_complete.csv
+seien,he,v%pt_3,Troilus and Criseyde; Book III 1587,data/oxford_txts/TC3_oxford.txt,"He com anoon, nought ones seide he “Nay,”",OXFORD,TC3_gui_complete.csv
 beren,born,v%ppl,Troilus and Criseyde; Book III 1596,data/oxford_txts/TC3_oxford.txt,That he was born to bringe him fro distresse.,OXFORD,TC3_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book III 1622,data/oxford_txts/TC3_oxford.txt,"That I shal seyn, be war of this mischeef",OXFORD,TC3_gui_complete.csv
 seien,seyn,v%inf,Troilus and Criseyde; Book III 1622,data/oxford_txts/TC3_oxford.txt,"That I shal seyn, be war of this mischeef",OXFORD,TC3_gui_complete.csv
@@ -2576,6 +2577,7 @@ connen,kon,v%pr_pl,House of Fame 338,data/oxford_txts/HF_oxford.txt,How sore tha
 shulen,shal,v%pr_1,House of Fame 355,data/oxford_txts/HF_oxford.txt,"That° I ne shal be seid, allas",OXFORD,HF_gui_complete.csv
 shulen,shal,v%pr_1,House of Fame 357,data/oxford_txts/HF_oxford.txt,And that I shal thus juged be—,OXFORD,HF_gui_complete.csv
 don,doon,v%inf,House of Fame 361,data/oxford_txts/HF_oxford.txt,"¶But that° is doon, nis not to done;°",OXFORD,HF_gui_complete.csv
+wenden,chambre,v%pt_3,House of Fame 366,data/oxford_txts/HF_oxford.txt,She in hir chambre wente anoon,OXFORD,HF_gui_complete.csv
 sweren,ysworn,v%ppl,House of Fame 421,data/oxford_txts/HF_oxford.txt,And yet he had ysworn to here,OXFORD,HF_gui_complete.csv
 ben,am,v%pr_1,House of Fame 475,data/oxford_txts/HF_oxford.txt,"Ne wher I am, ne in what contree.",OXFORD,HF_gui_complete.csv
 sen,saw,v%pt_pl,House of Fame 504,data/oxford_txts/HF_oxford.txt,That never saw men such a sighte,OXFORD,HF_gui_complete.csv
