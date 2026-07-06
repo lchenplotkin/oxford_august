@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "scansion-tool",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8721", "--directory", "july_2026"],
+      "port": 8721
+    }
+  ]
+}
