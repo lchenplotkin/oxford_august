@@ -1,0 +1,19 @@
+#!/bin/bash
+# Double-click launcher for the Oxford Scansion Tool.
+#
+# If the local server isn't already running, opens a Terminal window that
+# starts it (so you can see logs and stop it with Ctrl+C); server.py opens
+# the tool in your default browser on its own once it's up. If the server
+# is already running (e.g. this app was launched before), just reopens the
+# browser tab instead of trying to start a second server on the same port.
+
+PORT=8721
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+SCANSION_DIR="$(cd "$SCRIPT_DIR/../../.." && pwd)"
+URL="http://localhost:$PORT/scansion_tool/oxford_scansion_gui.html"
+
+if curl -s -o /dev/null --max-time 1 "http://localhost:$PORT/api/list"; then
+	open "$URL"
+else
+	osascript -e "tell application \"Terminal\" to do script \"cd '$SCANSION_DIR' && python3 server.py $PORT\""
+fi
