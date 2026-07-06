@@ -308,6 +308,52 @@ button:disabled {
   margin-top: 8px;
 }
 
+.current-file-label {
+  margin-left: 12px;
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+}
+
+.modal-box {
+  background: var(--bg-color);
+  color: var(--text-color);
+  border: 1px solid var(--border-color);
+  border-radius: 6px;
+  padding: 20px;
+  max-width: 480px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.modal-box p {
+  margin: 0 0 8px 0;
+}
+
+.modal-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.modal-actions button.primary {
+  background: var(--accent-color);
+  color: white;
+  border: none;
+}
+
 .dark-mode-toggle {
   position: fixed;
   top: 10px;
@@ -330,9 +376,20 @@ button:disabled {
 	<button class="dark-mode-toggle" id="darkModeToggle">🌙 Dark Mode</button>
 
 	<div class="controls">
-	  <label>CSV File: <input type="file" id="csvFile" accept=".csv" /></label>
+	  <label>Open from project:
+		<select id="fileBrowserSelect"></select>
+	  </label>
+	  <button id="openSelectedFile">Open</button>
+	  <button id="refreshFileList">↻ Refresh List</button>
+	  <span id="currentFileLabel" class="current-file-label"></span>
+	</div>
+
+	<div class="controls">
+	  <label>Load External CSV: <input type="file" id="csvFile" accept=".csv" /></label>
 	  <label>Scansion Suggestions JSON: <input type="file" id="suggestionsFile" accept=".json" /></label>
+	  <span id="suggestionsStatus" class="current-file-label"></span>
 	  <button id="export">Export CSV</button>
+	  <button id="finishSave" disabled>✔ Finish &amp; Save</button>
 	  <label><input type="checkbox" id="toggleOriginal" checked /> Show Original Text</label>
 	</div>
 
@@ -383,11 +440,20 @@ button:disabled {
 	  </div>
 	</div>
 
+	<div class="modal-overlay" id="saveModalOverlay" style="display:none;">
+	  <div class="modal-box">
+		<div id="saveModalMessage"></div>
+		<div class="modal-actions">
+		  <button id="saveModalCancel">Cancel</button>
+		  <button id="saveModalProceed" class="primary">Proceed</button>
+		</div>
+	  </div>
+	</div>
+
 	<script>
 	  let csvData = [];
 	  let suggestions = {};
 	  let oxfordScansionEdits = {};
-	  let oxfordTextEdits = {};
 	  let lineFlags = {};
 	  let currentLine = null;
 	  let activeWordIndex = 0;
@@ -395,6 +461,30 @@ button:disabled {
 	  let darkMode = false;
 	  let initialFailureIds = new Set();  // frozen at CSV load; scansion failures don't drop out of the list as you fix them
 	  let syllablesSnapshotIds = null;    // frozen when the syllable-count mode/value is set, not recomputed on every edit
+
+	  // Undo history: snapshots of a single line's scansion + flag state, taken right
+	  // before each mutation, so Shift+Escape can restore everything about that line
+	  // (not just the active word) rather than only reverting one token.
+	  let undoStack = [];
+	  const MAX_UNDO = 100;
+
+	  // Project file management: tracks where the currently loaded CSV came from so
+	  // Finish & Save can write it to the right status folder and remove it from the old one.
+	  let currentSourceFolder = null;  // 'to_complete' | 'in_progress' | 'completed_unvetted' | 'gold' | null (external file)
+	  let currentSourceName = null;    // filename as it currently sits on disk
+	  let currentBaseName = null;      // filename with the folder's status suffix and .csv stripped
+
+	  const FOLDER_SUFFIX = {
+		in_progress: '_in_progress',
+		completed_unvetted: '_complete',
+		gold: '_gold',
+	  };
+	  const FOLDER_LABELS = {
+		to_complete: 'To Complete',
+		in_progress: 'In Progress',
+		completed_unvetted: 'Completed (Unvetted)',
+		gold: 'Gold',
+	  };
 
 	  const currentLineDisplay = document.getElementById('currentLineDisplay');
 	  const originalText = document.getElementById('originalText');
@@ -407,6 +497,14 @@ button:disabled {
 	  const syllableCountInput = document.getElementById('syllableCountInput');
 	  const flagBtn = document.getElementById('flagBtn');
 	  const darkModeToggle = document.getElementById('darkModeToggle');
+	  const fileBrowserSelect = document.getElementById('fileBrowserSelect');
+	  const currentFileLabel = document.getElementById('currentFileLabel');
+	  const finishSaveBtn = document.getElementById('finishSave');
+	  const suggestionsStatus = document.getElementById('suggestionsStatus');
+	  const saveModalOverlay = document.getElementById('saveModalOverlay');
+	  const saveModalMessage = document.getElementById('saveModalMessage');
+	  const saveModalProceed = document.getElementById('saveModalProceed');
+	  const saveModalCancel = document.getElementById('saveModalCancel');
 
 	  darkModeToggle.addEventListener('click', () => {
 		darkMode = !darkMode;
@@ -424,7 +522,7 @@ button:disabled {
 	  }
 
 	  function getTextTokens(lineId, row) {
-		return oxfordTextEdits[lineId] || (row["OXFORD_TEXT"] || "").split(" ").filter(w => w.trim());
+		return (row["OXFORD_TEXT"] || "").split(" ").filter(w => w.trim());
 	  }
 
 	  function ensureScansionEdit(lineId) {
@@ -469,6 +567,7 @@ button:disabled {
 
 	  function toggleFlag(lineNum) {
 		const lineId = getLineId(lineNum);
+		pushUndo(lineId);
 		const current = lineFlags[lineId];
 		if (!current) lineFlags[lineId] = "green";
 		else if (current === "green") lineFlags[lineId] = "red";
@@ -477,8 +576,45 @@ button:disabled {
 
 	  function setFlag(lineNum, value) {
 		const lineId = getLineId(lineNum);
+		pushUndo(lineId);
 		if (lineFlags[lineId] === value) delete lineFlags[lineId];
 		else lineFlags[lineId] = value;
+	  }
+
+	  // --- Undo: snapshots a line's full scansion + flag state before a mutation ---
+
+	  function snapshotLine(lineId) {
+		return {
+		  lineId,
+		  hadTokens: Object.prototype.hasOwnProperty.call(oxfordScansionEdits, lineId),
+		  tokens: oxfordScansionEdits[lineId] ? oxfordScansionEdits[lineId].slice() : null,
+		  hadFlag: Object.prototype.hasOwnProperty.call(lineFlags, lineId),
+		  flag: lineFlags[lineId],
+		};
+	  }
+
+	  function pushUndo(lineId) {
+		undoStack.push(snapshotLine(lineId));
+		if (undoStack.length > MAX_UNDO) undoStack.shift();
+	  }
+
+	  function undoLastAction() {
+		const snap = undoStack.pop();
+		if (!snap) return;
+
+		if (snap.hadTokens) {
+		  oxfordScansionEdits[snap.lineId] = snap.tokens;
+		} else {
+		  delete oxfordScansionEdits[snap.lineId];
+		}
+
+		if (snap.hadFlag) {
+		  lineFlags[snap.lineId] = snap.flag;
+		} else {
+		  delete lineFlags[snap.lineId];
+		}
+
+		displayLine(snap.lineId);
 	  }
 
 	  function refreshFlagUI() {
@@ -512,75 +648,113 @@ button:disabled {
 
 	  flagBtn.onclick = () => flagCurrentLine('toggle');
 
+	  // --- CSV loading, shared by the project file browser and the external-file input ---
+
+	  function initializeCsvData(rows) {
+		csvData = rows;
+		oxfordScansionEdits = {};
+		lineFlags = {};
+		syllablesSnapshotIds = null;
+		undoStack = [];
+
+		// Use the actual scansion string, not the (sometimes stale) OXFORD_SYLLABLES
+		// column, so a line with real scansion but a wrong metadata count doesn't
+		// show up as a false-positive "failure".
+		initialFailureIds = new Set(
+		  csvData
+			.filter(row => computeSyllables((row["OXFORD_SCANSION"] || "").split(" ")) === 0)
+			.map(row => getLineId(row["LINE_NUMBER"]))
+		);
+
+		for (const row of csvData) {
+		  const lineId = getLineId(row["LINE_NUMBER"]);
+		  const color = (row["SCANSION_FLAG_COLOR"] || "").toLowerCase();
+		  if (color === "green" || color === "red") {
+			lineFlags[lineId] = color;
+		  }
+		}
+
+		if (worklistMode === 'syllables') refreshSyllablesSnapshot();
+		renderWorklistPanel();
+		const list = getWorklist();
+		if (list && list.length) {
+		  displayLine(list[0]);
+		} else if (csvData.length > 0) {
+		  displayLine(csvData[0]["LINE_NUMBER"]);
+		}
+	  }
+
+	  function computeBaseName(folder, name) {
+		let base = name.replace(/\.csv$/i, '');
+		const suffix = FOLDER_SUFFIX[folder];
+		if (suffix && base.endsWith(suffix)) {
+		  base = base.slice(0, -suffix.length);
+		}
+		return base;
+	  }
+
+	  function updateCurrentFileLabel() {
+		if (!currentSourceName) {
+		  currentFileLabel.textContent = '';
+		  return;
+		}
+		const folderLabel = currentSourceFolder
+		  ? (FOLDER_LABELS[currentSourceFolder] || currentSourceFolder)
+		  : 'external file';
+		currentFileLabel.textContent = `Editing: ${currentSourceName} (from ${folderLabel})`;
+	  }
+
+	  function loadCsvText(text, sourceFolder, sourceName) {
+		const results = Papa.parse(text, { header: true, skipEmptyLines: true });
+		currentSourceFolder = sourceFolder || null;
+		currentSourceName = sourceName || null;
+		currentBaseName = sourceName ? computeBaseName(sourceFolder, sourceName) : null;
+		initializeCsvData(results.data);
+		updateCurrentFileLabel();
+		finishSaveBtn.disabled = !currentBaseName;
+	  }
+
 	  document.getElementById('csvFile').addEventListener('change', (e) => {
 		const file = e.target.files[0];
-		Papa.parse(file, {
-		  header: true,
-		  skipEmptyLines: true,
-		  complete: function(results) {
-			csvData = results.data;
-			oxfordScansionEdits = {};
-			oxfordTextEdits = {};
-			lineFlags = {};
-			syllablesSnapshotIds = null;
-
-			initialFailureIds = new Set(
-			  csvData
-				.filter(row => parseInt(row["OXFORD_SYLLABLES"] || "0") === 0)
-				.map(row => getLineId(row["LINE_NUMBER"]))
-			);
-
-			for (const row of csvData) {
-			  const lineId = getLineId(row["LINE_NUMBER"]);
-			  const color = (row["SCANSION_FLAG_COLOR"] || "").toLowerCase();
-			  if (color === "green" || color === "red") {
-				lineFlags[lineId] = color;
-			  }
-			}
-
-			if (worklistMode === 'syllables') refreshSyllablesSnapshot();
-			renderWorklistPanel();
-			const list = getWorklist();
-			if (list && list.length) {
-			  displayLine(list[0]);
-			} else if (csvData.length > 0) {
-			  displayLine(csvData[0]["LINE_NUMBER"]);
-			}
-		  }
-		});
+		if (!file) return;
+		const reader = new FileReader();
+		reader.onload = () => loadCsvText(reader.result, null, file.name);
+		reader.readAsText(file);
 	  });
 
 	  document.getElementById('suggestionsFile').addEventListener('change', (e) => {
+		const file = e.target.files[0];
 		const reader = new FileReader();
 		reader.onload = () => {
 		  try {
 			suggestions = JSON.parse(reader.result);
+			suggestionsStatus.textContent = `Loaded ${Object.keys(suggestions).length.toLocaleString()} words (from ${file.name})`;
 		  } catch (err) {
 			alert('Error parsing suggestions JSON: ' + err.message);
 			suggestions = {};
+			suggestionsStatus.textContent = 'Failed to parse file';
 		  }
 		  if (currentLine) updateSuggestions();
 		};
-		reader.readAsText(e.target.files[0]);
+		reader.readAsText(file);
 	  });
 
-	  document.getElementById('export').addEventListener('click', () => {
-		if (!csvData.length) return;
-		const updated = csvData.map(row => {
+	  function buildExportRows() {
+		return csvData.map(row => {
 		  const lineId = getLineId(row["LINE_NUMBER"]);
 		  const syll = effectiveSyllables(lineId, row);
 		  if (oxfordScansionEdits[lineId]) {
 			row["OXFORD_SCANSION"] = oxfordScansionEdits[lineId].join(" ");
 		  }
-		  if (oxfordTextEdits[lineId]) {
-			row["OXFORD_TEXT"] = oxfordTextEdits[lineId].join(" ");
-		  }
 		  row["OXFORD_SYLLABLES"] = String(syll);
 		  row["SCANSION_FLAG_COLOR"] = lineFlags[lineId] || "";
 		  return row;
 		});
+	  }
 
-		const csv = Papa.unparse(updated);
+	  document.getElementById('export').addEventListener('click', () => {
+		if (!csvData.length) return;
+		const csv = Papa.unparse(buildExportRows());
 		const blob = new Blob([csv], {type: 'text/csv'});
 		const url = URL.createObjectURL(blob);
 		const a = document.createElement('a');
@@ -589,6 +763,173 @@ button:disabled {
 		a.click();
 		URL.revokeObjectURL(url);
 	  });
+
+	  // --- Project file browser (to_complete / in_progress / completed_unvetted / gold) ---
+
+	  async function refreshFileList() {
+		try {
+		  const res = await fetch('/api/list');
+		  const data = await res.json();
+		  const previousValue = fileBrowserSelect.value;
+		  fileBrowserSelect.innerHTML = '';
+		  for (const folder of ['to_complete', 'in_progress', 'completed_unvetted', 'gold']) {
+			const files = (data.folders && data.folders[folder]) || [];
+			if (!files.length) continue;
+			const group = document.createElement('optgroup');
+			group.label = FOLDER_LABELS[folder];
+			files.forEach(name => {
+			  const opt = document.createElement('option');
+			  opt.value = `${folder}::${name}`;
+			  opt.textContent = name;
+			  group.appendChild(opt);
+			});
+			fileBrowserSelect.appendChild(group);
+		  }
+		  if (previousValue) fileBrowserSelect.value = previousValue;
+		} catch (err) {
+		  console.error('Failed to list project files', err);
+		}
+	  }
+
+	  async function openFileFromServer(folder, name) {
+		try {
+		  const res = await fetch(`/api/read?folder=${encodeURIComponent(folder)}&name=${encodeURIComponent(name)}`);
+		  if (!res.ok) {
+			alert(`Could not open ${name}: ${res.status}`);
+			return;
+		  }
+		  const text = await res.text();
+		  loadCsvText(text, folder, name);
+		} catch (err) {
+		  alert('Failed to open file: ' + err.message);
+		}
+	  }
+
+	  document.getElementById('refreshFileList').addEventListener('click', refreshFileList);
+
+	  document.getElementById('openSelectedFile').addEventListener('click', () => {
+		const val = fileBrowserSelect.value;
+		if (!val) return;
+		const [folder, name] = val.split('::');
+		openFileFromServer(folder, name);
+	  });
+
+	  // --- Finish & Save: routes the file to gold / completed_unvetted / in_progress ---
+
+	  function computeCompletionStatus() {
+		let total = csvData.length;
+		let greenCount = 0;
+		let blankCount = 0;
+		for (const row of csvData) {
+		  const lineId = getLineId(row["LINE_NUMBER"]);
+		  if (lineFlags[lineId] === 'green') greenCount++;
+		  if (effectiveSyllables(lineId, row) === 0) blankCount++;
+		}
+		return { total, greenCount, blankCount };
+	  }
+
+	  function showSaveModal(html, onProceed) {
+		saveModalMessage.innerHTML = html;
+		pendingProceedAction = onProceed;
+		saveModalOverlay.style.display = 'flex';
+	  }
+
+	  function hideSaveModal() {
+		saveModalOverlay.style.display = 'none';
+		pendingProceedAction = null;
+	  }
+
+	  let pendingProceedAction = null;
+	  saveModalCancel.addEventListener('click', hideSaveModal);
+	  saveModalProceed.addEventListener('click', async () => {
+		const action = pendingProceedAction;
+		hideSaveModal();
+		if (action) await action();
+	  });
+
+	  async function performSave(targetFolder, targetName, sameLocation) {
+		const csvText = Papa.unparse(buildExportRows());
+		try {
+		  const writeRes = await fetch('/api/write', {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/json' },
+			body: JSON.stringify({ folder: targetFolder, name: targetName, content: csvText }),
+		  });
+		  if (!writeRes.ok) throw new Error('write failed: ' + writeRes.status);
+
+		  if (!sameLocation && currentSourceFolder) {
+			await fetch('/api/delete', {
+			  method: 'POST',
+			  headers: { 'Content-Type': 'application/json' },
+			  body: JSON.stringify({ folder: currentSourceFolder, name: currentSourceName }),
+			});
+		  }
+
+		  currentSourceFolder = targetFolder;
+		  currentSourceName = targetName;
+		  updateCurrentFileLabel();
+		  await refreshFileList();
+		  alert(`Saved to ${targetFolder}/${targetName}`);
+		} catch (err) {
+		  alert('Save failed: ' + err.message);
+		}
+	  }
+
+	  finishSaveBtn.addEventListener('click', () => {
+		if (!csvData.length || !currentBaseName) return;
+
+		const { total, greenCount, blankCount } = computeCompletionStatus();
+
+		let targetFolder, reason;
+		if (greenCount === total) {
+		  targetFolder = 'gold';
+		  reason = `All ${total} lines are flagged green.`;
+		} else if (blankCount === 0) {
+		  targetFolder = 'completed_unvetted';
+		  reason = `${greenCount} of ${total} lines are flagged green, but every line has a scansion (none blank).`;
+		} else {
+		  targetFolder = 'in_progress';
+		  reason = `${blankCount} of ${total} line(s) still have no scansion.`;
+		}
+
+		const targetName = currentBaseName + FOLDER_SUFFIX[targetFolder] + '.csv';
+		const sameLocation = currentSourceFolder === targetFolder && currentSourceName === targetName;
+
+		let message = `<p>${reason}</p>`;
+		if (sameLocation) {
+		  message += `<p>This will update <strong>${targetFolder}/${targetName}</strong> in place.</p>`;
+		} else {
+		  message += `<p>This will save as <strong>${targetFolder}/${targetName}</strong>.</p>`;
+		  if (currentSourceFolder) {
+			message += `<p>It will be removed from <strong>${currentSourceFolder}/${currentSourceName}</strong>.</p>`;
+		  }
+		}
+
+		showSaveModal(message, () => performSave(targetFolder, targetName, sameLocation));
+	  });
+
+	  async function loadDefaultSuggestions() {
+		if (location.protocol === 'file:') {
+		  suggestionsStatus.textContent = 'Not auto-loaded (page opened as a file:// URL — start via the app or "python3 server.py" instead, or pick the JSON manually)';
+		  return;
+		}
+		try {
+		  const res = await fetch('scansion_word_patterns.json');
+		  if (!res.ok) {
+			suggestionsStatus.textContent = `Auto-load failed (HTTP ${res.status})`;
+			return;
+		  }
+		  suggestions = await res.json();
+		  suggestionsStatus.textContent = `Auto-loaded ${Object.keys(suggestions).length.toLocaleString()} words`;
+		  if (currentLine) updateSuggestions();
+		} catch (err) {
+		  console.warn('Could not auto-load scansion_word_patterns.json', err);
+		  suggestionsStatus.textContent = 'Auto-load failed — pick the JSON manually';
+		}
+	  }
+
+	  refreshFileList();
+	  loadDefaultSuggestions();
 
 	  toggleOriginal.addEventListener('change', (e) => {
 		e.target.blur();
@@ -760,26 +1101,6 @@ button:disabled {
 		updateSuggestions();
 	  });
 
-	  wordRowEl.addEventListener('dblclick', (e) => {
-		const block = e.target.closest('.word-block');
-		if (!block) return;
-		startWordRename(parseInt(block.dataset.index));
-	  });
-
-	  function startWordRename(index) {
-		const row = findRowByLineNumber(currentLine);
-		const lineId = getLineId(currentLine);
-		const words = getTextTokens(lineId, row);
-		const val = prompt('Edit word:', words[index]);
-		if (val === null) return;
-		const trimmed = val.trim();
-		if (!trimmed) return;
-		if (!oxfordTextEdits[lineId]) oxfordTextEdits[lineId] = words.slice();
-		oxfordTextEdits[lineId][index] = trimmed;
-		renderWordRow();
-		updateSuggestions();
-	  }
-
 	  function updateSyllableInfo() {
 		const row = findRowByLineNumber(currentLine);
 		if (!row) return;
@@ -935,18 +1256,21 @@ button:disabled {
 		  return;
 		}
 
-		if (key === 'Backspace') {
+		// Checked before the plain Backspace/Delete handlers below: on Mac keyboards the
+		// key labeled "delete" reports key === 'Backspace' (real forward-delete, key
+		// === 'Delete', needs Fn), so Shift+Delete must be matched against both names.
+		if ((key === 'Backspace' || key === 'Delete') && e.shiftKey) {
 		  e.preventDefault();
 		  const tokens = ensureScansionEdit(lineId);
-		  tokens[activeWordIndex] = (tokens[activeWordIndex] || '').slice(0, -1);
+		  for (let i = 0; i < tokens.length; i++) tokens[i] = '';
 		  afterScansionEdit(lineId);
 		  return;
 		}
 
-		if (key === 'Delete' && e.shiftKey) {
+		if (key === 'Backspace') {
 		  e.preventDefault();
 		  const tokens = ensureScansionEdit(lineId);
-		  for (let i = 0; i < tokens.length; i++) tokens[i] = '';
+		  tokens[activeWordIndex] = (tokens[activeWordIndex] || '').slice(0, -1);
 		  afterScansionEdit(lineId);
 		  return;
 		}
