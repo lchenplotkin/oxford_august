@@ -488,10 +488,29 @@ button:disabled {
 		renderWorklistPanel();
 	  }
 
-	  flagBtn.onclick = () => {
-		toggleFlag(currentLine);
+	  // Applies a flag change to the current line, then, if that change just made the
+	  // line drop out of view (green + Hide Green-Flagged is on), advances to whatever
+	  // line would have followed it in the current list.
+	  function flagCurrentLine(action) {
+		const listBefore = getWorklist();
+		const idxBefore = listBefore ? listBefore.findIndex(ln => getLineId(ln) === getLineId(currentLine)) : -1;
+
+		if (action === 'toggle') toggleFlag(currentLine);
+		else setFlag(currentLine, action);
+
 		refreshFlagUI();
-	  };
+
+		const nowHidden = hideGreenFlags.checked && lineFlags[getLineId(currentLine)] === 'green';
+		if (nowHidden && listBefore && listBefore.length) {
+		  if (idxBefore !== -1 && idxBefore + 1 < listBefore.length) {
+			displayLine(listBefore[idxBefore + 1]);
+		  } else if (idxBefore > 0) {
+			displayLine(listBefore[idxBefore - 1]);
+		  }
+		}
+	  }
+
+	  flagBtn.onclick = () => flagCurrentLine('toggle');
 
 	  document.getElementById('csvFile').addEventListener('change', (e) => {
 		const file = e.target.files[0];
@@ -670,9 +689,12 @@ button:disabled {
 		  flagEl.textContent = getFlagSymbol(flag);
 		  flagEl.onclick = (e) => {
 			e.stopPropagation();
-			toggleFlag(lineNum);
-			renderWorklistPanel();
-			if (getLineId(lineNum) === getLineId(currentLine)) refreshFlagUI();
+			if (getLineId(lineNum) === getLineId(currentLine)) {
+			  flagCurrentLine('toggle');
+			} else {
+			  toggleFlag(lineNum);
+			  renderWorklistPanel();
+			}
 		  };
 
 		  const span = document.createElement('span');
@@ -945,20 +967,17 @@ button:disabled {
 
 		if (lower === 'g') {
 		  e.preventDefault();
-		  setFlag(currentLine, 'green');
-		  refreshFlagUI();
+		  flagCurrentLine('green');
 		  return;
 		}
 		if (lower === 'r') {
 		  e.preventDefault();
-		  setFlag(currentLine, 'red');
-		  refreshFlagUI();
+		  flagCurrentLine('red');
 		  return;
 		}
 		if (lower === 'f') {
 		  e.preventDefault();
-		  toggleFlag(currentLine);
-		  refreshFlagUI();
+		  flagCurrentLine('toggle');
 		  return;
 		}
 
