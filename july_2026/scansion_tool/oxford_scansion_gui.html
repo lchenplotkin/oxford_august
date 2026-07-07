@@ -426,7 +426,7 @@ button:disabled {
 		<code>U / S / X</code> append stress to active word &nbsp;·&nbsp;
 		<code>Backspace</code> delete last &nbsp;·&nbsp;
 		<code>0</code> clear word &nbsp;·&nbsp;
-		<code>⇧Delete</code> clear whole line &nbsp;·&nbsp;
+		<code>⇧Delete / ⇧Backspace</code> clear whole line &nbsp;·&nbsp;
 		<code>1-9</code> apply suggestion &nbsp;·&nbsp;
 		<code>Tab / ⇧Tab</code>, <code>← / →</code>, or <code>Space / ⇧Space</code> move between words &nbsp;·&nbsp;
 		<code>↑ / ↓</code> previous/next line &nbsp;·&nbsp;
@@ -436,7 +436,7 @@ button:disabled {
 		<code>R</code> flag red &nbsp;·&nbsp;
 		<code>F</code> cycle flag &nbsp;·&nbsp;
 		<code>Esc</code> revert active word &nbsp;·&nbsp;
-		double-click a word to rename it
+		<code>⇧Esc</code> undo last action (scansion or flag, any line)
 	  </div>
 	</div>
 
@@ -1152,6 +1152,7 @@ button:disabled {
 		if (!sugg) return;
 		const entries = Object.entries(sugg).sort((a, b) => b[1] - a[1]);
 		if (idx >= entries.length) return;
+		pushUndo(lineId);
 		const tokens = ensureScansionEdit(lineId);
 		tokens[activeWordIndex] = entries[idx][0];
 		afterScansionEdit(lineId);
@@ -1249,6 +1250,7 @@ button:disabled {
 
 		if (lower === 'u' || lower === 's' || lower === 'x') {
 		  e.preventDefault();
+		  pushUndo(lineId);
 		  const tokens = ensureScansionEdit(lineId);
 		  const ch = lower === 's' ? 'S' : lower;
 		  tokens[activeWordIndex] = (tokens[activeWordIndex] || '') + ch;
@@ -1256,11 +1258,16 @@ button:disabled {
 		  return;
 		}
 
-		// Checked before the plain Backspace/Delete handlers below: on Mac keyboards the
-		// key labeled "delete" reports key === 'Backspace' (real forward-delete, key
-		// === 'Delete', needs Fn), so Shift+Delete must be matched against both names.
-		if ((key === 'Backspace' || key === 'Delete') && e.shiftKey) {
+		// Checked before the plain Backspace/Delete handlers below. Matched against key,
+		// code, AND the shifted key name because Mac keyboards report the key labeled
+		// "delete" as key === 'Backspace' (real forward-delete needs Fn and reports
+		// 'Delete'), and some browsers report a shifted key name instead of leaving
+		// e.key alone when Shift is held.
+		const isDeleteKey = key === 'Backspace' || key === 'Delete'
+		  || e.code === 'Backspace' || e.code === 'Delete';
+		if (isDeleteKey && e.shiftKey) {
 		  e.preventDefault();
+		  pushUndo(lineId);
 		  const tokens = ensureScansionEdit(lineId);
 		  for (let i = 0; i < tokens.length; i++) tokens[i] = '';
 		  afterScansionEdit(lineId);
@@ -1269,6 +1276,7 @@ button:disabled {
 
 		if (key === 'Backspace') {
 		  e.preventDefault();
+		  pushUndo(lineId);
 		  const tokens = ensureScansionEdit(lineId);
 		  tokens[activeWordIndex] = (tokens[activeWordIndex] || '').slice(0, -1);
 		  afterScansionEdit(lineId);
@@ -1277,6 +1285,7 @@ button:disabled {
 
 		if (key === '0' || key === 'Delete') {
 		  e.preventDefault();
+		  pushUndo(lineId);
 		  const tokens = ensureScansionEdit(lineId);
 		  tokens[activeWordIndex] = '';
 		  afterScansionEdit(lineId);
@@ -1305,8 +1314,15 @@ button:disabled {
 		  return;
 		}
 
+		if (key === 'Escape' && e.shiftKey) {
+		  e.preventDefault();
+		  undoLastAction();
+		  return;
+		}
+
 		if (key === 'Escape') {
 		  e.preventDefault();
+		  pushUndo(lineId);
 		  const tokens = ensureScansionEdit(lineId);
 		  const originalTokens = (row["OXFORD_SCANSION"] || "").split(" ");
 		  tokens[activeWordIndex] = originalTokens[activeWordIndex] || '';

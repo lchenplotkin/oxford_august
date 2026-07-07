@@ -13,7 +13,7 @@ more,more,moor; mor; more,Yes
 worth,worth; worthe,worth; worthe,No
 ouen,awen; owen; owene; own; owne,awen; owen; owene; own; owne,No
 noble,noble,noble; nobleste,Yes
-gret,great; greet; gret; grete,great; greet; gret; grete; gretter; grettest; gretteste,No
+gret,great; greet; gret; grete,great; greet; gret; grete; gretest; gretter; grettest; gretteste,No
 fair,fair; faire; feir,fair; faire; fairer; fairest; faireste; feir,No
 bold,bold; bolde,bold; bolde,No
 yong,yong; yonge,yong; yonge; yongest; yongeste,No
@@ -22,9 +22,9 @@ glad,glad; gladde; glade,glad; gladde; gladder; gladdest; glade,No
 fre,fre; free,fre; free,Yes
 ful,ful; full; fulle,ful; full; fulle,No
 leste,,leest; leeste; lest; leste,No
-wid,wid; wide,wid; wide,No
+wid,wid; wide,wid; wide; wider,No
 dere,deer; deere; der; dere,deer; deere; der; dere,No
-fin,fin; fine,fin; fine; fineste,No
+fin,fin; fine,fin; fine; finest; fineste,No
 mene,mene,mene,Yes
 maide,maide,maide,Yes
 pale,pale,pale,Yes
@@ -32,7 +32,7 @@ red,red; rede; reed,red; redder; rede; reed,No
 lesse,,lasse; lesse,No
 sori,sory,sory,No
 secre,secree,secree,Yes
-lef,leef; leve; lief,leef; leve; lever; levere; levest; lief,No
+lef,leef; lefe; leve; lief,leef; lefe; leve; lever; levere; levest; lief,No
 werste,,worst; worste,No
 nexte,,next; nexte,No
 foul,foul; foule,foul; foule; fouler,No
@@ -50,7 +50,7 @@ laste,last,last; laste,No
 wroth,wrooth; wroothe; wroth; wrothe,wrooth; wroothe; wroth; wrothe,No
 loth,looth; loothe; lothest,looth; loothe; lothest,No
 fals,fals; false,fals; false; falser,No
-bel,bele,bele,Yes
+bel,bel; bele,bel; bele,No
 ofte,ofte,ofte,Yes
 large,large,large,Yes
 grene,grene,grene,Yes
@@ -64,12 +64,12 @@ lege,lige,lige,Yes
 most,,most; moste,No
 neue,new; newe,new; newe; newer,No
 povre,poor; poore; pore; pour; poure; povre,poor; poore; pore; pour; poure; povre; povrest,No
-muche,moche; much; muche,moche; much; muche,No
+muche,moch; moche; much; muche,moch; moche; much; muche,No
 derk,derk; derke,derk; derke; derkest,No
 rude,rude,rude,Yes
 loue,low; lowe,low; lowe; lower,No
 humble,humble,humble,Yes
-wod,wode; wood,wode; wood,No
+wod,wode; wood; woode,wode; wood; woode,No
 fresh,fresh; fresshe,fresh; fresshe; fressher; fresshest; fressheste,No
 stoute,stout; stoute,stout; stoute,No
 blithe,blithe,blithe,Yes
@@ -91,7 +91,7 @@ kinde,kinde,kinde; kindest,Yes
 chef,cheef; chief,cheef; chief,No
 right,right; righte,right; righte,No
 salt,salte,salte,Yes
-bright,bright; brighte,bright; brighte; brighter,No
+bright,bright; brighte,bright; brighte; brighter; brightest,No
 wel,weel; wel; wele,weel; wel; wele,No
 real,real; royal; ryal,real; royal; ryal,No
 mete,mete,mete,Yes
@@ -107,14 +107,14 @@ whit,whit; white,whit; white; whitter,No
 sleigh,sleigh; slie; sly; slye,sleigh; slie; sly; slye,No
 tender,tender; tendre,tender; tendre,No
 fer,fer; ferre,fer; ferre; ferreste,No
-strong,strong; stronge,strong; stronge,No
+strong,strong; stronge,strong; stronge; strongest,No
 shene,shene,shene,Yes
 sad,sad; sadde,sad; sadde,No
 chaste,chaast; chast; chaste,chaast; chast; chaste,No
 smert,smart; smerte,smart; smerte,No
 sounde,sound; sounde,sound; sounde,No
 sterne,sterne,sterne,Yes
-light,light; lighte,light; lighte,No
+light,light; lighte,light; lighte; lighter,No
 digne,digne,digne,Yes
 blind,blind; blinde,blind; blinde,No
 sharp,sharp; sharpe,sharp; sharpe,No
@@ -131,7 +131,7 @@ bet,,bet,No
 swifte,swift; swifte,swift; swifte; swifter,No
 weik,waik; waike; weik,waik; waike; weik,No
 hende,hende,hende,Yes
-blak,blak; blake,blak; blake,No
+blak,blak; blake; blakke,blak; blake; blakke,No
 nice,nice,nice,Yes
 lame,lame,lame,Yes
 bleu,blew; blewe,blew; blewe,No
@@ -175,10 +175,10 @@ north,north,north,No
 streit,streit; streite,streit; streite,No
 liard,lyard,lyard,No
 thral,thral,thral,No
-los,laus; loos,laus; loos,No
+los,laus; loos; lous,laus; loos; lous,No
 pleine,plein,plein,No
 grei,gray; grey; greye,gray; grey; greye,No
-crisp,crisp; crispe,crisp; crispe,No
+crisp,crips; crisp; crispe,crips; crisp; crispe,No
 slike,slik,slik,No
 late,late,late,Yes
 gold,gold,gold,No
@@ -196,7 +196,7 @@ smothe,smooth; smothe,smooth; smothe,No
 rounde,round; rounde,round; rounde,No
 hor,hoor; hore,hoor; hore,No
 half,half; halfe; halve,half; halfe; halve,No
-stark,stark,stark,No
+stark,stark; starke,stark; starke,No
 sengle,sengle,sengle,Yes
 sole,soul,soul,No
 store,store,store,Yes
@@ -209,7 +209,7 @@ fel,fel; felle,fel; felle,No
 trie,trie,trie,Yes
 wrecche,wrecche,wrecche,Yes
 fast,fast; faste,fast; faste; faster,No
-grim,grim,grim,No
+grim,grim; grimme,grim; grimme,No
 double,double,double,Yes
 fix,fixe,fixe,Yes
 big,big; bigge,big; bigge,No
@@ -244,6 +244,13 @@ raied,rayed,rayed,No
 flat,flat; flatte,flat; flatte,No
 wo,wo,wo,No
 tought,toght,toght,No
+lithe,lithe,lithe,Yes
+noious,noyous,noyous,No
+beau,beau,beau,No
+overt,overte,overte,Yes
+bon,bon,bon,No
+blo,blo,blo,No
+falwe,falwe,falwe,Yes
 ethe,ethe,ethe,Yes
 sour,sour,sour,No
 perte,pert,pert,No

@@ -1,19 +1,16 @@
 headword,word,line_number,filename,context,is_elided,is_final,source_csv
-dere,dere,The Shipman's Tale 69,data/oxford_txts/ShipT_oxford.txt,"Our dere cosin, ful of curteisie?",False,False,ShipT_gui_complete.csv
 dere,dere,The Shipman's Tale 106,data/oxford_txts/ShipT_oxford.txt,"But dere nece, why be ye so pale?",False,False,ShipT_gui_complete.csv
-god,goode,The Shipman's Tale 107,data/oxford_txts/ShipT_oxford.txt,I trowe° certes that our goode man,False,False,ShipT_gui_complete.csv
 long,longe,The Shipman's Tale 216,data/oxford_txts/ShipT_oxford.txt,How longe time wol ye rekene° and caste°,False,False,ShipT_gui_complete.csv
+bel,bele,The Shipman's Tale 409,data/oxford_txts/ShipT_oxford.txt,"For cosinage,° and eek for bele cheere°",False,False,ShipT_gui_complete.csv
 olde,olde,The Wife of Bath's Tale 1004,data/oxford_txts/WBT_oxford.txt,"Thise olde folk can muchel thing,”° quod she.",False,False,WBT_gui_complete.csv
 lef,leve,The Wife of Bath's Tale 1171,data/oxford_txts/WBT_oxford.txt,"And therfor, leve° housbond, I thus conclude",False,False,WBT_gui_complete.csv
 povre,poure,The Wife of Bath's Tale 1187,data/oxford_txts/WBT_oxford.txt,He that coveiteth is a poure wight,False,False,WBT_gui_complete.csv
 treu,trewe,The Wife of Bath's Tale 1221,data/oxford_txts/WBT_oxford.txt,And be to yow a trewe° humble wif,False,False,WBT_gui_complete.csv
-wise,wise,The Wife of Bath's Tale 1231,data/oxford_txts/WBT_oxford.txt,I put me in your wise governance;,False,False,WBT_gui_complete.csv
 gret,grete,The Merchant's Prologue 1224,data/oxford_txts/MerPro_oxford.txt,Bitwix° Grisildis grete pacience,False,False,MerPro_gui_complete.csv
 long,longe,100-ch 619,data/oxford_txts/LGW_oxford.txt,"Hit were to longe, lest that I shold slake°",False,False,LGW_gui_complete.csv
 olde,olde,100-ch 739,data/oxford_txts/LGW_oxford.txt,Of olde time of his fundacioun;°,False,False,LGW_gui_complete.csv
 dere,dere,100-ch 741,data/oxford_txts/LGW_oxford.txt,"It nas nat° sene, dere ynogh a mite.°",False,False,LGW_gui_complete.csv
 long,longe,100-ch 772,data/oxford_txts/LGW_oxford.txt,And longe time they wroghte° in this manere,False,False,LGW_gui_complete.csv
-hard,harde,100-ch 1056,data/oxford_txts/LGW_oxford.txt,"And al hir tempest° and hir harde cas,°",False,False,LGW_gui_complete.csv
 fresh,fresshe,100-ch 1191,data/oxford_txts/LGW_oxford.txt,An hunting° wol this lusty° fresshe° quene;,False,False,LGW_gui_complete.csv
 sik,seke,100-ch 1203,data/oxford_txts/LGW_oxford.txt,That heleth seke° folk of nightes sorwe.,False,False,LGW_gui_complete.csv
 yong,yonge,100-ch 1216,data/oxford_txts/LGW_oxford.txt,"Thus seyn thise yonge folk, and up they kille",False,False,LGW_gui_complete.csv
@@ -25,17 +22,15 @@ yong,yonge,100-ch 1948,data/oxford_txts/LGW_oxford.txt,And forth is lad° this w
 lef,leve,100-ch 1978,data/oxford_txts/LGW_oxford.txt,"And seide, “Phedra, leve° suster dere",False,False,LGW_gui_complete.csv
 neue,newe,100-ch 2160,data/oxford_txts/LGW_oxford.txt,And gat him ther a newe barge° anoon,False,False,LGW_gui_complete.csv
 fair,faire,100-ch 2247,data/oxford_txts/LGW_oxford.txt,King Pandiones faire doghter dere,False,False,LGW_gui_complete.csv
-fair,faire,100-ch 2526,data/oxford_txts/LGW_oxford.txt,"Upon your linage° and your faire tonge,°",False,False,LGW_gui_complete.csv
 sad,sadde,100-ch 2582,data/oxford_txts/LGW_oxford.txt,"Pitouse,° sadde,° wise, and trewe as steel;",False,False,LGW_gui_complete.csv
 muche,moche,100-ch 2685,data/oxford_txts/LGW_oxford.txt,"And dreed° of death doth her so moche wo,°",False,False,LGW_gui_complete.csv
 swifte,swifte,100-ch 2711,data/oxford_txts/LGW_oxford.txt,"¶This Lino swifte was, and light° of fote",False,False,LGW_gui_complete.csv
 muche,muche,The Friar's Prologue 1273,data/oxford_txts/FriPro_oxford.txt,"Ye han seid muche thing right wel, I seye;",False,False,FriPro_gui_complete.csv
 lef,leve,The Friar's Prologue 1300,data/oxford_txts/FriPro_oxford.txt,"“Tel forth your tale, leve° maister deere.”",False,False,FriPro_gui_complete.csv
-prive,privee,Prologue to the Canon's Yeoman's Tale 660,data/oxford_txts/CYPro_oxford.txt,Holden hir privee° ferful° residence,False,False,CYPro_gui_complete.csv
 hard,harde,Prologue to the Canon's Yeoman's Tale 665,data/oxford_txts/CYPro_oxford.txt,"“Peter!”° quod he, “God yeve° it harde grace,°",False,False,CYPro_gui_complete.csv
+povre,povre,04-5-ch 2427,data/oxford_txts/MerEpi_oxford.txt,"I have a wif, though that she povre be;",False,False,MerEpi_gui_complete.csv
 ded,dede,Troilus and Criseyde; Book II 52,data/oxford_txts/TC2_oxford.txt,"Ben quike again, that winter dede made",False,False,TC2_gui_complete.csv
 dere,dere,Troilus and Criseyde; Book II 122,data/oxford_txts/TC2_oxford.txt,"“Now uncle dere,” quod she, “tel it us",False,False,TC2_gui_complete.csv
-fremed,fremde,Troilus and Criseyde; Book II 248,data/oxford_txts/TC2_oxford.txt,Lat be to me your fremde maner speche,False,False,TC2_gui_complete.csv
 lef,leve,Troilus and Criseyde; Book II 251,data/oxford_txts/TC2_oxford.txt,"And seide, “Gladly, leve nece dere",False,False,TC2_gui_complete.csv
 wise,wise,Troilus and Criseyde; Book II 317,data/oxford_txts/TC2_oxford.txt,"The goode, wise, worthy, fresshe, and free",False,False,TC2_gui_complete.csv
 long,longe,Troilus and Criseyde; Book II 507,data/oxford_txts/TC2_oxford.txt,"This other day, nought gon ful longe while",False,False,TC2_gui_complete.csv
@@ -43,7 +38,6 @@ juste,juste,Troilus and Criseyde; Book II 527,data/oxford_txts/TC2_oxford.txt,"L
 dere,dere,Troilus and Criseyde; Book II 591,data/oxford_txts/TC2_oxford.txt,"“O mercy, dere nece,” anoon quod he",False,False,TC2_gui_complete.csv
 long,longe,Troilus and Criseyde; Book II 722,data/oxford_txts/TC2_oxford.txt,"“And eek I knowe, of longe time agoon",False,False,TC2_gui_complete.csv
 juste,juste,Troilus and Criseyde; Book II 727,data/oxford_txts/TC2_oxford.txt,"That he may make avaunt, by juste cause;",False,False,TC2_gui_complete.csv
-ouen,owene,Troilus and Criseyde; Book II 784,data/oxford_txts/TC2_oxford.txt,"Our wreche is this, our owene wo to drinke.",False,False,TC2_gui_complete.csv
 gret,grete,Troilus and Criseyde; Book II 818,data/oxford_txts/TC2_oxford.txt,"And othere of hir wommen, a grete route",False,False,TC2_gui_complete.csv
 gret,grete,Troilus and Criseyde; Book II 987,data/oxford_txts/TC2_oxford.txt,In grete disese abideth for the peine.”,False,False,TC2_gui_complete.csv
 god,goode,Troilus and Criseyde; Book II 1203,data/oxford_txts/TC2_oxford.txt,"“Now, goode nece, be it never so lite",False,False,TC2_gui_complete.csv
@@ -56,7 +50,6 @@ god,goode,The Canon's Yeoman's Tale 1295,data/oxford_txts/CYT_oxford.txt,"Now, g
 olde,olde,The Legend of Good Women; Prologue F 19,data/oxford_txts/LGW_FPro_oxford.txt,"And to the doctrine° of these olde wise,°",False,False,LGW_FPro_gui_complete.csv
 wise,wise,The Legend of Good Women; Prologue F 331,data/oxford_txts/LGW_FPro_oxford.txt,And makest wise folk fro° me withdrawe.,False,False,LGW_FPro_gui_complete.csv
 povre,pore,The Legend of Good Women; Prologue F 390,data/oxford_txts/LGW_FPro_oxford.txt,And han of° pore folk compassioun.,False,False,LGW_FPro_gui_complete.csv
-ouen,owne,The Legend of Good Women; Prologue F 406,data/oxford_txts/LGW_FPro_oxford.txt,To ben right at° your owne jugement,False,False,LGW_FPro_gui_complete.csv
 gret,grete,The Legend of Good Women; Prologue F 427,data/oxford_txts/LGW_FPro_oxford.txt,"He made also, goon is a grete whil,°",False,False,LGW_FPro_gui_complete.csv
 treu,trewe,The Legend of Good Women; Prologue F 464,data/oxford_txts/LGW_FPro_oxford.txt,"Forwhy° a trewe man, withouten drede,°",False,False,LGW_FPro_gui_complete.csv
 treu,trewe,The Legend of Good Women; Prologue F 507,data/oxford_txts/LGW_FPro_oxford.txt,"“That is a trewe tale, by min hood,”°",False,False,LGW_FPro_gui_complete.csv
@@ -77,13 +70,11 @@ treu,trewe,The Friar's Tale 1529,data/oxford_txts/FriT_oxford.txt,For to be trew
 muche,muche,The Friar's Tale 1546,data/oxford_txts/FriT_oxford.txt,So muche wo as I have with yow tholed!°,False,False,FriT_gui_complete.csv
 dere,deere,The Friar's Tale 1567,data/oxford_txts/FriT_oxford.txt,"Heer may ye see, min owne deere brother",False,False,FriT_gui_complete.csv
 olde,olde,The Friar's Tale 1582,data/oxford_txts/FriT_oxford.txt,"‘Com out,’ quod he, ‘thou olde viritrate!",False,False,FriT_gui_complete.csv
-swete,swete,The Friar's Tale 1585,data/oxford_txts/FriT_oxford.txt,"God save you, sir, what is your swete wille?’",False,False,FriT_gui_complete.csv
 povre,povre,The Friar's Tale 1609,data/oxford_txts/FriT_oxford.txt,Kith° youre almesse° on me povre wrecche.’,False,False,FriT_gui_complete.csv
 povre,povre,The Cook's Prologue 4341,data/oxford_txts/CkPro_oxford.txt,"A tale of me, that am a povre man",False,False,CkPro_gui_complete.csv
 bright,brighte,ABC 181,data/oxford_txts/ABC_oxford.txt,"Now lady brighte, sith° thou canst and wilt°",False,False,ABC_gui_complete.csv
 tender,tendre,The Prioress' Tale 524,data/oxford_txts/PrT_oxford.txt,For he so yong and tendre was of age;,False,False,PrT_gui_complete.csv
 prive,privee,The Prioress' Tale 568,data/oxford_txts/PrT_oxford.txt,That in an aley° hadde a privee place;,False,False,PrT_gui_complete.csv
-ouen,owne,The Wife of Bath's Prologue 68,data/oxford_txts/WBPro_oxford.txt,He putte it in our owne jugement.,False,False,WBPro_gui_complete.csv
 wise,wise,The Wife of Bath's Prologue 231,data/oxford_txts/WBPro_oxford.txt,"A wise wif, if that she can hir good,°",False,False,WBPro_gui_complete.csv
 olde,olde,The Wife of Bath's Prologue 235,data/oxford_txts/WBPro_oxford.txt,"¶“ ‘Sir olde kainard,° is this thin array?",False,False,WBPro_gui_complete.csv
 olde,olde,The Wife of Bath's Prologue 242,data/oxford_txts/WBPro_oxford.txt,"Sir olde lechour, lat thy japes° be!",False,False,WBPro_gui_complete.csv
@@ -94,12 +85,10 @@ olde,olde,The Wife of Bath's Prologue 331,data/oxford_txts/WBPro_oxford.txt,"For
 swete,swete,The Wife of Bath's Prologue 385,data/oxford_txts/WBPro_oxford.txt,"Ful giltelees, by Goddes swete pine!°",False,False,WBPro_gui_complete.csv
 god,goode,The Wife of Bath's Prologue 431,data/oxford_txts/WBPro_oxford.txt,"¶“Than wolde I seye, ‘Goode lief,° taak keep°",False,False,WBPro_gui_complete.csv
 swete,sweete,The Wife of Bath's Prologue 435,data/oxford_txts/WBPro_oxford.txt,And han a sweete spiced° conscience,False,False,WBPro_gui_complete.csv
-ouen,owne,The Wife of Bath's Prologue 449,data/oxford_txts/WBPro_oxford.txt,But I wol kepe it for your owne tooth.°,False,False,WBPro_gui_complete.csv
 swete,sweete,The Wife of Bath's Prologue 459,data/oxford_txts/WBPro_oxford.txt,Whan I had dronke a draughte of sweete win.,False,False,WBPro_gui_complete.csv
 queinte,queinte,The Wife of Bath's Prologue 516,data/oxford_txts/WBPro_oxford.txt,In this matere a queinte° fantasie;,False,False,WBPro_gui_complete.csv
 dere,dere,The Wife of Bath's Prologue 522,data/oxford_txts/WBPro_oxford.txt,"Greet prees° at market maketh dere ware,°",False,False,WBPro_gui_complete.csv
 prive,privee,The Wife of Bath's Prologue 620,data/oxford_txts/WBPro_oxford.txt,And also in another privee place.,False,False,WBPro_gui_complete.csv
-povre,pore,The Wife of Bath's Prologue 626,data/oxford_txts/WBPro_oxford.txt,"How pore he was, ne eek of what degree.°",False,False,WBPro_gui_complete.csv
 olde,olde,The Wife of Bath's Prologue 642,data/oxford_txts/WBPro_oxford.txt,And me of olde Roman gestes° teche,False,False,WBPro_gui_complete.csv
 fals,false,The Wife of Bath's Prologue 800,data/oxford_txts/WBPro_oxford.txt,"‘O! hastow slain me, false theef?’° I seide",False,False,WBPro_gui_complete.csv
 dere,deere,The Wife of Bath's Prologue 804,data/oxford_txts/WBPro_oxford.txt,"And seide, ‘deere suster Alisoun",False,False,WBPro_gui_complete.csv
@@ -128,9 +117,7 @@ god,goode,Troilus and Criseyde; Book III 631,data/oxford_txts/TC3_oxford.txt,"�
 muche,muche,Troilus and Criseyde; Book III 638,data/oxford_txts/TC3_oxford.txt,"Criseyde, whiche that coude as muche good",False,False,TC3_gui_complete.csv
 sobre,sobre,Troilus and Criseyde; Book III 747,data/oxford_txts/TC3_oxford.txt,"And Pandarus, with a ful sobre chere",False,False,TC3_gui_complete.csv
 dere,dere,Troilus and Criseyde; Book III 774,data/oxford_txts/TC3_oxford.txt,And him hir ‘leef ’ and ‘dere herte’ calle,False,False,TC3_gui_complete.csv
-ouen,owne,Troilus and Criseyde; Book III 915,data/oxford_txts/TC3_oxford.txt,Ye knowe eek how it is your owne knight,False,False,TC3_gui_complete.csv
 god,gode,Troilus and Criseyde; Book III 975,data/oxford_txts/TC3_oxford.txt,"Now doth him sitte, gode nece dere",False,False,TC3_gui_complete.csv
-gret,grete,Troilus and Criseyde; Book III 992,data/oxford_txts/TC3_oxford.txt,"Your grete trouthe, and servise every day",False,False,TC3_gui_complete.csv
 swete,swete,Troilus and Criseyde; Book III 1173,data/oxford_txts/TC3_oxford.txt,"Have mercy, swete herte min, Criseyde!",False,False,TC3_gui_complete.csv
 swete,swete,Troilus and Criseyde; Book III 1183,data/oxford_txts/TC3_oxford.txt,"Foryeve it me, min owene swete herte.”",False,False,TC3_gui_complete.csv
 bitter,bittre,Troilus and Criseyde; Book III 1215,data/oxford_txts/TC3_oxford.txt,Ful bittre drink; and for to han gladnesse,False,False,TC3_gui_complete.csv
@@ -146,7 +133,6 @@ treu,trewe,The Merchant's Tale 1298,data/oxford_txts/MerT_oxford.txt,"A trewe se
 treu,trewe,The Merchant's Tale 1302,data/oxford_txts/MerT_oxford.txt,Thy verrai° frendes or a trewe knave°,False,False,MerT_gui_complete.csv
 povre,povre,The Merchant's Tale 1342,data/oxford_txts/MerT_oxford.txt,"If he be povre,° she helpeth him to swinke;°",False,False,MerT_gui_complete.csv
 dere,dere,The Merchant's Tale 1488,data/oxford_txts/MerT_oxford.txt,Min owene dere brother and my lord,False,False,MerT_gui_complete.csv
-ouen,owene,The Merchant's Tale 1490,data/oxford_txts/MerT_oxford.txt,I hold° your owene conseil is the beste.,False,False,MerT_gui_complete.csv
 long,longe,The Merchant's Tale 1696,data/oxford_txts/MerT_oxford.txt,"I trowe° it were to longe yow to tarie,°",False,False,MerT_gui_complete.csv
 tender,tendre,The Merchant's Tale 1738,data/oxford_txts/MerT_oxford.txt,Whan tendre youthe hath wedded stouping° age,False,False,MerT_gui_complete.csv
 fals,false,The Merchant's Tale 1785,data/oxford_txts/MerT_oxford.txt,"O servant traitour, false hoomly° hewe,°",False,False,MerT_gui_complete.csv
@@ -172,7 +158,6 @@ dere,dere,Troilus and Criseyde; Book IV 405,data/oxford_txts/TC4_oxford.txt,"For
 neue,newe,Troilus and Criseyde; Book IV 416,data/oxford_txts/TC4_oxford.txt,And upon newe cas lith newe avis.,False,False,TC4_gui_complete.csv
 lef,leve,Troilus and Criseyde; Book IV 458,data/oxford_txts/TC4_oxford.txt,"It lith not in my power, leve brother.",False,False,TC4_gui_complete.csv
 blak,blake,Troilus and Criseyde; Book IV 779,data/oxford_txts/TC4_oxford.txt,"Shul blake been, in tokening, herte swete",False,False,TC4_gui_complete.csv
-tender,tendre,Troilus and Criseyde; Book IV 795,data/oxford_txts/TC4_oxford.txt,How shal your tendre herte this sustene?,False,False,TC4_gui_complete.csv
 lef,leve,Troilus and Criseyde; Book IV 926,data/oxford_txts/TC4_oxford.txt,"And nought encresse, leve nece swete;",False,False,TC4_gui_complete.csv
 smothe,smothe,Troilus and Criseyde; Book IV 996,data/oxford_txts/TC4_oxford.txt,That han hir top ful heighe and smothe yshore;,False,False,TC4_gui_complete.csv
 bitter,bittre,Troilus and Criseyde; Book IV 1136,data/oxford_txts/TC4_oxford.txt,"As bittre weren, out of teres kinde",False,False,TC4_gui_complete.csv
@@ -189,7 +174,6 @@ swete,swete,The Miller's Tale 3767,data/oxford_txts/MilT_oxford.txt,"“What, Ab
 treu,trewe,The Miller's Tale 3781,data/oxford_txts/MilT_oxford.txt,"Thou sholdest have, as I am trewe smith;",False,False,MilT_gui_complete.csv
 swete,swete,The Miller's Tale 3805,data/oxford_txts/MilT_oxford.txt,"“Spek, swete brid,° I noot° nat wher thou art.”",False,False,MilT_gui_complete.csv
 heigh,hye,The Clerk's Tale 135,data/oxford_txts/ClT_oxford.txt,"And tak a wif, for hye Goddes sake;",False,False,ClT_gui_complete.csv
-mek,meke,The Clerk's Tale 141,data/oxford_txts/ClT_oxford.txt,Hir° meke preiere and hir pitous chere°,False,False,ClT_gui_complete.csv
 povre,povre,The Clerk's Tale 200,data/oxford_txts/ClT_oxford.txt,In which that povre folk of that village,False,False,ClT_gui_complete.csv
 povre,povre,The Clerk's Tale 204,data/oxford_txts/ClT_oxford.txt,Amonges thise povre folk ther dwelte a man,False,False,ClT_gui_complete.csv
 tender,tendre,The Clerk's Tale 218,data/oxford_txts/ClT_oxford.txt,But thogh this maide tendre were of age,False,False,ClT_gui_complete.csv
@@ -197,12 +181,8 @@ povre,povre,The Clerk's Tale 222,data/oxford_txts/ClT_oxford.txt,Hir olde povre 
 sobre,sobre,The Clerk's Tale 366,data/oxford_txts/ClT_oxford.txt,And forth he gooth with a ful sobre chere°,False,False,ClT_gui_complete.csv
 wroth,wrothe,The Clerk's Tale 437,data/oxford_txts/ClT_oxford.txt,"Were wrothe,° she wold bringen hem atoon;°",False,False,ClT_gui_complete.csv
 long,longe,The Clerk's Tale 442,data/oxford_txts/ClT_oxford.txt,Nat longe time after that this Grisild,False,False,ClT_gui_complete.csv
-ouen,owene,The Clerk's Tale 504,data/oxford_txts/ClT_oxford.txt,Your owene thing;° werketh after your wille.,False,False,ClT_gui_complete.csv
 yong,yonge,The Clerk's Tale 567,data/oxford_txts/ClT_oxford.txt,“Have heer again your litel yonge maide.°,False,False,ClT_gui_complete.csv
-ouen,owne,The Clerk's Tale 652,data/oxford_txts/ClT_oxford.txt,"Ye been our lord, doth with your owne thing",False,False,ClT_gui_complete.csv
 povre,povre,The Clerk's Tale 724,data/oxford_txts/ClT_oxford.txt,For° he a povre womman wedded hadde,False,False,ClT_gui_complete.csv
-treu,trewe,The Clerk's Tale 838,data/oxford_txts/ClT_oxford.txt,"And am your trewe wif, it is no drede",False,False,ClT_gui_complete.csv
-neue,newe,The Clerk's Tale 841,data/oxford_txts/ClT_oxford.txt,"And of your newe wif, God of his grace",False,False,ClT_gui_complete.csv
 povre,povre,The Clerk's Tale 904,data/oxford_txts/ClT_oxford.txt,For out of doute this olde povre man,False,False,ClT_gui_complete.csv
 tender,tendre,The Clerk's Tale 927,data/oxford_txts/ClT_oxford.txt,"No tendre mouth, non herte delicaat",False,False,ClT_gui_complete.csv
 neue,newe,The Clerk's Tale 942,data/oxford_txts/ClT_oxford.txt,"Was couth° eek, that a newe markisesse",False,False,ClT_gui_complete.csv
@@ -223,26 +203,22 @@ fair,faire,The Knight's Tale 1511,data/oxford_txts/KnT_oxford.txt,"Welcome be th
 fresh,fresshe,The Knight's Tale 1511,data/oxford_txts/KnT_oxford.txt,"Welcome be thou, faire fresshe May",False,False,KnT_gui_complete.csv
 long,longe,The Knight's Tale 1573,data/oxford_txts/KnT_oxford.txt,A longe time; and after he up sterte.,False,False,KnT_gui_complete.csv
 fals,false,The Knight's Tale 1580,data/oxford_txts/KnT_oxford.txt,"And seide: “Arcite, false traitour wikke,°",False,False,KnT_gui_complete.csv
-ouen,owne,The Knight's Tale 1744,data/oxford_txts/KnT_oxford.txt,"Youre owne mouth, by your confessioun",False,False,KnT_gui_complete.csv
 muche,muche,The Knight's Tale 1808,data/oxford_txts/KnT_oxford.txt,Can° hem therfor as muche thank as me;,False,False,KnT_gui_complete.csv
 vein,veine,The Knight's Tale 2240,data/oxford_txts/KnT_oxford.txt,"Ne renoun° in this cas, ne veine glorie",False,False,KnT_gui_complete.csv
 chaste,chaste,The Knight's Tale 2304,data/oxford_txts/KnT_oxford.txt,"Chaste goddesse, wel wostow° that I",False,False,KnT_gui_complete.csv
-hot,hote,The Knight's Tale 2319,data/oxford_txts/KnT_oxford.txt,"That al hir hote love, and hir desir",False,False,KnT_gui_complete.csv
 fair,faire,The Knight's Tale 2386,data/oxford_txts/KnT_oxford.txt,"Of faire yonge fresshe Venus free,°",False,False,KnT_gui_complete.csv
 yong,yonge,The Knight's Tale 2386,data/oxford_txts/KnT_oxford.txt,"Of faire yonge fresshe Venus free,°",False,False,KnT_gui_complete.csv
 treu,trewe,The Knight's Tale 2657,data/oxford_txts/KnT_oxford.txt,"I wol be trewe juge, and no partie.°",False,False,KnT_gui_complete.csv
 olde,olde,The Knight's Tale 2828,data/oxford_txts/KnT_oxford.txt,"Of olde folk, and folk of tendre yeres",False,False,KnT_gui_complete.csv
-ouen,owne,The Knight's Tale 3077,data/oxford_txts/KnT_oxford.txt,"That gentil Palamon, your owne knight",False,False,KnT_gui_complete.csv
 povre,povre,The Knight's Tale 3085,data/oxford_txts/KnT_oxford.txt,"And, though° he were a povre bacheler,°",False,False,KnT_gui_complete.csv
 lef,leve,The Miller's Prologue 3151,data/oxford_txts/MilPro_oxford.txt,"And seide, “Leve° brother Osewold",False,False,MilPro_gui_complete.csv
 fers,ferse,Anelida and Arcite 1,data/oxford_txts/Anelida_oxford.txt,"Thou ferse° god of armes, Mars the rede",False,False,Anelida_gui_complete.csv
 proud,proude,Anelida and Arcite 192,data/oxford_txts/Anelida_oxford.txt,"But lest that he wer proude, she held him lowe;",False,False,Anelida_gui_complete.csv
-olde,olde,The Physician's Tale 72,data/oxford_txts/PhyT_oxford.txt,"¶And ye maistresses° in your olde lif,°",False,False,PhyT_gui_complete.csv
-povre,povre,The Physician's Tale 179,data/oxford_txts/PhyT_oxford.txt,Sheweth° your povre servant Claudius,False,False,PhyT_gui_complete.csv
 dere,dere,The Physician's Tale 231,data/oxford_txts/PhyT_oxford.txt,"¶“O mercy, dere fader,” quod this maide",False,False,PhyT_gui_complete.csv
 god,gode,The Physician's Tale 235,data/oxford_txts/PhyT_oxford.txt,"And seide, “Gode fader, shal I die?",False,False,PhyT_gui_complete.csv
 dere,dere,The Physician's Tale 237,data/oxford_txts/PhyT_oxford.txt,"“No, certes, dere doghter min,” quod he.",False,False,PhyT_gui_complete.csv
 prive,privee,The Physician's Tale 281,data/oxford_txts/PhyT_oxford.txt,"Of° wikked lif, though it so privee° be",False,False,PhyT_gui_complete.csv
+olde,olde,Prologue to the Franklin's Tale 709,data/oxford_txts/FranPro_oxford.txt,¶Thise olde gentil° Britons° in hir dayes,False,False,FranPro_gui_complete.csv
 god,goode,74,oxford_txts/GP.txt,His hors were goode but he was nat gay,False,False,GP_gui_complete.csv
 tender,tendre,150,oxford_txts/GP.txt,And al was conscience and tendre herte,False,False,GP_gui_complete.csv
 ouen,owne,338,oxford_txts/GP.txt,For he was Epicurus owne sone,False,False,GP_gui_complete.csv
@@ -262,7 +238,6 @@ bright,brighte,The Man of Law's Tale 852,data/oxford_txts/MLT_oxford.txt,"Thou h
 dere,dere,The Man of Law's Tale 858,data/oxford_txts/MLT_oxford.txt,"O mercy, dere constable!” quod she;",False,False,MLT_gui_complete.csv
 long,longe,The Man of Law's Tale 870,data/oxford_txts/MLT_oxford.txt,"Habundantly for hir, ful longe space",False,False,MLT_gui_complete.csv
 long,longe,The Man of Law's Tale 979,data/oxford_txts/MLT_oxford.txt,And longe time dwelled she in that place,False,False,MLT_gui_complete.csv
-yong,yonge,The Man of Law's Tale 1105,data/oxford_txts/MLT_oxford.txt,"“Fader,” quod she, “your yonge child Custance",False,False,MLT_gui_complete.csv
 god,gode,The Man of Law's Tale 1111,data/oxford_txts/MLT_oxford.txt,"Now, Gode fader, mercy I yow crie",False,False,MLT_gui_complete.csv
 long,longe,Book of the Duchess 20,data/oxford_txts/BD_oxford.txt,Not longe time to endure,False,False,BD_gui_complete.csv
 olde,olde,Book of the Duchess 53,data/oxford_txts/BD_oxford.txt,"That clerkes° had, in olde time",False,False,BD_gui_complete.csv
@@ -286,9 +261,9 @@ fair,faire,Book of the Duchess 948,data/oxford_txts/BD_oxford.txt,"¶“And good
 yong,yonge,Book of the Duchess 1090,data/oxford_txts/BD_oxford.txt,"I was right yonge, soth to say",False,False,BD_gui_complete.csv
 long,longe,Book of the Duchess 1148,data/oxford_txts/BD_oxford.txt,"Noght longe time, leve° hit wel.",False,False,BD_gui_complete.csv
 muche,moche,Book of the Duchess 1197,data/oxford_txts/BD_oxford.txt,"So moche beaute, trewely",False,False,BD_gui_complete.csv
+vein,veine,The Pardoner's Prologue 411,data/oxford_txts/PardPro_oxford.txt,"And som for veine glorie,° and som for hate.",False,False,PardPro_gui_complete.csv
 lef,leve,The Summoner's Tale 1751,data/oxford_txts/SumT_oxford.txt,"A dagon° of your blanket,° leve° dame",False,False,SumT_gui_complete.csv
 dere,dere,The Summoner's Tale 1752,data/oxford_txts/SumT_oxford.txt,"Our suster dere, lo! here I write your name;",False,False,SumT_gui_complete.csv
-gret,grete,The Summoner's Tale 1813,data/oxford_txts/SumT_oxford.txt,"But of your grete goodness, by your leve",False,False,SumT_gui_complete.csv
 sobre,sobre,The Summoner's Tale 1902,data/oxford_txts/SumT_oxford.txt,But° they be sobre that° for the peple preye,False,False,SumT_gui_complete.csv
 chaste,chaste,The Summoner's Tale 1940,data/oxford_txts/SumT_oxford.txt,Of charitable and chaste bisy freres,False,False,SumT_gui_complete.csv
 ouen,owne,The Summoner's Tale 1977,data/oxford_txts/SumT_oxford.txt,And for to builden Cristes owne chirche.,False,False,SumT_gui_complete.csv
@@ -299,8 +274,26 @@ lef,leve,The Summoner's Tale 2089,data/oxford_txts/SumT_oxford.txt,"¶“Now Tho
 proud,proude,The Summoner's Tale 2227,data/oxford_txts/SumT_oxford.txt,"O nice° proude cherl, I shrewe° his face!",False,False,SumT_gui_complete.csv
 hard,harde,The Summoner's Tale 2228,data/oxford_txts/SumT_oxford.txt,"Lo, sires,” quod the lord, “with harde grace,°",False,False,SumT_gui_complete.csv
 neue,newe,The Summoner's Tale 2293,data/oxford_txts/SumT_oxford.txt,And Jankin hath ywonne a newe goune.—,False,False,SumT_gui_complete.csv
+queinte,queinte,House of Fame 126,data/oxford_txts/HF_oxford.txt,And queinte° maner of figures,False,False,HF_gui_complete.csv
+olde,olde,House of Fame 127,data/oxford_txts/HF_oxford.txt,"Of olde werke, then I saw ever.",False,False,HF_gui_complete.csv
+muche,moche,House of Fame 147,data/oxford_txts/HF_oxford.txt,"In Itaile, with ful moche pine,°",False,False,HF_gui_complete.csv
+long,longe,House of Fame 303,data/oxford_txts/HF_oxford.txt,If it so longe time dure,False,False,HF_gui_complete.csv
+muche,moche,House of Fame 500,data/oxford_txts/HF_oxford.txt,But that it semed moche more°,False,False,HF_gui_complete.csv
+fair,faire,House of Fame 518,data/oxford_txts/HF_oxford.txt,"¶Now faire blisfull, O Cipris,°",False,False,HF_gui_complete.csv
+olde,olde,House of Fame 694,data/oxford_txts/HF_oxford.txt,Of olde forleten° aqueintaunces;,False,False,HF_gui_complete.csv
+olde,olde,House of Fame 1155,data/oxford_txts/HF_oxford.txt,"Of olde time, and yit they were",False,False,HF_gui_complete.csv
+long,longe,House of Fame 1287,data/oxford_txts/HF_oxford.txt,And eft° ymused longe while,False,False,HF_gui_complete.csv
+muche,moche,House of Fame 1358,data/oxford_txts/HF_oxford.txt,"Ful moche prees° of folk ther nas,°",False,False,HF_gui_complete.csv
+long,longe,House of Fame 1484,data/oxford_txts/HF_oxford.txt,That bore hath up a longe while,False,False,HF_gui_complete.csv
+hard,harde,House of Fame 1586,data/oxford_txts/HF_oxford.txt,"This Eolus, with harde grace,°",False,False,HF_gui_complete.csv
+god,gode,House of Fame 1608,data/oxford_txts/HF_oxford.txt,"Of gode folk, and gunne crie",False,False,HF_gui_complete.csv
+muche,moche,House of Fame 1748,data/oxford_txts/HF_oxford.txt,Hit shal don us as moche gode,False,False,HF_gui_complete.csv
+god,gode,House of Fame 1832,data/oxford_txts/HF_oxford.txt,As gode folk han in goodnes;,False,False,HF_gui_complete.csv
+god,gode,House of Fame 1854,data/oxford_txts/HF_oxford.txt,As gode folk han for goodnesse;,False,False,HF_gui_complete.csv
+neue,newe,House of Fame 2045,data/oxford_txts/HF_oxford.txt,A newe tiding prevely,False,False,HF_gui_complete.csv
+whit,white,House of Fame 2116,data/oxford_txts/HF_oxford.txt,"As dooth the faire, white mone",False,False,HF_gui_complete.csv
+gret,grete,House of Fame 2141,data/oxford_txts/HF_oxford.txt,I herde a grete noise withalle,False,False,HF_gui_complete.csv
 swete,swete,Troilus and Criseyde; Book V 63,data/oxford_txts/TC5_oxford.txt,Whan she forgoth hir owene swete herte?,False,False,TC5_gui_complete.csv
-fresh,fresshe,Troilus and Criseyde; Book V 244,data/oxford_txts/TC5_oxford.txt,Shal been your fresshe wommanliche face,False,False,TC5_gui_complete.csv
 lef,leve,Troilus and Criseyde; Book V 307,data/oxford_txts/TC5_oxford.txt,"My swerd, min helm, and, leve brother dere",False,False,TC5_gui_complete.csv
 fin,fine,Troilus and Criseyde; Book V 421,data/oxford_txts/TC5_oxford.txt,“But sin of fine force I moot arise,False,False,TC5_gui_complete.csv
 olde,olde,Troilus and Criseyde; Book V 470,data/oxford_txts/TC5_oxford.txt,"The lettres eek, that she of olde time",False,False,TC5_gui_complete.csv
@@ -310,13 +303,10 @@ wise,wise,Troilus and Criseyde; Book V 790,data/oxford_txts/TC5_oxford.txt,For w
 sobre,sobre,Troilus and Criseyde; Book V 820,data/oxford_txts/TC5_oxford.txt,"She sobre was, eek simple, and wis withal",False,False,TC5_gui_complete.csv
 fresh,fresshe,Troilus and Criseyde; Book V 830,data/oxford_txts/TC5_oxford.txt,"Yong, fresshe, strong, and hardy as lioun;",False,False,TC5_gui_complete.csv
 long,longe,Troilus and Criseyde; Book V 851,data/oxford_txts/TC5_oxford.txt,"And after this, withouten longe lette",False,False,TC5_gui_complete.csv
-wise,wise,Troilus and Criseyde; Book V 904,data/oxford_txts/TC5_oxford.txt,“What wene ye your wise fader wolde,False,False,TC5_gui_complete.csv
 bright,brighte,Troilus and Criseyde; Book V 1022,data/oxford_txts/TC5_oxford.txt,Inwith hir fadres faire brighte tente.,False,False,TC5_gui_complete.csv
 bai,baye,Troilus and Criseyde; Book V 1038,data/oxford_txts/TC5_oxford.txt,That she him yaf the faire baye stede,False,False,TC5_gui_complete.csv
 neue,newe,Troilus and Criseyde; Book V 1148,data/oxford_txts/TC5_oxford.txt,"Almost, ywis, al newe was my care.",False,False,TC5_gui_complete.csv
 wod,wode,Troilus and Criseyde; Book V 1213,data/oxford_txts/TC5_oxford.txt,Which that men clepeth wode Jalousie,False,False,TC5_gui_complete.csv
-fast,faste,Troilus and Criseyde; Book V 1235,data/oxford_txts/TC5_oxford.txt,That in a forest faste he welk to wepe,False,False,TC5_gui_complete.csv
-gret,grete,Troilus and Criseyde; Book V 1250,data/oxford_txts/TC5_oxford.txt,"The blisful goddes, through hir grete might",False,False,TC5_gui_complete.csv
 neue,newe,Troilus and Criseyde; Book V 1255,data/oxford_txts/TC5_oxford.txt,"What newe lust, what beaute, what science",False,False,TC5_gui_complete.csv
 juste,juste,Troilus and Criseyde; Book V 1256,data/oxford_txts/TC5_oxford.txt,What wratthe of juste cause have ye to me?,False,False,TC5_gui_complete.csv
 neue,newe,Troilus and Criseyde; Book V 1269,data/oxford_txts/TC5_oxford.txt,I fele now so sharpe a newe peine,False,False,TC5_gui_complete.csv
@@ -325,10 +315,8 @@ swete,swete,Troilus and Criseyde; Book V 1344,data/oxford_txts/TC5_oxford.txt,"F
 dere,dere,Troilus and Criseyde; Book V 1401,data/oxford_txts/TC5_oxford.txt,"“Ywis, min owene dere herte trewe",False,False,TC5_gui_complete.csv
 fair,faire,Troilus and Criseyde; Book V 1412,data/oxford_txts/TC5_oxford.txt,"And fareth wel, goodly faire fresshe may",False,False,TC5_gui_complete.csv
 fresh,fresshe,Troilus and Criseyde; Book V 1412,data/oxford_txts/TC5_oxford.txt,"And fareth wel, goodly faire fresshe may",False,False,TC5_gui_complete.csv
-neue,newe,Troilus and Criseyde; Book V 1689,data/oxford_txts/TC5_oxford.txt,"To feffe with your newe love,” quod he",False,False,TC5_gui_complete.csv
 swete,swete,Troilus and Criseyde; Book V 1720,data/oxford_txts/TC5_oxford.txt,"But trewely, Criseyde, swete may",False,False,TC5_gui_complete.csv
 fals,false,Troilus and Criseyde; Book V 1781,data/oxford_txts/TC5_oxford.txt,"Through false folk; God yeve hem sorwe, amen!",False,False,TC5_gui_complete.csv
-gret,grete,Troilus and Criseyde; Book V 1782,data/oxford_txts/TC5_oxford.txt,That with hir grete wit and subtiltee,False,False,TC5_gui_complete.csv
 olde,olde,Troilus and Criseyde; Book V 1854,data/oxford_txts/TC5_oxford.txt,"Lo here, the forme of olde clerkes speche",False,False,TC5_gui_complete.csv
 neue,newe,Parliament of Fowls 250,data/oxford_txts/PF_oxford.txt,Of newe flaume; and wel aspied I thenne,False,False,PF_gui_complete.csv
 prive,privee,Parliament of Fowls 260,data/oxford_txts/PF_oxford.txt,"And in a privee corner, in disporte,°",False,False,PF_gui_complete.csv
@@ -344,8 +332,6 @@ lef,leve,The Pardoner's Tale 731,data/oxford_txts/PardT_oxford.txt,"And seye, �
 long,longe,The Pardoner's Tale 735,data/oxford_txts/PardT_oxford.txt,That in my chambre longe time hath be,False,False,PardT_gui_complete.csv
 yong,yonge,The Pardoner's Tale 759,data/oxford_txts/PardT_oxford.txt,"To sleen us yonge folk, thou false theef!”°",False,False,PardT_gui_complete.csv
 fals,false,The Pardoner's Tale 759,data/oxford_txts/PardT_oxford.txt,"To sleen us yonge folk, thou false theef!”°",False,False,PardT_gui_complete.csv
-ouen,owene,The Pardoner's Tale 790,data/oxford_txts/PardT_oxford.txt,And for our owene tresor doon us honge.°,False,False,PardT_gui_complete.csv
-ouen,owene,The Pardoner's Tale 834,data/oxford_txts/PardT_oxford.txt,And pleye at dees right at our owene wille.”,False,False,PardT_gui_complete.csv
 yong,yonge,The Reeve's Tale 4002,data/oxford_txts/RvT_oxford.txt,¶Than were ther yonge povre scolers two,False,False,RvT_gui_complete.csv
 swete,swete,The Reeve's Tale 4236,data/oxford_txts/RvT_oxford.txt,"And seide, “Far wel, Malin, swete wight!°",False,False,RvT_gui_complete.csv
 dere,dere,The Reeve's Tale 4240,data/oxford_txts/RvT_oxford.txt,"“Now dere lemman,”° quod she, “go, far wel!",False,False,RvT_gui_complete.csv
@@ -354,11 +340,9 @@ fals,false,The Reeve's Tale 4268,data/oxford_txts/RvT_oxford.txt,"¶“Ye, false
 fals,false,The Reeve's Tale 4269,data/oxford_txts/RvT_oxford.txt,A! false traitour! false clerk!” quod he,False,False,RvT_gui_complete.csv
 povre,povre,The Nun's Priest's Tale 2821,data/oxford_txts/NPT_oxford.txt,"¶A povre widwe, somdel° stape° in age",False,False,NPT_gui_complete.csv
 fair,faire,The Nun's Priest's Tale 2870,data/oxford_txts/NPT_oxford.txt,Was cleped° faire damisel° Pertelote.,False,False,NPT_gui_complete.csv
-red,rede,The Nun's Priest's Tale 2928,data/oxford_txts/NPT_oxford.txt,"Of youre rede colera,° pardee",False,False,NPT_gui_complete.csv
 dere,dere,The Nun's Priest's Tale 3006,data/oxford_txts/NPT_oxford.txt,"Now help me, dere brother, er I die;",False,False,NPT_gui_complete.csv
 fals,false,The Nun's Priest's Tale 3228,data/oxford_txts/NPT_oxford.txt,"False dissimilour,° O Greek Sinon",False,False,NPT_gui_complete.csv
 dere,dere,The Nun's Priest's Tale 3347,data/oxford_txts/NPT_oxford.txt,"¶O Gaufred,° dere maister soverain,°",False,False,NPT_gui_complete.csv
-ouen,owne,Troilus and Criseyde; Book I 51,data/oxford_txts/TC1_oxford.txt,As though I were hir owne brother dere.,False,False,TC1_gui_complete.csv
 neue,newe,Troilus and Criseyde; Book I 157,data/oxford_txts/TC1_oxford.txt,"With newe grene, of lusty Ver the prime",False,False,TC1_gui_complete.csv
 blind,blinde,Troilus and Criseyde; Book I 202,data/oxford_txts/TC1_oxford.txt,O verrey foles! nice and blinde be ye;,False,False,TC1_gui_complete.csv
 proud,proude,Troilus and Criseyde; Book I 225,data/oxford_txts/TC1_oxford.txt,So ferde it by this fers and proude knight;,False,False,TC1_gui_complete.csv
@@ -372,3 +356,6 @@ wise,wise,Troilus and Criseyde; Book I 976,data/oxford_txts/TC1_oxford.txt,For t
 sobre,sobre,Troilus and Criseyde; Book I 1013,data/oxford_txts/TC1_oxford.txt,"With sobre chere, although his herte pleide",False,False,TC1_gui_complete.csv
 ded,dede,Troilus and Criseyde; Book I 1083,data/oxford_txts/TC1_oxford.txt,Dede were his japes and his crueltee,False,False,TC1_gui_complete.csv
 sobre,sobre,Prologue to Sir Thopas 692,data/oxford_txts/ThopPro_oxford.txt,"As sobre° was, that wonder was to se",False,False,ThopPro_gui_complete.csv
+ouen,owene,The Monk's Tale 2008,data/oxford_txts/MkT_oxford.txt,With Goddes owene finger wroght° was he,False,False,MkT_gui_complete.csv
+long,longe,The Monk's Tale 2501,data/oxford_txts/MkT_oxford.txt,That longe time it was er tirannie,False,False,MkT_gui_complete.csv
+neue,newe,The Monk's Tale 2736,data/oxford_txts/MkT_oxford.txt,For to biginne a newe werre° again.,False,False,MkT_gui_complete.csv
