@@ -3,8 +3,8 @@ Builds a word -> {scansion_pattern: frequency} JSON file, same schema as
 scansion_tool/scansion_word_patterns.json (used for GUI autocomplete), but
 sourced only from green-flagged (human-vetted) lines across scansion_tool/,
 rather than the full (mostly machine-generated) dataset/combined.csv. This
-is the reference table used to rank candidate scansions in
-scansion_analysis/variants2/variant_j_rank_by_frequency.py.
+is the reference table used to rank candidate scansions in every
+ranked_scan/ranked_scan_vN.py.
 
 Usage: python3 generate_green_word_patterns.py
 """

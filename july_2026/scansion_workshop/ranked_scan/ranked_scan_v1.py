@@ -2,11 +2,10 @@
 ranked_scan_v1.py - the first version of the ranked scansion program. All
 versions live in ranked_scan/ as ranked_scan_v1.py, ranked_scan_v2.py, etc.
 (each a full, self-contained copy+tweak, same convention as
-scansion.py -> scansion_v2.py) so scansion_analysis/assess_versions.py can
+scansion.py -> scansion_v2.py) so ranked_scan/assess_versions.py can
 regenerate scansion for every version against the green-flagged set and
-compare them side by side. See that file, and its README-equivalent doc in
-scansion_analysis/, for how versions get compared and how the "best so far"
-is picked.
+compare them side by side. See that file for how versions get compared and
+how the "best so far" is picked.
 
 This version: instead of returning the first valid alternating stress
 pattern the combinatorial search finds, it collects every valid pattern
@@ -15,9 +14,9 @@ and ranks them.
 
 Ranking: for each word in a candidate pattern, look up that word's stress
 token (x's stripped, since a word's silent/sounded final -e isn't really a
-different "stress pattern") in scansion_analysis/green_word_patterns.json --
+different "stress pattern") in ranked_scan/green_word_patterns.json --
 a word -> {pattern: count} table built ONLY from green-flagged (human
--vetted) lines, via scansion_analysis/generate_green_word_patterns.py. The
+-vetted) lines, via ranked_scan/generate_green_word_patterns.py. The
 word's score contribution is the percentage of that word's green-flagged
 occurrences that had this exact (x-stripped) pattern, and the whole line's
 score is that sum divided by the number of words (so it's comparable across
@@ -42,8 +41,7 @@ import csv
 from typing import List, Dict, Tuple, Optional
 from itertools import product
 
-REFERENCE_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
-							   'scansion_analysis', 'green_word_patterns.json')
+REFERENCE_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'green_word_patterns.json')
 
 _DEFAULT_REFERENCE = None
 

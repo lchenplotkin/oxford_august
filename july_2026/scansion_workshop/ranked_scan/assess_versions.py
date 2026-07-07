@@ -38,12 +38,11 @@ import generate_green_word_patterns
 from confidence_calibration import threshold_for_target_accuracy, best_achievable_accuracy
 from green_corpus_utils import iter_green_rows, normalize, syllable_count, regenerate
 
-ANALYSIS_DIR = os.path.dirname(os.path.abspath(__file__))
-ROOT = os.path.dirname(ANALYSIS_DIR)
-RANKED_SCAN_DIR = os.path.join(ROOT, 'ranked_scan')
+RANKED_SCAN_DIR = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(RANKED_SCAN_DIR)
 SCANSION_TOOL_DIR = os.path.join(ROOT, 'scansion_tool')
-REPORTS_DIR = os.path.join(ANALYSIS_DIR, 'version_reports')
-COMPARISON_CSV = os.path.join(ANALYSIS_DIR, 'version_comparison.csv')
+REPORTS_DIR = os.path.join(RANKED_SCAN_DIR, 'version_reports')
+COMPARISON_CSV = os.path.join(RANKED_SCAN_DIR, 'version_comparison.csv')
 
 VERSION_RE = re.compile(r'^ranked_scan_v(\d+)\.py$')
 

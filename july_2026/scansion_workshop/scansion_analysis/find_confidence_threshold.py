@@ -16,7 +16,7 @@ tighter/higher threshold that also clears the target just throws away lines
 for no benefit.
 
 The underlying math (threshold_for_target_accuracy, accuracy_table) lives in
-confidence_calibration.py, shared with assess_versions.py.
+ranked_scan/confidence_calibration.py, shared with assess_versions.py.
 
 Usage:
     python3 find_confidence_threshold.py             # target 95%
@@ -26,7 +26,9 @@ Usage:
 
 import argparse
 import os
+import sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), 'ranked_scan'))
 from confidence_calibration import (
     load_confidence_match_pairs,
     threshold_for_target_accuracy,
