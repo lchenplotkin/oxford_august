@@ -1,12 +1,14 @@
 """
-scansion_v2.py - scansion.py plus five validated (or explicitly accepted)
+scansion_v2.py - scansion.py plus six validated (or explicitly accepted)
 fixes, chosen empirically by testing each candidate change in isolation
-against all 1,534 green-flagged (human-vetted) lines in scansion_tool/. See
-scansion_analysis/compare_variants.py and compare_variants2.py for the
-harnesses, scansion_analysis/compare_green_flags.py for the original gap
-analysis, and scansion_analysis/still_wrong.csv for the categorized round-2
-gap analysis. Baseline scansion.py: 1244/1534 match (81.10%). This file:
-1312/1534 (85.53%), net +68 lines fixed vs regressed.
+against the green-flagged (human-vetted) lines in scansion_tool/ (1,534 of
+them when this file was started; the vetted set has since grown as more
+lines get flagged -- rerun scansion_analysis/compare_v1_v2_green.py for the
+current total). See scansion_analysis/compare_variants.py and
+compare_variants2.py for the harnesses, scansion_analysis/compare_green_flags.py
+for the original gap analysis, and scansion_analysis/still_wrong.csv for the
+categorized round-2 gap analysis. As of the last rerun (2,012 green lines):
+scansion.py 1670/2012 (83.00%), this file 1730/2012 (85.98%).
 
 KEPT:
 1. Feminine-ending check was overfit to one word shape (consonant + "en").
@@ -43,6 +45,19 @@ KEPT:
    metric asked for it) as a deliberate stance rather than a data-driven
    one -- see scansion_analysis/variants2/variant_i_me_never_elided.py for
    the isolated test.
+
+6. The line-final word can no longer fully elide (no all-"x" last word,
+   i.e. it must contribute at least one sounded syllable). This closes a
+   real gap: words like "she" (never added to ELISION_EXCEPTIONS) have a
+   [0,1] option on their only vowel cluster whenever nothing follows them
+   in the line, which previously let the search zero out an entire
+   line-final word if that happened to satisfy the target count/meter --
+   a line can't actually end on silence. Net 0 on the 2,012-line green set
+   (this exact defect never happened to decide a green line's outcome),
+   but flips 9 lines across the full ~33k-line corpus, all of them
+   correctly (e.g. "...be it he or she" no longer scans "she" as silent).
+   Deliberately kept despite the 0 net on the measured sample, since it's
+   a correctness constraint rather than a fitted rule.
 
 TRIED AND DROPPED (all made things worse or were a net no-op -- kept here as
 a record so they aren't retried without re-checking):
@@ -414,6 +429,11 @@ def try_scansion_combination(words: List[str], line_counts: List[List[List[int]]
 		total = sum(sum(cluster) for cluster in line_combo)
 		# Allow exactly target OR 11 syllables with unstressed final syllable
 		if total != target and total != target + 1:
+			continue
+
+		# The line-final word can't fully elide -- it needs at least one
+		# sounded syllable (no all-x last word).
+		if sum(line_combo[-1]) == 0:
 			continue
 
 		# Test this combination
