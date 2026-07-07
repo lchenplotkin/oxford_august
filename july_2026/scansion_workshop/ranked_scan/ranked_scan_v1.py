@@ -1,0 +1,577 @@
+"""
+ranked_scan_v1.py - the first version of the ranked scansion program. All
+versions live in ranked_scan/ as ranked_scan_v1.py, ranked_scan_v2.py, etc.
+(each a full, self-contained copy+tweak, same convention as
+scansion.py -> scansion_v2.py) so scansion_analysis/assess_versions.py can
+regenerate scansion for every version against the green-flagged set and
+compare them side by side. See that file, and its README-equivalent doc in
+scansion_analysis/, for how versions get compared and how the "best so far"
+is picked.
+
+This version: instead of returning the first valid alternating stress
+pattern the combinatorial search finds, it collects every valid pattern
+(still preferring an exact-syllable-count match over a feminine-ending one)
+and ranks them.
+
+Ranking: for each word in a candidate pattern, look up that word's stress
+token (x's stripped, since a word's silent/sounded final -e isn't really a
+different "stress pattern") in scansion_analysis/green_word_patterns.json --
+a word -> {pattern: count} table built ONLY from green-flagged (human
+-vetted) lines, via scansion_analysis/generate_green_word_patterns.py. The
+word's score contribution is the percentage of that word's green-flagged
+occurrences that had this exact (x-stripped) pattern, and the whole line's
+score is that sum divided by the number of words (so it's comparable across
+lines of different lengths -- see score_pattern()'s docstring). A
+word/pattern combo that's never attested for that word in the reference
+scores 0 (see unseen_pattern_prior() below for a smoothed alternative to
+try later -- not wired in yet). A word's score contribution is 0 if its own
+pattern is fully elided (all x) -- nothing to look up. The candidate with
+the highest total score wins; first-found order is the tie-break when
+scores are equal.
+
+This builds on scansion_v2.py's six validated fixes (see that file's
+docstring for their individual history) -- the syllable-counting rules
+below are unchanged from v2; only the search/ranking at the bottom differs.
+"""
+
+import re
+import os
+import json
+import argparse
+import csv
+from typing import List, Dict, Tuple, Optional
+from itertools import product
+
+REFERENCE_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+							   'scansion_analysis', 'green_word_patterns.json')
+
+_DEFAULT_REFERENCE = None
+
+
+def load_reference(path: str = REFERENCE_PATH) -> Dict[str, Dict[str, int]]:
+	"""Load the word -> {x-stripped pattern: count} reference table."""
+	with open(path, encoding='utf-8') as f:
+		raw = json.load(f)
+	# Collapse patterns that only differ in their x's (e.g. "Sx" and "S")
+	# into one bucket, since a silent-vs-sounded final -e isn't a different
+	# stress pattern for ranking purposes.
+	collapsed: Dict[str, Dict[str, int]] = {}
+	for word, pattern_counts in raw.items():
+		bucket = collapsed.setdefault(word, {})
+		for pattern, count in pattern_counts.items():
+			stripped = re.sub(r'[xX]', '', pattern)
+			bucket[stripped] = bucket.get(stripped, 0) + count
+	return collapsed
+
+
+def unseen_pattern_prior(word: str, reference: Dict[str, Dict[str, int]]) -> float:
+	"""
+	NOT YET USED in score_pattern() below -- a placeholder for later.
+
+	Right now, a word/pattern combo that was never seen for that word in
+	the reference scores a flat 0, same as a word we have zero data for at
+	all. That's wrong in one specific way: a word seen only once (with some
+	other pattern) shouldn't be treated as equally confident evidence
+	against a new pattern as a word seen 100 times and never with it. This
+	returns a score based purely on how little data we have for the word
+	(higher = less confident = a new pattern should be penalized less),
+	e.g. 100/(total_occurrences + 1). Once we're ready to use it, the
+	unseen-combo branch in score_pattern() should call this instead of
+	returning 0.
+	"""
+	word_patterns = reference.get(word.lower())
+	total = sum(word_patterns.values()) if word_patterns else 0
+	return 100.0 / (total + 1)
+
+
+def score_pattern(pattern_str: str, words: List[str], reference: Dict[str, Dict[str, int]]) -> float:
+	"""
+	Score a candidate line reading: the sum, over each word, of the
+	percentage of that word's green-flagged occurrences that share its
+	(x-stripped) stress pattern here, divided by the number of words in the
+	line. Unattested word/pattern combos and fully-elided words (pattern is
+	all x's) contribute 0 to the sum but still count toward the word total,
+	so a line with more unscoreable words ends up with a lower average.
+
+	Dividing by word count doesn't change which candidate wins for a given
+	line (every candidate for the same line has the same word count, so
+	it's a constant scaling factor within that comparison) -- it only makes
+	the resulting number comparable *across* lines of different lengths, so
+	it can be used as a per-line confidence score.
+	"""
+	tokens = pattern_str.split(' ')
+	if not words:
+		return 0.0
+	score = 0.0
+	for word, tok in zip(words, tokens):
+		wl = minimal_clean(word).lower()
+		stripped = re.sub(r'[xX]', '', tok)
+		if not stripped:
+			continue  # word is fully elided here -- nothing to score
+		word_patterns = reference.get(wl)
+		if not word_patterns:
+			continue  # no data for this word at all -- 0 for now
+		total = sum(word_patterns.values())
+		count = word_patterns.get(stripped, 0)
+		if count == 0:
+			continue  # unattested combo -- 0 for now, see unseen_pattern_prior()
+		score += 100.0 * count / total
+	return score / len(words)
+
+def line_confidence(text: str, scansion_str: str, reference: Dict[str, Dict[str, int]] = None) -> float:
+	"""
+	Confidence score for an arbitrary (already-produced) scansion of a
+	line -- not just one this module generated itself. Used to score
+	existing/green scansions the same way as freshly-ranked ones, for
+	export. A missing scansion, or one whose token count doesn't line up
+	1:1 with the line's words, scores 0.
+	"""
+	global _DEFAULT_REFERENCE
+	if reference is None:
+		if _DEFAULT_REFERENCE is None:
+			_DEFAULT_REFERENCE = load_reference()
+		reference = _DEFAULT_REFERENCE
+
+	if not scansion_str or not str(scansion_str).strip():
+		return 0.0
+
+	words = minimal_clean(text).split()
+	tokens = scansion_str.split(' ')
+	if not words or len(words) != len(tokens):
+		return 0.0
+
+	return score_pattern(scansion_str, words, reference)
+
+def minimal_clean(text: str) -> str:
+	"""Basic cleaning of text while preserving letters and spaces."""
+	retval = re.sub(r"[^a-zA-Z\s]", "", text)
+	return retval if not re.match(r"^\s*$", retval) else text
+
+def vowel_clusters(word: str) -> List[Tuple[str, str, str]]:
+	"""
+	Identify vowel clusters in a word with shared consonants between them.
+	Returns a list of tuples (prev_consonant, vowel_cluster, next_consonant)
+	where consonants are shared between adjacent clusters.
+	"""
+	clusters = re.findall(r"(^|[^aeiouy]+)([aeiouy]+)([^aeiouy]+$)?", word.lower())
+	if not clusters:
+		return []
+
+	processed = []
+	prev_end_consonant = ""
+
+	for i, (start, vowels, end) in enumerate(clusters):
+		if i == 0:
+			prev_consonant = start
+		else:
+			prev_consonant = prev_end_consonant
+
+		if i == len(clusters) - 1:
+			next_consonant = end if end is not None else ""
+		else:
+			if clusters[i+1][0]:
+				next_consonant = clusters[i+1][0]
+				prev_end_consonant = clusters[i+1][0]
+			else:
+				next_consonant = ""
+				prev_end_consonant = ""
+
+		processed.append((prev_consonant, vowels, next_consonant))
+
+	return processed
+
+def simplify_word(word: str) -> str:
+	"""Remove duplicate characters from word to match dictionary forms."""
+	simplified = []
+	for i, c in enumerate(word):
+		if i == 0 or c != word[i-1]:
+			simplified.append(c)
+	return ''.join(simplified)
+
+def ends_with_consonant_e(word: str) -> bool:
+	"""Check if word ends with consonant + e pattern."""
+	return bool(re.search(r'[bcdfghjklmnpqrstvwxyz]e$', word.lower()))
+
+# Variable syllable words with all possible syllable counts
+VARIABLE_SYLLABLE_WORDS = {
+	"borow": (["borow", "borw"], [2, 1]),
+	"cleped": (["cleped", "clepd"], [2, 1]),
+	"ever": (["ever", "evr"], [2, 1]),
+	"fetheres": (["fetheres", "fethres"], [3, 2]),
+	"foles": (["foles", "fols"], [2, 1]),
+	"hereth": (["hereth", "herth"], [2, 1]),
+	"heven": (["heven", "hevn"], [2, 1]),
+	"livest": (["livest", "livst"], [2, 1]),
+	"memorie": (["memorie", "memore", "memori"], [3, 2]),
+	"never": (["never", "nevr"], [2, 1]),
+	"other": (["other", "othr"], [2, 1]),
+	"reputacion": (["reputacion", "reputacn"], [4, 3]),
+	"someres": (["someres", "somres"], [3, 2]),
+	"through": (["through", "thrugh"], [1, 1]),  # Usually 1 syllable
+	"thorugh" : (["thorugh", "thrugh"], [2, 1]),
+	"tokenes": (["tokenes", "tokns"], [3, 2, 1]),
+	"yvel": (["yvel", "yvl"], [2, 1]),
+	"troilus": (["troilus", "trolus"], [3, 2]),
+	"preyeth": (["preyeth", "preyth"], [2, 1]),  # Added based on your note
+	"proign": (["proign", "proigne"], [2, 1]),
+	"every": (["every", "evry"], [2, 3]),
+	"eyen": (["eyen", "eyn"], [2, 1]),
+}
+
+# Special syllable counting rules
+SET_TO_ONE_ELSE_TWO = {
+	"eau": ["beautee", "beaute", "reaume"],
+	"oe": ["boef", "moeving", "moevere", "moebles", "moeved"],
+	"oie": ["joie"],
+}
+
+SET_TO_TWO_ELSE_ONE = {
+	"ue": ["puella", "cruel", "cruelte"],
+}
+
+TWO_IF_ENDS_IN_EUS = ["eu"]
+
+TWO_SYLLABLES = ["iou", "ea", "oye", "io", "oya", "eou", "uie", "uou", "eyi",
+				 "eiau", "aiu", "iau", "eia", "euou", "eiu", "ayei", "aya",
+				 "oa", "ayey", "ae", "ao", "iyo", "oue", "iye", "eiou",
+				 "oiou", "uye", "iey", "iai",'ia']
+
+TWO_IF_FOLLOWED = ["ie", "eye", "ye", "aye", "eie", "aie", "eo"]
+FOLLOWERS = ["d", "th", "r", "n", "st", "s", "nt"]
+
+ONE_IF_INITIAL = ["yi", "ya", "iu", "ye"]
+ONE_IF_FOLLOWING_Q = ["ua", "uee"]
+
+ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
+					"hadden", "his", "her", "him", "hers", "hide", "hir",
+					"hire", "hires", "hirs", "han"]
+
+ELISION_EXCEPTIONS = ["he", "be", "we", "the", "ne", "noble","double","temple", "me"]
+
+def get_variable_word_syllables(word: str, simplified_word: str) -> Optional[List[int]]:
+	"""Check if word is a variable syllable word and return possible syllable counts."""
+	for base, (forms, counts) in VARIABLE_SYLLABLE_WORDS.items():
+		if word in forms or simplified_word in forms:
+			return counts
+	return None
+
+def analyze_word(word: str, prev_word: str = None, next_word: str = None) -> List[List[int]]:
+	"""
+	Analyze a word to determine possible syllable counts for each vowel cluster.
+	"""
+	original_word = word
+	word = minimal_clean(word.lower())
+	simplified_word = simplify_word(word)
+	clusters = vowel_clusters(word)
+	syllable_counts = []
+
+	# Check for variable syllable words first
+	var_counts = get_variable_word_syllables(word, simplified_word)
+	if var_counts:
+		syllable_counts = [var_counts]
+		return syllable_counts
+
+	for i, (start, vowels, end) in enumerate(clusters):
+		is_initial = start == "" and i == 0
+		is_final = next_word is None
+		is_followed = end in FOLLOWERS
+		for follower in FOLLOWERS:
+			if end.startswith(follower):
+				is_followed = True
+		is_vowel_ending = end == ""
+		next_word_vowel = next_word and re.match(r"^[aeiou].*", next_word.lower())
+		after_q = start.endswith("q")
+		if next_word:
+			next_word_start = next_word.startswith("w")
+		else:
+			next_word_start = False
+
+		# Check if this is the final -e in a consonant+e ending
+		is_final_e = (i == len(clusters) - 1 and len(clusters)>1 and vowels == "e" and
+					  is_vowel_ending and ends_with_consonant_e(word))
+
+		# Single vowel cases
+
+		if len(vowels) == 1:
+			if word in ELISION_EXCEPTIONS:
+				counts = [1]
+			elif is_final_e:
+				# Final -e after consonant: can be silent (0) or unstressed (1)
+				counts = [0, 1]
+			elif is_vowel_ending and next_word_vowel and vowels == "e":
+				counts = [0, 1]
+			elif is_vowel_ending and next_word_vowel:
+				counts = [1, 0]
+			elif is_vowel_ending and next_word in ELISION_FOLLOWERS and vowels == "e":
+				counts = [0, 1]
+			elif is_vowel_ending and next_word_start and vowels == "e":
+				counts = [0, 1]
+			elif is_vowel_ending and next_word in ELISION_FOLLOWERS:
+				counts = [1, 0]
+			elif vowels == "e" and is_vowel_ending and end == "":
+				counts = [0, 1]
+			elif vowels == "e" and len(clusters)>1 and end in ['d','r','s','n','th','st']:
+				counts = [1, 0]
+			else:
+				counts = [1]
+		# Special multi-vowel cases
+		elif vowels in SET_TO_ONE_ELSE_TWO.keys():
+			wordstrip = word.rstrip('e') + "e"
+			simplified_strip = simplify_word(wordstrip)
+			if (word in SET_TO_ONE_ELSE_TWO[vowels] or
+				simplified_word in SET_TO_ONE_ELSE_TWO[vowels] or
+				wordstrip in SET_TO_ONE_ELSE_TWO[vowels] or
+				simplified_strip in SET_TO_ONE_ELSE_TWO[vowels]):
+				counts = [1]
+			else:
+				counts = [2]
+		elif vowels in SET_TO_TWO_ELSE_ONE.keys():
+			wordstrip = word.rstrip('e') + "e"
+			simplified_strip = simplify_word(wordstrip)
+			if (word in SET_TO_TWO_ELSE_ONE[vowels] or
+				simplified_word in SET_TO_TWO_ELSE_ONE[vowels] or
+				wordstrip in SET_TO_TWO_ELSE_ONE[vowels] or
+				simplified_strip in SET_TO_TWO_ELSE_ONE[vowels]):
+				counts = [2]
+			else:
+				counts = [1]
+		elif vowels in TWO_IF_ENDS_IN_EUS:
+			if word.endswith('eus'):
+				counts = [2]
+			else:
+				counts = [1]
+		elif vowels in TWO_SYLLABLES and (next_word_vowel or next_word in ELISION_FOLLOWERS):
+			counts = [2,1]
+		elif vowels in TWO_SYLLABLES:
+			counts = [2]
+		elif vowels in ONE_IF_FOLLOWING_Q and after_q:
+			counts = [1]
+		elif vowels in ONE_IF_FOLLOWING_Q:
+			counts = [2]
+		elif vowels in ONE_IF_INITIAL and is_initial:
+			counts = [1]
+		elif vowels in ONE_IF_INITIAL:
+			counts = [2]
+		elif vowels in TWO_IF_FOLLOWED and is_followed:
+			counts = [2]
+		else:
+			counts = [1]
+
+		syllable_counts.append(counts)
+
+	return syllable_counts
+
+def determine_stress_pattern(next_stress: bool, syllable_counts: List[List[int]], word: str) -> Tuple[bool, List[str]]:
+	"""
+	Convert syllable counts to stress patterns, ensuring final -e is never stressed
+	unless it's the first syllable of the word.
+	"""
+	stress_patterns = []
+	word_clean = minimal_clean(word.lower())
+
+	for i, counts in enumerate(syllable_counts):
+		count = counts[0]  # Take first option initially
+		is_final_cluster = i == len(syllable_counts) - 1
+		is_first_cluster = i == 0
+		is_final_e = (is_final_cluster and ends_with_consonant_e(word_clean) and
+					  count > 0)  # Only if the -e is actually pronounced
+
+		if count == 0:
+			stress_patterns.append("x")
+		else:
+			stress = ''
+			for j in range(count):
+				# Final -e can only be stressed if it's the first syllable of the word
+				if is_final_e and j == count - 1 and not is_first_cluster:
+					stress += "u"  # Final -e is unstressed unless it's first syllable
+				else:
+					if next_stress:
+						stress += "S"
+					else:
+						stress += "u"
+				next_stress = not next_stress
+			stress_patterns.append(stress)
+
+	return next_stress, stress_patterns
+
+def is_pattern_alternating(pattern: str) -> bool:
+	"""Check if stress pattern is strictly alternating (ignoring spaces and x)."""
+	clean_pattern = re.sub(r'[^Su]', '', pattern)
+	if len(clean_pattern) <= 1:
+		return True
+
+	for i in range(1, len(clean_pattern)):
+		if clean_pattern[i] == clean_pattern[i-1]:
+			return False
+	return True
+
+def generate_syllable_combinations(word_counts: List[List[List[int]]]) -> List[List[int]]:
+	"""Generate all possible syllable count combinations for a word."""
+	cluster_options = []
+	for cluster in word_counts:
+		cluster_options.append(cluster)
+
+	combinations = []
+	for combo in product(*cluster_options):
+		combinations.append([c for c in combo])
+
+	return combinations
+
+def try_scansion_combination(words: List[str], line_counts: List[List[List[int]]],
+						   target: int, start_stressed: bool,
+						   reference: Dict[str, Dict[str, int]]) -> Optional[Dict]:
+	"""
+	Collect every valid alternating stress pattern for this target/start,
+	and return the highest-scoring one (see score_pattern()) instead of
+	just the first one found. Ties keep the first-found candidate, same as
+	the old first-match behavior.
+	"""
+	word_options = []
+	for word_counts in line_counts:
+		word_options.append(generate_syllable_combinations(word_counts))
+
+	best_exact = None
+	best_exact_score = None
+	best_feminine = None
+	best_feminine_score = None
+
+	# Try all combinations
+	for line_combo in product(*word_options):
+		total = sum(sum(cluster) for cluster in line_combo)
+		# Allow exactly target OR 11 syllables with unstressed final syllable
+		if total != target and total != target + 1:
+			continue
+
+		# The line-final word can't fully elide -- it needs at least one
+		# sounded syllable (no all-x last word).
+		if sum(line_combo[-1]) == 0:
+			continue
+
+		# Test this combination
+		adjusted_counts = []
+		for word_combo in line_combo:
+			word_counts = []
+			for cluster_count in word_combo:
+				word_counts.append([cluster_count])
+			adjusted_counts.append(word_counts)
+
+		# Generate stress pattern
+		next_stress = start_stressed
+		stress_pattern = []
+
+		for i, (word, syllable_counts) in enumerate(zip(words, adjusted_counts)):
+			next_stress, stresses = determine_stress_pattern(next_stress, syllable_counts, word)
+			stress_pattern.extend(stresses)
+			stress_pattern.append(' ')
+
+		pattern_str = "".join(stress_pattern).strip()
+
+		if not is_pattern_alternating(pattern_str):
+			continue
+
+		if total == target:
+			score = score_pattern(pattern_str, words, reference)
+			if best_exact_score is None or score > best_exact_score:
+				best_exact_score = score
+				best_exact = {
+					"adjusted_counts": adjusted_counts,
+					"stress_pattern": pattern_str,
+					"total_syllables": total,
+					"start_stressed": start_stressed
+				}
+		elif total == target + 1:
+			# VARIANT A: only require last syllable unstressed (dropped consonant+en check)
+			clean = re.sub(r'[^Su]', '', pattern_str)
+			if clean and clean[-1] == 'u':
+				score = score_pattern(pattern_str, words, reference)
+				if best_feminine_score is None or score > best_feminine_score:
+					best_feminine_score = score
+					best_feminine = {
+						"adjusted_counts": adjusted_counts,
+						"stress_pattern": pattern_str,
+						"total_syllables": total,
+						"start_stressed": start_stressed
+					}
+
+	if best_exact:
+		return best_exact
+	if best_feminine:
+		return best_feminine
+	return None
+
+def adjust_line_to_target(line: str, line_counts: List[List[List[int]]], target: int = 10,
+						   reference: Dict[str, Dict[str, int]] = None) -> Optional[Dict]:
+	"""
+	Adjust syllable counts to try to reach the target syllable count with alternating meter.
+	"""
+	words = minimal_clean(line).split()
+
+	# Try normal pattern (starting unstressed, target 10)
+	result = try_scansion_combination(words, line_counts, target, False, reference)
+	if result:
+		return result
+
+	# Try flipped pattern (starting stressed, target 9)
+	flipped_target = target - 1
+	result = try_scansion_combination(words, line_counts, flipped_target, True, reference)
+	if result:
+		return result
+
+	# If neither works, return None (invalid)
+	return None
+
+def scan(line: str, target_syllables: int = 10, reference: Dict[str, Dict[str, int]] = None) -> Dict[str, any]:
+	"""
+	Perform scansion on a single line of text. `reference` is the
+	word -> {pattern: count} table used to rank candidates; if not passed,
+	it's loaded once from REFERENCE_PATH and cached.
+	"""
+	global _DEFAULT_REFERENCE
+	if reference is None:
+		if _DEFAULT_REFERENCE is None:
+			_DEFAULT_REFERENCE = load_reference()
+		reference = _DEFAULT_REFERENCE
+
+	words = minimal_clean(line).split()
+
+	# First pass - get initial syllable counts
+	initial_counts = []
+	for i, word in enumerate(words):
+		prev_word = words[i-1] if i > 0 else None
+		next_word = words[i+1] if i < len(words)-1 else None
+		syllable_counts = analyze_word(word, prev_word, next_word)
+		initial_counts.append(syllable_counts)
+
+	# Adjust counts to try to reach target with alternating meter
+	adjustment_result = adjust_line_to_target(line, initial_counts, target_syllables, reference)
+
+	if not adjustment_result:
+		# If we can't find a valid alternating pattern, return error
+		stress_pattern = []
+		for i in range(len(words)):
+			stress_pattern.append('')
+		return stress_pattern, 0
+
+	adjusted_counts = adjustment_result["adjusted_counts"]
+
+	# Generate final analysis
+	next_stress = adjustment_result["start_stressed"]
+	analysis = []
+	stress_pattern = []
+	total_syllables = 0
+
+	for i, (word, syllable_counts) in enumerate(zip(words, adjusted_counts)):
+		next_stress, stresses = determine_stress_pattern(next_stress, syllable_counts, word)
+
+		word_info = {
+			"word": word,
+			"syllable_counts": syllable_counts,
+			"stresses": stresses,
+			"total_syllables": sum(c[0] for c in syllable_counts)
+		}
+
+		analysis.append(word_info)
+		stress_pattern.append(''.join(stresses))
+		total_syllables += word_info["total_syllables"]
+
+	return stress_pattern, total_syllables
