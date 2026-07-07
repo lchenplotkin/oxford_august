@@ -1,12 +1,11 @@
 """
-scansion_v2.py - scansion.py plus five validated (or explicitly accepted)
-fixes, chosen empirically by testing each candidate change in isolation
-against all 1,534 green-flagged (human-vetted) lines in scansion_tool/. See
-scansion_analysis/compare_variants.py and compare_variants2.py for the
-harnesses, scansion_analysis/compare_green_flags.py for the original gap
-analysis, and scansion_analysis/still_wrong.csv for the categorized round-2
-gap analysis. Baseline scansion.py: 1244/1534 match (81.10%). This file:
-1312/1534 (85.53%), net +68 lines fixed vs regressed.
+scansion_v2.py - scansion.py plus four validated fixes, chosen empirically by
+testing each candidate change in isolation against all 1,534 green-flagged
+(human-vetted) lines in scansion_tool/. See scansion_analysis/compare_variants.py
+and compare_variants2.py for the harnesses, scansion_analysis/compare_green_flags.py
+for the original gap analysis, and scansion_analysis/still_wrong.csv for the
+categorized round-2 gap analysis. Baseline scansion.py: 1244/1534 match
+(81.10%). This file: 1312/1534 (85.53%), net +68 lines fixed vs regressed.
 
 KEPT:
 1. Feminine-ending check was overfit to one word shape (consonant + "en").
@@ -33,16 +32,6 @@ KEPT:
    TWO_SYLLABLES/TWO_IF_FOLLOWED lists), so it was always scanned as 1.
    Added a VARIABLE_SYLLABLE_WORDS entry, same pattern as Troilus/Caliope.
    Alone: +1 net (1 fixed, 0 regressed).
-
-5. "me" added to ELISION_EXCEPTIONS, so it can never be silent/elided (like
-   "he"/"be"/"we"/"the"/"ne" already there). Tested in isolation this is a
-   net WASH on the green set -- +0 (2 fixed: "that me thoughte", "For me
-   were lever"; 2 regressed: "that me were levest", "of me were nought"),
-   meaning "me" genuinely is elidable in at least some lines and this is
-   overriding correct behavior in those. Kept anyway (not because the
-   metric asked for it) as a deliberate stance rather than a data-driven
-   one -- see scansion_analysis/variants2/variant_i_me_never_elided.py for
-   the isolated test.
 
 TRIED AND DROPPED (all made things worse or were a net no-op -- kept here as
 a record so they aren't retried without re-checking):
