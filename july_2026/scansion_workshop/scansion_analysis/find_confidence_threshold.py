@@ -73,7 +73,7 @@ def main():
 
     print("\nAccuracy at nearby round thresholds, for context:")
     print(f"{'threshold':>10s} {'accuracy':>10s} {'n':>8s} {'coverage':>10s}")
-    for t, acc, count in accuracy_table(pairs, [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 95, 99]):
+    for t, acc, count, _matches in accuracy_table(pairs, [0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 95, 99]):
         if acc is None:
             print(f"{t:>10.0f} {'--':>10s} {count:>8d} {count/len(pairs)*100:>9.1f}%")
         else:

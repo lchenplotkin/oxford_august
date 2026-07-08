@@ -1,15 +1,23 @@
 """
-Assesses every ranked_scan_vN.py version against the current green-flagged
-(human-vetted) data, end to end:
+Assesses every ranked_scan_vN.py version on a held-out split of the
+green-flagged (human-vetted) data, end to end:
 
-1. Regenerates green_word_patterns.json from whatever green-flagged data
-   exists right now (so tweaks + newly-flagged lines are always reflected).
-2. Runs every ranked_scan/ranked_scan_vN.py against every green-flagged
-   line and writes version_comparison.csv: one row per line, with the gold
+1. Randomly splits all green-flagged lines into a train set (--train-pct,
+   default 50%) and a test set (the rest), reshuffled fresh each run unless
+   --seed is fixed (it defaults to a fixed seed, so reruns are comparable
+   unless the underlying green-flagged data itself changed).
+2. Builds the word/pattern reference table from the TRAIN set only, in
+   memory -- this never touches the shared green_word_patterns.json file
+   on disk (that file is for real deployment, via
+   update_non_green_with_latest.py, and should always reflect ALL
+   green-flagged data, not a 50% slice of it).
+3. Runs every ranked_scan/ranked_scan_vN.py against the TEST set only,
+   scored against that same train-only reference, and writes
+   version_comparison.csv: one row per held-out test line, with the gold
    scansion plus each version's scansion/syllables/match/confidence.
-3. Plots an accuracy-vs-confidence histogram per version (10-point-wide
+4. Plots an accuracy-vs-confidence histogram per version (10-point-wide
    confidence buckets) to version_reports/accuracy_by_confidence_vN.png.
-4. Reports two recommendations:
+5. Reports two recommendations, both computed on the held-out test set:
    - Best raw accuracy: the version that matches green the most often,
      no filtering.
    - Best calibration: among versions that can reach --target-accuracy
@@ -17,17 +25,27 @@ Assesses every ranked_scan_vN.py version against the current green-flagged
      to get there -- i.e. the version whose confidence score is doing the
      most work, so the fewest lines get filtered out to hit the target.
 
+Why the split matters: green_word_patterns.json is built directly from
+green-flagged lines, so scoring a version against those same lines is
+partly grading it on lines it (or rather, the reference table) has already
+"seen" -- a word that only occurs once in the green set will always score
+100% on its own line, regardless of whether the rule that produced it is
+actually any good. Held-out evaluation is a fairer read on how a version
+would do on the much larger non-green set it'll actually be used on.
+
 Usage:
-    python3 assess_versions.py                    # target accuracy 90%
+    python3 assess_versions.py                          # 50/50 split, target accuracy 90%
+    python3 assess_versions.py --train-pct 70            # train on 70%, test on the rest
     python3 assess_versions.py --target-accuracy 95
+    python3 assess_versions.py --seed 7                  # different random split
 """
 
 import argparse
 import glob
 import importlib.util
 import os
+import random
 import re
-import sys
 import csv
 
 import matplotlib
@@ -45,6 +63,7 @@ REPORTS_DIR = os.path.join(RANKED_SCAN_DIR, 'version_reports')
 COMPARISON_CSV = os.path.join(RANKED_SCAN_DIR, 'version_comparison.csv')
 
 VERSION_RE = re.compile(r'^ranked_scan_v(\d+)\.py$')
+DEFAULT_SEED = 42
 
 
 def discover_versions():
@@ -66,16 +85,44 @@ def load_version_module(version, path):
     return mod
 
 
-def run_versions_against_green(modules):
+def train_test_split(rows, train_pct, seed):
+    shuffled = list(rows)
+    random.Random(seed).shuffle(shuffled)
+    split_at = round(len(shuffled) * train_pct / 100.0)
+    return shuffled[:split_at], shuffled[split_at:]
+
+
+def collapse_reference(raw):
+    """
+    build_patterns() returns raw (uncollapsed) pattern counts, same schema
+    as scansion_word_patterns.json. Every ranked_scan_vN.py's own
+    load_reference() collapses x's out of pattern keys before scoring
+    (silent vs. sounded final -e isn't a different pattern for ranking
+    purposes) -- do the same collapsing here so a reference we hand
+    directly to scan()/line_confidence() (bypassing load_reference()
+    entirely) is in the format score_pattern() expects.
+    """
+    collapsed = {}
+    for word, pattern_counts in raw.items():
+        bucket = collapsed.setdefault(word, {})
+        for pattern, count in pattern_counts.items():
+            stripped = re.sub(r'[xX]', '', pattern)
+            if not stripped:
+                continue
+            bucket[stripped] = bucket.get(stripped, 0) + count
+    return collapsed
+
+
+def run_versions_against_test_set(modules, test_rows, train_reference):
     """
     Returns (rows_out, per_version_pairs):
-      rows_out: list of dicts for the comparison CSV.
+      rows_out: list of dicts for the comparison CSV (test lines only).
       per_version_pairs: {version: [(confidence, is_match), ...]}
     """
     rows_out = []
     per_version_pairs = {v: [] for v in modules}
 
-    for line in iter_green_rows(SCANSION_TOOL_DIR):
+    for line in test_rows:
         row = {
             'OG_OXFORD_TEXT': line['og_text'],
             'OXFORD_TEXT': line['text'],
@@ -85,8 +132,8 @@ def run_versions_against_green(modules):
         green_norm = normalize(line['green_scansion'])
 
         for v, mod in modules.items():
-            scansion = regenerate(mod, line['text'], line['target'])
-            confidence = mod.line_confidence(line['text'], scansion)
+            scansion = regenerate(mod, line['text'], line['target'], reference=train_reference)
+            confidence = mod.line_confidence(line['text'], scansion, reference=train_reference)
             is_match = int(normalize(scansion) == green_norm)
 
             row[f'V{v}_SCANSION'] = scansion
@@ -111,7 +158,7 @@ def write_comparison_csv(rows_out, versions):
         writer.writeheader()
         writer.writerows(rows_out)
 
-    print(f"Wrote {len(rows_out)} rows to {COMPARISON_CSV}")
+    print(f"Wrote {len(rows_out)} held-out test rows to {COMPARISON_CSV}")
 
 
 def plot_accuracy_histogram(version, pairs):
@@ -140,7 +187,7 @@ def plot_accuracy_histogram(version, pairs):
     ax.set_xlabel('Confidence bucket')
     ax.set_ylabel('Accuracy (%)')
     ax.set_ylim(0, 105)
-    ax.set_title(f'ranked_scan_v{version}: accuracy by confidence bucket')
+    ax.set_title(f'ranked_scan_v{version}: accuracy by confidence bucket (held-out test set)')
     fig.tight_layout()
 
     out_path = os.path.join(REPORTS_DIR, f'accuracy_by_confidence_v{version}.png')
@@ -151,13 +198,24 @@ def plot_accuracy_histogram(version, pairs):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser.add_argument('--train-pct', type=float, default=50,
+                         help='%% of green-flagged lines used to build the reference table; the rest are held out for testing (default: 50)')
     parser.add_argument('--target-accuracy', type=float, default=90,
                          help='target accuracy rate as a percentage for the calibration recommendation (default: 90)')
+    parser.add_argument('--seed', type=int, default=DEFAULT_SEED,
+                         help=f'random seed for the train/test split, so reruns are comparable (default: {DEFAULT_SEED})')
     args = parser.parse_args()
     target = args.target_accuracy / 100.0
 
-    print("Step 1/4: regenerating green_word_patterns.json from current green-flagged data...")
-    generate_green_word_patterns.main()
+    all_rows = list(iter_green_rows(SCANSION_TOOL_DIR))
+    train_rows, test_rows = train_test_split(all_rows, args.train_pct, args.seed)
+    print(f"Step 1/4: split {len(all_rows)} green-flagged lines -> "
+          f"{len(train_rows)} train ({args.train_pct:.0f}%) / {len(test_rows)} test "
+          f"(seed={args.seed})")
+    train_reference, train_rows_used = generate_green_word_patterns.build_patterns(train_rows)
+    train_reference = collapse_reference(train_reference)
+    print(f"Built reference table from {train_rows_used} train lines "
+          f"({len(train_reference)} distinct words). Not written to disk.")
     print()
 
     versions = discover_versions()
@@ -168,8 +226,8 @@ def main():
           + ", ".join(f"v{v}" for v in versions))
     modules = {v: load_version_module(v, path) for v, path in versions.items()}
 
-    print("Running every version against every green-flagged line...")
-    rows_out, per_version_pairs = run_versions_against_green(modules)
+    print("Running every version against the held-out test set...")
+    rows_out, per_version_pairs = run_versions_against_test_set(modules, test_rows, train_reference)
     write_comparison_csv(rows_out, versions)
     print()
 
@@ -179,7 +237,7 @@ def main():
         print(f"  v{v}: {out_path}")
     print()
 
-    print("Step 4/4: scoring versions...")
+    print("Step 4/4: scoring versions (all on the held-out test set)...")
     total = len(rows_out)
     raw_accuracy = {v: sum(m for _, m in pairs) / total for v, pairs in per_version_pairs.items()}
     calibration = {v: threshold_for_target_accuracy(pairs, target) for v, pairs in per_version_pairs.items()}
@@ -199,15 +257,15 @@ def main():
     best_raw = max(raw_accuracy, key=raw_accuracy.get)
     reachable = {v: cal[0] for v, cal in calibration.items() if cal is not None}
 
-    print(f"\nBest raw accuracy: v{best_raw} ({raw_accuracy[best_raw]*100:.2f}% match rate, no filtering)")
+    print(f"\nBest raw accuracy: v{best_raw} ({raw_accuracy[best_raw]*100:.2f}% match rate, no filtering, on held-out test set)")
     if reachable:
         best_calibration = min(reachable, key=reachable.get)
         cal = calibration[best_calibration]
         print(f"Best calibration for {target*100:.0f}% target: v{best_calibration} "
               f"(confidence >= {cal[0]:.2f} reaches {cal[1]*100:.2f}% accuracy, "
-              f"covering {cal[2]}/{cal[3]} lines = {cal[2]/cal[3]*100:.1f}% of the green set)")
+              f"covering {cal[2]}/{cal[3]} lines = {cal[2]/cal[3]*100:.1f}% of the held-out test set)")
     else:
-        print(f"No version reaches {target*100:.0f}% accuracy at any confidence threshold.")
+        print(f"No version reaches {target*100:.0f}% accuracy at any confidence threshold on the held-out test set.")
         for v, pairs in per_version_pairs.items():
             best = best_achievable_accuracy(pairs)
             if best:
