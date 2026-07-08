@@ -1174,6 +1174,7 @@ button:disabled {
 		const overall = calibrationCurve.find(p => p.confidence === 0);
 		const above = calibrationCurve.find(p => p.confidence === rounded);
 		if (!overall || !above || overall.n === 0) return null;
+		if (typeof overall.matches !== 'number' || typeof above.matches !== 'number') return null;
 
 		const belowN = overall.n - above.n;
 		if (belowN <= 0) return null;
