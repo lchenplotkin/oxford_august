@@ -115,12 +115,15 @@ def collapse_reference(raw):
 
 def run_versions_against_test_set(modules, test_rows, train_reference):
     """
-    Returns (rows_out, per_version_pairs):
+    Returns (rows_out, per_version_pairs, per_version_answered):
       rows_out: list of dicts for the comparison CSV (test lines only).
       per_version_pairs: {version: [(confidence, is_match), ...]}
+      per_version_answered: {version: [bool, ...]} -- False where the
+        version output a blank scansion (abstained or failed outright).
     """
     rows_out = []
     per_version_pairs = {v: [] for v in modules}
+    per_version_answered = {v: [] for v in modules}
 
     for line in test_rows:
         row = {
@@ -142,10 +145,11 @@ def run_versions_against_test_set(modules, test_rows, train_reference):
             row[f'V{v}_CONFIDENCE'] = f"{confidence:.2f}"
 
             per_version_pairs[v].append((confidence, is_match))
+            per_version_answered[v].append(bool(scansion.strip()))
 
         rows_out.append(row)
 
-    return rows_out, per_version_pairs
+    return rows_out, per_version_pairs, per_version_answered
 
 
 def write_comparison_csv(rows_out, versions):
@@ -227,7 +231,7 @@ def main():
     modules = {v: load_version_module(v, path) for v, path in versions.items()}
 
     print("Running every version against the held-out test set...")
-    rows_out, per_version_pairs = run_versions_against_test_set(modules, test_rows, train_reference)
+    rows_out, per_version_pairs, per_version_answered = run_versions_against_test_set(modules, test_rows, train_reference)
     write_comparison_csv(rows_out, versions)
     print()
 
@@ -242,9 +246,22 @@ def main():
     raw_accuracy = {v: sum(m for _, m in pairs) / total for v, pairs in per_version_pairs.items()}
     calibration = {v: threshold_for_target_accuracy(pairs, target) for v, pairs in per_version_pairs.items()}
 
-    print(f"\n{'version':>10s} {'raw accuracy':>14s} {'threshold for ' + str(int(target*100)) + '% acc':>22s} {'coverage at threshold':>22s}")
+    # Abstention-aware view: a version that deliberately outputs blank
+    # scansion for lines it can't vouch for (v6+) looks worse on raw
+    # accuracy (every blank counts as a miss there), so also report how
+    # often it answers at all, and how accurate it is when it does.
+    answered_stats = {}
+    for v, answered_flags in per_version_answered.items():
+        n_answered = sum(answered_flags)
+        n_correct = sum(m for (_, m), a in zip(per_version_pairs[v], answered_flags) if a)
+        answered_stats[v] = (n_answered, n_correct / n_answered if n_answered else 0.0)
+
+    print(f"\n{'version':>10s} {'raw accuracy':>14s} {'answered':>16s} {'prec. on answered':>18s} {'threshold for ' + str(int(target*100)) + '% acc':>22s} {'coverage at threshold':>22s}")
     for v in versions:
         acc_str = f"{raw_accuracy[v]*100:.2f}%"
+        n_answered, answered_prec = answered_stats[v]
+        ans_str = f"{n_answered}/{total} ({n_answered/total*100:.1f}%)"
+        prec_str = f"{answered_prec*100:.2f}%"
         cal = calibration[v]
         if cal is None:
             thr_str = "unreachable"
@@ -252,7 +269,7 @@ def main():
         else:
             thr_str = f">= {cal[0]:.2f}"
             cov_str = f"{cal[2]}/{cal[3]} ({cal[2]/cal[3]*100:.1f}%)"
-        print(f"{'v'+str(v):>10s} {acc_str:>14s} {thr_str:>22s} {cov_str:>22s}")
+        print(f"{'v'+str(v):>10s} {acc_str:>14s} {ans_str:>16s} {prec_str:>18s} {thr_str:>22s} {cov_str:>22s}")
 
     best_raw = max(raw_accuracy, key=raw_accuracy.get)
     reachable = {v: cal[0] for v, cal in calibration.items() if cal is not None}

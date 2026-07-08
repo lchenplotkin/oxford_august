@@ -23,6 +23,17 @@ are no longer part of the main workflow.
   session to get a list of not-yet-green lines worth flagging next,
   prioritized so you're not repeatedly confirming words you've already
   scanned plenty of. See "Deciding what to scan next" below.
+- **`mine_word_list_gaps.py`** — run this after flagging more lines green
+  to find words the current version *mechanically cannot* scan the way
+  you did (the human-attested syllable count is unreachable by every
+  candidate the search enumerates, so no ranking or abstention change can
+  ever fix them). Prints ready-to-paste `MINED_SYLLABLE_WORDS` entries
+  (the dict `ranked_scan_v7.py` introduced) for the next version. By
+  default it mines only the train half of the same seed-42 split
+  `assess_versions.py` scores against, so held-out assessment of the
+  resulting version stays honest; `--all-green` mines everything, for a
+  deployment-only word list (see the leakage warning in the script's
+  docstring before trusting any assessment of a version built that way).
 - **`generate_green_word_patterns.py`, `confidence_calibration.py`,
   `green_corpus_utils.py`** — shared code the scripts above depend on.
   You shouldn't need to touch these directly.
@@ -64,6 +75,12 @@ are no longer part of the main workflow.
      the *lowest* confidence threshold to hit `--target-accuracy`, i.e.
      whose confidence score does the most useful work — see "Confidence
      and calibration" below).
+   - Since v6, versions may **abstain** — deliberately output a blank
+     scansion for lines they can't vouch for (see "Abstention" below).
+     Raw accuracy counts every blank as a miss, so the table also shows
+     **answered** (how many test lines got a non-blank scansion) and
+     **prec. on answered** (accuracy over just those). For an abstaining
+     version, judge it on those two columns, not raw accuracy.
 3. If the new version wins on the metric you care about, keep it. If not,
    delete the file — nothing else references a version until you run the
    scripts above.
@@ -141,6 +158,32 @@ current confidence, current generated scansion, and which words earned it
 a spot, so you can jump straight into the GUI armed with a worklist instead
 of reading straight through a whole poem hoping to stumble onto unusual
 vocabulary.
+
+## Abstention (v6+)
+
+A wrong-but-present scansion silently pollutes the data; a blank one reads
+as 0 syllables / 0 confidence and surfaces in the GUI's "Scansion
+Failures" worklist, where it gets found and hand-scanned. So from v6 on,
+`scan()` returns a blank scansion — the same shape as a total search
+failure — whenever it can't vouch for its own pick:
+
+- **Method disagreement**: v6 picks greedily (first valid candidate in
+  linguistic-default order, v4's rule) but also computes what pure
+  corpus-frequency ranking (v2's rule) would have chosen from the same
+  candidates. Held out, the greedy pick is right 84% of the time when the
+  two methods agree and only 43% when they disagree, so disagreement
+  triggers a blank.
+- **Low corpus confidence**: even with agreement, a chosen reading whose
+  `score_pattern()` falls below `ABSTAIN_MIN_CONFIDENCE` (see the constant
+  in the version file for the measured coverage/precision trade-off at
+  each threshold) is blanked.
+
+Why a veto rather than a blended score: arithmetic blends of the greedy
+and corpus scores were swept thoroughly (v5's `order_weight`; evidence-
+filtered and per-word-weighted variants) and all capped within one test
+line of pure greedy. 58.5% of reference-table words have exactly one green
+occurrence, so the corpus score is too noisy to out-*pick* the linguistic
+defaults — but strong enough to *flag* picks it clearly contradicts.
 
 ## Confidence and calibration
 

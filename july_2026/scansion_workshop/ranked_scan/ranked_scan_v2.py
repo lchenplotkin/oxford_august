@@ -123,12 +123,13 @@ def score_pattern(pattern_str: str, words: List[str], reference: Dict[str, Dict[
 	if not words:
 		return 0.0
 	score = 0.0
+	i = 0
 	for word, tok in zip(words, tokens):
-		wl = minimal_clean(word).lower()
+		w1 = minimal_clean(word).lower()
 		stripped = re.sub(r'[xX]', '', tok)
 		if not stripped:
 			continue  # word is fully elided here -- nothing to score
-		word_patterns = reference.get(wl)
+		word_patterns = reference.get(w1)
 		if not word_patterns:
 			continue  # no data for this word at all -- 0 for now
 		total = sum(word_patterns.values())
