@@ -1,476 +1,476 @@
 {
-  "version": 1,
-  "n_green_lines": 2012,
+  "version": 2,
+  "n_green_lines": 2666,
   "curve": [
     {
       "confidence": 0,
-      "accuracy": 85.39,
-      "n": 2012
+      "accuracy": 87.62,
+      "n": 2666
     },
     {
       "confidence": 1,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 2,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 3,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 4,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 5,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 6,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 7,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 8,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 9,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 10,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 11,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 12,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 13,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.79,
+      "n": 2661
     },
     {
       "confidence": 14,
-      "accuracy": 85.6,
-      "n": 2007
+      "accuracy": 87.82,
+      "n": 2660
     },
     {
       "confidence": 15,
-      "accuracy": 85.64,
-      "n": 2006
+      "accuracy": 87.82,
+      "n": 2660
     },
     {
       "confidence": 16,
-      "accuracy": 85.64,
-      "n": 2006
+      "accuracy": 87.82,
+      "n": 2660
     },
     {
       "confidence": 17,
-      "accuracy": 85.64,
-      "n": 2006
+      "accuracy": 87.82,
+      "n": 2660
     },
     {
       "confidence": 18,
-      "accuracy": 85.64,
-      "n": 2006
+      "accuracy": 87.82,
+      "n": 2660
     },
     {
       "confidence": 19,
-      "accuracy": 85.69,
-      "n": 2005
+      "accuracy": 87.89,
+      "n": 2658
     },
     {
       "confidence": 20,
-      "accuracy": 85.73,
-      "n": 2004
+      "accuracy": 87.92,
+      "n": 2657
     },
     {
       "confidence": 21,
-      "accuracy": 85.73,
-      "n": 2004
+      "accuracy": 87.92,
+      "n": 2657
     },
     {
       "confidence": 22,
-      "accuracy": 85.77,
-      "n": 2003
+      "accuracy": 87.95,
+      "n": 2656
     },
     {
       "confidence": 23,
-      "accuracy": 85.81,
-      "n": 2002
+      "accuracy": 88.05,
+      "n": 2653
     },
     {
       "confidence": 24,
-      "accuracy": 85.9,
-      "n": 2000
+      "accuracy": 88.08,
+      "n": 2652
     },
     {
       "confidence": 25,
-      "accuracy": 85.9,
-      "n": 2000
+      "accuracy": 88.12,
+      "n": 2651
     },
     {
       "confidence": 26,
-      "accuracy": 85.94,
-      "n": 1999
+      "accuracy": 88.18,
+      "n": 2649
     },
     {
       "confidence": 27,
-      "accuracy": 85.94,
-      "n": 1999
+      "accuracy": 88.25,
+      "n": 2647
     },
     {
       "confidence": 28,
-      "accuracy": 86.07,
-      "n": 1996
+      "accuracy": 88.38,
+      "n": 2643
     },
     {
       "confidence": 29,
-      "accuracy": 86.07,
-      "n": 1996
+      "accuracy": 88.42,
+      "n": 2642
     },
     {
       "confidence": 30,
-      "accuracy": 86.24,
-      "n": 1992
+      "accuracy": 88.45,
+      "n": 2641
     },
     {
       "confidence": 31,
-      "accuracy": 86.38,
-      "n": 1989
+      "accuracy": 88.48,
+      "n": 2640
     },
     {
       "confidence": 32,
-      "accuracy": 86.42,
-      "n": 1988
+      "accuracy": 88.55,
+      "n": 2638
     },
     {
       "confidence": 33,
-      "accuracy": 86.51,
-      "n": 1986
+      "accuracy": 88.65,
+      "n": 2635
     },
     {
       "confidence": 34,
-      "accuracy": 86.51,
-      "n": 1986
+      "accuracy": 88.79,
+      "n": 2631
     },
     {
       "confidence": 35,
-      "accuracy": 86.68,
-      "n": 1982
+      "accuracy": 88.99,
+      "n": 2625
     },
     {
       "confidence": 36,
-      "accuracy": 86.9,
-      "n": 1977
+      "accuracy": 89.09,
+      "n": 2622
     },
     {
       "confidence": 37,
-      "accuracy": 86.99,
-      "n": 1975
+      "accuracy": 89.19,
+      "n": 2619
     },
     {
       "confidence": 38,
-      "accuracy": 87.12,
-      "n": 1972
+      "accuracy": 89.33,
+      "n": 2615
     },
     {
       "confidence": 39,
-      "accuracy": 87.21,
-      "n": 1970
+      "accuracy": 89.4,
+      "n": 2612
     },
     {
       "confidence": 40,
-      "accuracy": 87.39,
-      "n": 1966
+      "accuracy": 89.64,
+      "n": 2605
     },
     {
       "confidence": 41,
-      "accuracy": 87.52,
-      "n": 1963
+      "accuracy": 89.73,
+      "n": 2601
     },
     {
       "confidence": 42,
-      "accuracy": 87.79,
-      "n": 1957
+      "accuracy": 89.8,
+      "n": 2598
     },
     {
       "confidence": 43,
-      "accuracy": 87.97,
-      "n": 1953
+      "accuracy": 89.97,
+      "n": 2593
     },
     {
       "confidence": 44,
-      "accuracy": 88.33,
-      "n": 1945
+      "accuracy": 90.15,
+      "n": 2588
     },
     {
       "confidence": 45,
-      "accuracy": 88.51,
-      "n": 1940
+      "accuracy": 90.28,
+      "n": 2582
     },
     {
       "confidence": 46,
-      "accuracy": 88.87,
-      "n": 1931
+      "accuracy": 90.48,
+      "n": 2574
     },
     {
       "confidence": 47,
-      "accuracy": 89.1,
-      "n": 1926
+      "accuracy": 90.61,
+      "n": 2567
     },
     {
       "confidence": 48,
-      "accuracy": 89.31,
-      "n": 1918
+      "accuracy": 90.82,
+      "n": 2560
     },
     {
       "confidence": 49,
-      "accuracy": 89.53,
-      "n": 1910
+      "accuracy": 91.12,
+      "n": 2544
     },
     {
       "confidence": 50,
-      "accuracy": 89.65,
-      "n": 1903
+      "accuracy": 91.28,
+      "n": 2534
     },
     {
       "confidence": 51,
-      "accuracy": 90.03,
-      "n": 1885
+      "accuracy": 91.58,
+      "n": 2518
     },
     {
       "confidence": 52,
-      "accuracy": 90.33,
-      "n": 1871
+      "accuracy": 91.85,
+      "n": 2502
     },
     {
       "confidence": 53,
-      "accuracy": 90.64,
-      "n": 1859
+      "accuracy": 92.24,
+      "n": 2473
     },
     {
       "confidence": 54,
-      "accuracy": 91.16,
-      "n": 1843
+      "accuracy": 92.53,
+      "n": 2450
     },
     {
       "confidence": 55,
-      "accuracy": 91.53,
-      "n": 1830
+      "accuracy": 93.06,
+      "n": 2422
     },
     {
       "confidence": 56,
-      "accuracy": 91.98,
-      "n": 1808
+      "accuracy": 93.3,
+      "n": 2402
     },
     {
       "confidence": 57,
-      "accuracy": 92.6,
-      "n": 1784
+      "accuracy": 93.67,
+      "n": 2371
     },
     {
       "confidence": 58,
-      "accuracy": 93.03,
-      "n": 1750
+      "accuracy": 94.08,
+      "n": 2333
     },
     {
       "confidence": 59,
-      "accuracy": 93.36,
-      "n": 1716
+      "accuracy": 94.41,
+      "n": 2288
     },
     {
       "confidence": 60,
-      "accuracy": 93.72,
-      "n": 1687
+      "accuracy": 94.72,
+      "n": 2236
     },
     {
       "confidence": 61,
-      "accuracy": 93.88,
-      "n": 1649
+      "accuracy": 94.88,
+      "n": 2188
     },
     {
       "confidence": 62,
-      "accuracy": 94.19,
-      "n": 1618
+      "accuracy": 95.16,
+      "n": 2130
     },
     {
       "confidence": 63,
-      "accuracy": 94.77,
-      "n": 1567
+      "accuracy": 95.47,
+      "n": 2074
     },
     {
       "confidence": 64,
-      "accuracy": 95.24,
-      "n": 1513
+      "accuracy": 95.93,
+      "n": 1990
     },
     {
       "confidence": 65,
-      "accuracy": 95.55,
-      "n": 1462
+      "accuracy": 96.04,
+      "n": 1895
     },
     {
       "confidence": 66,
-      "accuracy": 95.99,
-      "n": 1397
+      "accuracy": 96.38,
+      "n": 1821
     },
     {
       "confidence": 67,
-      "accuracy": 96.19,
-      "n": 1339
+      "accuracy": 96.85,
+      "n": 1748
     },
     {
       "confidence": 68,
-      "accuracy": 96.76,
-      "n": 1266
+      "accuracy": 97.08,
+      "n": 1642
     },
     {
       "confidence": 69,
-      "accuracy": 97.29,
-      "n": 1181
+      "accuracy": 97.46,
+      "n": 1533
     },
     {
       "confidence": 70,
-      "accuracy": 97.57,
-      "n": 1112
+      "accuracy": 97.83,
+      "n": 1430
     },
     {
       "confidence": 71,
-      "accuracy": 98.45,
-      "n": 1029
+      "accuracy": 98.26,
+      "n": 1322
     },
     {
       "confidence": 72,
-      "accuracy": 98.42,
-      "n": 949
+      "accuracy": 98.69,
+      "n": 1217
     },
     {
       "confidence": 73,
-      "accuracy": 98.95,
-      "n": 861
+      "accuracy": 99.0,
+      "n": 1102
     },
     {
       "confidence": 74,
-      "accuracy": 99.11,
-      "n": 783
+      "accuracy": 98.98,
+      "n": 984
     },
     {
       "confidence": 75,
-      "accuracy": 99.43,
-      "n": 704
+      "accuracy": 99.33,
+      "n": 889
     },
     {
       "confidence": 76,
-      "accuracy": 99.36,
-      "n": 627
+      "accuracy": 99.37,
+      "n": 797
     },
     {
       "confidence": 77,
-      "accuracy": 99.47,
-      "n": 566
+      "accuracy": 99.29,
+      "n": 709
     },
     {
       "confidence": 78,
-      "accuracy": 99.8,
-      "n": 506
+      "accuracy": 99.36,
+      "n": 628
     },
     {
       "confidence": 79,
       "accuracy": 100.0,
-      "n": 437
+      "n": 543
     },
     {
       "confidence": 80,
       "accuracy": 100.0,
-      "n": 389
+      "n": 449
     },
     {
       "confidence": 81,
       "accuracy": 100.0,
-      "n": 318
+      "n": 371
     },
     {
       "confidence": 82,
       "accuracy": 100.0,
-      "n": 261
+      "n": 293
     },
     {
       "confidence": 83,
       "accuracy": 100.0,
-      "n": 206
+      "n": 234
     },
     {
       "confidence": 84,
       "accuracy": 100.0,
-      "n": 167
+      "n": 198
     },
     {
       "confidence": 85,
       "accuracy": 100.0,
-      "n": 136
+      "n": 162
     },
     {
       "confidence": 86,
       "accuracy": 100.0,
-      "n": 104
+      "n": 123
     },
     {
       "confidence": 87,
       "accuracy": 100.0,
-      "n": 84
+      "n": 95
     },
     {
       "confidence": 88,
       "accuracy": 100.0,
-      "n": 63
+      "n": 72
     },
     {
       "confidence": 89,
       "accuracy": 100.0,
-      "n": 47
+      "n": 52
     },
     {
       "confidence": 90,
       "accuracy": 100.0,
-      "n": 33
+      "n": 40
     },
     {
       "confidence": 91,
       "accuracy": 100.0,
-      "n": 16
+      "n": 24
     },
     {
       "confidence": 92,
       "accuracy": 100.0,
-      "n": 12
+      "n": 16
     },
     {
       "confidence": 93,
       "accuracy": 100.0,
-      "n": 6
+      "n": 10
     },
     {
       "confidence": 94,
@@ -480,12 +480,12 @@
     {
       "confidence": 95,
       "accuracy": 100.0,
-      "n": 5
+      "n": 6
     },
     {
       "confidence": 96,
       "accuracy": 100.0,
-      "n": 2
+      "n": 5
     },
     {
       "confidence": 97,
