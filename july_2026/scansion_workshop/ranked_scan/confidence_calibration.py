@@ -78,7 +78,14 @@ def best_achievable_accuracy(pairs):
 
 
 def accuracy_table(pairs, thresholds):
-    """List of (threshold, accuracy_or_None, n_at_or_above) for each threshold given."""
+    """
+    List of (threshold, accuracy_or_None, n_at_or_above, matches_at_or_above)
+    for each threshold given. The raw match count (not just the rounded
+    accuracy percentage) is included so callers can derive the accuracy of
+    the *complementary* below-threshold group by subtraction without
+    compounding rounding error -- accuracy alone, rounded to 2 decimals,
+    isn't precise enough for that once the below-threshold group is small.
+    """
     pairs_sorted = sorted(pairs, key=lambda p: p[0])
     confidences = [p[0] for p in pairs_sorted]
     n = len(pairs_sorted)
@@ -88,9 +95,10 @@ def accuracy_table(pairs, thresholds):
     for t in thresholds:
         i = bisect.bisect_left(confidences, t)
         count = n - i
+        matches = suffix_match_count[i]
         if count == 0:
-            rows.append((t, None, 0))
+            rows.append((t, None, 0, 0))
             continue
-        acc = suffix_match_count[i] / count
-        rows.append((t, acc, count))
+        acc = matches / count
+        rows.append((t, acc, count, matches))
     return rows

@@ -185,8 +185,8 @@ def export_calibration_curve(module, version, dry_run):
         pairs.append((confidence, is_match))
 
     curve = [
-        {"confidence": t, "accuracy": (None if acc is None else round(acc * 100, 2)), "n": n}
-        for t, acc, n in accuracy_table(pairs, list(range(0, 101)))
+        {"confidence": t, "accuracy": (None if acc is None else round(acc * 100, 2)), "n": n, "matches": matches}
+        for t, acc, n, matches in accuracy_table(pairs, list(range(0, 101)))
     ]
     payload = {"version": version, "n_green_lines": len(pairs), "curve": curve}
 

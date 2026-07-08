@@ -189,6 +189,9 @@ button:disabled {
 
 .syllable-info .count-zero { color: #c00; }
 .dark-mode .syllable-info .count-zero { color: #ff6b6b; }
+.syllable-info .confidence { font-weight: normal; margin-left: 12px; }
+.syllable-info .confidence-low { color: #c00; font-weight: bold; }
+.dark-mode .syllable-info .confidence-low { color: #ff6b6b; }
 
 .word-row {
   display: flex;
@@ -385,6 +388,21 @@ button:disabled {
 	</div>
 
 	<div class="controls">
+	  <button id="loadProductiveLines">Load Productive Lines</button>
+	  <label>Load Whole Folder:
+		<select id="combinedFolderSelect">
+		  <option value="to_complete">To Complete</option>
+		  <option value="in_progress">In Progress</option>
+		  <option value="completed_unvetted">Completed (Unvetted)</option>
+		  <option value="gold">Gold</option>
+		</select>
+	  </label>
+	  <button id="loadWholeFolder">Load</button>
+	  <button id="saveAllChanges" disabled>💾 Save All Changes</button>
+	  <span id="combinedStatusLabel" class="current-file-label"></span>
+	</div>
+
+	<div class="controls">
 	  <label>Load External CSV: <input type="file" id="csvFile" accept=".csv" /></label>
 	  <label>Scansion Suggestions JSON: <input type="file" id="suggestionsFile" accept=".json" /></label>
 	  <span id="suggestionsStatus" class="current-file-label"></span>
@@ -395,12 +413,17 @@ button:disabled {
 
 	<div class="controls">
 	  <label><input type="radio" name="worklistMode" value="failures" checked /> Scansion Failures</label>
+	  <label><input type="radio" name="worklistMode" value="productive" /> Productive Lines</label>
 	  <label><input type="radio" name="worklistMode" value="syllables" /> Lines with
 		<input type="number" id="syllableCountInput" value="10" min="0" style="width:55px" /> syllables
 	  </label>
 	  <label><input type="radio" name="worklistMode" value="accuracy" /> Accuracy below
 		<input type="number" id="accuracyThresholdInput" value="90" min="0" max="100" step="1" style="width:55px" />%
 		<span id="resolvedConfidenceDisplay" class="current-file-label"></span>
+	  </label>
+	  <label><input type="radio" name="worklistMode" value="confidence" /> Confidence below
+		<input type="number" id="confidenceThresholdInput" value="50" min="0" max="100" step="1" style="width:55px" />
+		<span id="resolvedAccuracyDisplay" class="current-file-label"></span>
 	  </label>
 	  <label><input type="radio" name="worklistMode" value="none" /> Browse All Lines</label>
 	  <label><input type="checkbox" id="hideGreenFlags" /> Hide Green-Flagged</label>
@@ -464,8 +487,10 @@ button:disabled {
 	  let worklistMode = 'failures';
 	  let darkMode = false;
 	  let initialFailureIds = new Set();  // frozen at CSV load; scansion failures don't drop out of the list as you fix them
+	  let productiveLineIds = new Set(); // set by "Load Productive Lines"; lets you browse the full loaded context (Previous/Next Line) while "Previous/Next in List" jumps productive-line to productive-line
 	  let syllablesSnapshotIds = null;    // frozen when the syllable-count mode/value is set, not recomputed on every edit
 	  let accuracySnapshotIds = null;     // frozen when the accuracy-threshold mode/value is set, not recomputed on every edit
+	  let confidenceSnapshotIds = null;   // frozen when the confidence-threshold mode/value is set, not recomputed on every edit
 
 	  // Undo history: snapshots of a single line's scansion + flag state, taken right
 	  // before each mutation, so Shift+Escape can restore everything about that line
@@ -478,6 +503,16 @@ button:disabled {
 	  let currentSourceFolder = null;  // 'to_complete' | 'in_progress' | 'completed_unvetted' | 'gold' | null (external file)
 	  let currentSourceName = null;    // filename as it currently sits on disk
 	  let currentBaseName = null;      // filename with the folder's status suffix and .csv stripped
+
+	  // Combined worklist mode: csvData spans multiple source files at once (either a
+	  // curated cross-file selection like productive_lines.csv, or every row in an
+	  // entire status folder). combinedFiles holds the FULL row array per source file
+	  // (not just whichever subset is visible in csvData); rows in csvData are the
+	  // SAME object references as their entry in combinedFiles, so any edit made
+	  // through the normal per-row mutation path (buildExportRows) is automatically
+	  // reflected there too, ready to be written back in full on Save All Changes.
+	  let combinedMode = false;
+	  let combinedFiles = {};  // "folder::name" -> { folder, name, rows: [...] }
 
 	  const FOLDER_SUFFIX = {
 		in_progress: '_in_progress',
@@ -502,11 +537,18 @@ button:disabled {
 	  const syllableCountInput = document.getElementById('syllableCountInput');
 	  const accuracyThresholdInput = document.getElementById('accuracyThresholdInput');
 	  const resolvedConfidenceDisplay = document.getElementById('resolvedConfidenceDisplay');
+	  const confidenceThresholdInput = document.getElementById('confidenceThresholdInput');
+	  const resolvedAccuracyDisplay = document.getElementById('resolvedAccuracyDisplay');
 	  const flagBtn = document.getElementById('flagBtn');
 	  const darkModeToggle = document.getElementById('darkModeToggle');
 	  const fileBrowserSelect = document.getElementById('fileBrowserSelect');
 	  const currentFileLabel = document.getElementById('currentFileLabel');
 	  const finishSaveBtn = document.getElementById('finishSave');
+	  const loadProductiveLinesBtn = document.getElementById('loadProductiveLines');
+	  const combinedFolderSelect = document.getElementById('combinedFolderSelect');
+	  const loadWholeFolderBtn = document.getElementById('loadWholeFolder');
+	  const saveAllChangesBtn = document.getElementById('saveAllChanges');
+	  const combinedStatusLabel = document.getElementById('combinedStatusLabel');
 	  const suggestionsStatus = document.getElementById('suggestionsStatus');
 	  const saveModalOverlay = document.getElementById('saveModalOverlay');
 	  const saveModalMessage = document.getElementById('saveModalMessage');
@@ -694,6 +736,7 @@ button:disabled {
 
 		if (worklistMode === 'syllables') refreshSyllablesSnapshot();
 		if (worklistMode === 'accuracy') refreshAccuracySnapshot();
+		if (worklistMode === 'confidence') refreshConfidenceSnapshot();
 		renderWorklistPanel();
 		const list = getWorklist();
 		if (list && list.length) {
@@ -725,6 +768,7 @@ button:disabled {
 
 	  function loadCsvText(text, sourceFolder, sourceName) {
 		const results = Papa.parse(text, { header: true, skipEmptyLines: true });
+		exitCombinedMode();
 		currentSourceFolder = sourceFolder || null;
 		currentSourceName = sourceName || null;
 		currentBaseName = sourceName ? computeBaseName(sourceFolder, sourceName) : null;
@@ -831,6 +875,139 @@ button:disabled {
 		if (!val) return;
 		const [folder, name] = val.split('::');
 		openFileFromServer(folder, name);
+	  });
+
+	  // --- Combined worklist mode: scan a cross-file selection (productive_lines.csv)
+	  // or a whole status folder as one continuous queue, instead of one file at a time.
+
+	  function exitCombinedMode() {
+		combinedMode = false;
+		combinedFiles = {};
+		saveAllChangesBtn.disabled = true;
+		combinedStatusLabel.textContent = '';
+	  }
+
+	  function enterCombinedMode(rows, statusText) {
+		currentSourceFolder = null;
+		currentSourceName = null;
+		currentBaseName = null;
+		finishSaveBtn.disabled = true;
+		currentFileLabel.textContent = '';
+		combinedMode = true;
+		saveAllChangesBtn.disabled = false;
+		combinedStatusLabel.textContent = statusText;
+		initializeCsvData(rows);
+	  }
+
+	  async function fetchAndCacheFile(folder, name) {
+		const key = `${folder}::${name}`;
+		if (combinedFiles[key]) return combinedFiles[key];
+		const res = await fetch(`/api/read?folder=${encodeURIComponent(folder)}&name=${encodeURIComponent(name)}`);
+		if (!res.ok) throw new Error(`Could not read ${folder}/${name}: ${res.status}`);
+		const text = await res.text();
+		const rows = Papa.parse(text, { header: true, skipEmptyLines: true }).data;
+		const entry = { folder, name, rows };
+		combinedFiles[key] = entry;
+		return entry;
+	  }
+
+	  loadProductiveLinesBtn.addEventListener('click', async () => {
+		if (csvData.length && !confirm('Load the productive-lines worklist? Any unsaved changes in the current view will stay in memory but you should Save/Export first if unsure.')) {
+		  return;
+		}
+		loadProductiveLinesBtn.disabled = true;
+		try {
+		  const res = await fetch('/ranked_scan/productive_lines.csv');
+		  if (!res.ok) throw new Error(`Could not load productive_lines.csv: ${res.status}`);
+		  const text = await res.text();
+		  const refs = Papa.parse(text, { header: true, skipEmptyLines: true }).data;
+
+		  const uniqueFiles = [...new Set(refs.map(r => `${r.folder}::${r.file}`))]
+			.map(key => { const [folder, name] = key.split('::'); return { folder, name }; });
+		  const entries = await Promise.all(uniqueFiles.map(({ folder, name }) => fetchAndCacheFile(folder, name)));
+
+		  // Load every line from every touched file (not just the productive
+		  // subset), so Previous/Next Line can step to the true neighboring
+		  // line in the poem -- e.g. to check a rhyme -- while Previous/Next
+		  // in List (via the "Productive Lines" worklist mode below) still
+		  // jumps productive-line to productive-line.
+		  const rows = entries.flatMap(entry => entry.rows);
+
+		  const productiveIds = new Set();
+		  const missing = [];
+		  for (const ref of refs) {
+			const entry = combinedFiles[`${ref.folder}::${ref.file}`];
+			const row = entry && entry.rows.find(r => getLineId(r["LINE_NUMBER"]) === getLineId(ref.line_number));
+			if (row) productiveIds.add(getLineId(ref.line_number));
+			else missing.push(ref.line_number);
+		  }
+		  if (missing.length) {
+			console.warn(`${missing.length} productive_lines.csv reference(s) not found in their source file (already moved/edited?)`, missing);
+		  }
+
+		  productiveLineIds = productiveIds;
+		  worklistMode = 'productive';
+		  document.querySelector('input[name="worklistMode"][value="productive"]').checked = true;
+
+		  enterCombinedMode(rows, `Productive Lines worklist: ${productiveIds.size} productive of ${rows.length} lines across ${uniqueFiles.length} files`);
+		} catch (err) {
+		  alert('Failed to load productive lines: ' + err.message);
+		} finally {
+		  loadProductiveLinesBtn.disabled = false;
+		}
+	  });
+
+	  loadWholeFolderBtn.addEventListener('click', async () => {
+		const folder = combinedFolderSelect.value;
+		if (csvData.length && !confirm(`Load every file in ${FOLDER_LABELS[folder]} as one combined worklist? Any unsaved changes in the current view will stay in memory but you should Save/Export first if unsure.`)) {
+		  return;
+		}
+		loadWholeFolderBtn.disabled = true;
+		try {
+		  const listRes = await fetch('/api/list');
+		  const listData = await listRes.json();
+		  const names = (listData.folders && listData.folders[folder]) || [];
+		  const entries = await Promise.all(names.map(name => fetchAndCacheFile(folder, name)));
+
+		  const rows = entries.flatMap(entry => entry.rows);
+		  enterCombinedMode(rows, `${FOLDER_LABELS[folder]} (combined): ${rows.length} lines across ${entries.length} files`);
+		} catch (err) {
+		  alert('Failed to load folder: ' + err.message);
+		} finally {
+		  loadWholeFolderBtn.disabled = false;
+		}
+	  });
+
+	  saveAllChangesBtn.addEventListener('click', async () => {
+		if (!combinedMode) return;
+		buildExportRows();  // mutates csvData's row objects in place -- same objects live in combinedFiles
+
+		const keys = Object.keys(combinedFiles);
+		const proceed = confirm(`Save changes back to ${keys.length} file(s) in their current locations?`);
+		if (!proceed) return;
+
+		saveAllChangesBtn.disabled = true;
+		let failed = [];
+		for (const key of keys) {
+		  const { folder, name, rows } = combinedFiles[key];
+		  try {
+			const writeRes = await fetch('/api/write', {
+			  method: 'POST',
+			  headers: { 'Content-Type': 'application/json' },
+			  body: JSON.stringify({ folder, name, content: Papa.unparse(rows) }),
+			});
+			if (!writeRes.ok) throw new Error(`HTTP ${writeRes.status}`);
+		  } catch (err) {
+			failed.push(`${folder}/${name}: ${err.message}`);
+		  }
+		}
+		saveAllChangesBtn.disabled = false;
+
+		if (failed.length) {
+		  alert(`Saved ${keys.length - failed.length}/${keys.length} files. Failed:\n` + failed.join('\n'));
+		} else {
+		  alert(`Saved ${keys.length} file(s).`);
+		}
 	  });
 
 	  // --- Finish & Save: routes the file to gold / completed_unvetted / in_progress ---
@@ -981,6 +1158,29 @@ button:disabled {
 		return null;
 	  }
 
+	  // The accuracy of the "confidence < threshold" subset on the green-flagged
+	  // set -- the complement of what calibrationCurve stores directly (each
+	  // point there is "confidence >= threshold"). Derived by subtracting the
+	  // >= threshold point's raw match count from the overall (threshold 0)
+	  // totals, using the integer `matches`/`n` fields rather than the rounded
+	  // `accuracy` percentage -- accuracy alone is only precise to 2 decimals,
+	  // which produces nonsense (even negative results) once the below-
+	  // threshold group is small, since the rounding error on the much larger
+	  // above-threshold group swamps it. Returns null if the curve isn't
+	  // loaded or nothing actually falls below this threshold.
+	  function accuracyForConfidence(thresholdConfidence) {
+		if (!calibrationCurve || isNaN(thresholdConfidence)) return null;
+		const rounded = Math.max(0, Math.min(100, Math.round(thresholdConfidence)));
+		const overall = calibrationCurve.find(p => p.confidence === 0);
+		const above = calibrationCurve.find(p => p.confidence === rounded);
+		if (!overall || !above || overall.n === 0) return null;
+
+		const belowN = overall.n - above.n;
+		if (belowN <= 0) return null;
+		const belowMatches = overall.matches - above.matches;
+		return (belowMatches / belowN) * 100;
+	  }
+
 	  refreshFileList();
 	  loadDefaultSuggestions();
 	  loadConfidenceCalibration();
@@ -1001,6 +1201,7 @@ button:disabled {
 		  worklistMode = e.target.value;
 		  if (worklistMode === 'syllables') refreshSyllablesSnapshot();
 		  if (worklistMode === 'accuracy') refreshAccuracySnapshot();
+		  if (worklistMode === 'confidence') refreshConfidenceSnapshot();
 		  renderWorklistPanel();
 		});
 	  });
@@ -1015,6 +1216,13 @@ button:disabled {
 	  accuracyThresholdInput.addEventListener('input', () => {
 		if (worklistMode === 'accuracy') {
 		  refreshAccuracySnapshot();
+		  renderWorklistPanel();
+		}
+	  });
+
+	  confidenceThresholdInput.addEventListener('input', () => {
+		if (worklistMode === 'confidence') {
+		  refreshConfidenceSnapshot();
 		  renderWorklistPanel();
 		}
 	  });
@@ -1069,6 +1277,28 @@ button:disabled {
 		);
 	  }
 
+	  // Direct filter, the inverse of "Accuracy below X%": you give a confidence
+	  // threshold directly, and this shows what accuracy that threshold
+	  // achieves on the green-flagged set (in parentheses), rather than solving
+	  // for the threshold from a target accuracy.
+	  function refreshConfidenceSnapshot() {
+		const threshold = parseFloat(confidenceThresholdInput.value);
+		if (isNaN(threshold)) {
+		  confidenceSnapshotIds = new Set();
+		  resolvedAccuracyDisplay.textContent = '';
+		  return;
+		}
+		const accuracy = accuracyForConfidence(threshold);
+		resolvedAccuracyDisplay.textContent = accuracy === null
+		  ? '(accuracy unknown at this level)'
+		  : `(accuracy: ${accuracy.toFixed(1)}%)`;
+		confidenceSnapshotIds = new Set(
+		  csvData
+			.filter(row => effectiveConfidence(getLineId(row["LINE_NUMBER"]), row) < threshold)
+			.map(row => getLineId(row["LINE_NUMBER"]))
+		);
+	  }
+
 	  function getWorklist() {
 		if (!csvData.length) return null;
 		return csvData.filter(row => {
@@ -1076,10 +1306,14 @@ button:disabled {
 		  if (hideGreenFlags.checked && lineFlags[lineId] === "green") return false;
 		  if (worklistMode === 'failures') {
 			return initialFailureIds.has(lineId);
+		  } else if (worklistMode === 'productive') {
+			return productiveLineIds.has(lineId);
 		  } else if (worklistMode === 'syllables') {
 			return syllablesSnapshotIds ? syllablesSnapshotIds.has(lineId) : false;
 		  } else if (worklistMode === 'accuracy') {
 			return accuracySnapshotIds ? accuracySnapshotIds.has(lineId) : false;
+		  } else if (worklistMode === 'confidence') {
+			return confidenceSnapshotIds ? confidenceSnapshotIds.has(lineId) : false;
 		  }
 		  return true; // 'none' -> browse all lines
 		}).map(row => row["LINE_NUMBER"]);
@@ -1109,11 +1343,15 @@ button:disabled {
 		label.style.marginBottom = '4px';
 		label.textContent = worklistMode === 'failures'
 		  ? 'Scansion Failures:'
-		  : worklistMode === 'syllables'
-			? `Lines with ${syllableCountInput.value} syllables:`
-			: worklistMode === 'accuracy'
-			  ? `Accuracy below ${accuracyThresholdInput.value}% ${resolvedConfidenceDisplay.textContent}:`
-			  : 'All Lines:';
+		  : worklistMode === 'productive'
+			? 'Productive Lines:'
+			: worklistMode === 'syllables'
+			  ? `Lines with ${syllableCountInput.value} syllables:`
+			  : worklistMode === 'accuracy'
+				? `Accuracy below ${accuracyThresholdInput.value}% ${resolvedConfidenceDisplay.textContent}:`
+				: worklistMode === 'confidence'
+				  ? `Confidence below ${confidenceThresholdInput.value} ${resolvedAccuracyDisplay.textContent}:`
+				  : 'All Lines:';
 		worklistPanel.appendChild(label);
 
 		const listWrap = document.createElement('div');
@@ -1205,7 +1443,21 @@ button:disabled {
 		const lineId = getLineId(currentLine);
 		const count = effectiveSyllables(lineId, row);
 		const cls = count === 0 ? 'count-zero' : '';
-		syllableInfo.innerHTML = `Syllables: <span class="${cls}">${count}</span>`;
+		let html = `Syllables: <span class="${cls}">${count}</span>`;
+
+		// Confidence reflects whatever OXFORD_SCANSION_CONFIDENCE is stored for
+		// this row (from the last update_non_green_with_latest.py run) -- it
+		// isn't recomputed live as you edit, since that needs the full
+		// reference table this page doesn't load. It only tracks your edits
+		// insofar as effectiveConfidence forces 0 once the line reads as fully
+		// cleared.
+		if (row["OXFORD_SCANSION_CONFIDENCE"] !== undefined) {
+		  const confidence = effectiveConfidence(lineId, row);
+		  const confCls = confidence < 50 ? 'confidence-low' : '';
+		  html += ` <span class="confidence">Confidence: <span class="${confCls}">${confidence.toFixed(1)}</span></span>`;
+		}
+
+		syllableInfo.innerHTML = html;
 	  }
 
 	  function updateSuggestions() {
