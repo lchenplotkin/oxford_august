@@ -48,7 +48,7 @@ SCANSION_TOOL_DIR = os.path.join(ROOT, 'scansion_tool')
 DATASET_PATH = os.path.join(os.path.dirname(ROOT), 'dataset', 'combined.csv')
 FOLDERS = ['to_complete', 'in_progress', 'completed_unvetted', 'gold']
 DEFAULT_TARGET = 10
-BD_HF_PREFIXES = ('BD_', 'HF_')
+SHORT_VERSE = ('BD_', 'HF_', 'THOP_')
 CONFIDENCE_COLUMN = 'OXFORD_SCANSION_CONFIDENCE'
 CALIBRATION_PATH = os.path.join(SCANSION_TOOL_DIR, 'confidence_calibration.json')
 
@@ -57,7 +57,7 @@ def target_for_row(row, filename):
     raw = (row.get('OXFORD_SYLLABLES') or '').strip()
     if raw.isdigit():
         return int(raw)
-    return 8 if filename.startswith(BD_HF_PREFIXES) else DEFAULT_TARGET
+    return 8 if filename.startswith(SHORT_VERSE) else DEFAULT_TARGET
 
 
 def regenerate_scansion_tool(module, dry_run):
