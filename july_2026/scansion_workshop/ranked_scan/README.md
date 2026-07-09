@@ -178,6 +178,29 @@ failure — whenever it can't vouch for its own pick:
   in the version file for the measured coverage/precision trade-off at
   each threshold) is blanked.
 
+v8 retunes this for a coverage floor (answer >= 95% of lines, then blank
+as many wrong readings as possible): disagreement no longer blanks
+unconditionally — it holds the line to a higher confidence bar
+(`ABSTAIN_DISAGREE_MIN`) than agreeing lines get (`ABSTAIN_MIN_CONFIDENCE`).
+Held out: 95.3% answered @ 86.2% precision, and ~64% of what it blanks is
+genuinely wrong (vs ~14% base error on answered lines). Setting both
+constants to 0 turns v8 into the pure no-abstain picker (83.3% raw, only
+hard search failures blank) if maximum coverage is ever needed; v7 remains
+the higher-precision/lower-coverage point (91.4% @ 87.8%).
+
+v9 flips the objective to precision-first and makes the operating point a
+dial: `ABSTAIN_PRESET` in the version file selects one of three
+`ABSTAIN_PRESETS` points on the held-out precision/coverage frontier —
+`balanced` (default, ~80.5% answered @ ~89.7% precision), `mid` (~53.5% @
+~93.7%), and `strict` (~37.5% @ ~95.3%). It also adds two per-word veto
+signals beyond confidence + disagreement: the weakest scoreable word's
+corpus support, and the fraction of words with no usable green data.
+95%+ precision at high coverage is not reachable with the current green
+corpus (the picker's base accuracy is ~84%); the frontier lifts as more
+lines get flagged green, so re-run the sweep after big scanning pushes.
+Deployed numbers beat all these held-out figures, since the full
+reference table has seen more words than the assessment's train half.
+
 Why a veto rather than a blended score: arithmetic blends of the greedy
 and corpus scores were swept thoroughly (v5's `order_weight`; evidence-
 filtered and per-word-weighted variants) and all capped within one test

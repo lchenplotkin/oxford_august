@@ -1,594 +1,594 @@
 {
-  "version": 2,
-  "n_green_lines": 3031,
+  "version": 9,
+  "n_green_lines": 3205,
   "curve": [
     {
       "confidence": 0,
-      "accuracy": 83.73,
-      "n": 3031,
-      "matches": 2538
+      "accuracy": 80.87,
+      "n": 3205,
+      "matches": 2592
     },
     {
       "confidence": 1,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 2,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 3,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 4,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 5,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 6,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 7,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 8,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 9,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 10,
-      "accuracy": 84.91,
-      "n": 2989,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 11,
-      "accuracy": 84.97,
-      "n": 2987,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 12,
-      "accuracy": 85.0,
-      "n": 2986,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 13,
-      "accuracy": 85.0,
-      "n": 2986,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 14,
-      "accuracy": 85.03,
-      "n": 2985,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 15,
-      "accuracy": 85.03,
-      "n": 2985,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 16,
-      "accuracy": 85.03,
-      "n": 2985,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 17,
-      "accuracy": 85.08,
-      "n": 2983,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 18,
-      "accuracy": 85.11,
-      "n": 2982,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 19,
-      "accuracy": 85.14,
-      "n": 2981,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 20,
-      "accuracy": 85.22,
-      "n": 2978,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 21,
-      "accuracy": 85.25,
-      "n": 2977,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 22,
-      "accuracy": 85.25,
-      "n": 2977,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 23,
-      "accuracy": 85.37,
-      "n": 2973,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 24,
-      "accuracy": 85.45,
-      "n": 2970,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 25,
-      "accuracy": 85.51,
-      "n": 2968,
-      "matches": 2538
+      "accuracy": 87.98,
+      "n": 2946,
+      "matches": 2592
     },
     {
       "confidence": 26,
-      "accuracy": 85.69,
-      "n": 2962,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 27,
-      "accuracy": 85.86,
-      "n": 2956,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 28,
-      "accuracy": 86.06,
-      "n": 2949,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 29,
-      "accuracy": 86.15,
-      "n": 2946,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 30,
-      "accuracy": 86.18,
+      "accuracy": 88.01,
       "n": 2945,
-      "matches": 2538
+      "matches": 2592
     },
     {
       "confidence": 31,
-      "accuracy": 86.27,
-      "n": 2942,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 32,
-      "accuracy": 86.41,
-      "n": 2937,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 33,
-      "accuracy": 86.71,
-      "n": 2927,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 34,
-      "accuracy": 86.83,
-      "n": 2923,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 35,
-      "accuracy": 87.07,
-      "n": 2915,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 36,
-      "accuracy": 87.31,
-      "n": 2907,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 37,
-      "accuracy": 87.46,
-      "n": 2902,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 38,
-      "accuracy": 87.55,
-      "n": 2899,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 39,
-      "accuracy": 87.73,
-      "n": 2893,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 40,
-      "accuracy": 87.97,
-      "n": 2885,
-      "matches": 2538
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 41,
-      "accuracy": 88.21,
-      "n": 2875,
-      "matches": 2536
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 42,
-      "accuracy": 88.33,
-      "n": 2871,
-      "matches": 2536
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 43,
-      "accuracy": 88.61,
-      "n": 2861,
-      "matches": 2535
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 44,
-      "accuracy": 88.72,
-      "n": 2855,
-      "matches": 2533
+      "accuracy": 88.01,
+      "n": 2945,
+      "matches": 2592
     },
     {
       "confidence": 45,
-      "accuracy": 89.03,
-      "n": 2844,
-      "matches": 2532
+      "accuracy": 88.37,
+      "n": 2932,
+      "matches": 2591
     },
     {
       "confidence": 46,
-      "accuracy": 89.33,
-      "n": 2830,
-      "matches": 2528
+      "accuracy": 88.91,
+      "n": 2913,
+      "matches": 2590
     },
     {
       "confidence": 47,
-      "accuracy": 89.61,
-      "n": 2819,
-      "matches": 2526
+      "accuracy": 89.18,
+      "n": 2902,
+      "matches": 2588
     },
     {
       "confidence": 48,
-      "accuracy": 89.87,
-      "n": 2803,
-      "matches": 2519
+      "accuracy": 89.58,
+      "n": 2880,
+      "matches": 2580
     },
     {
       "confidence": 49,
-      "accuracy": 90.11,
-      "n": 2791,
-      "matches": 2515
+      "accuracy": 89.83,
+      "n": 2870,
+      "matches": 2578
     },
     {
       "confidence": 50,
-      "accuracy": 90.52,
-      "n": 2773,
-      "matches": 2510
+      "accuracy": 90.2,
+      "n": 2847,
+      "matches": 2568
     },
     {
       "confidence": 51,
-      "accuracy": 90.85,
-      "n": 2753,
-      "matches": 2501
+      "accuracy": 90.52,
+      "n": 2827,
+      "matches": 2559
     },
     {
       "confidence": 52,
-      "accuracy": 91.19,
-      "n": 2735,
-      "matches": 2494
+      "accuracy": 90.79,
+      "n": 2812,
+      "matches": 2553
     },
     {
       "confidence": 53,
-      "accuracy": 91.61,
-      "n": 2706,
-      "matches": 2479
+      "accuracy": 91.19,
+      "n": 2780,
+      "matches": 2535
     },
     {
       "confidence": 54,
-      "accuracy": 91.85,
-      "n": 2676,
-      "matches": 2458
+      "accuracy": 91.66,
+      "n": 2745,
+      "matches": 2516
     },
     {
       "confidence": 55,
-      "accuracy": 92.47,
-      "n": 2642,
-      "matches": 2443
+      "accuracy": 92.15,
+      "n": 2712,
+      "matches": 2499
     },
     {
       "confidence": 56,
-      "accuracy": 93.02,
-      "n": 2608,
-      "matches": 2426
+      "accuracy": 92.6,
+      "n": 2677,
+      "matches": 2479
     },
     {
       "confidence": 57,
-      "accuracy": 93.28,
-      "n": 2574,
-      "matches": 2401
+      "accuracy": 93.19,
+      "n": 2629,
+      "matches": 2450
     },
     {
       "confidence": 58,
-      "accuracy": 93.66,
-      "n": 2524,
-      "matches": 2364
+      "accuracy": 93.43,
+      "n": 2588,
+      "matches": 2418
     },
     {
       "confidence": 59,
-      "accuracy": 93.95,
-      "n": 2481,
-      "matches": 2331
+      "accuracy": 93.74,
+      "n": 2541,
+      "matches": 2382
     },
     {
       "confidence": 60,
-      "accuracy": 94.34,
-      "n": 2422,
-      "matches": 2285
+      "accuracy": 94.02,
+      "n": 2491,
+      "matches": 2342
     },
     {
       "confidence": 61,
-      "accuracy": 94.73,
-      "n": 2352,
-      "matches": 2228
+      "accuracy": 94.37,
+      "n": 2416,
+      "matches": 2280
     },
     {
       "confidence": 62,
-      "accuracy": 94.9,
-      "n": 2292,
-      "matches": 2175
+      "accuracy": 94.67,
+      "n": 2347,
+      "matches": 2222
     },
     {
       "confidence": 63,
-      "accuracy": 95.12,
-      "n": 2212,
-      "matches": 2104
+      "accuracy": 95.0,
+      "n": 2259,
+      "matches": 2146
     },
     {
       "confidence": 64,
-      "accuracy": 95.48,
-      "n": 2123,
-      "matches": 2027
+      "accuracy": 95.49,
+      "n": 2173,
+      "matches": 2075
     },
     {
       "confidence": 65,
-      "accuracy": 95.73,
-      "n": 2036,
-      "matches": 1949
+      "accuracy": 95.74,
+      "n": 2087,
+      "matches": 1998
     },
     {
       "confidence": 66,
-      "accuracy": 95.95,
-      "n": 1950,
-      "matches": 1871
+      "accuracy": 96.13,
+      "n": 1991,
+      "matches": 1914
     },
     {
       "confidence": 67,
-      "accuracy": 96.3,
-      "n": 1863,
-      "matches": 1794
+      "accuracy": 96.22,
+      "n": 1903,
+      "matches": 1831
     },
     {
       "confidence": 68,
-      "accuracy": 96.51,
-      "n": 1747,
-      "matches": 1686
+      "accuracy": 96.49,
+      "n": 1797,
+      "matches": 1734
     },
     {
       "confidence": 69,
-      "accuracy": 96.99,
-      "n": 1627,
-      "matches": 1578
+      "accuracy": 96.67,
+      "n": 1682,
+      "matches": 1626
     },
     {
       "confidence": 70,
-      "accuracy": 97.61,
-      "n": 1507,
-      "matches": 1471
+      "accuracy": 97.3,
+      "n": 1556,
+      "matches": 1514
     },
     {
       "confidence": 71,
-      "accuracy": 98.15,
-      "n": 1404,
-      "matches": 1378
+      "accuracy": 98.06,
+      "n": 1442,
+      "matches": 1414
     },
     {
       "confidence": 72,
-      "accuracy": 98.36,
-      "n": 1283,
-      "matches": 1262
+      "accuracy": 98.25,
+      "n": 1311,
+      "matches": 1288
     },
     {
       "confidence": 73,
-      "accuracy": 98.61,
-      "n": 1149,
-      "matches": 1133
+      "accuracy": 98.65,
+      "n": 1184,
+      "matches": 1168
     },
     {
       "confidence": 74,
-      "accuracy": 98.67,
-      "n": 1053,
-      "matches": 1039
+      "accuracy": 98.71,
+      "n": 1085,
+      "matches": 1071
     },
     {
       "confidence": 75,
-      "accuracy": 98.94,
-      "n": 939,
-      "matches": 929
+      "accuracy": 98.88,
+      "n": 978,
+      "matches": 967
     },
     {
       "confidence": 76,
-      "accuracy": 99.04,
-      "n": 836,
-      "matches": 828
+      "accuracy": 98.96,
+      "n": 866,
+      "matches": 857
     },
     {
       "confidence": 77,
-      "accuracy": 99.05,
-      "n": 740,
-      "matches": 733
+      "accuracy": 98.84,
+      "n": 775,
+      "matches": 766
     },
     {
       "confidence": 78,
-      "accuracy": 99.38,
-      "n": 647,
-      "matches": 643
+      "accuracy": 98.97,
+      "n": 677,
+      "matches": 670
     },
     {
       "confidence": 79,
-      "accuracy": 99.81,
-      "n": 538,
-      "matches": 537
+      "accuracy": 99.3,
+      "n": 574,
+      "matches": 570
     },
     {
       "confidence": 80,
-      "accuracy": 99.78,
-      "n": 450,
-      "matches": 449
+      "accuracy": 99.38,
+      "n": 482,
+      "matches": 479
     },
     {
       "confidence": 81,
-      "accuracy": 99.73,
-      "n": 377,
-      "matches": 376
+      "accuracy": 99.25,
+      "n": 398,
+      "matches": 395
     },
     {
       "confidence": 82,
-      "accuracy": 99.68,
-      "n": 309,
-      "matches": 308
+      "accuracy": 99.37,
+      "n": 317,
+      "matches": 315
     },
     {
       "confidence": 83,
-      "accuracy": 99.58,
-      "n": 236,
-      "matches": 235
+      "accuracy": 99.59,
+      "n": 245,
+      "matches": 244
     },
     {
       "confidence": 84,
       "accuracy": 100.0,
-      "n": 196,
-      "matches": 196
+      "n": 197,
+      "matches": 197
     },
     {
       "confidence": 85,
       "accuracy": 100.0,
-      "n": 160,
-      "matches": 160
+      "n": 159,
+      "matches": 159
     },
     {
       "confidence": 86,
       "accuracy": 100.0,
-      "n": 129,
-      "matches": 129
+      "n": 125,
+      "matches": 125
     },
     {
       "confidence": 87,
       "accuracy": 100.0,
-      "n": 102,
-      "matches": 102
+      "n": 95,
+      "matches": 95
     },
     {
       "confidence": 88,
       "accuracy": 100.0,
-      "n": 69,
-      "matches": 69
+      "n": 71,
+      "matches": 71
     },
     {
       "confidence": 89,
       "accuracy": 100.0,
-      "n": 54,
-      "matches": 54
+      "n": 56,
+      "matches": 56
     },
     {
       "confidence": 90,
       "accuracy": 100.0,
-      "n": 37,
-      "matches": 37
+      "n": 39,
+      "matches": 39
     },
     {
       "confidence": 91,
       "accuracy": 100.0,
-      "n": 20,
-      "matches": 20
+      "n": 23,
+      "matches": 23
     },
     {
       "confidence": 92,
       "accuracy": 100.0,
-      "n": 16,
-      "matches": 16
+      "n": 15,
+      "matches": 15
     },
     {
       "confidence": 93,
       "accuracy": 100.0,
-      "n": 11,
-      "matches": 11
+      "n": 12,
+      "matches": 12
     },
     {
       "confidence": 94,
       "accuracy": 100.0,
-      "n": 6,
-      "matches": 6
+      "n": 7,
+      "matches": 7
     },
     {
       "confidence": 95,
       "accuracy": 100.0,
-      "n": 6,
-      "matches": 6
+      "n": 7,
+      "matches": 7
     },
     {
       "confidence": 96,
       "accuracy": 100.0,
-      "n": 4,
-      "matches": 4
+      "n": 3,
+      "matches": 3
     },
     {
       "confidence": 97,
       "accuracy": 100.0,
-      "n": 1,
-      "matches": 1
+      "n": 2,
+      "matches": 2
     },
     {
       "confidence": 98,
