@@ -18,7 +18,7 @@ combined_doc.add_heading('Combined Verb Declension Exceptions', 0)
 # Configuration
 base_csv_dir = 'dataset'
 
-ELISION_FOLLOWERS = ["have", "haven", "haveth", "havest", "had", "hadde",
+ELISION_FOLLOWERS = ["he","have", "haven", "haveth", "havest", "had", "hadde",
 					"hadden", "his", "her", "him", "hers", "hide", "hir",
 					"hire", "hires", "hirs", "han"]
 

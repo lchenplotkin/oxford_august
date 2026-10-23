@@ -1,0 +1,626 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Adjective Exception Review</title>
+<style>
+	:root {
+		--bg: #f4f3ef;
+		--card-bg: #ffffff;
+		--border: #d8d5cc;
+		--text: #26241f;
+		--muted: #7a776d;
+		--accent: #3b5bdb;
+		--green: #d5ecd8;
+		--green-border: #4c9a5b;
+		--red: #f6d8d6;
+		--red-border: #c24a42;
+		--badge-bg: #ece9e0;
+	}
+	* { box-sizing: border-box; }
+	body {
+		margin: 0;
+		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+		background: var(--bg);
+		color: var(--text);
+	}
+	header {
+		position: sticky;
+		top: 0;
+		z-index: 10;
+		background: var(--card-bg);
+		border-bottom: 1px solid var(--border);
+		padding: 10px 16px;
+	}
+	header h1 {
+		font-size: 16px;
+		margin: 0 0 8px 0;
+	}
+	.controls-row {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 10px 18px;
+		align-items: center;
+		font-size: 13px;
+	}
+	.controls-row label { display: flex; align-items: center; gap: 5px; cursor: pointer; white-space: nowrap; }
+	.controls-row select, .controls-row input[type=text] {
+		font-size: 13px;
+		padding: 3px 6px;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+	}
+	button {
+		font-size: 13px;
+		padding: 5px 10px;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		background: #fff;
+		cursor: pointer;
+	}
+	button:hover { background: #eee; }
+	button.primary { background: var(--accent); color: #fff; border-color: var(--accent); }
+	button.primary:hover { filter: brightness(1.1); }
+	.stats { font-size: 12px; color: var(--muted); margin-left: auto; }
+	.help { font-size: 11px; color: var(--muted); margin-top: 4px; }
+	kbd {
+		background: #eee;
+		border: 1px solid #ccc;
+		border-radius: 3px;
+		padding: 0 4px;
+		font-family: monospace;
+	}
+
+	#loadScreen {
+		max-width: 560px;
+		margin: 80px auto;
+		text-align: center;
+		background: var(--card-bg);
+		border: 1px solid var(--border);
+		border-radius: 10px;
+		padding: 40px;
+	}
+	#loadScreen p { color: var(--muted); font-size: 14px; }
+
+	main { padding: 16px; max-width: 900px; margin: 0 auto; }
+	.card {
+		background: var(--card-bg);
+		border: 1px solid var(--border);
+		border-radius: 8px;
+		padding: 14px 16px;
+		margin-bottom: 12px;
+		transition: box-shadow .1s, border-color .1s;
+	}
+	.card.selected {
+		border-color: var(--accent);
+		box-shadow: 0 0 0 2px var(--accent);
+	}
+	.card.flag-green { background: var(--green); border-color: var(--green-border); }
+	.card.flag-red { background: var(--red); border-color: var(--red-border); }
+
+	.card-top {
+		display: flex;
+		align-items: baseline;
+		gap: 8px;
+		flex-wrap: wrap;
+		margin-bottom: 6px;
+	}
+	.headword { font-weight: 700; font-size: 15px; }
+	.word { color: var(--muted); font-size: 13px; }
+	.badge {
+		font-size: 10px;
+		text-transform: uppercase;
+		letter-spacing: .03em;
+		background: var(--badge-bg);
+		border-radius: 3px;
+		padding: 2px 6px;
+		color: var(--muted);
+	}
+	.badge.on-scan { background: #dbe7ff; color: #22408a; }
+	.badge.on-spell { background: #ffe9d6; color: #8a4a10; }
+	.meta { margin-left: auto; font-size: 11px; color: var(--muted); text-align: right; }
+
+	.context {
+		font-size: 15px;
+		line-height: 1.5;
+		margin: 8px 0;
+	}
+	.context mark { background: #fff2a8; padding: 0 2px; border-radius: 2px; }
+
+	.scan-row {
+		font-family: ui-monospace, monospace;
+		font-size: 12px;
+		color: var(--muted);
+		margin-bottom: 10px;
+		display: flex;
+		gap: 16px;
+		flex-wrap: wrap;
+	}
+	.scan-row span b { color: var(--text); }
+
+	.row-controls {
+		display: flex;
+		align-items: center;
+		gap: 14px;
+		flex-wrap: wrap;
+		font-size: 13px;
+		border-top: 1px dashed var(--border);
+		padding-top: 10px;
+	}
+	.row-controls label { display: flex; align-items: center; gap: 4px; cursor: pointer; }
+	.row-controls input[type=text] {
+		font-family: ui-monospace, monospace;
+		font-size: 13px;
+		padding: 4px 6px;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		width: 160px;
+	}
+	.notes-row { margin-top: 10px; }
+	.notes-row input[type=text] {
+		width: 100%;
+		font-size: 13px;
+		padding: 5px 8px;
+		border: 1px solid var(--border);
+		border-radius: 4px;
+		background: transparent;
+		color: var(--text);
+	}
+	.mini-btn {
+		font-size: 11px;
+		padding: 2px 6px;
+	}
+	.flag-btns button.active-green { background: var(--green-border); color: #fff; border-color: var(--green-border); }
+	.flag-btns button.active-red { background: var(--red-border); color: #fff; border-color: var(--red-border); }
+
+	.empty-state { text-align: center; color: var(--muted); padding: 60px 0; }
+
+	#backToTop {
+		position: fixed;
+		bottom: 20px;
+		right: 20px;
+		display: none;
+	}
+
+	@media (prefers-color-scheme: dark) {
+		:root {
+			--bg: #1c1b18;
+			--card-bg: #26241f;
+			--border: #423f37;
+			--text: #ece9e0;
+			--muted: #a6a297;
+			--badge-bg: #35322b;
+			--green: #1f3324;
+			--green-border: #4c9a5b;
+			--red: #3a201e;
+			--red-border: #c24a42;
+		}
+		button { background: #2d2b25; color: var(--text); }
+		button:hover { background: #3a372f; }
+		.context mark { background: #6b5b16; color: #fff; }
+		kbd { background: #35322b; border-color: #55524a; color: var(--text); }
+	}
+</style>
+</head>
+<body>
+
+<div id="loadScreen">
+	<h1>Adjective Exception Review</h1>
+	<p>Load <code>combined_exceptions.csv</code> to start reviewing. Your edits are auto-saved in this browser (by headword/word/line/file) and merged back in whenever you reload the CSV.</p>
+	<input type="file" id="fileInput" accept=".csv">
+</div>
+
+<header id="appHeader" style="display:none;">
+	<h1>Adjective Exception Review</h1>
+	<div class="controls-row">
+		<label><input type="checkbox" id="hideElided"> Hide elided</label>
+		<label><input type="checkbox" id="hideFinal"> Hide line-final</label>
+		<label>Type:
+			<select id="typeFilter">
+				<option value="">All</option>
+				<option value="weak_no_e">weak_no_e</option>
+				<option value="plural_no_e">plural_no_e</option>
+				<option value="strong_with_e">strong_with_e</option>
+			</select>
+		</label>
+		<label>Source:
+			<select id="sourceFilter">
+				<option value="">All</option>
+				<option value="both">Both (scan &amp; spell)</option>
+				<option value="scan">Scan only</option>
+				<option value="spell">Spell only</option>
+			</select>
+		</label>
+		<label>Flag:
+			<select id="flagFilter">
+				<option value="">All (excl. green)</option>
+				<option value="unreviewed">Unreviewed</option>
+				<option value="green">Green</option>
+				<option value="red">Red</option>
+			</select>
+		</label>
+		<label>Search: <input type="text" id="search" placeholder="headword / filename..."></label>
+		<button id="downloadBtn" class="primary">Download CSV</button>
+		<button id="clearStorageBtn">Clear saved edits</button>
+		<span class="stats" id="stats"></span>
+	</div>
+	<div class="help">Click a card to select it, then use shortcuts: <kbd>j</kbd>/<kbd>k</kbd> next/prev &middot; <kbd>g</kbd> flag green &middot; <kbd>r</kbd> flag red &middot; <kbd>c</kbd> clear flag &middot; <kbd>e</kbd> toggle elides &middot; <kbd>x</kbd> toggle real exception &middot; <kbd>o</kbd> copy oxford scansion into REAL_SCAN</div>
+</header>
+
+<main id="main"></main>
+
+<button id="backToTop">&uarr; top</button>
+
+<script>
+(function () {
+	"use strict";
+
+	const STORAGE_KEY = "exception_review_edits_v1";
+	const EDIT_FIELDS = ["ELIDES", "REAL_SCAN", "REAL_EXCEPT", "EXCEPT_FLAG", "NOTES"];
+
+	let headers = [];
+	let data = [];       // full dataset, in file order
+	let filtered = [];   // indices into data, after filters
+	let selected = -1;   // index into filtered
+
+	// ---------- CSV parsing ----------
+	function parseCSV(text) {
+		const rows = [];
+		let row = [], field = "", i = 0, inQuotes = false;
+		text = text.replace(/\r\n/g, "\n");
+		while (i < text.length) {
+			const c = text[i];
+			if (inQuotes) {
+				if (c === '"') {
+					if (text[i + 1] === '"') { field += '"'; i += 2; continue; }
+					inQuotes = false; i++; continue;
+				}
+				field += c; i++; continue;
+			} else {
+				if (c === '"') { inQuotes = true; i++; continue; }
+				if (c === ',') { row.push(field); field = ""; i++; continue; }
+				if (c === '\n') { row.push(field); rows.push(row); row = []; field = ""; i++; continue; }
+				field += c; i++; continue;
+			}
+		}
+		if (field.length > 0 || row.length > 0) { row.push(field); rows.push(row); }
+		return rows.filter(r => !(r.length === 1 && r[0] === ""));
+	}
+
+	function csvEscape(val) {
+		val = val === undefined || val === null ? "" : String(val);
+		if (/[",\n]/.test(val)) return '"' + val.replace(/"/g, '""') + '"';
+		return val;
+	}
+
+	function toCSV(headers, rows) {
+		const lines = [headers.map(csvEscape).join(",")];
+		for (const r of rows) {
+			lines.push(headers.map(h => csvEscape(r[h])).join(","));
+		}
+		return lines.join("\n");
+	}
+
+	// ---------- local storage edit persistence ----------
+	function editKey(r) {
+		return [r.headword, r.word, r.line_number, r.filename].join("|");
+	}
+
+	function loadEditStore() {
+		try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+		catch (e) { return {}; }
+	}
+
+	function saveEdit(r) {
+		const store = loadEditStore();
+		const key = editKey(r);
+		const edit = {};
+		EDIT_FIELDS.forEach(f => edit[f] = r[f]);
+		store[key] = edit;
+		localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
+	}
+
+	function applyStoredEdits(rows) {
+		const store = loadEditStore();
+		let applied = 0;
+		rows.forEach(r => {
+			const edit = store[editKey(r)];
+			if (edit) {
+				EDIT_FIELDS.forEach(f => { if (edit[f] !== undefined) r[f] = edit[f]; });
+				applied++;
+			}
+		});
+		return applied;
+	}
+
+	// ---------- rendering ----------
+	function isTrue(v) { return v === "True" || v === "true" || v === "1"; }
+
+	function passesFilters(r) {
+		if (document.getElementById("hideElided").checked && isTrue(r.is_elided)) return false;
+		if (document.getElementById("hideFinal").checked && isTrue(r.is_final)) return false;
+
+		const typeF = document.getElementById("typeFilter").value;
+		if (typeF && r.exception_type !== typeF) return false;
+
+		const srcF = document.getElementById("sourceFilter").value;
+		const scanEx = r.SCAN_EXCEPTION === "1";
+		const spellEx = r.SPELL_EXCEPTION === "1";
+		if (srcF === "both" && !(scanEx && spellEx)) return false;
+		if (srcF === "scan" && !(scanEx && !spellEx)) return false;
+		if (srcF === "spell" && !(spellEx && !scanEx)) return false;
+
+		const flagF = document.getElementById("flagFilter").value;
+		if (flagF === "unreviewed" && r.EXCEPT_FLAG) return false;
+		if (flagF === "green" && r.EXCEPT_FLAG !== "green") return false;
+		if (flagF === "red" && r.EXCEPT_FLAG !== "red") return false;
+		// Accepted (green) instances drop out of every view except the explicit Green filter.
+		if (flagF !== "green" && r.EXCEPT_FLAG === "green") return false;
+
+		const q = document.getElementById("search").value.trim().toLowerCase();
+		if (q) {
+			const hay = (r.headword + " " + r.word + " " + r.filename + " " + r.context).toLowerCase();
+			if (!hay.includes(q)) return false;
+		}
+		return true;
+	}
+
+	function highlightContext(context, word) {
+		if (!word) return escapeHTML(context);
+		const idx = context.toLowerCase().indexOf(word.toLowerCase());
+		if (idx === -1) return escapeHTML(context);
+		return escapeHTML(context.slice(0, idx)) + "<mark>" + escapeHTML(context.slice(idx, idx + word.length)) + "</mark>" + escapeHTML(context.slice(idx + word.length));
+	}
+
+	function escapeHTML(s) {
+		return String(s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+	}
+
+	function updateStats() {
+		const total = data.length;
+		const reviewed = data.filter(r => r.EXCEPT_FLAG).length;
+		const green = data.filter(r => r.EXCEPT_FLAG === "green").length;
+		const red = data.filter(r => r.EXCEPT_FLAG === "red").length;
+		document.getElementById("stats").textContent =
+			`${filtered.length} shown / ${total} total · reviewed ${reviewed} (✓${green} green, ✗${red} red)`;
+	}
+
+	function render() {
+		filtered = [];
+		for (let i = 0; i < data.length; i++) {
+			if (passesFilters(data[i])) filtered.push(i);
+		}
+		if (selected >= 0 && !filtered.includes(selected)) selected = -1;
+
+		const main = document.getElementById("main");
+		if (filtered.length === 0) {
+			main.innerHTML = '<div class="empty-state">No instances match the current filters.</div>';
+			updateStats();
+			return;
+		}
+
+		const html = filtered.map((dataIdx, pos) => {
+			const r = data[dataIdx];
+			const flagClass = r.EXCEPT_FLAG === "green" ? "flag-green" : r.EXCEPT_FLAG === "red" ? "flag-red" : "";
+			const selClass = pos === selected ? "selected" : "";
+			return `
+			<div class="card ${flagClass} ${selClass}" data-idx="${dataIdx}" data-pos="${pos}">
+				<div class="card-top">
+					<span class="headword">${escapeHTML(r.headword)}</span>
+					<span class="word">(${escapeHTML(r.word)})</span>
+					<span class="badge">${escapeHTML(r.exception_type || "")}</span>
+					${r.SCAN_EXCEPTION === "1" ? '<span class="badge on-scan">scan</span>' : ""}
+					${r.SPELL_EXCEPTION === "1" ? '<span class="badge on-spell">spell</span>' : ""}
+					${isTrue(r.is_elided) ? '<span class="badge">elided</span>' : ""}
+					${isTrue(r.is_final) ? '<span class="badge">line-final</span>' : ""}
+					<span class="meta">${escapeHTML(r.filename)}<br>${escapeHTML(r.line_number)}</span>
+				</div>
+				<div class="context">${highlightContext(r.context, r.word)}</div>
+				<div class="scan-row">
+					<span>word scan: <b>${escapeHTML(r.word_scansion || "—")}</b></span>
+					<span>oxford scan: <b>${escapeHTML(r.oxford_scansion || "—")}</b></span>
+				</div>
+				<div class="row-controls">
+					<label><input type="checkbox" class="f-elides" ${isTrue(r.ELIDES) ? "checked" : ""}> Elides</label>
+					<label><input type="checkbox" class="f-realexcept" ${isTrue(r.REAL_EXCEPT) ? "checked" : ""}> Real exception</label>
+					<label>Real scan:
+						<input type="text" class="f-realscan" value="${escapeHTML(r.REAL_SCAN || "")}" placeholder="type or copy">
+					</label>
+					<button class="mini-btn f-use-oxford" type="button">= oxford</button>
+					<button class="mini-btn f-use-word" type="button">= word</button>
+					<span class="flag-btns">
+						<button class="mini-btn f-green ${r.EXCEPT_FLAG === "green" ? "active-green" : ""}" type="button">Green</button>
+						<button class="mini-btn f-red ${r.EXCEPT_FLAG === "red" ? "active-red" : ""}" type="button">Red</button>
+						<button class="mini-btn f-clear" type="button">Clear</button>
+					</span>
+				</div>
+				<div class="notes-row">
+					<input type="text" class="f-notes" value="${escapeHTML(r.NOTES || "")}" placeholder="Notes...">
+				</div>
+			</div>`;
+		}).join("");
+
+		main.innerHTML = html;
+		updateStats();
+		wireCardEvents();
+	}
+
+	function wireCardEvents() {
+		document.querySelectorAll(".card").forEach(card => {
+			const dataIdx = Number(card.dataset.idx);
+			const r = data[dataIdx];
+
+			card.addEventListener("click", (e) => {
+				if (e.target.tagName === "INPUT" || e.target.tagName === "BUTTON") return;
+				selectByDataIdx(dataIdx);
+			});
+
+			card.querySelector(".f-elides").addEventListener("change", e => {
+				r.ELIDES = e.target.checked ? "1" : "0";
+				saveEdit(r); renderCardFlagState(card, r);
+			});
+			card.querySelector(".f-realexcept").addEventListener("change", e => {
+				r.REAL_EXCEPT = e.target.checked ? "1" : "0";
+				saveEdit(r); renderCardFlagState(card, r);
+			});
+			card.querySelector(".f-realscan").addEventListener("input", e => {
+				r.REAL_SCAN = e.target.value;
+				saveEdit(r);
+			});
+			card.querySelector(".f-notes").addEventListener("input", e => {
+				r.NOTES = e.target.value;
+				saveEdit(r);
+			});
+			card.querySelector(".f-use-oxford").addEventListener("click", () => {
+				r.REAL_SCAN = r.oxford_scansion || "";
+				card.querySelector(".f-realscan").value = r.REAL_SCAN;
+				saveEdit(r);
+			});
+			card.querySelector(".f-use-word").addEventListener("click", () => {
+				r.REAL_SCAN = r.word_scansion || "";
+				card.querySelector(".f-realscan").value = r.REAL_SCAN;
+				saveEdit(r);
+			});
+			card.querySelector(".f-green").addEventListener("click", () => setFlag(r, card, "green"));
+			card.querySelector(".f-red").addEventListener("click", () => setFlag(r, card, "red"));
+			card.querySelector(".f-clear").addEventListener("click", () => setFlag(r, card, ""));
+		});
+	}
+
+	function setFlag(r, card, flag) {
+		const posBefore = Number(card.dataset.pos);
+		r.EXCEPT_FLAG = r.EXCEPT_FLAG === flag && flag !== "" ? "" : flag;
+		saveEdit(r);
+
+		// Re-render so a newly-green card drops out of view immediately (unless
+		// the Green filter is active). Keep the selection at the same position
+		// so the next card slides into place for fast keyboard review.
+		render();
+		if (filtered.length) {
+			const pos = Math.min(posBefore, filtered.length - 1);
+			selectByDataIdx(filtered[pos]);
+		} else {
+			selected = -1;
+		}
+	}
+
+	function renderCardFlagState() { /* checkbox states already reflect via native input, nothing extra */ }
+
+	function selectByDataIdx(dataIdx) {
+		const pos = filtered.indexOf(dataIdx);
+		if (pos === -1) return;
+		selected = pos;
+		document.querySelectorAll(".card").forEach(c => c.classList.remove("selected"));
+		const card = document.querySelector(`.card[data-idx="${dataIdx}"]`);
+		if (card) {
+			card.classList.add("selected");
+			card.scrollIntoView({ block: "center", behavior: "smooth" });
+		}
+	}
+
+	function moveSelection(delta) {
+		if (filtered.length === 0) return;
+		let pos = selected === -1 ? 0 : selected + delta;
+		pos = Math.max(0, Math.min(filtered.length - 1, pos));
+		selectByDataIdx(filtered[pos]);
+	}
+
+	function currentRow() {
+		if (selected === -1 || !filtered[selected] === undefined) return null;
+		return data[filtered[selected]];
+	}
+
+	document.addEventListener("keydown", (e) => {
+		const tag = document.activeElement.tagName;
+		if (tag === "INPUT" || tag === "TEXTAREA" || tag === "SELECT") {
+			if (e.key === "Escape") document.activeElement.blur();
+			return;
+		}
+		if (selected === -1 && filtered.length && (e.key === "j" || e.key === "k" || e.key === "ArrowDown" || e.key === "ArrowUp")) {
+			selectByDataIdx(filtered[0]);
+			return;
+		}
+		const r = currentRow();
+		switch (e.key) {
+			case "j": case "ArrowDown": moveSelection(1); e.preventDefault(); break;
+			case "k": case "ArrowUp": moveSelection(-1); e.preventDefault(); break;
+			case "g": if (r) clickCardButton(".f-green"); break;
+			case "r": if (r) clickCardButton(".f-red"); break;
+			case "c": if (r) clickCardButton(".f-clear"); break;
+			case "e": if (r) toggleCardCheckbox(".f-elides"); break;
+			case "x": if (r) toggleCardCheckbox(".f-realexcept"); break;
+			case "o": if (r) clickCardButton(".f-use-oxford"); break;
+		}
+	});
+
+	function selectedCard() {
+		if (selected === -1) return null;
+		return document.querySelector(`.card[data-idx="${filtered[selected]}"]`);
+	}
+	function clickCardButton(sel) {
+		const card = selectedCard();
+		if (card) card.querySelector(sel).click();
+	}
+	function toggleCardCheckbox(sel) {
+		const card = selectedCard();
+		if (!card) return;
+		const cb = card.querySelector(sel);
+		cb.checked = !cb.checked;
+		cb.dispatchEvent(new Event("change"));
+	}
+
+	// ---------- filter bar wiring ----------
+	["hideElided", "hideFinal", "typeFilter", "sourceFilter", "flagFilter"].forEach(id => {
+		document.getElementById(id).addEventListener("change", () => { selected = -1; render(); });
+	});
+	document.getElementById("search").addEventListener("input", () => { selected = -1; render(); });
+
+	document.getElementById("downloadBtn").addEventListener("click", () => {
+		const csv = toCSV(headers, data);
+		const blob = new Blob([csv], { type: "text/csv;charset=utf-8" });
+		const url = URL.createObjectURL(blob);
+		const a = document.createElement("a");
+		a.href = url;
+		a.download = "combined_exceptions_reviewed.csv";
+		a.click();
+		URL.revokeObjectURL(url);
+	});
+
+	document.getElementById("clearStorageBtn").addEventListener("click", () => {
+		if (confirm("Clear all saved edits from this browser? This cannot be undone.")) {
+			localStorage.removeItem(STORAGE_KEY);
+			alert("Cleared. Reload the CSV to start fresh.");
+		}
+	});
+
+	window.addEventListener("scroll", () => {
+		document.getElementById("backToTop").style.display = window.scrollY > 400 ? "block" : "none";
+	});
+	document.getElementById("backToTop").addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
+
+	// ---------- file loading ----------
+	document.getElementById("fileInput").addEventListener("change", (e) => {
+		const file = e.target.files[0];
+		if (!file) return;
+		const reader = new FileReader();
+		reader.onload = (ev) => {
+			const rows = parseCSV(ev.target.result);
+			headers = rows[0];
+			data = rows.slice(1).map(row => {
+				const obj = {};
+				headers.forEach((h, i) => obj[h] = row[i] !== undefined ? row[i] : "");
+				return obj;
+			});
+			EDIT_FIELDS.forEach(f => { if (!headers.includes(f)) headers.push(f); });
+			const applied = applyStoredEdits(data);
+			document.getElementById("loadScreen").style.display = "none";
+			document.getElementById("appHeader").style.display = "block";
+			render();
+			if (applied > 0) console.log(`Restored ${applied} saved edit(s) from this browser.`);
+		};
+		reader.readAsText(file);
+	});
+})();
+</script>
+</body>
+</html>

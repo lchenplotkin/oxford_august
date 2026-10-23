@@ -138,10 +138,11 @@ def analyze_verbs(df, results, text_type, doc, current_filename):
 			word = words[j].lower()
 			headword = headwords[j]
 			tag = clean_tag(tags[j])
+			next_tag = clean_tag(tags[j+1]) if j+1 < len(words) else 'END'
 			next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
 
 			# Skip if elided
-			if is_elided(word, next_word):
+			if is_elided(word, next_word,next_tag):
 				continue
 			if next_word == 'END':
 				continue

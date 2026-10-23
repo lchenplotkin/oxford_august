@@ -1,0 +1,6 @@
+Category,All Instances,"Strict Instances (not elided, not final)",Accuracy Rate
+Weak declension (should have -e),1512,34,95.90%
+Plural form (should have -e),417,7,95.44%
+"Strong form (should not have -e, all)",3342,409,66.43%
+"Strong form (should not have -e, filtered)",3342,216,82.14%
+Always -e adjectives found,69,N/A,N/A

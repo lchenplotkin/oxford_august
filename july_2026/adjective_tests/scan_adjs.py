@@ -150,7 +150,11 @@ def analyze_adjectives(df, results, current_file):
 	# Initialize tracked_weak_instances if needed
 	if 'tracked_weak_instances' not in results:
 		results['tracked_weak_instances'] = []
-	
+
+	# Initialize all_instances if needed
+	if 'all_instances' not in results:
+		results['all_instances'] = []
+
 	for idx, row in df.iterrows():
 		if row["MATCH"] != "DIFF":
 			oxford_text = row['OXFORD_TEXT']
@@ -162,171 +166,187 @@ def analyze_adjectives(df, results, current_file):
 			ox_scansion = row['OXFORD_SCANSION']
 			
 			if riv_scansion!= '' and ox_scansion != '':
-
+				skip_scan = False
 				riv_scans = riv_scansion.split(' ')
 				ox_scans = ox_scansion.split(' ')
-				words, headwords, tags = parse_tagged_text(oxford_text, oxford_tagging)
+			else:
+				skip_scan = True
 
-				prev_tag = 'NA'
-				prev_word = 'NA'
-				
-				for j in range(len(tags)):
-					if j >= len(words) or j >= len(headwords) or j >= len(ox_scans):
-						continue
-						
-					headword = headwords[j]
-					tag = tags[j]
+			words, headwords, tags = parse_tagged_text(oxford_text, oxford_tagging)
+
+
+			prev_tag = 'NA'
+			prev_word = 'NA'
+			
+			for j in range(len(tags)):
+				if j >= len(words) or j >= len(headwords) or j >= len(ox_scans):
+					continue
+					
+				headword = headwords[j]
+				tag = tags[j]
+				if not skip_scan:
 					scan = ox_scans[j]
-					word = words[j].lower()
-					next_tag = tags[j + 1] if j + 1 < len(tags) else 'END'
-					next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
+				else:
+					scan = 'NA'
+				word = words[j].lower()
+				next_tag = tags[j + 1] if j + 1 < len(tags) else 'END'
+				next_word = words[j + 1].lower() if j + 1 < len(words) else 'END'
 
-					# Only process adjectives
-					if not tag.startswith('adj'):
-						prev_word = word
-						prev_tag = tag
-						continue
+				# Only process adjectives
+				if not tag.startswith('adj'):
+					prev_word = word
+					prev_tag = tag
+					continue
 
-					# Track adjective ordering (multiple adjectives in a row)
-					if tag == 'adj' and next_tag == 'adj':
-						for later_headword, later_tag in zip(headwords[j+1:], tags[j+1:]):
-							if later_tag != 'adj':
-								break
-							else:
-								orderwriter.writerow([headword, later_headword, original_text, line_number, filename])
-
-					# Initialize adjective tracking
-					if headword not in results['all_adjectives']:
-						results['all_adjectives'][headword] = {
-							'stem_forms': set(), 
-							'all_forms': set(),
-							'stem_with_e': set(),
-							'stem_without_e': set()
-						}
-
-					results['all_adjectives'][headword]['all_forms'].add(word)
-					if tag == 'adj':  # Stem form
-						results['all_adjectives'][headword]['stem_forms'].add(word)
-						if word.endswith('e'):
-							results['all_adjectives'][headword]['stem_with_e'].add(word)
+				# Track adjective ordering (multiple adjectives in a row)
+				if tag == 'adj' and next_tag == 'adj':
+					for later_headword, later_tag in zip(headwords[j+1:], tags[j+1:]):
+						if later_tag != 'adj':
+							break
 						else:
-							results['all_adjectives'][headword]['stem_without_e'].add(word)
+							orderwriter.writerow([headword, later_headword, original_text, line_number, filename])
 
-					# Check if monosyllabic root
-					stem_forms = results['all_adjectives'][headword]['stem_forms']
-					if not is_monosyllabic_root(headword, stem_forms):
-						prev_word = word
-						prev_tag = tag
-						continue
+				# Initialize adjective tracking
+				if headword not in results['all_adjectives']:
+					results['all_adjectives'][headword] = {
+						'stem_forms': set(), 
+						'all_forms': set(),
+						'stem_with_e': set(),
+						'stem_without_e': set()
+					}
 
-					# Track that we found a monosyllabic adjective in this file
-					results['file_stats'][current_file]['monosyllabic_adjectives_found'] += 1
+				results['all_adjectives'][headword]['all_forms'].add(word)
+				if tag == 'adj':  # Stem form
+					results['all_adjectives'][headword]['stem_forms'].add(word)
+					if word.endswith('e'):
+						results['all_adjectives'][headword]['stem_with_e'].add(word)
+					else:
+						results['all_adjectives'][headword]['stem_without_e'].add(word)
 
-					# Initialize headword-specific statistics if needed
-					if headword not in results['headword_stats']:
-						results['headword_stats'][headword] = {
-							'weak_total': 0,
-							'weak_correct': 0,
-							'weak_exceptions': 0,
-							'plural_total': 0,
-							'plural_correct': 0,
-							'plural_exceptions': 0,
-							'strong_total': 0,
-							'strong_correct': 0,
-							'strong_exceptions': 0
-						}
+				# Check if monosyllabic root
+				stem_forms = results['all_adjectives'][headword]['stem_forms']
+				if not is_monosyllabic_root(headword, stem_forms):
+					prev_word = word
+					prev_tag = tag
+					continue
 
-					# Determine grammatical context
-					is_weak = is_weak_form(prev_tag, prev_word, tag, next_tag)
-					is_plural = is_plural_form(prev_tag, tag, next_tag)
-					is_final = (next_word == 'END')
-					is_word_elided = is_elided(word, next_word, next_tag) if next_word != 'END' else False
-					after_noun = False
+				# Track that we found a monosyllabic adjective in this file
+				results['file_stats'][current_file]['monosyllabic_adjectives_found'] += 1
+
+				# Initialize headword-specific statistics if needed
+				if headword not in results['headword_stats']:
+					results['headword_stats'][headword] = {
+						'weak_total': 0,
+						'weak_correct': 0,
+						'weak_exceptions': 0,
+						'plural_total': 0,
+						'plural_correct': 0,
+						'plural_exceptions': 0,
+						'strong_total': 0,
+						'strong_correct': 0,
+						'strong_exceptions': 0
+					}
+
+				# Determine grammatical context
+				is_weak = is_weak_form(prev_tag, prev_word, tag, next_tag)
+				is_plural = is_plural_form(prev_tag, tag, next_tag)
+				is_final = (next_word == 'END')
+				is_word_elided = is_elided(word, next_word, next_tag) if next_word != 'END' else False
+				after_noun = False
+				if skip_scan:
+					is_silent_e = False
+				else:
 					try:
 						is_silent_e = word[-1] == 'e' and scan[-1] == 'x'
 					except:
 						print(ox_scansion, ox_scans)
-					
+				
 
-					# Track specific headwords in weak declension (excluding elision and line endings)
-					if is_weak and headword in TRACKED_HEADWORDS:# and not is_word_elided and not is_final:
-						tracked_record = {
-							'headword': headword,
-							'word': word,
-							'has_e': word.endswith('e'),
-							'prev_tag': prev_tag,
-							'prev_word': prev_word,
-							'line_number': line_number,
-							'filename': filename,
-							'context': original_text
-						}
-						results['tracked_weak_instances'].append(tracked_record)
-
-					# Create record for this instance
-					record = {
+				# Track specific headwords in weak declension (excluding elision and line endings)
+				if is_weak and headword in TRACKED_HEADWORDS:# and not is_word_elided and not is_final:
+					tracked_record = {
 						'headword': headword,
 						'word': word,
+						'has_e': word.endswith('e'),
+						'prev_tag': prev_tag,
+						'prev_word': prev_word,
 						'line_number': line_number,
 						'filename': filename,
 						'context': original_text,
-						'is_elided': is_word_elided,
-						'is_final': is_final,
-						'source_csv': current_file
+						'word_scansion': scan,
+						'oxford_scansion': ox_scansion
 					}
+					results['tracked_weak_instances'].append(tracked_record)
 
-					# Categorize the adjective usage and update file statistics
-					if is_weak:
-						results['file_stats'][current_file]['weak_total'] += 1
-						results['headword_stats'][headword]['weak_total'] += 1
-						
-						if word.endswith('e') and not is_silent_e:
-							# Correct weak declension with -e
-							results['file_stats'][current_file]['weak_correct'] += 1
-							results['headword_stats'][headword]['weak_correct'] += 1
-						elif not after_noun:
-							# Weak declension without -e (exception)
-							results['file_stats'][current_file]['weak_exceptions'] += 1
-							results['headword_stats'][headword]['weak_exceptions'] += 1
-							results['weak_no_e_all'].append(record)
-							if not is_word_elided and not is_final:
-								results['weak_no_e_strict'].append(record)
-								add_exception_to_doc("Weak without -e", word, original_text, line_number, filename)
-								
-					elif is_plural:
-						results['file_stats'][current_file]['plural_total'] += 1
-						results['headword_stats'][headword]['plural_total'] += 1
-						
-						if word.endswith('e') and not is_silent_e:
-							# Correct plural form with -e
-							results['file_stats'][current_file]['plural_correct'] += 1
-							results['headword_stats'][headword]['plural_correct'] += 1
-						else:
-							# Plural form without -e (exception)
-							results['file_stats'][current_file]['plural_exceptions'] += 1
-							results['headword_stats'][headword]['plural_exceptions'] += 1
-							results['plural_no_e_all'].append(record)
-							if not is_word_elided and not is_final:
-								results['plural_no_e_strict'].append(record)
-								add_exception_to_doc("Plural without -e", word, original_text, line_number, filename)
+				# Create record for this instance
+				record = {
+					'headword': headword,
+					'word': word,
+					'line_number': line_number,
+					'filename': filename,
+					'context': original_text,
+					'is_elided': is_word_elided,
+					'is_final': is_final,
+					'source_csv': current_file,
+					'word_scansion': scan,
+					'oxford_scansion': ox_scansion
+				}
+
+				results['all_instances'].append(record)
+
+				# Categorize the adjective usage and update file statistics
+				if is_weak:
+					results['file_stats'][current_file]['weak_total'] += 1
+					results['headword_stats'][headword]['weak_total'] += 1
+					
+					if word.endswith('e') and not is_silent_e:
+						# Correct weak declension with -e
+						results['file_stats'][current_file]['weak_correct'] += 1
+						results['headword_stats'][headword]['weak_correct'] += 1
+					elif not after_noun:
+						# Weak declension without -e (exception)
+						results['file_stats'][current_file]['weak_exceptions'] += 1
+						results['headword_stats'][headword]['weak_exceptions'] += 1
+						results['weak_no_e_all'].append(record)
+						if not is_word_elided and not is_final:
+							results['weak_no_e_strict'].append(record)
+							add_exception_to_doc("Weak without -e", word, original_text, line_number, filename)
+							
+				elif is_plural:
+					results['file_stats'][current_file]['plural_total'] += 1
+					results['headword_stats'][headword]['plural_total'] += 1
+					
+					if word.endswith('e') and not is_silent_e:
+						# Correct plural form with -e
+						results['file_stats'][current_file]['plural_correct'] += 1
+						results['headword_stats'][headword]['plural_correct'] += 1
 					else:
-						# Strong/stem form
-						results['file_stats'][current_file]['strong_total'] += 1
-						results['headword_stats'][headword]['strong_total'] += 1
-						
-						if word.endswith('e') and tag == 'adj' and not is_silent_e:
-							# Strong form with -e (potential exception)
-							results['file_stats'][current_file]['strong_exceptions'] += 1
-							results['headword_stats'][headword]['strong_exceptions'] += 1
-							results['strong_with_e_all'].append(record)
-							if not is_word_elided and not is_final:
-								results['strong_with_e_strict'].append(record)
-						else:
-							# Correct strong form without -e
-							results['file_stats'][current_file]['strong_correct'] += 1
-							results['headword_stats'][headword]['strong_correct'] += 1
+						# Plural form without -e (exception)
+						results['file_stats'][current_file]['plural_exceptions'] += 1
+						results['headword_stats'][headword]['plural_exceptions'] += 1
+						results['plural_no_e_all'].append(record)
+						if not is_word_elided and not is_final:
+							results['plural_no_e_strict'].append(record)
+							add_exception_to_doc("Plural without -e", word, original_text, line_number, filename)
+				else:
+					# Strong/stem form
+					results['file_stats'][current_file]['strong_total'] += 1
+					results['headword_stats'][headword]['strong_total'] += 1
+					
+					if word.endswith('e') and tag == 'adj' and not is_silent_e:
+						# Strong form with -e (potential exception)
+						results['file_stats'][current_file]['strong_exceptions'] += 1
+						results['headword_stats'][headword]['strong_exceptions'] += 1
+						results['strong_with_e_all'].append(record)
+						if not is_word_elided and not is_final:
+							results['strong_with_e_strict'].append(record)
+					else:
+						# Correct strong form without -e
+						results['file_stats'][current_file]['strong_correct'] += 1
+						results['headword_stats'][headword]['strong_correct'] += 1
 
-					prev_word = word
-					prev_tag = tag
+				prev_word = word
+				prev_tag = tag
 
 	return results
 
@@ -342,7 +362,8 @@ def process_csv_directory(csv_dir):
 		'strong_with_e_strict': [],   # Strong form with -e (strict: not elided, not final)
 		'file_stats': {},			  # Per-file statistics
 		'headword_stats': {},		  # Per-headword statistics
-		'tracked_weak_instances': []  # Tracked headwords in weak declension
+		'tracked_weak_instances': [],  # Tracked headwords in weak declension
+		'all_instances': []		   # Every monosyllabic adjective instance, with scansion
 	}
 
 	file_count = 0
@@ -566,13 +587,13 @@ def write_results_to_csv(results, output_dir):
 		if not records:
 			# Create empty file with headers
 			with open(os.path.join(output_dir, filename), 'w', newline='', encoding='utf-8') as csvfile:
-				fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'source_csv']
+				fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'source_csv', 'word_scansion', 'oxford_scansion']
 				writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 				writer.writeheader()
 			return
 			
 		with open(os.path.join(output_dir, filename), 'w', newline='', encoding='utf-8') as csvfile:
-			fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'source_csv']
+			fieldnames = ['headword', 'word', 'line_number', 'filename', 'context', 'is_elided', 'is_final', 'source_csv', 'word_scansion', 'oxford_scansion']
 			writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 			writer.writeheader()
 			for record in records:
@@ -587,10 +608,11 @@ def write_results_to_csv(results, output_dir):
 	write_records(results['strong_with_e_strict'], 'strong_with_e_strict_instances.csv')
 	write_records(results['strong_with_e_all_filtered'], 'strong_with_e_all_filtered_instances.csv')
 	write_records(results['strong_with_e_strict_filtered'], 'strong_with_e_strict_filtered_instances.csv')
+	write_records(results['all_instances'], 'all_instances_scansion.csv')
 
 	# Write tracked weak instances
 	with open(os.path.join(output_dir, 'tracked_weak_instances.csv'), 'w', newline='', encoding='utf-8') as csvfile:
-		fieldnames = ['headword', 'word', 'has_e', 'prev_tag', 'prev_word', 'line_number', 'filename', 'context']
+		fieldnames = ['headword', 'word', 'has_e', 'prev_tag', 'prev_word', 'line_number', 'filename', 'context', 'word_scansion', 'oxford_scansion']
 		writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 		writer.writeheader()
 		for record in results['tracked_weak_instances']:

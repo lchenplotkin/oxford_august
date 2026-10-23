@@ -1,4 +1,10 @@
 headword,word,tag,line_number,filename,context,text_type,source_file
+kepen,keepe,v%imp,The Clerk's Prologue 17,data/riverside_cats/ClPro_riv.cat,Keepe hem in stoor til so be ye endite,RIVERSIDE,ClPro_gui_complete.csv
+willen,wol,v%pr_1,The Clerk's Prologue 26,data/riverside_cats/ClPro_riv.cat,I wol yow telle a tale which that I,RIVERSIDE,ClPro_gui_complete.csv
+preien,prey,v%pr_1,The Clerk's Prologue 30,data/riverside_cats/ClPro_riv.cat,I prey to God so yeve his soule reste,RIVERSIDE,ClPro_gui_complete.csv
+hoten,highte,v%pt_3,The Clerk's Prologue 32,data/riverside_cats/ClPro_riv.cat,Highte this clerk whos rethorike sweete,RIVERSIDE,ClPro_gui_complete.csv
+shulen,shul,v%pr_pl,The Clerk's Prologue 38,data/riverside_cats/ClPro_riv.cat,Hem bothe hath slayn and alle shul we dye,RIVERSIDE,ClPro_gui_complete.csv
+mouen,may,v%pr_pl,The Clerk's Prologue 56,data/riverside_cats/ClPro_riv.cat,But this his tale which that ye may heere,RIVERSIDE,ClPro_gui_complete.csv
 seien,seith,v%pr_pl,The Shipman's Tale 37,data/riverside_cats/ShipT_riv.cat,And he agayn he seith nat ones nay,RIVERSIDE,ShipT_gui_complete.csv
 don,doon,v%inf,The Shipman's Tale 45,data/riverside_cats/ShipT_riv.cat,To doon plesaunce and also greet costage,RIVERSIDE,ShipT_gui_complete.csv
 mouen,may,v%pr_1,The Shipman's Tale 118,data/riverside_cats/ShipT_riv.cat,For I may synge allas and weylawey,RIVERSIDE,ShipT_gui_complete.csv
@@ -111,6 +117,9 @@ preien,prey,v%pr_1,The Wife of Bath's Tale 1242,data/riverside_cats/WBT_riv.cat,
 loken,looke,v%imp,The Wife of Bath's Tale 1249,data/riverside_cats/WBT_riv.cat,Cast up the curtyn looke how that it is,RIVERSIDE,WBT_gui_complete.csv
 don,doon,v%inf,The Wife of Bath's Tale 1256,data/riverside_cats/WBT_riv.cat,That myghte doon hym plesance or likyng,RIVERSIDE,WBT_gui_complete.csv
 willen,wol,v%pr_pl,The Wife of Bath's Tale 1262,data/riverside_cats/WBT_riv.cat,That noght wol be governed by hir wyves,RIVERSIDE,WBT_gui_complete.csv
+willen,wol,v%pr_1,05-1-ch 4,data/riverside_cats/SqPro_riv.cat,Nay sire quod he but I wol seye as I kan,RIVERSIDE,SqPro_gui_complete.csv
+willen,wol,v%pr_1,05-1-ch 5,data/riverside_cats/SqPro_riv.cat,With hertly wyl for I wol nat rebelle,RIVERSIDE,SqPro_gui_complete.csv
+haven,have,v%imp,05-1-ch 7,data/riverside_cats/SqPro_riv.cat,Have me excused if I speke amys,RIVERSIDE,SqPro_gui_complete.csv
 durren,dar,v%pr_1,The Merchant's Prologue 1220,data/riverside_cats/MerPro_riv.cat,She wolde hym overmacche I dar wel swere,RIVERSIDE,MerPro_gui_complete.csv
 assaien,assaye,v%imp,The Merchant's Prologue 1229,data/riverside_cats/MerPro_riv.cat,Assaye whoso wole and he shal fynde,RIVERSIDE,MerPro_gui_complete.csv
 preien,pray,v%pr_1,The Merchant's Prologue 1242,data/riverside_cats/MerPro_riv.cat,Ful hertely I pray yow telle us part,RIVERSIDE,MerPro_gui_complete.csv
@@ -123,7 +132,6 @@ willen,wol,v%pr_pl,100-ch 667,data/riverside_cats/LGW_riverside_reordered.cat,Th
 mouen,may,v%pr_pl,100-ch 668,data/riverside_cats/LGW_riverside_reordered.cat,Here may ye sen of wemen which a trouthe,RIVERSIDE,LGW_gui_complete.csv
 willen,wol,v%pr_1,100-ch 694,data/riverside_cats/LGW_riverside_reordered.cat,I wol fulfille and that shal ben wel sene,RIVERSIDE,LGW_gui_complete.csv
 shulen,shal,v%pr_1,100-ch 743,data/riverside_cats/LGW_riverside_reordered.cat,Ye loveres two if that I shal nat lye,RIVERSIDE,LGW_gui_complete.csv
-ben,am,v%pr_1,100-ch 836,data/riverside_cats/LGW_riverside_reordered.cat,Whan I am he that have yow slayn allas,RIVERSIDE,LGW_gui_complete.csv
 gon,gon,v%inf,100-ch 838,data/riverside_cats/LGW_riverside_reordered.cat,Allas to bidde a woman gon by nyghte,RIVERSIDE,LGW_gui_complete.csv
 willen,wol,v%pr_1,100-ch 860,data/riverside_cats/LGW_riverside_reordered.cat,And thoughte I wol hym tellen of my drede,RIVERSIDE,LGW_gui_complete.csv
 ben,am,v%pr_1,100-ch 881,data/riverside_cats/LGW_riverside_reordered.cat,I am thy Tisbe that the calleth thus,RIVERSIDE,LGW_gui_complete.csv
@@ -238,7 +246,6 @@ shouven,shof,v%pt_3,100-ch 2412,data/riverside_cats/LGW_riverside_reordered.cat,
 haven,han,v%pr_pl,100-ch 2431,data/riverside_cats/LGW_riverside_reordered.cat,His wise folk to conseyl han hym yiven,RIVERSIDE,LGW_gui_complete.csv
 loken,loke,v%imp,100-ch 2433,data/riverside_cats/LGW_riverside_reordered.cat,And loke what his grace myghte been,RIVERSIDE,LGW_gui_complete.csv
 haven,han,v%pr_pl,100-ch 2459,data/riverside_cats/LGW_riverside_reordered.cat,Ye han wel herd of Theseus devyse,RIVERSIDE,LGW_gui_complete.csv
-sweren,sworn,v%ppl,100-ch 2476,data/riverside_cats/LGW_riverside_reordered.cat,And hath hire sworn he wolde nat sojorne,RIVERSIDE,LGW_gui_complete.csv
 lighten,lyghte,v%ppl,100-ch 2506,data/riverside_cats/LGW_riverside_reordered.cat,And foure tymes lyghte the world ageyn,RIVERSIDE,LGW_gui_complete.csv
 shulen,shal,v%pr_1,100-ch 2507,data/riverside_cats/LGW_riverside_reordered.cat,But for al that yif I shal soothly seyn,RIVERSIDE,LGW_gui_complete.csv
 witen,wot,v%pr_1,100-ch 2520,data/riverside_cats/LGW_riverside_reordered.cat,But I wot why ye come nat quod she,RIVERSIDE,LGW_gui_complete.csv
@@ -255,7 +262,6 @@ shulen,shal,v%pr_1,100-ch 2651,data/riverside_cats/LGW_riverside_reordered.cat,A
 willen,wol,v%pr_1,100-ch 2660,data/riverside_cats/LGW_riverside_reordered.cat,But which I noot wherfore I wol be siker,RIVERSIDE,LGW_gui_complete.csv
 shulen,shal,v%pr_pl,100-ch 2689,data/riverside_cats/LGW_riverside_reordered.cat,Allas and shal myne hondes blody be,RIVERSIDE,LGW_gui_complete.csv
 moten,mot,v%pr_1,100-ch 2698,data/riverside_cats/LGW_riverside_reordered.cat,Or he or I mot nedes lese oure lyf,RIVERSIDE,LGW_gui_complete.csv
-lepen,lep,v%pt_3,100-ch 2709,data/riverside_cats/LGW_riverside_reordered.cat,And at a wyndow lep he fro the lofte,RIVERSIDE,LGW_gui_complete.csv
 haven,han,v%pr_pl,The Friar's Prologue 1271,data/riverside_cats/FriPro_riv.cat,Ye han heer touched also moot I thee,RIVERSIDE,FriPro_gui_complete.csv
 haven,han,v%pr_pl,The Friar's Prologue 1273,data/riverside_cats/FriPro_riv.cat,Ye han seyd muche thyng right wel I seye,RIVERSIDE,FriPro_gui_complete.csv
 willen,wol,v%pr_1,The Friar's Prologue 1279,data/riverside_cats/FriPro_riv.cat,I wol yow of a somonour telle a game,RIVERSIDE,FriPro_gui_complete.csv
@@ -263,6 +269,29 @@ mouen,may,v%pr_pl,The Friar's Prologue 1280,data/riverside_cats/FriPro_riv.cat,P
 shulen,shal,v%pr_1,The Friar's Prologue 1292,data/riverside_cats/FriPro_riv.cat,By God I shal hym quiten every grot,RIVERSIDE,FriPro_gui_complete.csv
 shulen,shal,v%pr_1,The Friar's Prologue 1293,data/riverside_cats/FriPro_riv.cat,I shal hym tellen which a greet honour,RIVERSIDE,FriPro_gui_complete.csv
 shulen,shal,v%pr_1,The Friar's Prologue 1297,data/riverside_cats/FriPro_riv.cat,And his office I shal hym telle ywis,RIVERSIDE,FriPro_gui_complete.csv
+mouen,may,v%pr_1,Prologue to the Canon's Yeoman's Tale 595,data/riverside_cats/CYPro_riv.cat,Thy lord were wys and so I may wel deme,RIVERSIDE,CYPro_gui_complete.csv
+durren,dar,v%pr_1,Prologue to the Canon's Yeoman's Tale 611,data/riverside_cats/CYPro_riv.cat,For muchel good I dar leye in balaunce,RIVERSIDE,CYPro_gui_complete.csv
+preien,pray,v%pr_1,Prologue to the Canon's Yeoman's Tale 615,data/riverside_cats/CYPro_riv.cat,Wel quod oure Hoost I pray thee tel me than,RIVERSIDE,CYPro_gui_complete.csv
+tellen,telle,v%imp,Prologue to the Canon's Yeoman's Tale 616,data/riverside_cats/CYPro_riv.cat,Is he a clerk or noon Telle what he is,RIVERSIDE,CYPro_gui_complete.csv
+willen,wol,v%pr_1,Prologue to the Canon's Yeoman's Tale 619,data/riverside_cats/CYPro_riv.cat,Hoost of his craft somwhat I wol yow shewe,RIVERSIDE,CYPro_gui_complete.csv
+mouen,may,v%pr_pl,Prologue to the Canon's Yeoman's Tale 621,data/riverside_cats/CYPro_riv.cat,But al his craft ye may nat wite at me,RIVERSIDE,CYPro_gui_complete.csv
+tellen,telle,v%imp,Prologue to the Canon's Yeoman's Tale 639,data/riverside_cats/CYPro_riv.cat,Telle me that and that I thee biseche,RIVERSIDE,CYPro_gui_complete.csv
+willen,wol,v%pr_1,Prologue to the Canon's Yeoman's Tale 642,data/riverside_cats/CYPro_riv.cat,But I wol nat avowe that I seye,RIVERSIDE,CYPro_gui_complete.csv
+connen,kan,v%pr_1,Prologue to the Canon's Yeoman's Tale 651,data/riverside_cats/CYPro_riv.cat,God it amende I kan sey yow namoore,RIVERSIDE,CYPro_gui_complete.csv
+seien,sey,v%inf,Prologue to the Canon's Yeoman's Tale 651,data/riverside_cats/CYPro_riv.cat,God it amende I kan sey yow namoore,RIVERSIDE,CYPro_gui_complete.csv
+tellen,telle,v%imp,Prologue to the Canon's Yeoman's Tale 654,data/riverside_cats/CYPro_riv.cat,Telle how he dooth I pray thee hertely,RIVERSIDE,CYPro_gui_complete.csv
+preien,pray,v%pr_1,Prologue to the Canon's Yeoman's Tale 654,data/riverside_cats/CYPro_riv.cat,Telle how he dooth I pray thee hertely,RIVERSIDE,CYPro_gui_complete.csv
+durren,dar,v%pr_pl,Prologue to the Canon's Yeoman's Tale 661,data/riverside_cats/CYPro_riv.cat,As they that dar nat shewen hir presence,RIVERSIDE,CYPro_gui_complete.csv
+shulen,shal,v%pr_1,Prologue to the Canon's Yeoman's Tale 662,data/riverside_cats/CYPro_riv.cat,So faren we if I shal seye the sothe,RIVERSIDE,CYPro_gui_complete.csv
+ben,am,v%pr_1,Prologue to the Canon's Yeoman's Tale 666,data/riverside_cats/CYPro_riv.cat,I am so used in the fyr to blowe,RIVERSIDE,CYPro_gui_complete.csv
+ben,am,v%pr_1,Prologue to the Canon's Yeoman's Tale 668,data/riverside_cats/CYPro_riv.cat,I am nat wont in no mirour to prie,RIVERSIDE,CYPro_gui_complete.csv
+haven,han,v%pr_pl,Prologue to the Canon's Yeoman's Tale 678,data/riverside_cats/CYPro_riv.cat,Yet is it fals but ay we han good hope,RIVERSIDE,CYPro_gui_complete.csv
+recchen,rekke,v%imp,Prologue to the Canon's Yeoman's Tale 698,data/riverside_cats/CYPro_riv.cat,Of al his thretyng rekke nat a myte,RIVERSIDE,CYPro_gui_complete.csv
+don,do,v%pr_1,Prologue to the Canon's Yeoman's Tale 699,data/riverside_cats/CYPro_riv.cat,In feith quod he namoore I do but lyte,RIVERSIDE,CYPro_gui_complete.csv
+willen,wol,v%pr_1,Prologue to the Canon's Yeoman's Tale 718,data/riverside_cats/CYPro_riv.cat,Syn that my lord is goon I wol nat spare,RIVERSIDE,CYPro_gui_complete.csv
+willen,wol,v%pr_1,Prologue to the Canon's Yeoman's Tale 719,data/riverside_cats/CYPro_riv.cat,Swich thyng as that I knowe I wol declare,RIVERSIDE,CYPro_gui_complete.csv
+preien,pray,v%pr_1,04-5-ch 2420,data/riverside_cats/MerEpi_riv.cat,Now swich a wyf I pray God kepe me fro,RIVERSIDE,MerEpi_gui_complete.csv
+willen,wol,v%pr_pl,04-5-ch 2424,data/riverside_cats/MerEpi_riv.cat,And from the soothe evere wol they weyve,RIVERSIDE,MerEpi_gui_complete.csv
 preien,prey,v%pr_1,Troilus and Criseyde; Book II 16,data/riverside_cats/TC2_riv.cat,Of al this werk but prey yow mekely,RIVERSIDE,TC2_gui_complete.csv
 don,don,v%pr_pl,Troilus and Criseyde; Book II 39,data/riverside_cats/TC2_riv.cat,If that they ferde in love as men don here,RIVERSIDE,TC2_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book II 56,data/riverside_cats/TC2_riv.cat,As I shal synge on Mayes day the thrydde,RIVERSIDE,TC2_gui_complete.csv
@@ -457,7 +486,6 @@ seien,seyn,v%inf,The Canon's Yeoman's Tale 895,data/riverside_cats/CYT_riv.cat,A
 gon,go,v%pr_1,The Canon's Yeoman's Tale 898,data/riverside_cats/CYT_riv.cat,Passe over this I go my tale unto,RIVERSIDE,CYT_gui_complete.csv
 durren,dar,v%pr_1,The Canon's Yeoman's Tale 902,data/riverside_cats/CYT_riv.cat,Now he is goon I dar seyn boldely,RIVERSIDE,CYT_gui_complete.csv
 seien,seyn,v%inf,The Canon's Yeoman's Tale 902,data/riverside_cats/CYT_riv.cat,Now he is goon I dar seyn boldely,RIVERSIDE,CYT_gui_complete.csv
-seien,seyn,v%pr_pl,The Canon's Yeoman's Tale 903,data/riverside_cats/CYT_riv.cat,For as men seyn he kan doon craftily,RIVERSIDE,CYT_gui_complete.csv
 don,doon,v%inf,The Canon's Yeoman's Tale 903,data/riverside_cats/CYT_riv.cat,For as men seyn he kan doon craftily,RIVERSIDE,CYT_gui_complete.csv
 witen,woot,v%pr_1,The Canon's Yeoman's Tale 904,data/riverside_cats/CYT_riv.cat,Algate I woot wel he hath swich a name,RIVERSIDE,CYT_gui_complete.csv
 haven,han,v%pr_pl,The Canon's Yeoman's Tale 913,data/riverside_cats/CYT_riv.cat,Thus han we lost by tymes many a pound,RIVERSIDE,CYT_gui_complete.csv
@@ -679,6 +707,15 @@ kithen,kithe,v%imp,The Friar's Tale 1609,data/riverside_cats/FriT_riv.cat,Kithe 
 willen,wol,v%pr_1,The Friar's Tale 1614,data/riverside_cats/FriT_riv.cat,As I wol bere awey thy newe panne,RIVERSIDE,FriT_gui_complete.csv
 ben,be,v%imp,The Friar's Tale 1634,data/riverside_cats/FriT_riv.cat,Now brother quod the devel be nat wrooth,RIVERSIDE,FriT_gui_complete.csv
 haven,han,v%inf,The Friar's Tale 1645,data/riverside_cats/FriT_riv.cat,Lordynges I koude han toold yow quod this Frere,RIVERSIDE,FriT_gui_complete.csv
+preien,pray,v%pr_1,The Cook's Prologue 4335,data/riverside_cats/CkPro_riv.cat,I pray to God so yeve me sorwe and care,RIVERSIDE,CkPro_gui_complete.csv
+yeven,yeve,v%imp,The Cook's Prologue 4335,data/riverside_cats/CkPro_riv.cat,I pray to God so yeve me sorwe and care,RIVERSIDE,CkPro_gui_complete.csv
+hoten,highte,v%pt_1,The Cook's Prologue 4336,data/riverside_cats/CkPro_riv.cat,If evere sitthe I highte Hogge of Ware,RIVERSIDE,CkPro_gui_complete.csv
+vouchen_sauf,vouchesauf,v%pr_pl,The Cook's Prologue 4340,data/riverside_cats/CkPro_riv.cat,And therfore if ye vouchesauf to heere,RIVERSIDE,CkPro_gui_complete.csv
+willen,wol,v%pr_1,The Cook's Prologue 4342,data/riverside_cats/CkPro_riv.cat,I wol yow telle as wel as evere I kan,RIVERSIDE,CkPro_gui_complete.csv
+loken,looke,v%imp,The Cook's Prologue 4345,data/riverside_cats/CkPro_riv.cat,Now telle on Roger looke that it be good,RIVERSIDE,CkPro_gui_complete.csv
+preien,pray,v%pr_1,The Cook's Prologue 4354,data/riverside_cats/CkPro_riv.cat,But yet I pray thee be nat wroth for game,RIVERSIDE,CkPro_gui_complete.csv
+ben,be,v%imp,The Cook's Prologue 4354,data/riverside_cats/CkPro_riv.cat,But yet I pray thee be nat wroth for game,RIVERSIDE,CkPro_gui_complete.csv
+willen,wol,v%pr_1,The Cook's Prologue 4361,data/riverside_cats/CkPro_riv.cat,But nathelees I wol nat telle it yit,RIVERSIDE,CkPro_gui_complete.csv
 releven,releeve,v%imp,ABC 6,data/riverside_cats/ABC_riv.cat,Help and releeve thou mighti debonayre,RIVERSIDE,ABC_gui_complete.csv
 haven,have,v%imp,ABC 7,data/riverside_cats/ABC_riv.cat,Have mercy on my perilous langour,RIVERSIDE,ABC_gui_complete.csv
 witen,wot,v%pr_1,ABC 10,data/riverside_cats/ABC_riv.cat,That wel I wot thou wolt my socour bee,RIVERSIDE,ABC_gui_complete.csv
@@ -714,7 +751,6 @@ herien,herying,v%prp_abs,The Prioress' Tale 678,data/riverside_cats/PrT_riv.cat,
 haven,yhad,v%inf,The Wife of Bath's Prologue 17,data/riverside_cats/WBPro_riv.cat,Thou hast yhad fyve housbondes quod he,RIVERSIDE,WBPro_gui_complete.csv
 connen,kan,v%pr_1,The Wife of Bath's Prologue 20,data/riverside_cats/WBPro_riv.cat,What that he mente therby I kan nat seyn,RIVERSIDE,WBPro_gui_complete.csv
 mouen,may,v%pr_pl,The Wife of Bath's Prologue 26,data/riverside_cats/WBPro_riv.cat,Men may devyne and glosen up and doun,RIVERSIDE,WBPro_gui_complete.csv
-witen,woot,v%pr_1,The Wife of Bath's Prologue 30,data/riverside_cats/WBPro_riv.cat,Eek wel I woot he seyde myn housbonde,RIVERSIDE,WBPro_gui_complete.csv
 willen,wol,v%pr_1,The Wife of Bath's Prologue 46,data/riverside_cats/WBPro_riv.cat,For sothe I wol nat kepe me chaast in al,RIVERSIDE,WBPro_gui_complete.csv
 ben,am,v%pr_1,The Wife of Bath's Prologue 49,data/riverside_cats/WBPro_riv.cat,For thanne th apostle seith that I am free,RIVERSIDE,WBPro_gui_complete.csv
 witen,woot,v%pr_1,The Wife of Bath's Prologue 55,data/riverside_cats/WBPro_riv.cat,I woot wel Abraham was an hooly man,RIVERSIDE,WBPro_gui_complete.csv
@@ -757,7 +793,6 @@ don,do,v%pr_pl,The Wife of Bath's Prologue 438,data/riverside_cats/WBPro_riv.cat
 shulen,shal,v%pr_pl,The Wife of Bath's Prologue 438,data/riverside_cats/WBPro_riv.cat,And but ye do certein we shal yow teche,RIVERSIDE,WBPro_gui_complete.csv
 willen,wol,v%pr_1,The Wife of Bath's Prologue 449,data/riverside_cats/WBPro_riv.cat,But I wol kepe it for youre owene tooth,RIVERSIDE,WBPro_gui_complete.csv
 seien,sey,v%pr_1,The Wife of Bath's Prologue 450,data/riverside_cats/WBPro_riv.cat,Ye be to blame by God I sey yow sooth,RIVERSIDE,WBPro_gui_complete.csv
-seien,seyn,v%inf,The Wife of Bath's Prologue 454,data/riverside_cats/WBPro_riv.cat,This is to seyn he hadde a paramour,RIVERSIDE,WBPro_gui_complete.csv
 haven,han,v%inf,The Wife of Bath's Prologue 463,data/riverside_cats/WBPro_riv.cat,He sholde nat han daunted me fro drynke,RIVERSIDE,WBPro_gui_complete.csv
 connen,kan,v%pr_1,The Wife of Bath's Prologue 478,data/riverside_cats/WBPro_riv.cat,The bren as I best kan now moste I selle,RIVERSIDE,WBPro_gui_complete.csv
 haven,han,v%inf,The Wife of Bath's Prologue 510,data/riverside_cats/WBPro_riv.cat,Whan that he wolde han my bele chose,RIVERSIDE,WBPro_gui_complete.csv
@@ -971,7 +1006,6 @@ witen,woot,v%pr_1,Troilus and Criseyde; Book III 447,data/riverside_cats/TC3_riv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book III 511,data/riverside_cats/TC3_riv.cat,That it bifel right as I shal yow telle,RIVERSIDE,TC3_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book III 513,data/riverside_cats/TC3_riv.cat,Right for the fyn that I shal speke of here,RIVERSIDE,TC3_gui_complete.csv
 haven,han,v%pr_pl,Troilus and Criseyde; Book III 553,data/riverside_cats/TC3_riv.cat,Ye han wel herd the fyn of his entente,RIVERSIDE,TC3_gui_complete.csv
-comen,com,v%ppl,Troilus and Criseyde; Book III 554,data/riverside_cats/TC3_riv.cat,Whan he was com he gan anon to pleye,RIVERSIDE,TC3_gui_complete.csv
 don,don,v%inf,Troilus and Criseyde; Book III 558,data/riverside_cats/TC3_riv.cat,Ne lenger don hym after hire to cape,RIVERSIDE,TC3_gui_complete.csv
 shulen,shal,v%pr_pl,Troilus and Criseyde; Book III 564,data/riverside_cats/TC3_riv.cat,This moot be don Ye shal be ther anon,RIVERSIDE,TC3_gui_complete.csv
 haven,han,v%inf,Troilus and Criseyde; Book III 572,data/riverside_cats/TC3_riv.cat,Yow thurste nevere han the more fere,RIVERSIDE,TC3_gui_complete.csv
@@ -1030,7 +1064,6 @@ shulen,shal,v%pr_1,Troilus and Criseyde; Book III 1000,data/riverside_cats/TC3_r
 seien,seyn,v%inf,Troilus and Criseyde; Book III 1024,data/riverside_cats/TC3_riv.cat,To seyn right thus Ye jalousie is love,RIVERSIDE,TC3_gui_complete.csv
 willen,wol,v%pr_1,Troilus and Criseyde; Book III 1041,data/riverside_cats/TC3_riv.cat,I wol nought calle it but illusioun,RIVERSIDE,TC3_gui_complete.csv
 ben,am,v%pr_1,Troilus and Criseyde; Book III 1044,data/riverside_cats/TC3_riv.cat,Of which I am right sory but nought wroth,RIVERSIDE,TC3_gui_complete.csv
-seien,seyn,v%inf,Troilus and Criseyde; Book III 1081,data/riverside_cats/TC3_riv.cat,What myghte he seyn He felte he nas but deed,RIVERSIDE,TC3_gui_complete.csv
 willen,wol,v%pr_pl,Troilus and Criseyde; Book III 1104,data/riverside_cats/TC3_riv.cat,Yee nece wol ye pullen out the thorn,RIVERSIDE,TC3_gui_complete.csv
 ben,am,v%pr_1,Troilus and Criseyde; Book III 1110,data/riverside_cats/TC3_riv.cat,Iwys my deere herte I am nought wroth,RIVERSIDE,TC3_gui_complete.csv
 haven,have,v%imp,Troilus and Criseyde; Book III 1111,data/riverside_cats/TC3_riv.cat,Have here my trouthe and many an other oth,RIVERSIDE,TC3_gui_complete.csv
@@ -1256,7 +1289,6 @@ preien,pray,v%pr_1,The Reeve's Prologue 3910,data/riverside_cats/RvPro_riv.cat,I
 shulen,shal,v%pr_1,The Reeve's Prologue 3916,data/riverside_cats/RvPro_riv.cat,And by youre leve I shal hym quite anoon,RIVERSIDE,RvPro_gui_complete.csv
 preien,pray,v%pr_1,The Reeve's Prologue 3918,data/riverside_cats/RvPro_riv.cat,I pray to God his nekke mote tobreke,RIVERSIDE,RvPro_gui_complete.csv
 willen,wol,v%pr_1,Sir Thopas 713,data/riverside_cats/Thop_riv.cat,And I wol telle verrayment,RIVERSIDE,Thop_gui_complete.csv
-iberen,yborn,v%ppl,Sir Thopas 718,data/riverside_cats/Thop_riv.cat,Yborn he was in fer contree,RIVERSIDE,Thop_gui_complete.csv
 willen,wol,v%pr_1,Sir Thopas 835,data/riverside_cats/Thop_riv.cat,For now I wol yow rowne,RIVERSIDE,Thop_gui_complete.csv
 holden,holde,v%imp,Sir Thopas 891,data/riverside_cats/Thop_riv.cat,Now holde youre mouth par charitee,RIVERSIDE,Thop_gui_complete.csv
 willen,wol,v%pr_1,Sir Thopas 896,data/riverside_cats/Thop_riv.cat,Anon I wol yow telle,RIVERSIDE,Thop_gui_complete.csv
@@ -1617,7 +1649,6 @@ willen,wol,v%pr_1,The Miller's Tale 3284,data/riverside_cats/MilT_riv.cat,And se
 willen,wol,v%pr_1,The Miller's Tale 3286,data/riverside_cats/MilT_riv.cat,Or I wol crie out harrow and allas,RIVERSIDE,MilT_gui_complete.csv
 witen,woot,v%pr_1,The Miller's Tale 3296,data/riverside_cats/MilT_riv.cat,I woot right wel I nam but deed quod she,RIVERSIDE,MilT_gui_complete.csv
 caren,care,v%imp,The Miller's Tale 3298,data/riverside_cats/MilT_riv.cat,Nay therof care thee noght quod Nicholas,RIVERSIDE,MilT_gui_complete.csv
-seien,seyn,v%inf,The Miller's Tale 3337,data/riverside_cats/MilT_riv.cat,But sooth to seyn he was somdeel squaymous,RIVERSIDE,MilT_gui_complete.csv
 durren,dar,v%pr_1,The Miller's Tale 3346,data/riverside_cats/MilT_riv.cat,I dar wel seyn if she hadde been a mous,RIVERSIDE,MilT_gui_complete.csv
 willen,wol,v%pr_pl,The Miller's Tale 3370,data/riverside_cats/MilT_riv.cat,This passeth forth what wol ye bet than weel,RIVERSIDE,MilT_gui_complete.csv
 seien,seyn,v%pr_pl,The Miller's Tale 3392,data/riverside_cats/MilT_riv.cat,Men seyn right thus Alwey the nye slye,RIVERSIDE,MilT_gui_complete.csv
@@ -1729,7 +1760,6 @@ ben,am,v%pr_1,The Clerk's Tale 533,data/riverside_cats/ClT_riv.cat,This child I 
 haven,han,v%inf,The Clerk's Tale 536,data/riverside_cats/ClT_riv.cat,As though he wolde han slayn it er he wente,RIVERSIDE,ClT_gui_complete.csv
 haven,han,v%inf,The Clerk's Tale 544,data/riverside_cats/ClT_riv.cat,She wende he wolde han slawen it right tho,RIVERSIDE,ClT_gui_complete.csv
 shulen,shal,v%pr_1,The Clerk's Tale 555,data/riverside_cats/ClT_riv.cat,Fareweel my child I shal thee nevere see,RIVERSIDE,ClT_gui_complete.csv
-blessen,moote,v%ppl,The Clerk's Tale 557,data/riverside_cats/ClT_riv.cat,Of thilke Fader blessed moote he be,RIVERSIDE,ClT_gui_complete.csv
 haven,han,v%inf,The Clerk's Tale 563,data/riverside_cats/ClT_riv.cat,Wel myghte a mooder thanne han cryd allas,RIVERSIDE,ClT_gui_complete.csv
 haven,have,v%imp,The Clerk's Tale 567,data/riverside_cats/ClT_riv.cat,Have heer agayn youre litel yonge mayde,RIVERSIDE,ClT_gui_complete.csv
 preien,prey,v%pr_1,The Clerk's Tale 569,data/riverside_cats/ClT_riv.cat,But o thyng wol I prey yow of youre grace,RIVERSIDE,ClT_gui_complete.csv
@@ -1939,6 +1969,19 @@ mouen,may,v%pr_pl,The Knight's Tale 3043,data/riverside_cats/KnT_riv.cat,And tak
 willen,wol,v%pr_pl,The Knight's Tale 3074,data/riverside_cats/KnT_riv.cat,Ther wol we first amenden and bigynne,RIVERSIDE,KnT_gui_complete.csv
 lenen,lene,v%imp,The Knight's Tale 3082,data/riverside_cats/KnT_riv.cat,Lene me youre hond for this is oure accord,RIVERSIDE,KnT_gui_complete.csv
 hoten,highte,v%pt_3,The Knight's Tale 3095,data/riverside_cats/KnT_riv.cat,That highte matrimoigne or mariage,RIVERSIDE,KnT_gui_complete.csv
+tellen,telleth,v%pr_pl,The Miller's Prologue 3118,data/riverside_cats/MilPro_riv.cat,Now telleth ye sir Monk if that ye konne,RIVERSIDE,MilPro_gui_complete.csv
+willen,wol,v%pr_1,The Miller's Prologue 3127,data/riverside_cats/MilPro_riv.cat,With which I wol now quite the Knyghtes tale,RIVERSIDE,MilPro_gui_complete.csv
+willen,wol,v%pr_1,The Miller's Prologue 3132,data/riverside_cats/MilPro_riv.cat,By Goddes soule quod he that wol nat I,RIVERSIDE,MilPro_gui_complete.csv
+willen,wol,v%pr_1,The Miller's Prologue 3133,data/riverside_cats/MilPro_riv.cat,For I wol speke or elles go my wey,RIVERSIDE,MilPro_gui_complete.csv
+ben,am,v%pr_1,The Miller's Prologue 3138,data/riverside_cats/MilPro_riv.cat,That I am dronke I knowe it by my soun,RIVERSIDE,MilPro_gui_complete.csv
+willen,wol,v%pr_1,The Miller's Prologue 3141,data/riverside_cats/MilPro_riv.cat,For I wol telle a legende and a lyf,RIVERSIDE,MilPro_gui_complete.csv
+seien,sey,v%pr_1,The Miller's Prologue 3153,data/riverside_cats/MilPro_riv.cat,But I sey nat therfore that thou art oon,RIVERSIDE,MilPro_gui_complete.csv
+willen,wol,v%pr_1,The Miller's Prologue 3162,data/riverside_cats/MilPro_riv.cat,I wol bileve wel that I am noon,RIVERSIDE,MilPro_gui_complete.csv
+ben,am,v%pr_1,The Miller's Prologue 3162,data/riverside_cats/MilPro_riv.cat,I wol bileve wel that I am noon,RIVERSIDE,MilPro_gui_complete.csv
+seien,seyn,v%inf,The Miller's Prologue 3167,data/riverside_cats/MilPro_riv.cat,What sholde I moore seyn but this Millere,RIVERSIDE,MilPro_gui_complete.csv
+shulen,shal,v%pr_1,The Miller's Prologue 3170,data/riverside_cats/MilPro_riv.cat,M athynketh that I shal reherce it heere,RIVERSIDE,MilPro_gui_complete.csv
+moten,moot,v%pr_1,The Miller's Prologue 3173,data/riverside_cats/MilPro_riv.cat,Of yvel entente but for I moot reherce,RIVERSIDE,MilPro_gui_complete.csv
+shulen,shal,v%pr_pl,The Miller's Prologue 3186,data/riverside_cats/MilPro_riv.cat,And eek men shal nat maken ernest of game,RIVERSIDE,MilPro_gui_complete.csv
 witen,woot,v%pr_pl,Prologue to the Manciple's Tale 1,data/riverside_cats/MancPro_riv.cat,Woot ye nat where ther stant a litel toun,RIVERSIDE,MancPro_gui_complete.csv
 sen,see,v%imp,Prologue to the Manciple's Tale 9,data/riverside_cats/MancPro_riv.cat,See how he nappeth See how for cokkes bones,RIVERSIDE,MancPro_gui_complete.csv
 sen,see,v%imp,Prologue to the Manciple's Tale 9,data/riverside_cats/MancPro_riv.cat,See how he nappeth See how for cokkes bones,RIVERSIDE,MancPro_gui_complete.csv
@@ -1989,15 +2032,22 @@ taken,take,v%imp,The Physician's Tale 224,data/riverside_cats/PhyT_riv.cat,Take 
 haven,han,v%pr_pl,The Physician's Tale 230,data/riverside_cats/PhyT_riv.cat,Han herd nat nedeth for to telle it moore,RIVERSIDE,PhyT_gui_complete.csv
 shulen,shal,v%pr_1,The Physician's Tale 248,data/riverside_cats/PhyT_riv.cat,Blissed be God that I shal dye a mayde,RIVERSIDE,PhyT_gui_complete.csv
 mouen,may,v%pr_pl,The Physician's Tale 277,data/riverside_cats/PhyT_riv.cat,Heere may men seen how synne hath his merite,RIVERSIDE,PhyT_gui_complete.csv
+allouen,allow,v%pr_1,Prologue to the Franklin's Tale 676,data/riverside_cats/FranPro_riv.cat,So feelyngly thou spekest sire I allow the,RIVERSIDE,FranPro_gui_complete.csv
+preien,prey,v%pr_1,Prologue to the Franklin's Tale 700,data/riverside_cats/FranPro_riv.cat,I prey yow haveth me nat in desdeyn,RIVERSIDE,FranPro_gui_complete.csv
+willen,wol,v%pr_1,Prologue to the Franklin's Tale 705,data/riverside_cats/FranPro_riv.cat,I wol yow nat contrarien in no wyse,RIVERSIDE,FranPro_gui_complete.csv
+willen,wol,v%pr_pl,Prologue to the Franklin's Tale 706,data/riverside_cats/FranPro_riv.cat,As fer as that my wittes wol suffyse,RIVERSIDE,FranPro_gui_complete.csv
+preien,prey,v%pr_1,Prologue to the Franklin's Tale 707,data/riverside_cats/FranPro_riv.cat,I prey to God that it may plesen yow,RIVERSIDE,FranPro_gui_complete.csv
+shulen,shal,v%pr_1,Prologue to the Franklin's Tale 715,data/riverside_cats/FranPro_riv.cat,Which I shal seyn with good wyl as I kan,RIVERSIDE,FranPro_gui_complete.csv
+seien,seyn,v%inf,Prologue to the Franklin's Tale 715,data/riverside_cats/FranPro_riv.cat,Which I shal seyn with good wyl as I kan,RIVERSIDE,FranPro_gui_complete.csv
+haven,have,v%imp,Prologue to the Franklin's Tale 718,data/riverside_cats/FranPro_riv.cat,Have me excused of my rude speche,RIVERSIDE,FranPro_gui_complete.csv
+shulen,shul,v%pr_pl,Prologue to the Franklin's Tale 728,data/riverside_cats/FranPro_riv.cat,But if yow list my tale shul ye heere,RIVERSIDE,FranPro_gui_complete.csv
 beren,born,v%ppl,87,riverside_cats/01-1-ch.cat,And born hym weel as of so litel space,RIVERSIDE,GP_gui_complete.csv
 droupen,drouped,v%pt_pl,107,riverside_cats/01-1-ch.cat,His arwes drouped noght with fetheres lowe,RIVERSIDE,GP_gui_complete.csv
 wepen,wepte,v%pt_3,148,riverside_cats/01-1-ch.cat,But soore wepte she if oon of hem were deed,RIVERSIDE,GP_gui_complete.csv
 don,doon,v%pr_pl,270,riverside_cats/01-1-ch.cat,As doon the sterres in the frosty nyght,RIVERSIDE,GP_gui_complete.csv
 yeven,yaf,v%pt_pl,304,riverside_cats/01-1-ch.cat,Of hem that yaf hym wherwith to scoleye,RIVERSIDE,GP_gui_complete.csv
 gon,goon,v%inf,379,riverside_cats/01-1-ch.cat,And goon to vigilies al bifore,RIVERSIDE,GP_gui_complete.csv
-witen,woot,v%pr_1,391,riverside_cats/01-1-ch.cat,For aught I woot he was of Dertemouthe,RIVERSIDE,GP_gui_complete.csv
 hoten,highte,v%pt_3,618,riverside_cats/01-1-ch.cat,That was al pomely grey and highte Scot,RIVERSIDE,GP_gui_complete.csv
-witen,woot,v%pr_1,661,riverside_cats/01-1-ch.cat,But wel I woot he lyed right in dede,RIVERSIDE,GP_gui_complete.csv
 hoten,highte,v%pt_3,721,riverside_cats/01-1-ch.cat,That highte the Tabard faste by the Belle,RIVERSIDE,GP_gui_complete.csv
 preien,pray,v%pr_1,727,riverside_cats/01-1-ch.cat,But first I pray yow of youre curteisye,RIVERSIDE,GP_gui_complete.csv
 witen,woot,v%pr_pl,742,riverside_cats/01-1-ch.cat,And wel ye woot no vileynye is it,RIVERSIDE,GP_gui_complete.csv
@@ -2184,7 +2234,6 @@ trouen,trow,v%pr_1,Book of the Duchess 544,data/riverside_cats/BD_riv.cat,By our
 willen,wol,v%pr_pl,Book of the Duchess 546,data/riverside_cats/BD_riv.cat,But sir oo thyng wol ye here,RIVERSIDE,BD_gui_complete.csv
 willen,wol,v%pr_1,Book of the Duchess 554,data/riverside_cats/BD_riv.cat,I wol do al my power hool,RIVERSIDE,BD_gui_complete.csv
 assaien,assay,v%inf,Book of the Duchess 574,data/riverside_cats/BD_riv.cat,But whooso wol assay hymselve,RIVERSIDE,BD_gui_complete.csv
-seien,seyn,v%inf,Book of the Duchess 596,data/riverside_cats/BD_riv.cat,May seyn he hath met with sorwe,RIVERSIDE,BD_gui_complete.csv
 ben,am,v%pr_1,Book of the Duchess 597,data/riverside_cats/BD_riv.cat,For y am sorwe and sorwe ys y,RIVERSIDE,BD_gui_complete.csv
 willen,wol,v%pr_1,Book of the Duchess 598,data/riverside_cats/BD_riv.cat,Allas and I wol tel the why,RIVERSIDE,BD_gui_complete.csv
 tellen,tel,v%inf,Book of the Duchess 598,data/riverside_cats/BD_riv.cat,Allas and I wol tel the why,RIVERSIDE,BD_gui_complete.csv
@@ -2245,6 +2294,35 @@ ginnen,gan,v%pt_pl,Book of the Duchess 1312,data/riverside_cats/BD_riv.cat,They 
 willen,wol,v%pr_1,Book of the Duchess 1331,data/riverside_cats/BD_riv.cat,That I wol be processe of tyme,RIVERSIDE,BD_gui_complete.csv
 putten,put,v%inf,Book of the Duchess 1332,data/riverside_cats/BD_riv.cat,Fonde to put this sweven in ryme,RIVERSIDE,BD_gui_complete.csv
 connen,kan,v%pr_1,Book of the Duchess 1333,data/riverside_cats/BD_riv.cat,As I kan best and that anoon,RIVERSIDE,BD_gui_complete.csv
+mouen,may,v%pr_pl,The Pardoner's Prologue 294,data/riverside_cats/PardPro_riv.cat,Wherfore I seye al day that men may see,RIVERSIDE,PardPro_gui_complete.csv
+durren,dar,v%pr_1,The Pardoner's Prologue 297,data/riverside_cats/PardPro_riv.cat,Hire beautee was hire deth I dar wel sayn,RIVERSIDE,PardPro_gui_complete.csv
+haven,han,v%pr_pl,The Pardoner's Prologue 300,data/riverside_cats/PardPro_riv.cat,Men han ful ofte moore for harm than prow,RIVERSIDE,PardPro_gui_complete.csv
+preien,pray,v%pr_1,The Pardoner's Prologue 304,data/riverside_cats/PardPro_riv.cat,I pray to God so save thy gentil cors,RIVERSIDE,PardPro_gui_complete.csv
+connen,kan,v%pr_1,The Pardoner's Prologue 311,data/riverside_cats/PardPro_riv.cat,Seyde I nat wel I kan nat speke in terme,RIVERSIDE,PardPro_gui_complete.csv
+witen,woot,v%pr_1,The Pardoner's Prologue 312,data/riverside_cats/PardPro_riv.cat,But wel I woot thou doost myn herte to erme,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 322,data/riverside_cats/PardPro_riv.cat,I wol bothe drynke and eten of a cake,RIVERSIDE,PardPro_gui_complete.csv
+mouen,may,v%pr_pl,The Pardoner's Prologue 325,data/riverside_cats/PardPro_riv.cat,Telle us som moral thyng that we may leere,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_pl,The Pardoner's Prologue 326,data/riverside_cats/PardPro_riv.cat,Som wit and thanne wol we gladly heere,RIVERSIDE,PardPro_gui_complete.csv
+moten,moot,v%pr_1,The Pardoner's Prologue 327,data/riverside_cats/PardPro_riv.cat,I graunte ywis quod he but I moot thynke,RIVERSIDE,PardPro_gui_complete.csv
+safrounen,saffron,v%inf,The Pardoner's Prologue 345,data/riverside_cats/PardPro_riv.cat,To saffron with my predicacioun,RIVERSIDE,PardPro_gui_complete.csv
+mouen,may,v%pr_pl,The Pardoner's Prologue 372,data/riverside_cats/PardPro_riv.cat,Heere is a miteyn eek that ye may se,RIVERSIDE,PardPro_gui_complete.csv
+haven,han,v%pr_pl,The Pardoner's Prologue 393,data/riverside_cats/PardPro_riv.cat,I preche so as ye han herd bifoore,RIVERSIDE,PardPro_gui_complete.csv
+gon,goon,v%pr_pl,The Pardoner's Prologue 398,data/riverside_cats/PardPro_riv.cat,Myne handes and my tonge goon so yerne,RIVERSIDE,PardPro_gui_complete.csv
+durren,dar,v%pr_1,The Pardoner's Prologue 412,data/riverside_cats/PardPro_riv.cat,For whan I dar noon oother weyes debate,RIVERSIDE,PardPro_gui_complete.csv
+shulen,shal,v%pr_pl,The Pardoner's Prologue 418,data/riverside_cats/PardPro_riv.cat,Men shal wel knowe that it is the same,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 423,data/riverside_cats/PardPro_riv.cat,But shortly myn entente I wol devyse,RIVERSIDE,PardPro_gui_complete.csv
+connen,kan,v%pr_pl,The Pardoner's Prologue 438,data/riverside_cats/PardPro_riv.cat,Swiche thynges kan they wel reporte and holde,RIVERSIDE,PardPro_gui_complete.csv
+mouen,may,v%pr_1,The Pardoner's Prologue 439,data/riverside_cats/PardPro_riv.cat,What trowe ye that whiles I may preche,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 441,data/riverside_cats/PardPro_riv.cat,That I wol lyve in poverte wilfully,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 443,data/riverside_cats/PardPro_riv.cat,For I wol preche and begge in sondry landes,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 444,data/riverside_cats/PardPro_riv.cat,I wol nat do no labour with myne handes,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 446,data/riverside_cats/PardPro_riv.cat,By cause I wol nat beggen ydelly,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 447,data/riverside_cats/PardPro_riv.cat,I wol noon of the apostles countrefete,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 452,data/riverside_cats/PardPro_riv.cat,Nay I wol drynke licour of the vyne,RIVERSIDE,PardPro_gui_complete.csv
+shulen,shal,v%pr_1,The Pardoner's Prologue 455,data/riverside_cats/PardPro_riv.cat,Youre likyng is that I shal telle a tale,RIVERSIDE,PardPro_gui_complete.csv
+shulen,shal,v%pr_1,The Pardoner's Prologue 457,data/riverside_cats/PardPro_riv.cat,By God I hope I shal yow telle a thyng,RIVERSIDE,PardPro_gui_complete.csv
+ben,am,v%pr_1,The Pardoner's Prologue 461,data/riverside_cats/PardPro_riv.cat,Which I am wont to preche for to wynne,RIVERSIDE,PardPro_gui_complete.csv
+willen,wol,v%pr_1,The Pardoner's Prologue 462,data/riverside_cats/PardPro_riv.cat,Now hoold youre pees My tale I wol bigynne,RIVERSIDE,PardPro_gui_complete.csv
 speden,spede,v%imp,The Summoner's Tale 1732,data/riverside_cats/SumT_riv.cat,Now spede yow hastily for Cristes sake,RIVERSIDE,SumT_gui_complete.csv
 mouen,may,v%pr_pl,The Summoner's Tale 1748,data/riverside_cats/SumT_riv.cat,Or elles what yow lyst we may nat cheese,RIVERSIDE,SumT_gui_complete.csv
 yeven,yaf,v%pt_pl,The Summoner's Tale 1756,data/riverside_cats/SumT_riv.cat,And what men yaf hem leyde it on his bak,RIVERSIDE,SumT_gui_complete.csv
@@ -2452,7 +2530,6 @@ haven,han,v%inf,Troilus and Criseyde; Book V 68,data/riverside_cats/TC5_riv.cat,
 gon,gon,v%inf,Troilus and Criseyde; Book V 69,data/riverside_cats/TC5_riv.cat,Ful fayn and wo was hym to gon so sone,RIVERSIDE,TC5_gui_complete.csv
 holden,holde,v%imp,Troilus and Criseyde; Book V 84,data/riverside_cats/TC5_riv.cat,Now holde youre day and do me nat to deye,RIVERSIDE,TC5_gui_complete.csv
 mouen,may,v%pr_1,Troilus and Criseyde; Book V 95,data/riverside_cats/TC5_riv.cat,If that I may for somwhat shal I seye,RIVERSIDE,TC5_gui_complete.csv
-thinken,thoughte,v%pt_2,Troilus and Criseyde; Book V 99,data/riverside_cats/TC5_riv.cat,But natheles this thoughte he wel ynough,RIVERSIDE,TC5_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book V 104,data/riverside_cats/TC5_riv.cat,So soon awey but I shal fynde a meene,RIVERSIDE,TC5_gui_complete.csv
 witen,woot,v%pr_1,Troilus and Criseyde; Book V 120,data/riverside_cats/TC5_riv.cat,He seyde ek thus I woot yow thynketh straunge,RIVERSIDE,TC5_gui_complete.csv
 preien,pray,v%pr_1,Troilus and Criseyde; Book V 131,data/riverside_cats/TC5_riv.cat,So fro this forth I pray yow day and nyght,RIVERSIDE,TC5_gui_complete.csv
@@ -2520,11 +2597,8 @@ comen,come,v%pt_1,Troilus and Criseyde; Book V 745,data/riverside_cats/TC5_riv.c
 shulen,shal,v%pr_1,Troilus and Criseyde; Book V 751,data/riverside_cats/TC5_riv.cat,I shal tomorwe at nyght by est or west,RIVERSIDE,TC5_gui_complete.csv
 gon,gon,v%inf,Troilus and Criseyde; Book V 753,data/riverside_cats/TC5_riv.cat,And gon with Troilus where as hym lest,RIVERSIDE,TC5_gui_complete.csv
 haven,han,v%pr_pl,Troilus and Criseyde; Book V 756,data/riverside_cats/TC5_riv.cat,For evere on love han wrecches had envye,RIVERSIDE,TC5_gui_complete.csv
-assaien,asay,v%inf,Troilus and Criseyde; Book V 783,data/riverside_cats/TC5_riv.cat,But for t asay he seyde it naught n agreveth,RIVERSIDE,TC5_gui_complete.csv
 mouen,may,v%pr_1,Troilus and Criseyde; Book V 789,data/riverside_cats/TC5_riv.cat,I may wel wite it nyl nat ben my prow,RIVERSIDE,TC5_gui_complete.csv
-seien,seyn,v%inf,Troilus and Criseyde; Book V 794,data/riverside_cats/TC5_riv.cat,He myghte seyn he were a conquerour,RIVERSIDE,TC5_gui_complete.csv
 shulen,shal,v%pr_1,Troilus and Criseyde; Book V 798,data/riverside_cats/TC5_riv.cat,I shal namore lesen but my speche,RIVERSIDE,TC5_gui_complete.csv
-seien,seyn,v%pr_pl,Troilus and Criseyde; Book V 804,data/riverside_cats/TC5_riv.cat,And som men seyn he was of tonge large,RIVERSIDE,TC5_gui_complete.csv
 gon,gon,v%inf,Troilus and Criseyde; Book V 810,data/riverside_cats/TC5_riv.cat,To gon ytressed with hire heres clere,RIVERSIDE,TC5_gui_complete.csv
 connen,kan,v%pr_1,Troilus and Criseyde; Book V 826,data/riverside_cats/TC5_riv.cat,But trewely I kan nat telle hire age,RIVERSIDE,TC5_gui_complete.csv
 don,don,v%inf,Troilus and Criseyde; Book V 837,data/riverside_cats/TC5_riv.cat,In durryng don that longeth to a knyght,RIVERSIDE,TC5_gui_complete.csv
@@ -2618,7 +2692,6 @@ slen,slayn,v%ppl,Troilus and Criseyde; Book V 1505,data/riverside_cats/TC5_riv.c
 gon,gon,v%inf,Troilus and Criseyde; Book V 1532,data/riverside_cats/TC5_riv.cat,She ches for hym to dye and gon to helle,RIVERSIDE,TC5_gui_complete.csv
 shulen,shal,v%pr_pl,Troilus and Criseyde; Book V 1544,data/riverside_cats/TC5_riv.cat,Of heighe Jove as regnes shal be flitted,RIVERSIDE,TC5_gui_complete.csv
 shulen,shal,v%pr_pl,Troilus and Criseyde; Book V 1545,data/riverside_cats/TC5_riv.cat,Fro folk in folk or when they shal be smytted,RIVERSIDE,TC5_gui_complete.csv
-don,don,v%pr_pl,Troilus and Criseyde; Book V 1572,data/riverside_cats/TC5_riv.cat,And as thise lovers don he soughte ay newe,RIVERSIDE,TC5_gui_complete.csv
 mouen,may,v%pr_pl,Troilus and Criseyde; Book V 1589,data/riverside_cats/TC5_riv.cat,Wrot hym ayeyn and seyde as ye may here,RIVERSIDE,TC5_gui_complete.csv
 sen,seyn,v%ppl,Troilus and Criseyde; Book V 1599,data/riverside_cats/TC5_riv.cat,I have ek seyn with teris al depeynted,RIVERSIDE,TC5_gui_complete.csv
 haven,han,v%pr_pl,Troilus and Criseyde; Book V 1612,data/riverside_cats/TC5_riv.cat,Touchyng us two how thynges han ystonde,RIVERSIDE,TC5_gui_complete.csv
@@ -2739,7 +2812,6 @@ seien,sey,v%pr_1,The Pardoner's Tale 684,data/riverside_cats/PardT_riv.cat,Thus 
 slen,slayn,v%ppl,The Pardoner's Tale 686,data/riverside_cats/PardT_riv.cat,The child seith sooth for he hath slayn this yeer,RIVERSIDE,PardT_gui_complete.csv
 shulen,shal,v%pr_1,The Pardoner's Tale 694,data/riverside_cats/PardT_riv.cat,I shal hym seke by wey and eek by strete,RIVERSIDE,PardT_gui_complete.csv
 willen,wol,v%pr_pl,The Pardoner's Tale 699,data/riverside_cats/PardT_riv.cat,And we wol sleen this false traytour Deeth,RIVERSIDE,PardT_gui_complete.csv
-slen,slayn,v%ppl,The Pardoner's Tale 700,data/riverside_cats/PardT_riv.cat,He shal be slayn he that so manye sleeth,RIVERSIDE,PardT_gui_complete.csv
 haven,han,v%pr_pl,The Pardoner's Tale 702,data/riverside_cats/PardT_riv.cat,Togidres han thise thre hir trouthes plight,RIVERSIDE,PardT_gui_complete.csv
 gon,goon,v%pr_pl,The Pardoner's Tale 706,data/riverside_cats/PardT_riv.cat,And forth they goon towardes that village,RIVERSIDE,PardT_gui_complete.csv
 haven,han,v%pr_pl,The Pardoner's Tale 708,data/riverside_cats/PardT_riv.cat,And many a grisly ooth thanne han they sworn,RIVERSIDE,PardT_gui_complete.csv
@@ -2895,6 +2967,8 @@ ben,am,v%pr_1,The Nun's Priest's Tale 3411,data/riverside_cats/NPT_riv.cat,Now I
 willen,wol,v%pr_1,The Nun's Priest's Tale 3413,data/riverside_cats/NPT_riv.cat,I wol hym ete in feith and that anon,RIVERSIDE,NPT_gui_complete.csv
 shulen,shal,v%pr_1,The Nun's Priest's Tale 3424,data/riverside_cats/NPT_riv.cat,Com doun and I shal telle yow what I mente,RIVERSIDE,NPT_gui_complete.csv
 shulen,shal,v%pr_1,The Nun's Priest's Tale 3425,data/riverside_cats/NPT_riv.cat,I shal seye sooth to yow God help me so,RIVERSIDE,NPT_gui_complete.csv
+willen,wol,v%pr_1,The Prioress' Prologue 463,data/riverside_cats/PrPro_riv.cat,To telle a storie I wol do my labour,RIVERSIDE,PrPro_gui_complete.csv
+mouen,may,v%pr_1,The Prioress' Prologue 483,data/riverside_cats/PrPro_riv.cat,That I ne may the weighte nat susteene,RIVERSIDE,PrPro_gui_complete.csv
 haven,han,v%pr_pl,The Summoner's Prologue 1670,data/riverside_cats/SumPro_riv.cat,Syn ye han herd this false Frere lye,RIVERSIDE,SumPro_gui_complete.csv
 mouen,may,v%pr_1,The Summoner's Prologue 1671,data/riverside_cats/SumPro_riv.cat,As suffreth me I may my tale telle,RIVERSIDE,SumPro_gui_complete.csv
 haven,han,v%pr_pl,The Summoner's Prologue 1683,data/riverside_cats/SumPro_riv.cat,Now sire quod he han freres swich a grace,RIVERSIDE,SumPro_gui_complete.csv
@@ -2923,7 +2997,6 @@ haven,han,v%pr_pl,Troilus and Criseyde; Book I 248,data/riverside_cats/TC1_riv.c
 haven,han,v%pr_pl,Troilus and Criseyde; Book I 249,data/riverside_cats/TC1_riv.cat,With love han ben comforted moost and esed,RIVERSIDE,TC1_gui_complete.csv
 willen,wol,v%pr_1,Troilus and Criseyde; Book I 266,data/riverside_cats/TC1_riv.cat,For I it gan I wol therto refere,RIVERSIDE,TC1_gui_complete.csv
 taken,take,v%imp,Troilus and Criseyde; Book I 344,data/riverside_cats/TC1_riv.cat,But take this that ye loveres ofte eschuwe,RIVERSIDE,TC1_gui_complete.csv
-don,doon,v%inf,Troilus and Criseyde; Book I 356,data/riverside_cats/TC1_riv.cat,For wo was hym that what to doon he nyste,RIVERSIDE,TC1_gui_complete.csv
 gon,gon,v%inf,Troilus and Criseyde; Book I 357,data/riverside_cats/TC1_riv.cat,But bad his folk to gon wher that hem liste,RIVERSIDE,TC1_gui_complete.csv
 remembren,remembryng,v%prp_abs,Troilus and Criseyde; Book I 384,data/riverside_cats/TC1_riv.cat,Remembryng hym that love to wide yblowe,RIVERSIDE,TC1_gui_complete.csv
 haven,han,v%pr_pl,Troilus and Criseyde; Book I 424,data/riverside_cats/TC1_riv.cat,Yow thanke I lord that han me brought to this,RIVERSIDE,TC1_gui_complete.csv
@@ -2959,9 +3032,7 @@ don,don,v%pr_pl,Troilus and Criseyde; Book I 705,data/riverside_cats/TC1_riv.cat
 haven,han,v%pr_pl,Troilus and Criseyde; Book I 706,data/riverside_cats/TC1_riv.cat,With sorwe whan thei han mysaventure,RIVERSIDE,TC1_gui_complete.csv
 seien,seyn,v%pr_pl,Troilus and Criseyde; Book I 708,data/riverside_cats/TC1_riv.cat,Men seyn to wrecche is consolacioun,RIVERSIDE,TC1_gui_complete.csv
 connen,kan,v%pr_1,Troilus and Criseyde; Book I 718,data/riverside_cats/TC1_riv.cat,As I best kan gon sithen longe while,RIVERSIDE,TC1_gui_complete.csv
-ben,am,v%pr_1,Troilus and Criseyde; Book I 720,data/riverside_cats/TC1_riv.cat,And sith I am he that thow trustest moost,RIVERSIDE,TC1_gui_complete.csv
 awaken,awake,v%imp,Troilus and Criseyde; Book I 729,data/riverside_cats/TC1_riv.cat,And cryde Awake ful wonderlich and sharpe,RIVERSIDE,TC1_gui_complete.csv
-awaken,awake,v%imp,Troilus and Criseyde; Book I 751,data/riverside_cats/TC1_riv.cat,Awake he gan to syken wonder soore,RIVERSIDE,TC1_gui_complete.csv
 ben,am,v%pr_1,Troilus and Criseyde; Book I 753,data/riverside_cats/TC1_riv.cat,I am nat deef Now pees and crye namore,RIVERSIDE,TC1_gui_complete.csv
 crien,crye,v%imp,Troilus and Criseyde; Book I 753,data/riverside_cats/TC1_riv.cat,I am nat deef Now pees and crye namore,RIVERSIDE,TC1_gui_complete.csv
 sufferen,suffre,v%imp,Troilus and Criseyde; Book I 755,data/riverside_cats/TC1_riv.cat,But suffre me my meschief to bywaille,RIVERSIDE,TC1_gui_complete.csv

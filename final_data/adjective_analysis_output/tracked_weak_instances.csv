@@ -1,0 +1,30 @@
+headword,word,has_e,prev_tag,prev_word,line_number,filename,context
+west,west,False,prep,of,The Clerk's Prologue 46,data/oxford_txts/ClPro_oxford.txt,That been the boundes of West Lumbardie
+right,right,False,pron%gen,his,100-ch 942,data/oxford_txts/LGW_oxford.txt,"That was his sone,° in his right hand, and fledde;"
+right,righte,True,pron%gen,my,100-ch 1620,data/oxford_txts/LGW_oxford.txt,"¶“My righte° lady,” quod this Jasoun tho"
+right,righte,True,def_art,the,100-ch 2029,data/oxford_txts/LGW_oxford.txt,"“The righte° lady of my lif,” quod° he"
+right,righte,True,pron%gen,my,100-ch 2628,data/oxford_txts/LGW_oxford.txt,"“My righte° doghter, tresor° of min herte!"
+right,righte,True,def_art,the,Troilus and Criseyde; Book II 851,data/oxford_txts/TC2_oxford.txt,This is the righte lif that I am inne
+right,right,False,pron%gen,his,Troilus and Criseyde; Book II 1065,data/oxford_txts/TC2_oxford.txt,First he gan hir his right lady calle
+north,north,False,def_art,the,The Friar's Tale 1413,data/oxford_txts/FriT_oxford.txt,"‘Brother,’ quod he, ‘fer in the north contree"
+right,righte,True,pron%gen,his,Troilus and Criseyde; Book III 1663,data/oxford_txts/TC3_oxford.txt,The bountee of his righte lady dere
+right,righte,True,pron%gen,my,The Franklin's Tale 1311,data/oxford_txts/FranT_oxford.txt,"¶“My righte° lady,” quod this woful man"
+right,righte,True,pron%gen,thy,Troilus and Criseyde; Book IV 308,data/oxford_txts/TC4_oxford.txt,Thy righte place is now no lenger here!
+west,west,False,def_art,the,The Clerk's Tale 57,data/oxford_txts/ClT_oxford.txt,"Ther is, at the west side of Itaille"
+right,righte,True,def_art,the,The Clerk's Tale 273,data/oxford_txts/ClT_oxford.txt,In this array the righte wey han holde.
+west,west,False,gram_adj,al,The Clerk's Tale 945,data/oxford_txts/ClT_oxford.txt,So noble array in al West Lumbardie.
+right,righte,True,def_art,the,The Knight's Tale 1263,data/oxford_txts/KnT_oxford.txt,But he noot° which the righte wey is thider;
+right,right,False,pron%fem_gen,hir,The Knight's Tale 1959,data/oxford_txts/KnT_oxford.txt,A citole° in hir right hand hadde she
+right,righte,True,def_art,the,The Knight's Tale 2739,data/oxford_txts/KnT_oxford.txt,And hoom wente every man the righte way.
+right,right,False,def_art,the,The Knight's Tale 2905,data/oxford_txts/KnT_oxford.txt,Upon the right hond wente old Egeus
+lift,left,False,def_art,the,The Knight's Tale 2953,data/oxford_txts/KnT_oxford.txt,"Upon the left hand, with a loud shoutinge"
+right,righte,True,def_art,the,The Man of Law's Tale 556,data/oxford_txts/MLT_oxford.txt,And Custance han ytake the righte way
+right,righte,True,def_art,the,The Man of Law's Tale 1130,data/oxford_txts/MLT_oxford.txt,To Engelond been they come the righte wey
+right,right,False,pron%pl_gen,your,House of Fame 322,data/oxford_txts/HF_oxford.txt,That ye han sworn with your right honde
+right,right,False,pron%gen,my,House of Fame 1294,data/oxford_txts/HF_oxford.txt,The castel-yate° on my right hond
+right,righte,True,pron%gen,my,Troilus and Criseyde; Book V 232,data/oxford_txts/TC5_oxford.txt,"“Who seeth yow now, my righte lodesterre?"
+right,righte,True,pron%gen,my,Troilus and Criseyde; Book V 567,data/oxford_txts/TC5_oxford.txt,Me caughte first my righte lady dere.
+right,righte,True,pron%gen,my,Troilus and Criseyde; Book V 653,data/oxford_txts/TC5_oxford.txt,Whan hennes rood my righte lady dere
+right,righte,True,pron%gen,my,Troilus and Criseyde; Book V 1392,data/oxford_txts/TC5_oxford.txt,"For love of God, my righte lodesterre"
+west,west,False,def_art,the,The Nun's Priest's Tale 3017,data/oxford_txts/NPT_oxford.txt,"And at the west gate of the toun,’ quod he"
+west,west,False,def_art,the,The Nun's Priest's Tale 3035,data/oxford_txts/NPT_oxford.txt,"Unto the west gate of the toun, and fond"

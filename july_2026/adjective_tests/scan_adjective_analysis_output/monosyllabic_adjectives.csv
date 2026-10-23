@@ -9,7 +9,7 @@ smal,smal; smale; small; smalle,smal; smale; small; smalle,No
 long,lange; long; longe,lange; lengest; long; longe,No
 riche,riche,riche; richest,Yes
 wise,wis; wise,wis; wise; wiser; wisest,No
-more,more,moor; moore; mor; more,Yes
+more,more,moor; mor; more,Yes
 worth,worth; worthe,worth; worthe,No
 ouen,awen; owen; owene; own; owne,awen; owen; owene; own; owne,No
 noble,noble,noble; nobleste,Yes
@@ -36,8 +36,9 @@ lef,leef; lefe; leve; lief,leef; lefe; leve; lever; levere; levest; lief,No
 werste,,worst; worste,No
 nexte,,next; nexte,No
 foul,foul; foule,foul; foule; fouler,No
-treu,trew; trewe,trew; trewe; trewer; trewest; treweste,No
-mek,meek; meke,meek; meke; meker; mekeste,No
+treu,trew; trewe,trew; trewe; trewest; treweste,No
+queinte,queint; queinte,queint; queinte,No
+mek,meek; meke,meek; meke; mekeste,No
 straunge,estraunge; strange; straunge,estraunge; strange; straunge; straunger,Yes
 graunt,grant; graunt,grant; graunt,No
 fain,fain; faine; fawe; fein,fain; faine; fawe; fein,No
@@ -48,7 +49,7 @@ tough,tough,tough,No
 laste,last,last; laste,No
 wroth,wrooth; wroothe; wroth; wrothe,wrooth; wroothe; wroth; wrothe,No
 loth,looth; loothe; lothest,looth; loothe; lothest,No
-fals,fals; false,fals; false; falser,No
+fals,fals; false,fals; false,No
 bel,bel; bele,bel; bele,No
 ofte,ofte,ofte,Yes
 large,large,large,Yes
@@ -70,105 +71,85 @@ loue,low; lowe,low; lowe; lower,No
 humble,humble,humble,Yes
 wod,wode; wood; woode,wode; wood; woode,No
 fresh,fresh; fresshe,fresh; fresshe; fressher; fresshest; fressheste,No
-stoute,stout; stoute,stout; stoute,No
-blithe,blithe,blithe,Yes
-purpure,purpre,purpre,Yes
-hard,hard; harde; harder,hard; harde; harder; hardest,No
-hot,hoot; hote,hoot; hote; hotter; hottere,No
-narwe,narwe,narwe,Yes
-lite,lite,lite,Yes
-sote,sote; swote,sote; swote,Yes
-cold,cold; colde,cold; colde,No
-wet,weet; wete,weet; wete,No
-brod,brode; brood,brodder; brode; brood,No
-wilde,wilde,wilde,Yes
-slou,slow; slowe,slow; slowe,No
-hevi,hevy,hevy,No
-warm,warm; warme,warm; warme,No
-deinte,deintee,deintee,Yes
-kinde,kinde,kinde; kindest,Yes
-chef,cheef; chief,cheef; chief,No
-right,right; righte,right; righte,No
-salt,salte,salte,Yes
-bright,bright; brighte,bright; brighte; brighter; brightest,No
-wel,weel; wel; wele,weel; wel; wele,No
-real,real; royal; ryal,real; royal; ryal,No
-mete,mete,mete,Yes
-fremed,fremd; fremde; fremed,fremd; fremde; fremed,No
-lik,lik; like,lik; like; liker,No
-soth,sooth; soth; sothe,sooth; soth; sothe,No
-kene,kene,kene,Yes
-huge,huge,huge,Yes
-sik,seek; seke; sik; sike,seek; seke; sik; sike,No
-dep,deep; depe,deep; depe,No
-prive,prevy; priv; prive; privee; privy,prevy; priv; prive; privee; privy,No
-whit,whit; white,whit; white; whitter,No
-sleigh,sleigh; slie; sly; slye,sleigh; slie; sly; slye,No
-tender,tender; tendre,tender; tendre,No
-fer,fer; ferre,fer; ferre; ferreste,No
-strong,strong; stronge,strong; stronge; strongest,No
-shene,shene,shene,Yes
-sad,sad; sadde,sad; sadde,No
-chaste,chaast; chast; chaste,chaast; chast; chaste,No
-smert,smart; smerte,smart; smerte,No
-sounde,sound; sounde,sound; sounde,No
-sterne,sterne,sterne,Yes
-light,light; lighte,light; lighte; lighter,No
-digne,digne,digne,Yes
-blind,blind; blinde,blind; blinde,No
-sharp,sharp; sharpe,sharp; sharpe,No
-cler,cleer; clere,cleer; clere; clerer,No
-quite,quit,quit,No
-queinte,queint; queinte,queint; queinte,No
-holwe,holwe,holwe,Yes
-domb,domb; dombe; doumb,domb; dombe; doumb,No
-short,short; shorte,short; shorte; shortest,No
-feble,feble,feble,Yes
-badde,badde,badde; badder,Yes
-plaine,plain; plein; pleine,plain; plein; pleine,No
-sobre,sober; sobre,sober; sobre,No
-bet,,bet,No
-swifte,swift; swifte,swift; swifte; swifter,No
-weik,waik; waike; weik,waik; waike; weik,No
 hende,hende,hende,Yes
 blak,blak; blake; blakke,blak; blake; blakke,No
+lite,lite,lite,Yes
+hard,hard; harde,hard; harde; harder; hardest,No
 nice,nice,nice,Yes
+sleigh,sleigh; slie; sly; slye,sleigh; slie; sly; slye,No
+blind,blind; blinde,blind; blinde,No
+prive,prevy; priv; prive; privee; privy,prevy; priv; prive; privee; privy,No
 lame,lame,lame,Yes
+lik,lik; like,lik; like; liker,No
 bleu,blew; blewe,blew; blewe,No
+whit,whit; white,whit; white; whitter,No
 quik,quik; quike; quikkest,quik; quike; quikkest,No
+bright,bright; brighte,bright; brighte; brighter; brightest,No
+kene,kene,kene,Yes
 bar,bare,bare,Yes
 mad,mad; madde,mad; madde,No
+wilde,wilde,wilde,Yes
+bet,,bet,No
 lene,lene,lene,Yes
+dep,deep; depe,deep; depe,No
+soth,sooth; soth; sothe,sooth; soth; sothe,No
 voide,voide,voide,Yes
+right,right; righte,right; righte,No
+fremed,fremde; fremed,fremde; fremed,No
+tender,tendre,tendre,Yes
 wikke,wikke,wikke,Yes
 juste,just; juste,just; juste,No
+hot,hoot; hote,hoot; hote; hotter; hottere,No
 dul,dul; dulle,dul; dulle,No
 wan,wan,wan,No
 bai,bay; baye,bay; baye,No
 pure,pure,pure,Yes
+warm,warm; warme,warm; warme,No
+cold,cold; colde,cold; colde,No
 werse,,wers; werse; wors; worse,No
 prest,prest; preste,prest; preste,No
+sharp,sharp; sharpe,sharp; sharpe,No
+shene,shene,shene,Yes
 dim,dimme,dimme,Yes
 don,donne; dunne,donne; dunne,Yes
 hust,hust,hust,No
 gai,gay; gaye,gay; gaye; gayer,No
+kinde,kinde,kinde; kindest,Yes
 softe,softe,softe; softer,Yes
+salt,salte,salte,Yes
 grek,greek,greek,No
 yonder,,yonder,No
+wel,weel; wel; wele,weel; wel; wele,No
 bonde,bonde,bonde,Yes
+light,light; lighte,light; lighte; lighter,No
 sore,soor; sore,soor; sore,No
+swifte,swift; swifte,swift; swifte; swifter,No
 propre,propre,propre,Yes
+sik,seek; seke; sik; sike,seek; seke; sik; sike,No
+plaine,plain; plein; pleine,plain; plein; pleine,No
+sobre,sobre,sobre,Yes
 nerre,,neer; ner; nere,No
 thinne,thinne,thinne,Yes
+smert,smart; smerte,smart; smerte,No
 crude,crude,crude,Yes
 roughe,rough; rowe,rough; rowe,No
+sad,sad; sadde,sad; sadde,No
 bitter,bitter; bittre,bitter; bittre,No
+blithe,blithe,blithe,Yes
 fol,fool,fool,No
 mis,mis,mis,No
 wrong,wrong; wronge,wrong; wronge,No
+holwe,holwe,holwe,Yes
 simple,simple,simple,Yes
+hevi,hevy,hevy,No
+sote,sote; swote,sote; swote,Yes
 mat,mat; mate,mat; mate,No
+strong,strong; stronge,strong; stronge; strongest,No
 flouri,floury,floury,No
+real,real; royal; ryal,real; royal; ryal,No
+cler,cleer; clere,cleer; clere; clerer,No
+digne,digne,digne,Yes
+short,short; shorte,short; shorte; shortest,No
 trouble,trouble,trouble,Yes
 def,deef; deve,deef; deve,No
 north,north,north,No
@@ -177,6 +158,9 @@ liard,lyard,lyard,No
 thral,thral,thral,No
 los,laus; loos; lous,laus; loos; lous,No
 pleine,plein,plein,No
+chef,cheef; chief,cheef; chief,No
+chaste,chaast; chast; chaste,chaast; chast; chaste,No
+badde,badde,badde; badder,Yes
 grei,gray; grey; greye,gray; grey; greye,No
 crisp,crips; crisp; crispe,crips; crisp; crispe,No
 slike,slik,slik,No
@@ -184,24 +168,33 @@ late,late,late,Yes
 gold,gold,gold,No
 self,self; selve; selven,self; selve; selven,No
 fers,fers; ferse; fiers; fierse,fers; ferse; fiers; fierse,No
+domb,domb; dombe; doumb,domb; dombe; doumb,No
+quite,quit,quit,No
+deinte,deintee,deintee,Yes
+brod,brode; brood,brodder; brode; brood,No
 plat,plat; platte,plat; platte,No
 loud,loud; loude,loud; loude,No
 stille,stille,stille,Yes
 drie,dreie; dreye; drie; drye,dreie; dreye; drie; drye,Yes
 tame,tame,tame,Yes
+huge,huge,huge,Yes
+sterne,sterne,sterne,Yes
 vein,vein; veine,vein; veine,No
 prime,prime,prime,Yes
 streight,streght; streight; streighte,streght; streight; streighte,No
 smothe,smooth; smothe,smooth; smothe,No
 rounde,round; rounde,round; rounde,No
+sounde,sounde,sounde,Yes
 hor,hoor; hore,hoor; hore,No
 half,half; halfe; halve,half; halfe; halve,No
 stark,stark; starke,stark; starke,No
 sengle,sengle,sengle,Yes
 sole,soul,soul,No
+wet,weet; wete,weet; wete,No
 store,store,store,Yes
 ripe,ripe,ripe,Yes
 gent,gent,gent,No
+fer,fer; ferre,fer; ferre; ferreste,No
 broun,broun,broun,No
 moiste,moiste,moiste,Yes
 stale,stale,stale,Yes
@@ -216,17 +209,22 @@ big,big; bigge,big; bigge,No
 couth,couth; couthe,couth; couthe,No
 troian,troian; troyan; troyane,troian; troyan; troyane,No
 aspre,aspre,aspre,Yes
+purpure,purpre,purpre,Yes
 hos,hoors; hors,hoors; hors,No
 derne,derne,derne,Yes
 yern,yerne,yerne,Yes
 crul,crul; crulle,crul; crulle,No
 neigh,ny; nye,ny; nye,No
 selde,selde,selde,Yes
+feble,feble,feble,Yes
 egre,egre,egre,Yes
+weik,waike; weik,waike; weik,No
 square,square,square,Yes
 wast,waste,waste,Yes
+mete,mete,mete,Yes
 gaudi,gaude,gaude,Yes
 kempe,kempe,kempe,Yes
+stoute,stout; stoute,stout; stoute,No
 paien,paien,paien,No
 lift,left,left,No
 due,due,due,Yes
@@ -240,6 +238,8 @@ souple,souple,souple,Yes
 medle,medlee,medlee,Yes
 tart,tart,tart,No
 stif,stif,stif,No
+slou,slowe,slowe,Yes
+narwe,narwe,narwe,Yes
 raied,rayed,rayed,No
 flat,flat; flatte,flat; flatte,No
 wo,wo,wo,No

@@ -1,0 +1,10 @@
+COMBINED EXCEPTION ANALYSIS SUMMARY
+==================================================
+
+Total unique exceptions: 531
+Exceptions in BOTH: 183 (34.5%)
+Exceptions OXFORD only: 267 (50.3%)
+Exceptions RIVERSIDE only: 81 (15.3%)
+
+Total Oxford exception instances: 3151
+Total Riverside exception instances: 2750

@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 generate_scansion_suggestions.py)",
+      "Bash(lsof -ti:8721)",
+      "Bash(xargs -r kill -9)",
+      "Bash(git add *)"
+    ]
+  }
+}

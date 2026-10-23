@@ -1,0 +1,189 @@
+headword,overall_accuracy,total_correct,total_instances,weak_accuracy,weak_correct,weak_total,plural_accuracy,plural_correct,plural_total,strong_accuracy,strong_correct,strong_total,always_e,stem_forms,all_forms
+badde,9.09,1,11,100.00,1,1,,0,0,0.00,0,10,True,badde,badde
+bar,42.86,9,21,100.00,9,9,,0,0,0.00,0,12,True,bare,bare
+beau,100.00,1,1,,0,0,,0,0,100.00,1,1,False,beau,beau
+bel,100.00,2,2,100.00,2,2,,0,0,,0,0,True,bele,bele
+best,100.00,86,86,100.00,71,71,,0,0,100.00,15,15,False,best; beste,best; beste
+bet,75.00,3,4,0.00,0,1,,0,0,100.00,3,3,False,bet,bet
+bitter,66.67,4,6,33.33,1,3,,0,0,100.00,3,3,False,biter; bitter,biter; bitre; bitter
+blak,78.95,15,19,100.00,4,4,88.89,8,9,50.00,3,6,False,blak; blake,blak; blake
+blaunk,100.00,1,1,100.00,1,1,,0,0,,0,0,True,blanche,blanche
+blind,73.91,34,46,100.00,14,14,100.00,6,6,53.85,14,26,False,blind; blinde; blynd,blind; blinde; blynd
+blithe,0.00,0,6,,0,0,,0,0,0.00,0,6,True,blithe; blythe,blithe; blythe
+bold,83.33,5,6,,0,0,,0,0,83.33,5,6,False,bold; bolde,bold; bolde
+bonde,100.00,1,1,100.00,1,1,,0,0,,0,0,True,bonde,bonde
+bright,90.48,19,21,100.00,11,11,100.00,3,3,71.43,5,7,False,bright; brighte; briht; brihte; brihtere; bryghte; bryht; bryhte,bright; brighte; briht; brihte; brihtere; bryghte; bryht; bryhte
+brod,88.89,8,9,100.00,1,1,100.00,3,3,80.00,4,5,False,brod; brode,brod; brode
+chaste,33.33,3,9,100.00,3,3,,0,0,0.00,0,6,True,chaste,chaste
+chef,55.56,5,9,0.00,0,4,,0,0,100.00,5,5,False,chief,chief
+clene,0.00,0,8,,0,0,,0,0,0.00,0,8,True,clene,clene
+cler,90.00,9,10,100.00,2,2,100.00,1,1,85.71,6,7,False,cler; clere; clier; cliere; cliereste,cler; clere; clier; cliere; cliereste
+cold,93.75,30,32,100.00,5,5,100.00,4,4,91.30,21,23,False,cold; colde,cold; colde
+couth,87.50,7,8,,0,0,50.00,1,2,100.00,6,6,False,couth; cowth; cowthe,couth; cowth; cowthe
+ded,90.00,90,100,100.00,13,13,,0,0,88.51,77,87,False,ded; dede,ded; dede
+def,100.00,1,1,,0,0,,0,0,100.00,1,1,False,def,def
+deinte,25.00,1,4,,0,0,100.00,1,1,0.00,0,3,True,deinte; deynte,deinte; deynte
+dep,91.67,11,12,100.00,4,4,100.00,6,6,50.00,1,2,False,dep; depe,dep; depe
+dere,18.52,5,27,100.00,3,3,,0,0,8.33,2,24,True,dere; diere,dere; diere
+derk,96.88,31,32,100.00,13,13,100.00,2,2,94.12,16,17,False,derk; derke,derk; derke
+derne,0.00,0,1,,0,0,,0,0,0.00,0,1,True,derne,derne
+dim,100.00,1,1,,0,0,100.00,1,1,,0,0,True,dymme,dymme
+domb,100.00,3,3,,0,0,,0,0,100.00,3,3,False,domb; doumb,domb; doumb
+double,14.81,4,27,100.00,3,3,100.00,1,1,0.00,0,23,True,double,double
+drie,4.35,1,23,100.00,1,1,,0,0,0.00,0,22,True,dreie; drie; drye,dreie; drie; drye
+due,20.00,4,20,100.00,4,4,,0,0,0.00,0,16,True,dewe; due,dewe; due
+dul,75.00,3,4,,0,0,100.00,1,1,66.67,2,3,False,dull; dulle,dull; dulle
+ethe,100.00,1,1,,0,0,,0,0,100.00,1,1,False,eth,eth
+fain,100.00,5,5,,0,0,,0,0,100.00,5,5,False,fain,fain
+fair,84.95,79,93,97.67,42,43,100.00,6,6,70.45,31,44,False,fair; faire; fairer; fairere; faireste; feir,fair; faire; fairer; fairere; faireste; feir
+fals,92.11,70,76,88.57,31,35,100.00,10,10,93.55,29,31,False,fals; false; falseste,fals; false; falseste
+fast,100.00,3,3,,0,0,100.00,1,1,100.00,2,2,False,fast; faste,fast; faste
+fat,50.00,1,2,,0,0,,0,0,50.00,1,2,False,fat; fatte,fat; fatte
+feble,41.67,5,12,100.00,4,4,,0,0,12.50,1,8,False,feble; fieble; fieblest,feble; fieble; fieblest
+fel,60.00,3,5,,0,0,100.00,1,1,50.00,2,4,False,fell; felle,fell; felle
+fer,100.00,15,15,100.00,1,1,,0,0,100.00,14,14,False,feer; fer; ferr; ferre,feer; fer; ferr; ferre
+fers,100.00,3,3,100.00,2,2,,0,0,100.00,1,1,False,fierce; fiers,fierce; fiers
+fin,100.00,8,8,,0,0,100.00,1,1,100.00,7,7,False,fin; fine,fin; fine
+fol,66.67,4,6,0.00,0,2,,0,0,100.00,4,4,False,fol; fool,fol; fool
+foul,69.23,9,13,100.00,6,6,,0,0,42.86,3,7,False,foul; foule; foulere; fouleste,foul; foule; foulere; fouleste
+fre,5.26,1,19,100.00,1,1,,0,0,0.00,0,18,True,fre; free,fre; free
+frensh,100.00,2,2,100.00,2,2,,0,0,,0,0,True,frensche,frensche
+fresh,79.55,35,44,91.67,11,12,100.00,6,6,69.23,18,26,False,freissh; freisshe; freisshere; fresshe; freyssh; freysshe,freissh; freisshe; freisshere; fresshe; freyssh; freysshe
+ful,95.45,84,88,83.33,5,6,75.00,6,8,98.65,73,74,False,ful; full; fulle,ful; full; fulle
+gai,100.00,5,5,,0,0,,0,0,100.00,5,5,False,gay,gay
+glad,82.14,115,140,83.33,5,6,100.00,9,9,80.80,101,125,False,glad; gladd; gladder; gladdere; gladdest; glade,glad; gladd; gladder; gladdere; gladdest; glade
+god,91.54,303,331,90.91,70,77,88.89,8,9,91.84,225,245,False,good; goode,good; goode
+graunt,100.00,13,13,,0,0,,0,0,100.00,13,13,False,grant,grant
+grei,100.00,3,3,,0,0,100.00,3,3,,0,0,True,greie; greye,greie; greye
+grene,63.89,23,36,100.00,9,9,100.00,14,14,0.00,0,13,True,greene; grene; griene,greene; grene; griene
+gret,94.55,451,477,97.78,88,90,100.00,28,28,93.31,335,359,False,great; gret; grete; gretere; greteste; grettere,great; gret; grete; gretere; greteste; grettere
+half,100.00,3,3,,0,0,,0,0,100.00,3,3,False,half,half
+hard,91.30,21,23,100.00,6,6,100.00,3,3,85.71,12,14,False,hard; harde; hardest,hard; harde; hardest
+heigh,95.70,178,186,96.08,98,102,100.00,18,18,93.94,62,66,False,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hye; hyest; hyh; hyhe,heiere; heihest; heyeste; heyh; heyher; highe; hih; hihe; hiheste; hy; hye; hyest; hyh; hyhe
+hende,100.00,1,1,100.00,1,1,,0,0,,0,0,False,,hende
+hevi,87.50,14,16,0.00,0,2,,0,0,100.00,14,14,False,hevy,hevy
+hole,91.23,52,57,89.74,35,39,,0,0,94.44,17,18,False,hol; hole,hol; hole
+hor,87.50,7,8,100.00,2,2,100.00,4,4,50.00,1,2,False,hor; hore,hor; hore
+hot,86.67,39,45,100.00,7,7,100.00,4,4,82.35,28,34,False,hoot; hot; hote; hotere; hotest; hoteste,hoot; hot; hote; hotere; hotest; hoteste
+huge,0.00,0,1,,0,0,,0,0,0.00,0,1,True,huge,huge
+humble,7.14,1,14,100.00,1,1,,0,0,0.00,0,13,True,humble,humble
+juste,100.00,1,1,,0,0,,0,0,100.00,1,1,False,joust,joust
+kinde,28.57,2,7,100.00,2,2,,0,0,0.00,0,5,True,kinde,kinde
+lame,100.00,1,1,,0,0,100.00,1,1,,0,0,True,lame,lame
+large,41.30,19,46,100.00,18,18,100.00,1,1,0.00,0,27,True,large,large
+laste,99.43,174,175,100.00,28,28,,0,0,99.32,146,147,False,last; laste,last; laste
+late,0.00,0,5,,0,0,,0,0,0.00,0,5,True,late,late
+lef,53.52,38,71,100.00,5,5,,0,0,50.00,33,66,False,levere; levest; lief; lieve; lievest,levere; levest; lief; lieve; lievest
+lege,75.86,22,29,100.00,21,21,100.00,1,1,0.00,0,7,True,liege,liege
+lene,0.00,0,1,,0,0,,0,0,0.00,0,1,True,lene,lene
+lesse,15.62,5,32,100.00,3,3,100.00,2,2,0.00,0,27,True,lasse; lesse,lasse; lesse
+leste,96.00,24,25,100.00,8,8,,0,0,94.12,16,17,False,lest; leste,lest; leste
+lift,0.00,0,1,0.00,0,1,,0,0,,0,0,False,,left
+light,93.75,15,16,,0,0,100.00,1,1,93.33,14,15,False,light; liht; lihtere; lyht; lyhte,light; liht; lihtere; lyht; lyhte
+lik,85.88,73,85,,0,0,50.00,2,4,87.65,71,81,False,lich; liche; lik; like; lych,lich; liche; lik; like; lych
+lite,0.00,0,8,,0,0,,0,0,0.00,0,8,True,lite; lyte,lite; lyte
+long,95.31,61,64,100.00,22,22,100.00,4,4,92.11,35,38,False,long; longe,long; longe
+loth,64.10,25,39,100.00,1,1,100.00,1,1,62.16,23,37,False,loth; lothe,loth; lothe
+loud,75.00,6,8,100.00,1,1,100.00,5,5,0.00,0,2,True,loude; lowde,loude; lowde
+loue,33.33,4,12,0.00,0,1,100.00,1,1,30.00,3,10,False,lou; low; lowe; lowest,lou; low; lowe; lowest
+mad,100.00,4,4,,0,0,,0,0,100.00,4,4,False,mad; madd,mad; madd
+maide,100.00,1,1,100.00,1,1,,0,0,,0,0,True,maide,maide
+mat,100.00,4,4,,0,0,,0,0,100.00,4,4,False,mat,mat
+mek,0.00,0,6,,0,0,,0,0,0.00,0,6,True,meke; mieke,meke; mieke
+mene,100.00,2,2,100.00,2,2,,0,0,,0,0,True,meene; mene,meene; mene
+mete,0.00,0,4,,0,0,,0,0,0.00,0,4,True,meete; mete,meete; mete
+mis,100.00,2,2,,0,0,,0,0,100.00,2,2,False,mis; mys,mis; mys
+mo,70.37,19,27,,0,0,0.00,0,8,100.00,19,19,False,mo,mo
+moiste,45.45,5,11,100.00,3,3,,0,0,25.00,2,8,False,moist; moiste; moyste,moist; moiste; moyste
+more,100.00,66,66,100.00,10,10,100.00,1,1,100.00,55,55,False,,mor; more
+most,88.89,24,27,100.00,13,13,0.00,0,1,84.62,11,13,False,most; moste,most; moste
+muche,0.00,0,3,,0,0,,0,0,0.00,0,3,True,moche,moche
+narwe,100.00,1,1,,0,0,,0,0,100.00,1,1,False,nargh,nargh
+neigh,100.00,10,10,,0,0,,0,0,100.00,10,10,False,nyh,nyh
+nerre,100.00,4,4,,0,0,,0,0,100.00,4,4,False,nerr,nerr
+neue,44.00,22,50,100.00,16,16,100.00,6,6,0.00,0,28,True,newe,newe
+nexte,100.00,5,5,100.00,4,4,,0,0,100.00,1,1,False,next; nexte,next; nexte
+nice,18.75,3,16,100.00,2,2,,0,0,7.14,1,14,True,nice; nyce,nice; nyce
+noble,47.37,27,57,100.00,24,24,100.00,2,2,3.23,1,31,False,noble; noblest,noble; noblest
+ofte,15.38,4,26,,0,0,100.00,4,4,0.00,0,22,True,ofte,ofte
+olde,85.40,117,137,100.00,20,20,98.68,75,76,53.66,22,41,False,eldeste; old; olde; tholde,eldeste; old; olde; tholde
+ouen,98.87,262,265,99.62,262,263,,0,0,0.00,0,2,False,oghne; oughne; owen; owne,oghne; oughne; owen; owne
+paien,40.00,2,5,0.00,0,1,,0,0,50.00,2,4,False,paien; paiene; payene,paien; paiene; payene
+pale,7.69,1,13,100.00,1,1,,0,0,0.00,0,12,True,pale,pale
+plaine,88.46,23,26,100.00,7,7,100.00,6,6,76.92,10,13,False,plein; pleine; pleyne,plein; pleine; pleyne
+pleine,100.00,14,14,100.00,5,5,,0,0,100.00,9,9,False,plein; pleine,plein; pleine
+povre,43.10,25,58,100.00,23,23,100.00,2,2,0.00,0,33,True,pore; poure; povere; povereste,pore; poure; povere; povereste
+prive,25.00,10,40,100.00,9,9,,0,0,3.23,1,31,False,preve; prive; privi,preve; prive; privi
+propre,78.57,22,28,100.00,22,22,,0,0,0.00,0,6,True,propre,propre
+proud,92.31,24,26,100.00,13,13,100.00,2,2,81.82,9,11,False,proud; proude; proudest,proud; proude; proudest
+pure,2.44,1,41,50.00,1,2,,0,0,0.00,0,39,False,pure; purest,pure; purest
+queinte,28.57,2,7,,0,0,100.00,2,2,0.00,0,5,True,queinte; qweinte,queinte; qweinte
+quik,100.00,5,5,100.00,2,2,,0,0,100.00,3,3,False,quik; quyk; qwike,quik; quyk; qwike
+quite,80.00,4,5,,0,0,,0,0,80.00,4,5,False,quit; quyt; quyte,quit; quyt; quyte
+real,45.45,5,11,0.00,0,6,,0,0,100.00,5,5,False,real,real
+red,90.91,10,11,100.00,3,3,100.00,1,1,85.71,6,7,False,red; rede,red; rede
+riche,30.00,24,80,100.00,16,16,100.00,7,7,1.75,1,57,False,riche; richest; richeste,riche; richest; richeste
+right,93.18,41,44,97.44,38,39,,0,0,60.00,3,5,False,righte; riht; rihte; ryhte,righte; riht; rihte; ryhte
+ripe,25.00,1,4,,0,0,100.00,1,1,0.00,0,3,True,ripe,ripe
+rounde,83.33,5,6,,0,0,,0,0,83.33,5,6,False,round; rounde,round; rounde
+rude,50.00,4,8,100.00,2,2,100.00,2,2,0.00,0,4,True,rude; ruide,rude; ruide
+sad,100.00,1,1,,0,0,,0,0,100.00,1,1,False,sadd,sadd
+salt,100.00,8,8,100.00,6,6,100.00,2,2,,0,0,True,salte,salte
+sauf,71.43,25,35,0.00,0,1,100.00,3,3,70.97,22,31,False,sauf; save,sauf; save
+secre,0.00,0,1,,0,0,,0,0,0.00,0,1,True,secre,secre
+selde,0.00,0,3,,0,0,,0,0,0.00,0,3,True,selde; sielde,selde; sielde
+self,66.67,8,12,75.00,3,4,,0,0,62.50,5,8,False,self; selve,self; selve
+sharp,90.00,9,10,100.00,7,7,100.00,2,2,0.00,0,1,True,scharpe,scharpe
+short,88.89,8,9,,0,0,100.00,3,3,83.33,5,6,False,schort; schorte,schort; schorte
+sik,89.47,17,19,100.00,4,4,,0,0,86.67,13,15,False,seck; sek; seke; siek; sik; sike,seck; sek; seke; siek; sieke; sik; sike
+simple,28.57,2,7,100.00,2,2,,0,0,0.00,0,5,True,simple,simple
+sleigh,86.96,20,23,83.33,5,6,100.00,5,5,83.33,10,12,False,slih; slihe; slyeste; slyh; slyhe; slyheste,slih; slihe; slyeste; slyh; slyhe; slyheste
+slou,95.00,19,20,100.00,5,5,100.00,2,2,92.31,12,13,False,slou; slouh; slow; slowe; slowh,slou; slouh; slow; slowe; sloweste; slowh
+smal,86.67,26,30,100.00,8,8,100.00,6,6,75.00,12,16,False,smal; smale,smal; smale
+sobre,7.69,1,13,,0,0,100.00,1,1,0.00,0,12,True,sobre,sobre
+softe,37.50,18,48,100.00,8,8,100.00,9,9,3.23,1,31,False,soft; softe,soft; softe
+sori,87.10,27,31,0.00,0,3,0.00,0,1,100.00,27,27,False,sori; sory,sori; sory
+sote,75.00,3,4,100.00,1,1,100.00,2,2,0.00,0,1,True,suote; swote,suote; swote
+soth,100.00,39,39,100.00,10,10,100.00,1,1,100.00,28,28,False,soth; sothe,soth; sothe
+sounde,85.71,6,7,,0,0,,0,0,85.71,6,7,False,sound; sounde,sound; sounde
+sour,100.00,2,2,,0,0,,0,0,100.00,2,2,False,sour,sour
+square,0.00,0,1,,0,0,,0,0,0.00,0,1,True,square,square
+stable,0.00,0,6,,0,0,,0,0,0.00,0,6,True,stable,stable
+stark,100.00,1,1,,0,0,,0,0,100.00,1,1,False,stark,stark
+sterne,50.00,3,6,100.00,1,1,100.00,2,2,0.00,0,3,True,sterne; sturne,sterne; sturne
+stille,0.00,0,12,,0,0,,0,0,0.00,0,12,True,stille,stille
+stoute,50.00,1,2,,0,0,100.00,1,1,0.00,0,1,True,stoute,stoute
+straunge,36.17,17,47,100.00,4,4,100.00,13,13,0.00,0,30,True,strange,strange
+streight,100.00,1,1,,0,0,,0,0,100.00,1,1,False,strauht,strauht
+streit,25.00,1,4,,0,0,,0,0,25.00,1,4,False,streit; streite,streit; streite
+strong,95.83,46,48,100.00,9,9,100.00,11,11,92.86,26,28,False,strong; stronge,strong; stronge
+swete,56.76,21,37,100.00,21,21,,0,0,0.00,0,16,True,suete; swete,suete; swete
+swifte,100.00,6,6,100.00,2,2,100.00,1,1,100.00,3,3,False,swift; swifte; swiftest,swift; swifte; swiftest
+tame,20.00,1,5,,0,0,100.00,1,1,0.00,0,4,True,tame,tame
+tender,8.33,1,12,,0,0,,0,0,8.33,1,12,False,tender; tendre,tender; tendre
+thikke,50.00,1,2,,0,0,100.00,1,1,0.00,0,1,True,thikke,thikke
+thinne,50.00,1,2,,0,0,100.00,1,1,0.00,0,1,True,thinne,thinne
+tough,100.00,1,1,,0,0,,0,0,100.00,1,1,False,towh,towh
+treu,28.57,12,42,90.00,9,10,100.00,1,1,6.45,2,31,False,trew; trewe; treweste,trew; trewe; treweste
+trouble,50.00,2,4,100.00,1,1,,0,0,33.33,1,3,True,trouble,trouble
+vein,48.28,14,29,50.00,2,4,,0,0,48.00,12,25,False,vein; veine,vein; veine
+voide,33.33,1,3,,0,0,100.00,1,1,0.00,0,2,True,voide,voide
+ware,98.65,73,74,,0,0,,0,0,98.65,73,74,False,war; ware,war; ware
+warm,100.00,9,9,,0,0,,0,0,100.00,9,9,False,warm,warm
+wast,100.00,5,5,,0,0,,0,0,100.00,5,5,False,wast,wast
+wel,100.00,9,9,,0,0,,0,0,100.00,9,9,False,wel,wel
+werse,0.00,0,7,,0,0,,0,0,0.00,0,7,True,werse; worse,werse; worse
+werste,100.00,6,6,100.00,6,6,,0,0,,0,0,True,werste; worste,werste; worste
+wet,66.67,2,3,,0,0,66.67,2,3,,0,0,False,wet; wete,wet; wete
+whit,82.61,19,23,80.00,4,5,100.00,2,2,81.25,13,16,False,whit; whyt; whyte,whit; whyt; whyte
+wid,92.86,13,14,100.00,13,13,,0,0,0.00,0,1,True,wide; wyde,wide; wyde
+wight,0.00,0,1,,0,0,,0,0,0.00,0,1,True,wyhte,wyhte
+wikke,50.00,5,10,100.00,2,2,,0,0,37.50,3,8,True,wicke; wikke,wicke; wikke
+wilde,57.58,19,33,100.00,14,14,100.00,5,5,0.00,0,14,True,wilde; wylde,wilde; wylde
+wise,82.69,129,156,97.62,41,42,100.00,23,23,71.43,65,91,False,wis; wise; wisest; wiseste; wys; wyse,wis; wise; wisest; wiseste; wys; wyse
+wo,100.00,7,7,,0,0,,0,0,100.00,7,7,False,wo,wo
+wod,94.44,17,18,100.00,4,4,,0,0,92.86,13,14,False,wod; wode,wod; wode
+worth,100.00,36,36,,0,0,,0,0,100.00,36,36,False,worth,worth
+wrong,83.33,5,6,0.00,0,1,100.00,2,2,100.00,3,3,False,wrong; wronge,wrong; wronge
+wroth,62.00,31,50,,0,0,,0,0,62.00,31,50,False,wroth; wrothe,wroth; wrothe
+yong,83.00,83,100,96.55,56,58,100.00,5,5,59.46,22,37,False,yong; yonge; yonger; yongest,yong; yonge; yonger; yongest
